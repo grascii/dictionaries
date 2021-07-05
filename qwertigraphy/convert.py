@@ -2,6 +2,8 @@
 import csv
 import re
 
+from grascii import grammar
+
 stroke_map = {
         "ch": "CH",
         "df": "DF",
@@ -82,7 +84,23 @@ def convert(form):
         tokens = list(map(lambda s: stroke_map[s], tokens))
     except KeyError:
         return
-    return tokens
+    return join(tokens)
+
+def join(tokens):
+    exceptions = {"OE", "EU"}
+    builder = []
+    for i in range(len(tokens)):
+        builder.append(tokens[i])
+        if i + 1 < len(tokens):
+            combined = tokens[i] + tokens[i + 1]
+            if combined in grammar.STROKES and combined not in exceptions:
+                builder.append("-")
+            elif i + 2 < len(tokens):
+                combined = tokens[i] + tokens[i + 1] + tokens[i + 2]
+                if combined in grammar.STROKES and combined not in exceptions:
+                    builder.append("-")
+    return "".join(builder)
+
 
 with open('./anniversary-supplement/anniversary_supplement.csv') as csv_file:
     reader = csv.DictReader(csv_file)
