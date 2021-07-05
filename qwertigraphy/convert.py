@@ -1,5 +1,6 @@
 
 import csv
+import re
 
 stroke_map = {
         "ch": "CH",
@@ -43,6 +44,7 @@ stroke_map = {
         "x1": "X)",
         "x2": "X(",
         "/": "^",
+        "\\": "^",
         "b": "B",
         "d": "D",
         "f": "F",
@@ -59,9 +61,39 @@ stroke_map = {
         "u": "U",
         "v": "V",
         "z": "Z",
+        "pl": "PL",
+        "pr": "PR",
+        "bl": "BL",
+        "ss": "SS",
+        "re": "RE",
 }
+
+def transform(form):
+    form = re.sub(r"\^-\\-h", "h", form)
+    form = re.sub(r"\\-h-e$", "/-e", form)
+    form = re.sub(r"\\-h-s$", "/-s2", form)
+    form = re.sub(r"\\-h", "h", form)
+    return form
+
+def convert(form):
+    form = transform(form)
+    tokens = form.split('-')
+    try:
+        tokens = list(map(lambda s: stroke_map[s], tokens))
+    except KeyError:
+        return
+    return tokens
 
 with open('./anniversary-supplement/anniversary_supplement.csv') as csv_file:
     reader = csv.DictReader(csv_file)
+    count = 0
     for row in reader:
-        print(row["word"], row["form"])
+        converted = convert(row["form"])
+        if converted:
+            count += 1
+            print(row["word"], converted)
+        else:
+            pass
+            # print(row["word"], row["form"], transform(row["form"]))
+
+    print(count)
