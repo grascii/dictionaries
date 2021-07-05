@@ -1,6 +1,8 @@
 
+import argparse
 import csv
 import re
+import sys
 
 from grascii import grammar
 
@@ -101,17 +103,25 @@ def join(tokens):
                     builder.append("-")
     return "".join(builder)
 
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument('input_csv', type=argparse.FileType())
+    parser.add_argument('output_file', type=argparse.FileType('w'))
+    args = parser.parse_args(sys.argv[1:])
 
-with open('./anniversary-supplement/anniversary_supplement.csv') as csv_file:
-    reader = csv.DictReader(csv_file)
-    count = 0
-    for row in reader:
-        converted = convert(row["form"])
-        if converted:
-            count += 1
-            print(row["word"], converted)
-        else:
-            pass
-            # print(row["word"], row["form"], transform(row["form"]))
+    with args.input_csv as csv_file:
+        with args.output_file as out:
+            reader = csv.DictReader(csv_file)
+            count = 0
+            for row in reader:
+                converted = convert(row["form"])
+                if converted:
+                    count += 1
+                    out.write(converted)
+                    out.write(" ")
+                    out.write(row["word"])
+                    out.write("\n")
+                else:
+                    print(row["word"], row["form"], transform(row["form"]))
 
-    print(count)
+        print(count)
