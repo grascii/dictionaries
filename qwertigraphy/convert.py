@@ -3,6 +3,7 @@ import argparse
 import csv
 import re
 import sys
+from functools import partial
 
 from grascii import grammar
 
@@ -65,18 +66,43 @@ stroke_map = {
         "u": "U",
         "v": "V",
         "z": "Z",
+        # supp
         "pl": "PL",
         "pr": "PR",
         "bl": "BL",
         "ss": "SS",
         "re": "RE",
+        "y": "E",
+        "kp": "KP",
+        "br": "BR",
+        # core
+        "fl": "FL",
+        "fr": "FR",
+        "xs": "XS",
+        "ss2": "SS)", # base direction on the lower s
+        "o1": "O",
+        "o2": "O(",
+        "ea2": "A&E~",
+        "ye2": "E~|",
+        "ya2": "A~|",
 }
 
+SUBSTITUTIONS = [
+    partial(re.compile(r"\^-\\-h").sub, "h"),
+    partial(re.compile(r"\\-h-e$").sub, "/-e"),
+    partial(re.compile(r"\\-h-s$").sub, "/-s2"),
+    partial(re.compile(r"\\-h").sub, "h"),
+    # supp
+    partial(re.compile(r"dfl").sub, "df-l"),
+
+    partial(re.compile(r"\\^-\\-h").sub, "h"),
+    # core
+    partial(re.compile(r"dfr").sub, "df-r"),
+]
+
 def transform(form):
-    form = re.sub(r"\^-\\-h", "h", form)
-    form = re.sub(r"\\-h-e$", "/-e", form)
-    form = re.sub(r"\\-h-s$", "/-s2", form)
-    form = re.sub(r"\\-h", "h", form)
+    for sub in SUBSTITUTIONS:
+        form = sub(form)
     return form
 
 def convert(form):
