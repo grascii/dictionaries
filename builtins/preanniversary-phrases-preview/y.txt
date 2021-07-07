@@ -1,0 +1,231 @@
+# Page 92 Column 1
+er^er year after year
+e~tu year or two
+e~tug year or two ago
+ersers years and years
+ersaj years of age
+a|no yes or no
+a|s yes, sir
+uls you always
+ur you are
+urvis you are advised
+urar you are aware
+urarf you are aware of the fact
+urerb you are hereby
+urerbsmn you are hereby summoned
+urnposh you are in a position
+urnposs you are in possession
+urn you are not
+unrobl you are not obliged
+
+# Page 92 Column 2
+urprep you are prepared
+urprbe you are probably
+urrkes you are requested
+urri you are right
+urspo you are supposed
+ursh you are sure
+urrong you are wrong
+usk you ask
+uk you can
+ukb you can be
+ukdu you can do
+ukduths you can do this
+ukduso you can do so
+ukget you can get
+ukges you can give us
+ukv you can have
+ukvno you can have no
+ukvth you can have the
+uknv you can never
+ukn you cannot
+
+# Page 93 Column 1
+uknb you cannot be
+uknbsh you cannot be sure
+uknsa you cannot say
+uknse you cannot see
+ukst you can state
+ukte~ you can tell
+uk^ stn you can understand
+ukd you could
+ukdb you could be
+ukdv you could have
+ukdvb you could have been
+ukd-n you could not
+ukd-nv you could not be
+ukd-nbsh you could not be sure
+ukd-nv you could not have
+ukd-nsa you could not say
+ukd-nse you could not see
+ukd-n^stn you could not understand
+uds you desire
+udd you did
+
+# Page 93 Column 2
+udd-n you did not
+udd-nsa you did not say
+udu you do
+udn you do not
+udutha you do that
+udon you don't
+umpl you employ
+uga you gave
+ugame you gave me
+uge you give
+ugem you give him
+ugse you give us
+u'd you had
+u'd-n you had not
+uv you have
+uvb you have been
+uvba you have been able
+uvdn you have done
+uvdaul you have doubtless
+uvad you have had
+
+# Page 94 Column 1
+uvnon you have known
+uvnv you have never
+uvno you have no
+uvn you haven not
+uvnba you have not been able
+uvn' you have nothing
+uvnotm you have no time
+uvnau you have now
+uvrse^t you have received
+uvsed you have said
+uvsen you have seen
+uvsn you have some
+uvtda you have today
+unu you knew
+uno you know
+umad you made
+uma you may
+umab you may be
+umaba you may be able
+umabsh you may be sure
+
+# Page 94 Column 2
+umaks you may consider
+umav you may have
+umanba you may not be able
+umanv you may not have
+umnsh you mention
+umat you might
+umatsk you might ask
+umatleno you might let us know
+umat-n you might not
+umat-nb you might not be
+umat-nba you might not be able
+ums you must
+umsb you must be
+umsba you must be able
+umsbk you must become
+umsbsh you must be sure
+umsbr you must bring
+umsks you must consider
+umsdsi you must decide
+umsge you must give
+
+# Page 95 Column 1
+musg you must go
+umsv you must have
+umsr you must recollect
+ums-sa you must say
+ums-se you must see
+unge~n younger than
+ungmn young man
+ungumn young woman
+unotes you notice
+utnsh your attention
+urf you refer
+urp you represent
+unsh your insurance
+ukitnsh your kind attention
+ukitnshmat your kind attention to the matter
+ukitnshths your kind attention to this
+ukitnshthmat your kind attention to this matter
+ukile your kind letter
+ule your letter
+ulenrep your letter in reply
+
+# Page 95 Column 2
+ulersdt your letter of recent date
+ulerechme your letter reached me
+ulerse^t your letter received
+umnefas your many favors
+umesj your message
+una your name
+ud your order
+udrse your order received
+udlv your order will have
+udlrse your order will receive
+uksh your question
+urep your reply
+urepma~le your reply to my letter
+ust-m your statement
+utel your telegram
+uf Yours faithfully
+ustda yours of today
+ur Yours respectfully
+usen Yours sincerely
+ut Yours truly
+
+# Page 96 Column 1
+uvsen Yours very sincerely
+uvt Yours very truly
+use you see
+ushn you shall not
+ushnb you shall not be
+ushd you should
+ushdb you should be
+ushdbsh you should be sure
+ushdv you should have
+ushd-n you should not be
+uth' you think
+utom you told him
+utome you told me
+unt you want
+untv you want to have
+ul you will
+ulara you will arrange
+ulb you will be
+
+# Page 96 Column 2
+ulba you will be able
+ulbso you will be sorry
+ulbsh you will be sure
+ulfel you will feel
+ulfi you will find
+ulfink you will find enclosed
+ulv you will have
+ulleno you will let us know
+uln you will not
+ulnb you will not be
+ulnba you will not be able
+ulnot you will note
+ulobse you will observe
+ulpa~dn you will pardon
+ulprbe you will probably
+ulrede| you will readily
+ulrede|^stn you will readily understand
+ulrse you will receive
+ulse you will see
+ul^stn you will understand
+
+# Page 97 Column 1
+uush you wish
+ud you would
+udb you would be
+udba you would be able
+udbsh you would be sure
+udv you would have
+
+# Page 97 Column 2
+udvb you would have been
+? udvno you would have no
+? udvn' you would have nothing
+ud-n you would not
+ud-nba you would not be able
+ud-nv you would not have

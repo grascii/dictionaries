@@ -1,0 +1,737 @@
+# Page 28 Column 1
+als I always
+am I am
+amvis I am advised
+amfra I am afraid
+am-tlos I am at a loss
+am-tlosno I am at a loss to know
+am-tlos-se I am at a loss to say
+am-tlos-se I am at a loss to see
+amar I am aware
+amarf I am aware of the fact
+amkse~n I am concerned
+amkf I am confident
+am-drk I am directed
+am-dspo I am disposed
+amopn I am of the opinion
+amsor I am sorry to hear
+amsorlen I am sorry to learn
+amsosa I am sorry to say
+amshtlb I am sure it will be
+
+# Page 28 Column 2
+amsepris I am surprised
+am-to I am told
+am-nb I am unable
+amvr I am, Very respectfully
+amveso I am very sorry
+amvtu I am, Very truly yours
+aml' I am willing
+amrong I am wrong
+amul I am, Yours respectfully
+amusen I am, Yours sincerely
+amut I am, Yours truly
+amuvt I am, Yours very truly
+ask I ask
+asktha I ask that
+abka I became
+abgan I began
+abgen I begin
+abgenop I begin to hope
+abgenth' I begin to think
+abe I believe
+
+# Page 29 Column 1
+abethos I believe there was
+abrot I brought
+akopnu I call upon you
+akutnsh I call your attention
+akutnshf I call your attention to the fact
+ak I can
+akshuu I can assure you
+akn I cannot
+aknbsh I cannot be sure
+aknpose I cannot possibly
+aknremm I cannot remember
+aknsa I cannot say
+akn^stn I cannot understand
+aksa I can say
+akse I can see
+akt I can't
+aktsa I can't say
+aktse I can't see
+aktremm I can't remember
+
+# Page 29 Column 2
+aka I care
+akol I collect
+akk I conclude
+akfem I confirm
+akd I could
+akdb I could be
+akd-n I could not
+akd-nb I could not be
+adasa I dare say
+ade~nsa I decline to say
+adman I demand
+adni I deny
+adskutnshf I desire to call your attention to the fact
+adsthu I desire to thank you
+adu I do
+adn I do not
+adnb I do not believe
+adnka I do not care
+adnks I do not consider
+adn-dni I do not deny
+
+# Page 30 Column 1
+adnjj I do not judge
+adno I do not know
+adnla I do not like
+adnprpo I do not propose
+adnr I do not recollect
+adnrf I do not refer
+adnremm I do not remember
+adnremmtha I do not remember that
+adnsa I do not say
+adnse I do not see
+adnth' I do not think
+adn^stn I do not understand
+adnond I do not want
+adnondsa I do not want to say
+adnush I do not wish
+adnushv I do not wish to have
+adnri I do not write
+adonbe I don't believe
+ank I enclose
+isp I expect
+
+# Page 30 Column 2
+isptha I expect that
+efne if any
+efnebo if anybody
+efneunls if anyone else
+efneuth if any other
+efne' if anything
+efto( if at all
+afelsh I feel sure
+afelshtha I feel sure that
+efakb if I can be
+efakdb if I could be
+afi I find
+eftb if it be
+eftasb if it has been
+efts if it is
+eftmab if it may be
+eftspos if it is possible
+eftsth if it is the
+efter if it were
+eftern if it were not
+
+# Page 31 Column 1
+efterpos if it were possible
+efn if not
+afd I forward
+efpos if possible
+efso if so
+eftha if that
+efthas if that is
+efthasn if that is not
+eftha~l if that will
+efth if the
+efth) if their
+efth)r if there are
+efthes if these
+efthe if they
+efth(r if they are 
+efth(rn if they are not
+efthevb if they have been
+efths if this
+? efths-sat if this is satisfactory
+efths-sth if this is the
+
+# Page 31 Column 2
+efue if we
+efuedu if we do
+efuedner if we do not hear
+efuednerfmu if we do not hear from you
+? efuid if we had
+efuev if we have
+efueth' if we think
+efu if you
+efur if you are
+efurnfa if you are in favor
+efuk if you can
+efukn if you cannot
+efuds if you desire
+efudn if you do not
+efudnka if you do not care
+efudner if you do not hear
+efudno if you do not know
+efudnri if you do not write
+efudnrim if you do not write him
+
+# Page 32 Column 1
+efudnrime if you do not write me
+efuduso if you do so
+efuduths if you do this
+efufi if you find
+efuge if you give
+efugeme if you give me
+efuv if you have
+efuvdn if you have done
+efuvad if you have had
+efuvn if you have not
+efunu if you knew
+efuma if you may
+efumen if you mean
+efums if you must
+efumsb if you must be
+efuremm if you remember
+efutak if you take
+efuth' if you think
+efund if you want
+
+# Page 32 Column 2
+efund-ne if you want any
+eful if you will
+efulb if you will be
+efulfa if you will favor
+efulv if you will have
+efulmak if you will make
+efulobl if you will oblige
+efulone if you will only
+efuush if you wish
+efud if you would
+efudone if you would only
+age I give
+id I had
+idv I had been
+av I have
+avnuth I have another
+avskt I have asked
+avb I have been
+avba I have been able
+avbto I have been told
+
+# Page 33 Column 1
+avkm I have come
+avdsi^t I have decided
+avds^t I have desired
+avdn I have done
+avdnso I have done so
+avdnths I have done this
+avfnd I have found
+avge I have given
+avgn I have gone
+avad I have had
+avnon I have known
+avladbf I have laid before
+avles)nd I have listened
+avmarkt I have marked
+avnv I have never
+avnods I have no desire
+avnod I have no doubt
+avn I have not
+avnb I have not been
+avnba I have not been able
+
+# Page 33 Column 2
+avnotest I have not noticed
+avnad I have not had
+avnet I have not yet
+avrse I have received
+avsed I have said
+avtakn I have taken
+avthonr I have the honor
+avthonrtb I have the honor to be
+avtda I have today
+? avth-u I have to thank you
+avufa I have your favor
+avule I have your letter
+avud I have your order
+ip I hope
+iptlb I hope it will be
+iper I hope to hear
+anss I insist
+ajusrse I just received
+ano I know
+anoth I know their
+
+# Page 34 Column 1
+el\s Illinois Central
+eluskat illustrated catalog
+amab I may be
+amaba I may be able
+amabto I may be told
+amag I may go
+amav I may have
+ama~rfmu I may hear from you
+amamsh I may mention
+amanba I am not able
+amasa I may say
+amn-t I meant
+amatv I might have
+amatvb I might have been
+emaks( immediate acceptance
+emetnsh immediate attention
+emeks immediate consideration
+emerep immediate reply
+amutha I move that
+
+# Page 34 Column 2
+amssk I must ask
+amssku I must ask you
+amkb I must be
+amskfes I must confess
+amsge I must give
+ams-sa I must say
+nakrms in accorandance with
+nakrnsma in accordance with my
+nakrnsr in accordance with our
+ndatu in a day or two
+nadsh in addition
+nadshtha in addition to that
+nadshth in addition to the
+nadshths in addition to this
+nvas in advance
+nfdas in a few days
+nfns-s in a few instances
+nfmnets in a few minutes
+nfmms in a few moments
+nfmnths in a few months
+
+# Page 35 Column 1
+nfks in a few weeks
+nansth in answer to the
+nansksh in answer to the question
+nansus in answer to your
+nanshufa in answer to your favor
+nansule in answer to your letter
+nne in any
+nnekas in any case
+nnevnt in any event
+nneua in any way
+nposh in any position
+nssmne~ in a systematic manner
+nektu in a week or two
+nbf in behalf
+nbs in business
+nkasuth' in case you think
+nktax income tax
+ncprsn in comparison
+nkksh in conclusion
+nkeksh in connection with
+
+# Page 35 Column 2
+nkekshma in connection with my
+nkekshtha in connection with that
+nkekshth in connection with the
+nkekshths in connection with this
+nksek in consequence
+nks in consideration
+nktes^p incontestable policy
+ndm\p indemnity policy
+ndukrs in due course
+ndutm in due time
+nfk in effect
+nevres in every respect
+nevua in every way
+nfak in fact
+nfa in favor
+nfeskkdsh in first-class condition
+nfm-me inform me
+nfmus inform us
+nfmu inform you
+nfuset in full settlement
+
+# Page 36 Column 1
+njen in general
+ngkdsh in good condition
+ngod in good order
+ns in his
+n-t in it
+n-mnecass in many cases
+nmaspe in my experience
+nmamin in my mind
+nmapn in my opinion
+nmaposh in my position
+nmaposs in my possession
+nmate~t in my territory
+nod in order
+nodans in order to answer
+nodtb in order to be
+nodtba in order to be able
+nodtbk in order to become
+nodtemn in order to determine
+nodduso in order to do so
+
+# Page 36 Column 2
+nodtv in order to have
+nodt-nsh in order to insure
+nodtjj in order to judge
+nodtpa in order to pay
+nodtprop in order to prepare
+nodtprch in order to purchase
+nodtrse in order to receive
+nodtsa in order to say
+nodtsho in order to show
+nodt^stn in order to understand
+nodtri in order to write
+nodtrim in order to write him
+nodtrime in order to write me
+anotsa I note what you say
+nuthds in other words
+nr in our
+nrfa in our favor
+nr'nds in our hands
+
+# Page 37 Column 1
+nrjjm in our judgment
+nrlanbs in our line of business
+nropn in our opinion
+nron in our own
+inrposh in our position
+nrposs in our possession
+nrpau in our power
+npt in part
+npr)s in person
+nplas in place
+noef in point of fact
+nposh in position
+nposs in possession
+nprepsh in preparation
+nprg in progress
+nprprsh in proportion
+nprs)u in pursuance
+nprs)ud in pursuance of an order
+nksh in question
+
+# Page 37 Column 2
+nki^d inquiry department
+nrf in reference
+nrftha in reference to that
+nrfth in reference to the
+nrfmat in reference to the matter
+nrfths in reference to this
+nrfu in reference to your
+nre in regard
+nreschmats in regard to such matters
+nremat in regard to the matter
+nrerash in relation
+nrelashmat in relation to the matter
+nrep in reply
+nrepu in reply to you
+nrepukmu in reply to your communication
+nrepufa in reply to your favor
+nrepunki in reply to your inquiry
+mrepule in reply to your letter
+nreplsa in reply will way
+nreplst in reply will state
+
+# Page 38 Column 1
+nrepdsa in reply would say
+nres in respect
+nresth in respect to the
+nresp in response
+nret in return
+nsetakt in settlement of account
+nsofas in so far as
+nsomne in so many
+nsomchs in so much as
+nspi in spite
+nsch in such
+nschkas in such a case
+nschkdsh in such a condition
+nsuchmne~ in such a manner
+nschst in such a state
+nschua in such a way
+nschkass in such cases
+nschmats in such matters
+nschtms in such times
+
+# Page 38 Column 2
+nsh^a insurance agent
+nsh^k insurance company
+ntha in that
+nthatdrksh in that directions
+ntha~lan in that line
+nthamne~ in that manner
+nthatmat in that matter
+ntha~re in that regard
+ntha~res in that respect
+nthatm in that time
+ntha~rk in that work
+nkt in the country
+nkte in the county
+nkrsfdas in the course of a few days
+nkrstm in the course of time
+nthev in the event
+nfesns in the first instance
+nfes^p in the first place
+nthoptha in the hope that
+nmr in the market
+
+# Page 39 Column 1
+nmat in the matter
+nm-tm in the meantime
+mni~ in the meanwhile
+nnex^p in the next place
+nthpas in the past
+nrpr in the report
+nsalo in the sale of
+nsamne~ in the same manner
+nthes in these
+nthsedas in these days
+nthestms in these times
+nushmne~ in the usual manner
+nushua in the usual way
+nua in the way
+nthrk in the work
+nuu in the world
+nerlod in the year of our Lord
+nths in this
+nthskas in this case
+nthsks( in this cause
+
+# Page 39 Column 2
+nths-sete in this city
+nthskla in this claim
+nthskeksh in this connection
+nthskt in this country
+nthskte in this county
+nthskot in this court
+nthsdsesh in this decision
+nthsdrksh in this direction
+nthsns in this instance
+nthsmne~ in this manner
+nthsmr in this market
+nthsmat in this matter
+nthsres in this respect
+nths-setsh in this situation
+nths-st in this state
+nthsua in this way
+nths( in those
+nths(tms in those times
+n-tm in time
+ntuks into consideration
+
+# Page 40 Column 1
+ntutha into that
+ntuth into the
+ntumat into the matter
+ntuthes into these
+ntuths into this
+ntuu into your
+nvan in vain
+nveuf in view of the fact
+nch in which
+nchks in which case
+nchts in which it is
+nchtos in which it was
+nchth in which the 
+nchthe in which they
+nchtdu in which to do
+nchur in which you are
+nchuv in which you have
+nchul in which you will
+nchue in which we
+nu in your
+
+# Page 40 Column 2
+nusete in your city
+nule in your letter
+nulan in your line
+nulanbs in your line of business
+nuseksh in your section
+aprsm I presume
+akatbe I quite believe
+aregsa I regret to say
+a~mnsenu I remain, Sincerely yours
+a~mnvku I remain, Very cordially yours
+a~mnur I remain, Yours respectfully
+a~mnut I remain, Yours truly
+a~mnvr I remain, Very respectfully
+a~mnvt I remain, Very truly
+a~mnvtr I remain, Very truly yours
+aremm I remember
+aremmthatm I remember that time
+aremmthtm I remember the time
+aret I return
+stnd is at hand
+
+# Page 41 Column 1
+asa I say
+asaso I say so
+asenbak I send back
+asene~th I send herewith
+asenle I send letter
+asenrese I send receipt
+asenu I send you
+asenunk I send you enclosed
+asenust-m I send you statement
+asenutda I send you today
+asent I sent
+ash I shall
+ashb I shall be
+ashba I shall be able
+ashbgl I shall be glad
+ashbglfd I shall be glad to forward
+ashbglv I shall be glad to have
+ashbgler I shall be glad to hear
+ashbglno I shall be glad to know
+ashbglrse I shall be glad to receive
+
+# Paste 41 Column 2
+ashbglse I shall be glad to see
+ashsetne I shall certainly
+ashv I shall have
+ashmak I shall make
+ashn I shall not
+ashnba I shall not be able
+ashnbasa I shall not be able to say
+ashnpas I shall not pass
+ashse I shall see
+ashsenu I shall send you
+ashtak I shall take
+ashd I should
+ashdb I should be
+ashdba I should be able
+ashdbgl I should be glad
+ashdbglfd I should be glad to forward
+ashdbglv I should be glad to have
+ashdbgler I should be glad to hear
+ashdbglno I should be glad to know
+ashdglse I should be glad to see
+
+# Page 42 Column 1
+ashkbso I should be sorry
+ashdv I should have
+ashdvb I should have been
+ashkla I should like
+ashdlab I should like to be
+ashdlav I should like to have
+ashd-n I should not
+ashd-nb I should not be
+ashd-nvb I should not have been
+ashd-nsa I should not say
+stpos is it possible
+stpostha is it possible that
+st-ness is it necessary
+st-npos is it not possible
+smad is made
+sn is not
+srse^t is received
+stha is that
+sth is the
+sth) is there
+
+# Page 42 Column 2
+? sth)n' is there anything
+sths is this
+stb is to be
+stund is to hand
+aspo I suppose
+atakp I take pleasure
+ath-u I thank you
+ath-uf I thank you for
+tas it has
+tasbk it has become
+tasbdn it has been done
+ath' I think
+athtlb I think it will be
+athths-sth I think this is the 
+aththslb I think this will be
+athot I thought
+ts it is
+tsks( it is because
+tsnt it is not
+tsod it is ordered
+
+# Page 43 Column 1
+tsp it is possible
+tsprb it is probable
+tskat-ness it is quite necessary
+ts(ed it is said
+tsstmg it is some time ago
+tsth it is the 
+tsudte it is your duty
+tmab it may be
+tmabmad it may be made
+tmabtha it may be that
+tmsb it must be
+tmsbdn it must be done
+tmsv it must have
+tmonb it must not be
+ato I told
+atom I told him
+atothm I told them
+atou I told you
+totb it ought to be
+totv it ought to have
+
+# Page 43 Column 2
+tsemsb it seems to be
+tsemsv it seems to have
+tesmsme it seems to me
+tsemsthm it seems to them
+tesms(us it seems to us
+tshb it shall be
+tshbdn it shall be done
+tos it was
+tosdn it was done
+tosnt it was not
+sos(ed it was said
+tosth it was the
+tos^stu it was understood
+tl it will
+tlv it will be
+tlbgrp it will be a great pleasure
+tlvks it will be considered
+tlfal it will fail
+tlv it will have
+tlnb it will not be
+
+# Page 44 Column 1
+tlreshu it will reach you
+tlrse it will receive
+tlrki it will require
+t-d it would
+t-db it would be
+a^stn I understand
+a^stu I understood
+ant I want
+ant-no I want to know
+antsa I want to say
+aos I was
+aosntar I was not aware
+aosntsh I was not sure
+int I went
+al I will
+alsk I will ask
+alsku I will ask you
+alb I will be
+alba I will be able
+alv I will have
+
+# Page 44 Column 2
+aknfmem I will inform him
+alnmfthm I will inform them
+alnfmu I will inform you
+alleno I will let you know
+alnba I will not be able
+alone I will only
+alsenu I will send you
+aush I wish
+aushkutnshf I will to call your attention to the fact
+ad I would
+advis I would advise
+adba I would be able
+adbp I would be pleased
+adlav I would like to have
+adlano I would like to know
+adlase I would like to see
+ad-nba I would not be able
+ad-nbsh I would not be sure
+adsa I would say
+arotu I wrote you
