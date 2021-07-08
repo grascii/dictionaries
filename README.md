@@ -50,7 +50,7 @@ optional community-sourced dictionaries.
 
 These dictionaries are included in releases of the Grascii Python package. Fixes
 and changes to these dictionaries are applied here and then pulled into the
-[grascii](https:/github.com/grascii/grascii) repository for releases. Most
+[grascii](https://github.com/grascii/grascii) repository for releases. Most
 built-in dictionaries are based on the official Gregg Shorthand dictionaries
 published by the Gregg Publishing Company.
 
