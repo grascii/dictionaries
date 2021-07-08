@@ -35,7 +35,7 @@ fesra first rate
 fes-staj first stage
 festm first time
 fob f.o.b.
-fobcrs f.o.b. cars
+fobkrs f.o.b. cars
 fomn' following morning
 fsetnlengtm for a certain length of time
 fsetnprp for a certain purpose
@@ -95,7 +95,7 @@ fsadprp for said purpose
 fsa for sale
 fsevrsns for several reasons
 fsmks( for some cause
-fsmcs(uth for some cause or other
+fsmks(uth for some cause or other
 fsmkstm for some considerable time
 fsmls for something else
 fstm for some time

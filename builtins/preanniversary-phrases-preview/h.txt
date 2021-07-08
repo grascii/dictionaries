@@ -42,7 +42,7 @@ vb have been
 vba have been able
 
 # Page 25 Column 1
-hdn have done
+vdn have done
 vfnd have found
 vnon have known
 vmnsht have mentioned
@@ -69,7 +69,7 @@ erfmug hear from you again
 erfmute~dt hear from you at an early date
 erfmusn hear from you soon
 'evnerth heaven and earth
-ecopnu he called upon you
+ekopnu he called upon you
 ekam he came
 ek he can
 ekb he can be

@@ -64,7 +64,7 @@ b\elth board of health
 
 # Page 10 Column 2
 b\mnjm board of management
-b\mnje\ board of managers
+b\mnje~| board of managers
 b\t board of trade
 b\f bona fide
 b\ndm bond and mortgage

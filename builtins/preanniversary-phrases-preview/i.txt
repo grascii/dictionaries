@@ -319,7 +319,7 @@ nbf in behalf
 nbs in business
 nkasuth' in case you think
 nktax income tax
-ncprsn in comparison
+nkprsn in comparison
 nkksh in conclusion
 nkeksh in connection with
 
@@ -351,7 +351,7 @@ ngkdsh in good condition
 ngod in good order
 ns in his
 n-t in it
-n-mnecass in many cases
+n-mnekass in many cases
 nmaspe in my experience
 nmamin in my mind
 nmapn in my opinion
@@ -395,7 +395,7 @@ inrposh in our position
 nrposs in our possession
 nrpau in our power
 npt in part
-npr)s in person
+nprs) in person
 nplas in place
 noef in point of fact
 nposh in position

@@ -210,8 +210,8 @@ ueshdbp we should be pleased
 ueshdla we should like
 ueshdnba we should not be able
 uetak we take
-?ueth'u we thank you
-? heth'ufu we thank you for your
+? ueth'u we thank you
+? ueth'ufu we thank you for your
 ueth' we think
 ueththslb we think this will be
 
@@ -520,18 +520,18 @@ ethth with the
 
 # Page 91 Column 1
 eth(lspdla with the least possible delay
-ehtth^stn' with the understanding
+ethth^stn' with the understanding
 eththm with them
 eththes with these
-ethehesmen with these men
+eththesmen with these men
 ethths with this
 eththskas with this case
 eththskp with this company
 eththsfem with this firm
 eththsmat with this matter
 ethths( with those
-wthus with us
-wthot with what
+ethus with us
+ethot with what
 ethch with which
 ethchts with which it is
 ethchtsnt with which it is not

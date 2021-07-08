@@ -68,9 +68,9 @@ plris) please write us
 p\m P.M.
 oef point of fact
 oeveu point of view
-p\d police department
-p\c postal card
-p\mneod postal money order
+p^d police department
+p^k postal card
+p^mneod postal money order
 p\mj Postmaster General
 p^o post office
 p^o^d post-office department
