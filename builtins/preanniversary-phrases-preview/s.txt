@@ -57,9 +57,9 @@ shdbdn should be done
 shdbgl should be glad
 shdbgrse should be glad to receive
 shdbmad should be made
-? shdv should have
-? shdvb should have been
-? shdvdn should have done
+shd-v should have
+shd-vb should have been
+shd-vdn should have done
 shd-nb should not be
 shd-nv should not have
 

@@ -224,8 +224,8 @@ udv you would have
 
 # Page 97 Column 2
 udvb you would have been
-? udvno you would have no
-? udvn' you would have nothing
+ud-vno you would have no
+ud-vn' you would have nothing
 ud-n you would not
 ud-nba you would not be able
 ud-nv you would not have

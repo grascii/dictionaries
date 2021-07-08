@@ -20,14 +20,14 @@ nexdas) next day or so
 nexdatu next day or two
 
 # Page 51 Column 2
-nexelsh next election
-nexmnth next month
-nex^p next place
-? nexsesh next session
-nexth' next thing
-nextm next time
-nexk next week
-nexer next year
+neselsh next election
+nesmnth next month
+nes^p next place
+nes-sesh next session
+nesth' next thing
+nestm next time
+nesk next week
+neser next year
 nobten no better than
 nodau no doubt
 noles no less

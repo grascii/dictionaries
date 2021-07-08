@@ -166,7 +166,7 @@ nuthth' another thing
 nuthtm another time
 nebols anybody else
 ne~lng any longer
-nem anymore
+nem any more
 nemthn any more than
 neun any one
 neunls anyone else
@@ -179,7 +179,7 @@ apl\b application bank
 rn are not
 ru are you
 asmatok as a matter of course
-? asmatf as a matter of fact
+asmatf as a matter of fact
 asmatlo as a matter of law
 asrsu as a result
 asrl as a rule
@@ -222,7 +222,7 @@ asprr as per our
 asprod as per order
 skeks as quick as
 skeksp as quick as possible
-? skeke~p as quickly as possible
+skekesp as quickly as possible
 srapdesp as rapidly as possible
 ajfa Assistant General Freight Agent
 aj\m Assistant General Manager
@@ -248,7 +248,7 @@ asthe as they
 asths as this
 asths-s as this is
 astho as though
-astu asto
+astu as to
 astutha as to that
 astuth as to the
 astuth) as to their
@@ -315,7 +315,7 @@ tlas-ssesh at last session
 tpda at the present day
 tpmnet at the present minute
 tpmm at the present moment
-? tp^ss at the present session
+tpsesh at the present session
 tptm at the present time
 trat at the rate of
 trkes at the request of

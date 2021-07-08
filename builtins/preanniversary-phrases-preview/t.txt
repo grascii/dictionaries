@@ -161,7 +161,7 @@ th(lreshu they will reach you
 thed they would
 thedba they would be able
 thedbgl they would be glad
-? thedv they would have
+thed-v they would have
 ? thdvb they would have been
 thedlav they would like to have
 thedlano they would like to know
@@ -205,7 +205,7 @@ thsmat this matter
 thsmab this may be
 thsmnet this minute
 thsmnth this month
-thmn'this morning
+thsmn' this morning
 thsnot this note
 thsd this order
 thsksh this question
@@ -387,7 +387,7 @@ tchule to which your letter refers
 tchuksh to which your question
 tuum to whom
 tuumkse~n to whom it may concern
-? tuumthe~p to whom these presents
+tuumthesp to whom these presents
 
 # Page 76 Column 1
 trk to work

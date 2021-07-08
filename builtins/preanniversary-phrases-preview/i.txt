@@ -627,7 +627,7 @@ sth is the
 sth) is there
 
 # Page 42 Column 2
-? sth)n' is there anything
+sth)n' is there anything
 sths is this
 stb is to be
 stund is to hand
