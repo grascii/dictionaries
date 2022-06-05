@@ -151,10 +151,10 @@ ra&'pr reappear
 ? reoe reappoint
 rer rear
 rara rearrange
-rsn reason
-rsnb reasonable
-rsne~ reasoner
-rsnl reasonless
+r-sn reason
+r-snb reasonable
+r-sne~ reasoner
+r-snl reasonless
 ra&'shu reassure
 rbat rebate
 rebl rebel
@@ -174,7 +174,7 @@ rekap^u recapitulate
 rekap^ush recapitulation
 rekaptr recapture
 rekas recast
-rsed recede
+r-sed recede
 rese receipt
 rse^b receivability
 rseb receivable
@@ -197,7 +197,7 @@ rsepr^s) reciprocity
 rsitl recital
 restsh recitation
 restatv recitative
-rsit recite
+r-sit recite
 
 # Page 151 Column 2
 rekl reckless
@@ -551,14 +551,14 @@ rsemblans resemblance
 rsem resemble
 
 # Page 155 Column 2
-rsent resent
-rsntf resentful
-rsent-m resentment
+r-sent resent
+r-sntf resentful
+r-sent-m resentment
 rsevash reservation
-rsev reserve
-rsevde reservedly
-rsevo_r reservoir
-rset reset
+r-sev reserve
+r-sevde reservedly
+r-sevo_r reservoir
+r-set reset
 rsi reside
 resdns residence
 resdn resident
@@ -610,11 +610,12 @@ rsu result
 rsu^nt resultant
 
 # Page 156 Column 1
-rsma, resume
-rsmsh resumption
+r-sma, resume
+r-smsh resumption
 resereksh resurrection
 rssta resuscitate
-reta~ retail
+# Loop?
+? reta~ retail
 retn retain
 retnb retainable
 retnr retainer

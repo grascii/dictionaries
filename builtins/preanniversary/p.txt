@@ -1009,11 +1009,11 @@ pres present
 presb presentable
 pressh presentation
 ? presnt-m presentiment
-presevash preservation
+pre-sevash preservation
 
 # Page 141 Column 3
-presevtv preservative
-presev preserve
+pre-sevtv preservative
+pre-sev preserve
 presi preside
 presdnse presidency
 presdn president
@@ -1022,11 +1022,11 @@ pres press
 prest pressed
 preshu pressure
 prestdj prestidigitator
-prsmbe presumably
-prsm presume
-prsm^te presumedly
-prsmsh presumption
-prsmtv prsumptive
+pr-smbe presumably
+pr-sm presume
+pr-sm^te presumedly
+pr-smsh presumption
+pr-smtv presumptive
 prespo presuppose
 presposh presupposition
 pretn pretend

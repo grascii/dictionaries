@@ -377,11 +377,11 @@ onrre honorary
 'osptb hospitable
 'osptl hostpital
 'ospt^l hospitality
-'ost host
-'ostj hostage
-'stes hostess
-'ostl hostile
-'ost^l hostility
+'os)t host
+'os)tj hostage
+'os)tes hostess
+'os)tl hostile
+'os)t^l hostility
 'ot hot
 'otel hotel
 'aund hound

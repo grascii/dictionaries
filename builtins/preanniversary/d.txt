@@ -102,8 +102,8 @@ dekantr decanter
 dekap decapitate
 deka decay
 dses decease
-dset deceit
-dset-f deceitful
+d-set deceit
+d-set-f deceitful
 dse^b deceivable
 dse deceive
 des December
@@ -380,7 +380,7 @@ derek derrick
 dsen descend
 dsen^nt descendant
 dsensh descension
-dsent descent
+d-sent descent
 dskrb describable
 dskr describe
 dskrsh description

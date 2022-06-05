@@ -202,9 +202,9 @@ lese lessee
 # Page 107 Column 2
 lesn lessen
 lesnd lessened
-lesr lesser
-lesn lesson
-lesr lessor
+les)r lesser
+ls)n lesson
+ls)r lessor
 lest lest
 le let
 lethje lethargy
@@ -230,7 +230,7 @@ liblr libeler
 
 # Page 107 Column 3
 leber liberal
-lebersm liberalism
+leber-sm liberalism
 leb^l liberality
 lebra| liberally
 lebra liberate
@@ -241,7 +241,7 @@ leb liberty
 libra^'n librarian
 libre library
 lebreto libretto
-lisns license
+li-sns license
 likn lichen
 lek lick
 lekores licorice
@@ -287,7 +287,7 @@ lem^t limited
 lemetl limitless
 
 # Page 108 Column 2
-lemsen limousine
+lem-sen limousine
 lemp limp
 lempd limpid
 lempdte limpidity
@@ -325,7 +325,7 @@ leke_dsh liquidation
 leke_dtr liquidator
 lekr liquor
 lesp lisp
-lsn listen
+ls)n listen
 lsl listless
 le^l literal
 le^lsm literalism
@@ -360,7 +360,7 @@ lon loan
 loth loath
 loth, loathe
 lobe lobby
-lobste~ lobster
+lob-ste~ lobster
 lok local
 lok^l locality
 lok locate
@@ -386,7 +386,7 @@ loete~ loiter
 lmba~d lombard
 lon lone
 lonen loneliness
-lonsm lonesome
+lon-sm lonesome
 lng long
 lnge~ longer
 lnj^v longevity
