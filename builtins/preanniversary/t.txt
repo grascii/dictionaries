@@ -460,7 +460,7 @@ tut toot
 tuth tooth
 tuthak toothache
 tuthpek toothpick
-toth)sm toothsome
+tuth)-sm toothsome
 top top
 topaz topaz
 
@@ -496,10 +496,10 @@ totezsh totalization
 # Page 184 Column 3
 totm totem
 tote~ totter
-tch touch
+tuch touch
 tuf tough
 tufn toughen
-tpe toupee
+tupe toupee
 tur tour
 tures tourist
 tenam tournament
@@ -818,7 +818,7 @@ tumulus tumultuous
 tun tune
 tunf tuneful
 tunl tuneless
-t-ngstn tungsten
+t-ngs(tn tungsten
 tunek tunic
 t-nl tunnel
 trbn turban

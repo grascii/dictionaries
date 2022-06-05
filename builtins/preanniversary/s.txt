@@ -237,7 +237,7 @@ sklptrl sculptural
 sklptr sculpture
 skrve scurvy
 skutl scuttle
-ith scythe
+sith scythe
 sel seal
 sem seam
 semn seaman
@@ -533,8 +533,8 @@ shrek shriek
 shrel shrill
 shremp shrimp
 shrin shrine
-shenk shrink
-shenkj shrinkage
+shrenk shrink
+shrenkj shrinkage
 shriv shrive
 shrevl shrivel
 shraud shroud

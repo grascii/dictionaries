@@ -298,7 +298,7 @@ s) his
 'o hoe
 'og hog
 'ogsed hogshead
-eost hoist
+oes(t hoist
 'old hold
 'oldr holder
 'ol hole
@@ -456,7 +456,8 @@ ausov howsoever
 'uske husky
 'usl hustle
 'ut hut
-'isenth hyacinth
+# A&E ?
+? 'is)enth hyacinth
 'ibred hybrid
 i^nd hydrant
 i^t hydrate

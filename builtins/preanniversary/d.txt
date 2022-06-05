@@ -76,7 +76,7 @@ de~^r dealer
 den dean
 de~ dear
 dee dearly
-de~th dearth
+deth) dearth
 deth death
 dbar debar
 dbas debase

@@ -614,7 +614,7 @@ bruk brook
 brum broom 
 bruth brother
 bruth^d brotherhood
-brothla brother-in-law
+bruth)la brother-in-law
 bruthen brotherliness
 brum brougham
 brau brow

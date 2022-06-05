@@ -339,7 +339,7 @@ mnshush mensuration
 mn-tl mental
 mn-t^l mentality
 mn-ta| mentally
-mnthol menthol
+mnth(ol menthol
 
 # Page 115 Column 1
 mnsh mention

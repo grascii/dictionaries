@@ -154,7 +154,7 @@ jel gill
 gemlet gimlet
 jen gin
 jenje~ ginger
-? jengee gingerly
+? jenge~e gingerly
 gengam gingham
 jenseng ginseng
 jeraf giraffe
@@ -232,7 +232,7 @@ gob gobble
 goblet goblet
 goblen goblin
 gd god
-gdfath godfather
+gdfath) godfather
 gdl godless
 gdla godlike
 gden godliness
@@ -302,8 +302,8 @@ gram^a| grammatical
 granre granary
 ? g grand
 g^ur grandeur
-g^fath grandfather
-g^moth grandmother
+g^fath) grandfather
+g^muth grandmother
 granj grange
 granet granite
 grant grant

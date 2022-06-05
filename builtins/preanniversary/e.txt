@@ -266,7 +266,7 @@ emn eminent
 emesre emissary
 emet emit
 emolmn emolument
-emush emotion
+emosh emotion
 mprr emperor
 mfass emphasis
 mf^a emphatic
@@ -749,8 +749,8 @@ es^mat exterminate
 es^msh extermination
 es^nl external
 estenk extinct
-estng extinguish
-esting^b extinguishable
+esteng extinguish
+esteng^b extinguishable
 
 # Page 69 Column 3
 es^pat extirpate

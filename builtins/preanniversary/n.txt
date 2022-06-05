@@ -10,7 +10,7 @@ na name
 nap nap
 napre napery
 naftha naphtha
-nafthol naphthol
+nafth(ol naphthol
 napken napkin
 napl napless
 narssus narcissus

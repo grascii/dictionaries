@@ -36,9 +36,9 @@ fant-n faintness
 far fair
 fare fairy
 fath faith
-fathf faithful
-fathl faithless
-fathln faithlessness
+fath)f faithful
+fath)l faithless
+fath)ln faithlessness
 fak fake
 fakr fakir
 folchn falchion
@@ -109,13 +109,13 @@ fatlsm fatalism
 fatles fatalist
 fat^l fatality
 fat fate
-fath father
+fath) father
 fathlo father-in-law
 fathland fatherland
 
 # Page 71 Column 2
-fathm fathom
-fathml fathomless
+fath)m fathom
+fath)ml fathomless
 fatig fatigue
 fatm fatten
 fatute fatuity
@@ -138,7 +138,7 @@ fes^b feasibility
 fesb feasible
 fest feast
 fet feat
-feth feather
+feth) feather
 fetr feature
 feb February
 
@@ -262,7 +262,7 @@ felmen filminess
 felme filmy
 felte~ filter
 felth filth
-felthin filthiness
+felthen filthiness
 fen fin
 finl final
 ? fenala finale
@@ -450,7 +450,7 @@ fkas forecast
 fkls foreclose
 fklshu foreclosure
 fdum foredoom
-ffath forefather
+ffath) forefather
 ffeng forefinger
 ffrnt forefront
 fg forego
@@ -683,10 +683,10 @@ feurr furor
 furer furrier
 furo furrow
 fure furry
-fth further
-fthns furtherance
-fthm furthermore
-fthes furthest
+fth) further
+fth)ns furtherance
+fth)m furthermore
+fth)es furthest
 ftv furtive
 
 # Page 78 Column 1

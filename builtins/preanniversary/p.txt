@@ -209,7 +209,7 @@ path path
 pth^a pathetic
 pth^a| pathetical
 pth^o( pathology
-pthos pathos
+pth(os pathos
 ptha_ pathway
 pashns patience
 pasht patient
