@@ -270,8 +270,8 @@ li^n lightness
 lin' lightning
 la^b likable
 la like
-? lae^d likelihood
-?lae likely
+? la|e^d likelihood
+? la|e likely
 lan liken
 la^n likeness
 ? lis likewise
@@ -298,7 +298,7 @@ lenj lineage
 lenl lineal
 len^l lineality
 lena| lineally
-? lena^'~ linear
+? lena&'~ linear
 lenen linen
 lane~ liner
 lennge~ linger

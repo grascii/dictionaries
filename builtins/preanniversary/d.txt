@@ -910,8 +910,8 @@ dramatiz dramatize
 drap drape
 drapre drapery
 dr^st drastic
-dro drow
-drowr drower
+dro draw
+dror drawer
 drol drawl
 dron drawn
 dra dray
@@ -1001,7 +1001,7 @@ dup^s) duplicity
 dr^b durability
 drb durable
 drns durance
-drahs duration
+drash duration
 dures duress
 dr during
 dusk dusk

@@ -15,7 +15,7 @@ japn Japan
 ja~ jar
 ja~dnr jardiniere
 jargn jargon
-? ja|~ jars
+ja~| jars
 jasmn jasmine
 jaspr jasper
 jondes jaundice

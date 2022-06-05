@@ -240,7 +240,7 @@ vej vigilant
 venet vignette
 vgr vigor
 vgrus vigorous
-vik. viking
+vik' viking
 vil vile
 velef vilify
 vilpnd vilipend
@@ -263,7 +263,7 @@ vndekv vindictive
 vin vine
 venegr vinegar
 venegre vinegary
-vena|~d vineyard
+vena~|d vineyard
 vntj vintage
 vntne~ vintner
 vil viol

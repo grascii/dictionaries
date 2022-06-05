@@ -175,7 +175,7 @@ marv marvel
 marv marvelous
 maskt mascot
 maskeu masculine
-maskeu&nt masculinity
+maskeu^nt masculinity
 mash mash
 mask mask
 maskt masked
@@ -328,7 +328,7 @@ mnajre menagerie
 mn-d mend
 mn-db mendable
 mn-dash mendacious
-mn-deknsy mendicancy
+mn-deknse mendicancy
 mndek mendicant
 mna&'l menial
 mnenj^ts meningitis
@@ -603,7 +603,7 @@ momre momentary
 momus momentous
 momtm momentum
 mnark monarch
-? mnarlmonarchal
+? mnarkl monarchal
 mnarke monarchy
 mnastre monastery
 mn^stl monastical
@@ -756,7 +756,7 @@ muskeu^r muscularity
 meus muse
 musem museum
 mshrm mushroom
-musec music
+musek music
 mus^k musical
 musesh musician
 muskete~ musketeer

@@ -514,7 +514,7 @@ ft fort
 
 # Page 76 Column 1
 fth forth
-fthcm' forthcoming
+fthkm' forthcoming
 ftheth forthwith
 ft^f fortification
 ftf fortify

@@ -254,7 +254,7 @@ ssnb seasonable
 ssnl seasonless
 sesed secede
 sesesh secession
-seclu seclude
+seklu seclude
 seklsh seclusion
 seknd second
 
@@ -491,7 +491,7 @@ shm shipment
 # Page 164 Column 3
 sh^r shipper
 sh^rek shipwreck
-sh^a|~d shipyard
+sh^a~|d shipyard
 sherk shirk
 she~ shirr
 she~t shirt
@@ -1111,7 +1111,7 @@ ske_nt squint
 ski_r squire
 ske_rm squirm
 ske_rl squirrel
-stab
+stab stab
 stabr stabber
 st^b stability
 stabliz stabilize
@@ -1564,7 +1564,7 @@ splemre supplementary
 spla&'ns suppliance
 spla&'nt suppliant
 splekat supplicate
-splahi supply
+spli supply
 s)^t support
 s)^tb supportable
 s)^te~ supporter

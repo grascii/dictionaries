@@ -294,7 +294,7 @@ nch inch
 nsdn-t incident
 nsdn-tl incidental
 nsepent incipient
-nsehs incision
+nsesh incision
 nsis incisive
 nsi incite
 nsv^l incivility
@@ -413,7 +413,7 @@ ndeg^nt indignity
 ndigo indigo
 n-drk indirect
 n-drkn indirectness
-nds~nb indiscernible
+nds(enb indiscernible
 ndskre indiscreet
 ndskresh indiscretion
 ndskrem indiscriminate
@@ -570,7 +570,7 @@ en'eum inhume
 enem^k inimical
 enemet inimitable
 eneke_et iniquity
-enehs initial
+enesh initial
 enesha&'t initiate
 enesha&'sh initiation
 eneshtv initiative
@@ -612,15 +612,15 @@ enoprtn inopportune
 
 # Page 98 Column 1
 enodn inordinate
-enognic inorganic
-nqes inquest
-nki inquire
-nki^r inquirer
-? nkie inquiry
-nkes-sh inquisition
-nkestv inquisitive
-nkestvn inquisitiveness
-nkestr inquisitor
+enognek inorganic
+n-kes inquest
+n-ki inquire
+n-ki^r inquirer
+? n-kie inquiry
+n-kes-sh inquisition
+n-kestv inquisitive
+n-kestvn inquisitiveness
+n-kestr inquisitor
 nrod inroad
 nsan insane
 ns^nt insanity
@@ -702,7 +702,7 @@ ns^ur insulator
 # Page 99 Column 1
 nsu insult
 ns)^tb insupportable
-ns)^s)unsuppressible
+ns)^s) insuppressible
 nsh insure
 nsh insurance
 nsh^r insurer

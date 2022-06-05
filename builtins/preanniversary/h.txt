@@ -325,7 +325,7 @@ oes(t hoist
 'om^d homeward
 'omsi homicide
 'ome| homily
-'umny hominy
+'omne hominy
 'omojen homogeneous
 'omnem homonym
 'omnemus homonymous

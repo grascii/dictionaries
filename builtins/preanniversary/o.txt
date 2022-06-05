@@ -307,7 +307,7 @@ o^os overalls
 o^bor overboard
 o^chj overcharge
 o^k overcome
-o&kf overconfidence
+o^kf overconfidence
 o^do overdo
 o^estm overestimate
 o^flo overflow

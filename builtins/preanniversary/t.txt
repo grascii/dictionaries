@@ -276,7 +276,7 @@ thon thereon
 ? th)tu thereto
 ? th)n-tu thereunto
 ? th)pn thereupon
-? th)eth
+? th)eth therewith
 th)eml thermal
 th)emm thermometer
 th)emostat thermostat
@@ -674,7 +674,7 @@ trek trick
 trekre trickery
 treken trickiness
 trekl trickle
-tricol tricolor
+trikul tricolor
 trikuspd tricuspid
 tris^k tricycle
 tridn-t trident

@@ -96,7 +96,7 @@ uotmete~ wattmeter
 uav wave
 uavr waver
 uax wax
-? uasberry waxberry
+? uasbere waxberry
 ? uasrk waxwork
 uabl waybill
 uafar wayfare
@@ -402,7 +402,7 @@ rech wretch
 rechdn wretchedness
 regl wriggle
 reng wring
-reng~ wringer
+renge~ wringer
 renkl wrinkle
 rest wrist
 rit writ

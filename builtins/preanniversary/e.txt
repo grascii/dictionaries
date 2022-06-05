@@ -290,8 +290,8 @@ enak enact
 # Page 64 Column 2
 enaml enamel
 enamr^t enamored
-ncamp encamp
-ncampmn encampment
+n-kamp encamp
+n-kampmn encampment
 nchant enchant
 nchantr enchanter
 nchantmn enchantment
@@ -422,7 +422,7 @@ ep^g^a epigramatic
 epelepse epilepsy
 epelept epileptic
 epekog epilogue
-epeskEpiscopal
+epesk Episcopal
 epesod episode
 epesl epistle
 epestlre epistolary
@@ -482,9 +482,9 @@ erpsh eruption
 eresep erysipelas
 eskalatr escalator
 eskpb escapable
-escpd escapade
-escp escape
-esckmn escapement
+eskpd escapade
+eskp escape
+eskkmn escapement
 eschu eschew
 eskot escort
 eskro escrow
@@ -628,7 +628,7 @@ eskeu excuse
 eskrb execrable
 eslra execrate
 esk excute
-escsh execution
+esksh execution
 eskv executive
 esemplre exemplary
 esemplef exemplify
@@ -704,7 +704,7 @@ esprash expiration
 espi expire
 espl explain
 esplsh explanation
-espl^ry explanatory
+espl^re explanatory
 espletv expletive
 esplek explicable
 esplest explicit
