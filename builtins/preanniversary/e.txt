@@ -187,14 +187,14 @@ elij^b eligibility
 elijb eligible
 elimn eliminate
 elimnsh elimination
-elish elision
+elesh elision
 alet elite
 elexer elixir
 elk elk
 eleps ellipse
 ekepss ellipsis
 eleptek elliptic
-elip^k elliptical
+elep^k elliptical
 elm elm
 eloksh elocution
 elokshre elocutionary
@@ -382,7 +382,7 @@ nthus^st enthusiastic
 nthus^sta| enthusiastically
 ntis entice
 nti entire
-? ntie entirely
+? nta&e entirely
 ntin entireness
 ntite entirety
 ntit entitle
@@ -435,9 +435,9 @@ ek^b equalbility
 # Page 66 Column 1
 ekb equable
 ekl equal
-? ek equality
+? eku equality
 eklezsh equalization
-ekliz dqualize
+ekliz equalize
 eka| equally
 elan^mt equanimity
 eka_sh equation

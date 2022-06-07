@@ -272,7 +272,7 @@ uend wind
 uendfo windfall
 uenden windiness
 uendlas windlass
-uendmil windmill
+uendmel windmill
 uendo window
 uendopan windowpane
 uendpip windpipe
@@ -405,7 +405,7 @@ reng wring
 renge~ wringer
 renkl wrinkle
 rest wrist
-rit writ
+ret writ
 ri write
 rir writer
 rith writhe

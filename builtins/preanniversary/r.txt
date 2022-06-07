@@ -711,7 +711,7 @@ riml rhymeless
 rime~ rhymer
 rethm rhythm
 rethmek rhythmic
-ribn ribbon
+rebn ribbon
 ris rice
 rechs riches
 rechn richness
@@ -732,7 +732,7 @@ rif rightful
 ra&e rightly
 rejd rigid
 rejdte rigidity
-rigmarl rigmarole
+regmarl rigmarole
 regr rigor
 regrus rigorous
 renglet ringlet

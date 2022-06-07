@@ -581,13 +581,13 @@ sg significance
 sg significant
 sg^f signification
 sgnef signify
-nil silence
+sil silence
 silent silent
 selu,t silhouette
 selk silk
 selkn silken
 selknes silkiness
-sel sell
+sel sill
 selv silver
 semel similar
 semel^r similarity

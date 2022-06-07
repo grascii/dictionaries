@@ -19,7 +19,7 @@ adntf identify
 adn-te identity
 edose idiocy
 edem idiom
-edim^a idiomatic
+edem^a idiomatic
 edo-senk idiosyncrasy
 edot idiot
 adl idle
@@ -33,11 +33,11 @@ idolat idolatrous
 idolatre idolatry
 idl idyl
 ef if
-efni ignite
-engitb ignitible
+egni ignite
+egnitb ignitible
 egnsh ignition
-egnib ignoble
-ignomn ignominous
+egnob ignoble
+egnomn ignominous
 egnomne ignominy
 egnram ignoramus
 eg ignorance
@@ -410,7 +410,7 @@ ndjes indigestion
 ndeg indignant
 ndegnsh indignation
 ndeg^nt indignity
-ndigo indigo
+ndego indigo
 n-drk indirect
 n-drkn indirectness
 nds(enb indiscernible

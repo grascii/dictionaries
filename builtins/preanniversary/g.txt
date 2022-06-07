@@ -1,7 +1,7 @@
 # Page 79 Column 1
 gab gable
 gad gad
-galik Gaelic
+galek Gaelic
 gag gag
 gaj gage
 gan gain
@@ -17,10 +17,10 @@ gale galley
 galn gallon
 galp gallop
 galos gallows
-glvnik galvanic
+glvnek galvanic
 glvniz galvanize
 gamb gamble
-bambl gambol
+gambl gambol
 gam game
 gamn gammon
 gamut gamut
@@ -129,7 +129,7 @@ je~mat germinate
 jernd gerund
 jerndv gerundive
 jestek^u gesticulate
-jestik^ush gesticulation
+jestek^ush gesticulation
 jestek^ur gesticulator
 jestr gesture
 get get
@@ -189,8 +189,8 @@ gle,n glean
 gle glee
 gleb glib
 glid glide
-glime~ glimmer
-glmis glimpse
+gleme~ glimmer
+glems glimpse
 glent glint
 glesn glisten
 glete~ glitter
@@ -258,7 +258,7 @@ gorj gorge
 
 # Page 82 Column 1
 gojus gorgeous
-gorila gorilla
+gorela gorilla
 gore gory
 gospl gospel
 gosame~ gossamer
@@ -321,7 +321,7 @@ grat grate
 gratf grateful
 grat^f gratification
 gratf gratify
-gratis gratis
+grates gratis
 grat gratitude
 gratutus gratuitous
 gratute gratuity

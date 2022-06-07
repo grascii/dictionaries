@@ -35,10 +35,10 @@ kal^mt calamity
 kalash calash
 kalkar calcareous
 kalsf calcify
-kalsemi calcimine
-kalsin calcine
-kalsit calcite
-kalsem calcium
+kal-semi calcimine
+kal-sin calcine
+kal-sit calcite
+kal-sem calcium
 kalb calculable
 kal calculate
 kalsh calculation
@@ -511,7 +511,7 @@ chas chase
 kasm chasm
 shase chassis
 chasn chasten
-chatiz chastise
+chastiz chastise
 chat chat
 shato chateau
 shatlan chatelaine

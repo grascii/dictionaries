@@ -791,7 +791,7 @@ ds^stf distrustful
 dstb disturb
 dstbns disturbance
 dseu disuse
-dich ditch
+dech ditch
 dto ditto
 dinl diurnal
 divan divan
@@ -1023,7 +1023,7 @@ de_l dwell
 de_lt dwelt
 de_ndl dwindle
 di dye
-dinamik dynamic
+dinamek dynamic
 dinamit dynamite
 dinamo dynamo
 dinas dynasty

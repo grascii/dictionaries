@@ -148,7 +148,7 @@ ver^s) veracity
 veranda veranda
 verb verb
 verbl verbal
-verblis verbalize
+verbliz verbalize
 verbna verbena
 verbj verbiage
 verbos verbose
@@ -225,7 +225,7 @@ ves^nt vicinity
 veshus vicious
 vesstu vicissitude
 vektm victim
-vektmis victimize
+vektmiz victimize
 vektr victor
 vektrus victorious
 
@@ -314,7 +314,7 @@ vitl vital
 vitlsm vitalism
 vet^l vitality
 vitlesh vitalization
-vitlis vitalize
+vitliz vitalize
 
 # Page 198 Column 3
 vita| vitally
@@ -361,7 +361,7 @@ vklek vocalic
 vklsm vocalism
 vkles vocalist
 vklessh vocalization
-vklis vocalize
+vkliz vocalize
 vkash vocation
 vkatv vocative
 vosefrant vociferant
@@ -428,7 +428,7 @@ vulkn vulcan
 vulkna&'n vulcanian
 vulknek vulcanic
 vulknessh vulcanization
-vulknis vulcanize
+vulkniz vulcanize
 vul vulgar
 vulsm vulgarism
 

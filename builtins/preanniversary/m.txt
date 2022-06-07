@@ -109,12 +109,12 @@ mnfes-sh manifestation
 mnfesto manifesto
 mnfol manifold
 mnken manikin
-mnip^u manipulate
-mnip^ush manipulation
+mnep^u manipulate
+mnep^ush manipulation
 
 # Page 112 Column 2
-mnip^uv manipulative
-mnip^ur manipulator
+mnep^uv manipulative
+mnep^ur manipulator
 mnki mankind
 mnla manlike
 mnen manliness
@@ -375,9 +375,9 @@ meren merrienss
 mere merry
 mesh mesh
 mesmrk mesmeric
-mesmrsm mesmerism
+mesmr-zm mesmerism
 mesmriz mesmerize
-mesmriser mesmerizer
+mesmrizer mesmerizer
 mesj message
 mesje~ messenger
 mss messrs.
@@ -444,14 +444,14 @@ melet military
 meleta militate
 melesh militia
 melk milk
-mil mill
-? milena&'~m millenarian
+mel mill
+? melena&'~n millenarian
 melnre millenary
 melenl millennial
 melemen milennium
 melr miller
 melne~ milliner
-? melnee millinery
+? melne~e millinery
 meln million
 melna~ millionaire
 melston millstone
@@ -738,8 +738,8 @@ munch munch
 mn-dan mundane
 mnesp municipal
 mnesp^l municipality
-munefs munificence
-munif munificent
+munefes munificence
+munef munificent
 munsh munition
 murl mural
 

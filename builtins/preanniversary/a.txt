@@ -120,7 +120,7 @@ akla acclaim
 # Page 2 Column 2
 aklamsh acclamation
 aklimat acclimate
-aklimsh acclimation
+aklemsh acclimation
 akola accolade
 akdt accommodate
 akdsh accommodation

@@ -275,7 +275,7 @@ s) his
 'estrk historic
 'estor^k historical
 'estre history
-'estronik histrionic
+'estronek histrionic
 'et hit
 'ech hitch
 'eth hither
@@ -368,7 +368,7 @@ onrre honorary
 'p horse power
 'ors-shu horseshoe
 'oteklchu^l horticultural
-'otiklchu horticulture
+'oteklchu horticulture
 'osana hosana
 'os hose
 'sre hosiery
@@ -422,9 +422,9 @@ ausov howsoever
 'umbg humbug
 'um-drm humdrum
 'eumed humid
-'eumidte humidity
-'eumil humiliate
-'eumilsh humiliation
+'eumedte humidity
+'eumel humiliate
+'eumelsh humiliation
 'eum^l humility
 'ume~ hummer
 'eumr humor

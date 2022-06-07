@@ -395,7 +395,7 @@ blesf blissful
 blesfn blissfulness
 bleste~ blister
 blith blithe
-blithsm blithesome
+blith-sm blithesome
 bleza~d blizzard
 blot bloat
 blok block
@@ -512,7 +512,7 @@ bovin bovine
 baur bower
 bol bowl
 boldr bowlder
-bostring bowstring
+bo-streng bowstring
 box box
 boe boy
 boekt boycott
@@ -563,7 +563,7 @@ bru brew
 brure brewery
 brib bribe
 bribre bribery
-brikbrak bric-a-brac
+brekbrak bric-a-brac
 brek brick
 bridl bridal
 brid bride
@@ -583,9 +583,9 @@ bremf brimful
 breml brimless
 brin brine
 br bring
-brink brink
-brisk brisk
-brisl bristle
+brenk brink
+bresk brisk
+bresl bristle
 bretna&' Britannia
 bretnek britannic
 bretsh British
@@ -614,7 +614,7 @@ bruk brook
 brum broom 
 bruth brother
 bruth^d brotherhood
-bruth)la brother-in-law
+bruth(la brother-in-law
 bruthen brotherliness
 brum brougham
 brau brow

@@ -87,7 +87,7 @@ fars^k farcical
 # Page 71 Column 1
 far fare
 farl farewell
-farina faina
+farina farina
 fa~m farm
 fa~mb farmable
 fa~me~ farmer
@@ -116,7 +116,7 @@ fathland fatherland
 # Page 71 Column 2
 fath)m fathom
 fath)ml fathomless
-fatig fatigue
+fateg fatigue
 fatm fatten
 fatute fatuity
 ? fatuus fatuous
@@ -224,7 +224,7 @@ feshu fichu
 fekl fickle
 fekln feckleness
 feksh fiction
-fektish fictitious
+fektesh fictitious
 fedl fiddle
 fed^l fidelity
 fejt fidget
@@ -254,7 +254,7 @@ felbus filibuster
 feleg filigree
 fel fill
 felet fillet
-felip fillip
+felep fillip
 felm film
 felmen filminess
 
@@ -417,7 +417,7 @@ foel foel
 foest foest
 fold fold
 folj foliage
-folie folio
+foleo folio
 fok folk
 fo follow
 fomn-t foment
@@ -616,7 +616,7 @@ frev^l frivolity
 frev frivolous
 frok frock
 frog frog
-frolik frolic
+frolek frolic
 fm from
 frnt front
 frntj frontage
