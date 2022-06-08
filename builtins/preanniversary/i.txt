@@ -465,7 +465,7 @@ enelu inequality
 
 # Page 96 Column 2
 ene~t intert
-enersha^' inertia
+enersha&' inertia
 ene~t-n inertness
 enestmb inestimable
 enevt inevitable
@@ -656,30 +656,30 @@ nssnt inssistent
 nsolens insolence
 nsolent insolent
 nsolb insoluabl
-ensolvse insolvency
+nsolvse insolvency
 nsolvnt insolvent
-nsomna^' insomnia
-nsomch insomuch
+nsomna&' insomnia
+n-somch insomuch
 nsp inspect
 nspsh inspection
 nsp^r inspector
 nsprash inspiration
 nspi inspire
 nst^b instability
-nstol install
-nstolash installation
+n-stol install
+n-stolash installation
 
 # Page 98 Column 3
-nstolm installment
+n-stolm installment
 ns instance
 ns instant
 nstnus insantaneous
 ns^t instead
-nstep instep
+n-step instep
 nsteg instigate
 nstegsh instigation
 nsteg^r instigator
-nste~ instill
+n-ste~ instill
 ns(tenk instinct
 ns(tenk^v instinctive
 ns(t institute

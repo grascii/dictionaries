@@ -28,7 +28,7 @@ m^n magnanimous
 
 # Page 111 Column 2
 m^at magnate
-m^sha^' magnesia
+m^sha&' magnesia
 m^t magnet
 m^tek magnetic
 m^tsm magnetism
@@ -42,7 +42,7 @@ m^fi magnify
 m^lok magniloquence
 m^lok magniloquent
 m^tu magnitude
-m^la^' magnolia
+m^la&' magnolia
 mogne mahongany
 mad maid
 madn maiden
@@ -65,7 +65,7 @@ maj^r majority
 mak make
 makr maker
 malade malady
-malara^' malaria
+malara&' malaria
 maledsh malediction
 malfaksh malefaction
 malfak malefactor
