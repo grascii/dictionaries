@@ -211,7 +211,7 @@ ilst whilst
 'uesk whisk
 'ueskrs whiskers
 'ueske whisky
-u'espr whisper
+'uespr whisper
 'uest whist
 'uesl whistle
 'uit white

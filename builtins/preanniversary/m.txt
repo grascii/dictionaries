@@ -323,7 +323,7 @@ mmo memorandum
 mmorl memorial
 mmoriz memorize
 mmore memory
-mn menace
+mnas menace
 mnajre menagerie
 mn-d mend
 mn-db mendable
@@ -429,7 +429,7 @@ men mien
 mat might
 
 # Page 116 Column 1
-mata| mightily
+mate| mightily
 maten mightiness
 migra migrate
 migrash migration

@@ -124,15 +124,15 @@ dsesh decision
 dsis decisive
 dek deck
 dekl deckle
-? dem declaim
-? demsh declamation
-? derb declarable
-? derash declaration
-? deratv declarative
-? der declare
-? densh declension
-? densh declination
-? den decline
+? de-m declaim
+? de-msh declamation
+? de-rb declarable
+? de-rash declaration
+? de-ratv declarative
+? de-r declare
+? de-nsh declension
+? de-nsh declination
+? de-n decline
 de^v declivity
 dekksh decoction
 dakolta decollete
@@ -875,7 +875,7 @@ dometre dormitory
 dos dose
 dotj dotage
 dot dote
-dup double
+dub double
 dublet doublet
 dau doubt
 dautf doubtful

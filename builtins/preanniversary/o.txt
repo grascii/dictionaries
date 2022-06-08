@@ -249,21 +249,21 @@ oth^oe orthography
 osela oscillate
 oselash oscillation
 oselatre oscillatory
-osk^u osculate
-osk^ush osculation
+os)k^u osculate
+os)k^ush osculation
 osus osseous
-ostns^b ostensibility
+os)tns^b ostensibility
 
 # Page 128 Column 2
-estns ostensible
-est-nsh ostentation
-ostn-tshus ostentatious
-ostpth osteopath
+os)tns ostensible
+os)t-nsh ostentation
+os)tn-tshus ostentatious
+os)tpth osteopath
 os^ssm ostracism
 os^ss ostracize
 os^ch ostrich
-oth other
-othi otherwise
+uth other
+uthi otherwise
 ot^o otology
 otomn ottoman
 ot ought
@@ -301,7 +301,7 @@ auuet outwit
 oval oval
 lvash ovation
 ovn oven
-? o over
+? o^ over
 o^ak overact
 o^os overalls
 o^bor overboard

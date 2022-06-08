@@ -96,16 +96,16 @@ jen^l geniality
 jena| genially
 jenetv genitive
 jenus genius
-gntel gneteel
+jntel genteel
 jensh gentian
-gntil gentile
-gnt^l gentility
-gntl gentle
-gntmn gentleman
-gnt gentlemen
-gntln gentleness
-gnte gently
-gntre gentrt
+jntil gentile
+jnt^l gentility
+jntl gentle
+jntmn gentleman
+jnt gentlemen
+jntln gentleness
+jnte gently
+jntre gentrt
 jenflsh genuflection
 jenun genuine
 jenunn genuineness
@@ -115,9 +115,9 @@ j^okl geographical
 # Page 80 Column 2
 j^oke geographically
 j^oe geography
-? j^o geologically
-j^os geologist
-? j^o geology
+? j^o( geologically
+? j^o(s geologist
+? j^o( geology
 jeom^k geometrical
 jeom geometry
 jeranem geranium
