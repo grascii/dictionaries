@@ -2,8 +2,9 @@
 nag nag
 nal nail
 nan-suk nainsook
-na&e,v naive
-na&e,vte naivete
+# Support long sound annotation?
+? na&ev naive
+? na&evte naivete
 na name
 ? nal nameless
 ? nae namely
