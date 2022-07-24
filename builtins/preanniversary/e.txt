@@ -291,28 +291,28 @@ enak enact
 enaml enamel
 enamr^t enamored
 n-kamp encamp
-n-kampmn encampment
+n-kampm encampment
 nchant enchant
 nchantr enchanter
-nchantmn enchantment
-nsekl encircle
-nkomm encomium
-nkpas encompass
-ankor encore
-nkte~ encounter
-nkrj encourage
-nkrjmn encouragement
-nkroch encroach
-nkmb encumber
-nkmbrans encumbrance
-nsiklo encyclopedia
+nchantm enchantment
+n-sekl encircle
+n-komm encomium
+n-kpas encompass
+an-kor encore
+n-kte~ encounter
+n-krj encourage
+n-krjm encouragement
+n-kroch encroach
+n-kmb encumber
+n-kmbrans encumbrance
+n-siklo encyclopedia
 nd end
 n-dnje~ endanger
 n-de~ endear
 n-dvr endeavor
 ndl endless
 ndau endow
-ndaumn endowment
+ndaum endowment
 ndrns endurance
 ndr endure
 
@@ -515,20 +515,20 @@ ets et cetera
 ech etch
 etnl eternal
 ete~^nt eternity
-? e,th ether
-? e,thl ethereal
+e,th) ether
+e,thl ethereal
 
 # Page 67 Column 1
-? e,th^l ethereality
+e,th)^l ethereality
 eth^k ethical
 etheks ethics
 ethn^oe ethnography
-? ethn^o enthnology
-? eth^o enthology
+ethn^o( ethnology
+eth^o( ethology
 eteket etiquiette
 atud etude
-? etm^o etymology
-eukloptus eucalyptus
+etm^o( etymology
+eukleptus eucalyptus
 eukres eucharist
 eukr euchre
 eujneks eugenics
@@ -536,7 +536,7 @@ euljes eulogist
 euljm eulogium
 euljiz eulogize
 eulje eulogy
-eufmsm euphemism
+eufms)m euphemism
 eufne euphony
 eu Europe
 eu^n European

@@ -144,12 +144,12 @@ om-neprens omniprescence
 om-nepres omnipresent
 om-neprev omniprevalent
 om-nesht omniscient
-ons once
-on one
-on-n oneness
+uns once
+un one
+un-n oneness
 onrus onerous
-onss oneself
-? oneun onion
+unss oneself
+? uneun onion
 one only
 onrsh onrush
 onset onset
@@ -236,9 +236,9 @@ onamsh ornamentation
 oname~ ornamentor
 onat ornate
 onat-n ornateness
-oreth^o ornithological
-oneth^os ornithologist
-? oneth^o ornithology
+oneth^o( ornithological
+oneth^o(s ornithologist
+oneth^o( ornithology
 orotnd orotund
 ofn orphan
 ofnj orphanage

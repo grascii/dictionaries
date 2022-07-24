@@ -1350,7 +1350,7 @@ kglom conglomerate
 kglomsh conglomeration
 kgrat^nt congratulant
 kgrat congratulate
-kgrat^ushn congratulation
+kgrat^ush congratulation
 kgr congregate
 kgrsh congregation
 kg congress

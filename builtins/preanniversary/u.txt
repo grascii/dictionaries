@@ -178,12 +178,12 @@ n-d^ush undulation
 une~n^t unearned
 unerthe unearthly
 unese uneasy
-neu^t uneducated
-? n-mpl^t unemployed
-nnkmb^t unencumbered
-nnga^t unengaged
-nnli^nd unenlightened
-nn^pris' unenterprising
+nedu^t uneducated
+n-mpl^t unemployed
+n-n-kmb^t unencumbered
+n-nga^t unengaged
+n-nli^nd unenlightened
+n-n^pris' unenterprising
 unekl unequal
 uner' unerring
 unevn uneven
@@ -196,7 +196,7 @@ nfam unfamiliar
 nfashb unfashionable
 nfab unfavorable
 nfand unfeigned
-nfila&'l unfilial
+nfela&'l unfilial
 nfensht unfinished
 nfet unfit
 ufold unfold

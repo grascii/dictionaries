@@ -117,7 +117,7 @@ emu^b immovable
 # Page 92 Column 2
 emu^nt immunity
 emur immure
-imutb immutable
+emutb immutable
 mpak impact
 mpar impair
 mpalp impalpable
@@ -125,11 +125,11 @@ mpanl impanel
 mpt impart
 mparsh impartial
 mparsh^l impartiality
-mparshe| impartially
+mparsha| impartially
 mpasb impassable
 mpash^b impassibility
 mpashat mipassionate
-mpash^d impassioned
+mpash^t impassioned
 mpasv immpassive
 mpashns impatience
 mpasht impatient
@@ -137,7 +137,7 @@ mpech impeach
 mpechb impeachable
 mpechm impeachment
 mpek impeccable
-mpkeum impecunious
+mpkeun impecunious
 mped impede
 mpdem impediment
 mpdema impedimenta
@@ -464,14 +464,14 @@ enelej eneligible
 enelu inequality
 
 # Page 96 Column 2
-ene~t intert
+ene~t inert
 enersha&' inertia
 ene~t-n inertness
 enestmb inestimable
 enevt inevitable
-nexak inexact
-nexaktet inexactitude
-enxkeu inexcusable
+nesak inexact
+nesaktet inexactitude
+neskeu inexcusable
 nesos inexhaustible
 nesor^b inexorability
 nesorb inexorable
@@ -483,14 +483,14 @@ nesplest inexplicit
 nespr inexpressible
 nfal^b infallibility
 nfalb infallible
-ifamus infamous
+nfamus infamous
 nfanse infancy
 nfant infant
 nfantil infantile
 jfantre infantry
 nfatut infatuate
 nfateush infatuation
-nfekus infectious
+nfekshus infectious
 
 # Page 96 Column 3
 nfelestus infelicitous
@@ -616,7 +616,7 @@ enognek inorganic
 n-kes inquest
 n-ki inquire
 n-ki^r inquirer
-? n-kie inquiry
+n-ka&e inquiry
 n-kes-sh inquisition
 n-kestv inquisitive
 n-kestvn inquisitiveness
@@ -629,7 +629,7 @@ nskr inscribe
 nskrsh inscription
 nskrutb inscrutable
 nsek insect
-enskr insecure
+nskr insecure
 nsek^r insecurity
 nsensa insensate
 nsens^b insensibility
@@ -838,10 +838,10 @@ n^sh intrusion
 n^sv intrusive
 n^st intrust
 nteush intuition
-ndeushl intuitional
+nteushl intuitional
 ntutv intuitive
-nnda inundate
-nndsh inundation
+n-nda inundate
+n-ndsh inundation
 
 # Page 100 Column 3
 enur inure

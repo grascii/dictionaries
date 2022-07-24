@@ -52,8 +52,8 @@ uod ward
 uodn warden
 uode~ warder
 uodrob wardrobe
-uars warehouse
-uarsmn warehouseman
+uars) warehouse
+uars)mn warehouseman
 uofar warfare
 uare| warily
 
@@ -166,8 +166,8 @@ otsov whatsoever
 'uedl wheedle
 'uel wheel
 'uelbaro wheelbarrow
-? 'uelus wheelhouse
-'ues wheeze
+'uels) wheelhouse
+'uez wheeze
 en when
 'uens whence
 enev whenever
@@ -186,8 +186,8 @@ aron whereon
 arsov wheresoever
 arpn whereupon
 arev wherever
-areth wherewith
-? aretho wherewithal
+areth( wherewith
+areth(o( wherewithal
 'uet whet
 'etston whetstone
 'ua whey
@@ -220,7 +220,7 @@ ilst whilst
 'uitn whiten
 'uitn whiteness
 'uito_sh whitewash
-ueth whither
+'ueth whither
 'uetl whittle
 'u who
 'uv whoever
@@ -307,7 +307,7 @@ uech witch
 uechkraft witchcraft
 uechre witchery
 eth with
-? etho withal
+etho( withal
 ethd withdraw
 ethdl withdrawal
 ethd withdrew
@@ -323,8 +323,8 @@ uetss witticism
 uete| wittily
 ueten wittiness
 uete witty
-uesad wizard
-uesn wizen
+uezad wizard
+uezn wizen
 uobgn woebegone
 uof woeful
 uofn woefulness

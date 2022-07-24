@@ -1,7 +1,7 @@
 # Page 85 Column 1
 'abe~dashe~ haberdasher
 'abelem habiliment
-'abileta habilitate
+'abeleta habilitate
 'abt habit
 'abtb habitable
 'abtn-t habitant
@@ -10,20 +10,20 @@
 'abtut habituate
 'ak hack
 'akne hackney
-'adok haddock
+'aduk haddock
 'ag hag
 'aga~d haggard
 'agl haggle
 'al hail
-'alstom haistorm
+'al-stom hailstorm
 'ar hair
-'alsen halcyon
+'al-sen halcyon
 'af half
 'albt halibut
 'ol hall
 'alo hallow
 'aloen halloween
-'ausnat hallucinate
+'alusnat hallucinate
 'alusnsh hallucination
 
 # Page 85 Column 2
@@ -229,13 +229,13 @@ erb herb
 'eu hew
 
 # Page 87 Column 3
-'eum hewn
-'exgn hexagon
+'eun hewn
+'esgn hexagon
 'a&etus hiatus
 'ibe~nl hibernal
 'ibe~nat hibernate
 'ibe~nsh hibernation
-'ekuf hiccough
+'ekup hiccough
 'ekre hickory
 'edn hidden
 'id hide
@@ -245,9 +245,9 @@ erb herb
 'ir higher
 'is highest
 'iland highland
-? 'ie highly
+'a&e highly
 'in highness
-'i^ua highway
+? 'i^ua highway
 'ilarus hilarious
 'il^r hilarity
 'el hill
@@ -417,7 +417,7 @@ ausov howsoever
 'eumnes humanist
 'eumnet humanitarian
 'eum^nt humanity
-'eumm-n humanness
+'eumn-n humanness
 'umb humble
 'umbg humbug
 'um-drm humdrum

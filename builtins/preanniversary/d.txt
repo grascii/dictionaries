@@ -813,11 +813,11 @@ dvin divine
 dv^nt divinity
 
 # Page 58 Column 2
-dveb divisible
-dvish division
+dvesb divisible
+dvesh division
 dvos divorce
 dvlj divulge
-dze dizzy
+deze dizzy
 du do
 dosel docile
 dos^l docility
@@ -829,7 +829,7 @@ dokt doctrine
 dokm document
 doj dodge
 doje~ dodger
-dus dose
+dus does
 dog dog
 dogede| doggedly
 dogrel doggerel
@@ -839,7 +839,7 @@ dogm^a| dogmatical
 dogmat dogmatism
 dogmatiz dogmatize
 doele doily
-do^s( doings
+du^s( doings
 
 # Page 58 Column 3
 dolf doleful
