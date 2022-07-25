@@ -138,16 +138,18 @@ if __name__ == "__main__":
     with args.input_csv as csv_file:
         with args.output_file as out:
             reader = csv.DictReader(csv_file)
-            count = 0
+            total_count = 0
+            success_count = 0
             for row in reader:
                 converted = convert(row["form"])
                 if converted:
-                    count += 1
+                    success_count += 1
                     out.write(converted)
                     out.write(" ")
                     out.write(row["word"])
                     out.write("\n")
                 else:
                     print(row["word"], row["form"], transform(row["form"]))
+                total_count += 1
 
-        print(count)
+        print(f"Successfully converted {success_count}/{total_count} ({success_count / total_count * 100:.2f}%)")
