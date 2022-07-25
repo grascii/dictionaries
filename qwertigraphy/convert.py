@@ -8,19 +8,27 @@ from functools import partial
 from grascii import grammar
 
 stroke_map = {
+        "c": "CH",
         "ch": "CH",
         "df": "DF",
+        "dm": "DM",
+        "dn": "DN",
         "ea": "A&'",
+        "eu": "EU",
         "h": "'",
         "ia": "A&E",
         "jnt": "JNT",
         "ld": "LD",
+        "rd": "RD",
         "mn": "MN",
         "mt": "MT",
+        "nd": "ND",
         "ng": "NG",
         "nk": "NK",
         "nt": "NT",
+        "oe": "OE",
         "sh": "SH",
+        "s2h": "SH",
         "ss": "SS",
         "td": "TD",
         "th": "TH",
@@ -79,28 +87,28 @@ stroke_map = {
         "fl": "FL",
         "fr": "FR",
         "xs": "XS",
-        "ss2": "SS)", # base direction on the lower s
+        "ss2": "SS(",  # base direction on the lower s
+        "s2s": "SS)",  # base direction on the lower s
         "o1": "O",
         "o2": "O(",
         "ea2": "A&E~",
         "ye2": "E~|",
         "ya2": "A~|",
+        "yi2": "I~|",
+        "<": "\\",
+        "": "",
 }
 
 SUBSTITUTIONS = [
-    partial(re.compile(r"\^-\\-h").sub, "h"),
-    partial(re.compile(r"\\-h-e$").sub, "/-e"),
-    partial(re.compile(r"\\-h-s$").sub, "/-s2"),
-    partial(re.compile(r"\\-h").sub, "h"),
-    # supp
-    partial(re.compile(r"dfl").sub, "df-l"),
-
-    partial(re.compile(r"\\^-\\-h").sub, "h"),
-    # core
-    partial(re.compile(r"dfr").sub, "df-r"),
+    partial(re.compile(r"\^-h-\\").sub, "h"),  # leading aspirate
+    partial(re.compile(r"\\-h").sub, "h"),  # ending -ing
+    partial(re.compile(r"s22").sub, "s2"),  # correct a probable typo
 ]
 
 def transform(form):
+    if form.startswith("^-"):
+        # handle prefixes
+        form = form[2:] + "-/"
     for sub in SUBSTITUTIONS:
         form = sub(form)
     return form
@@ -109,7 +117,7 @@ def convert(form):
     form = transform(form)
     tokens = form.split('-')
     try:
-        tokens = list(map(lambda s: stroke_map[s], tokens))
+        tokens = list(map(lambda s: stroke_map[s.lower()], tokens))
     except KeyError:
         return
     return join(tokens)
