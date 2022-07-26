@@ -17,6 +17,7 @@ stroke_map = {
         "dm": "DM",
         "dn": "DN",
         "ea": "A&'",
+        "e2a": "A&'",
         "eu": "EU",
         "h": "'",
         "ia": "A&E",
@@ -106,10 +107,11 @@ SUBSTITUTIONS = [
     partial(re.compile(r"\^-h-\\").sub, "h"),  # leading aspirate
     partial(re.compile(r"\\-h").sub, "h"),  # ending -ing
     partial(re.compile(r"s22").sub, "s2"),  # correct a probable typo
+    partial(re.compile(r"w-([aeiou12]+)").sub, r"\1-w")  # reorder w's
 ]
 
 def transform(form):
-    if form.startswith("^-"):
+    if form.startswith("^-") and not form.startswith("^-h"):
         # handle prefixes
         form = form[2:] + "-/"
     for sub in SUBSTITUTIONS:
@@ -136,6 +138,7 @@ def convert(form):
     return join(tokens)
 
 def join(tokens):
+    tokens = list(filter(lambda s: s, tokens))  # remove empty strings
     exceptions = {"OE", "EU"}
     builder = []
     for i in range(len(tokens)):
@@ -155,6 +158,7 @@ if __name__ == "__main__":
     parser.add_argument('input_csv', type=argparse.FileType())
     parser.add_argument('output_file', type=argparse.FileType('w'))
     args = parser.parse_args(sys.argv[1:])
+    validator = GrasciiValidator()
 
     with args.input_csv as csv_file:
         with args.output_file as out:
@@ -163,14 +167,14 @@ if __name__ == "__main__":
             success_count = 0
             for row in reader:
                 converted = convert(row["form"])
-                if converted:
+                if converted and validator.validate(converted):
                     success_count += 1
                     out.write(converted)
                     out.write(" ")
                     out.write(row["word"])
                     out.write("\n")
                 else:
-                    print(row["word"], row["form"], transform(row["form"]))
+                    print(row["word"], row["form"], transform(row["form"]), converted)
                 total_count += 1
 
         print(f"Successfully converted {success_count}/{total_count} ({success_count / total_count * 100:.2f}%)")
