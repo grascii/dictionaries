@@ -2,6 +2,7 @@
 ok oak
 or oar
 orl oarless
+orsmn oarsman
 oss oasis
 oth oath
 ot-mel oatmeal
@@ -41,9 +42,10 @@ obloke obloquy
 obnox obnoxious
 obskr obscure
 obsk^r obscurity
-obsek obesequious
+obsek obsequious
 obse^b observable
 obse~ns observance
+obse^nt observant
 obsesh observation
 obse^re observatory
 obse observe
@@ -75,7 +77,7 @@ kash occasion
 kashl occasional
 oksednl occidental
 oklt occult
-okltsh occulation
+okltsh occultation
 okpse occupancy
 okpnt occupant
 okp occupation
@@ -115,7 +117,7 @@ os) office
 os)^r officeholder
 os)r officer
 oshl official
-osha| offically
+osha| officially
 osha&'t officiate
 oshus officious
 ofset offset
@@ -127,22 +129,24 @@ oelen oiliness
 oent-m ointment
 old old
 oldn olden
-oleom oleomarine
+oleom oleomargarine
 olfaktre olfactory
 oleg oligarchy
 olev olive
 omlet omelet
 omn omen
 omnus ominous
+omsh omission
 omet omit
 om-nebus omnibus
 om-neptns omnipotence
 om-nep omnipotent
 
 # Page 126 Column 3
-om-neprens omniprescence
+om-neprens omnipresence
 om-nepres omnipresent
 om-neprev omniprevalent
+om-neshns omniscience
 om-nesht omniscient
 uns once
 un one
@@ -180,12 +184,12 @@ opon opponent
 oprtn opportune
 oprtnes opportunist
 opr opportunity
-opo^b oppisability
+opo^b opposability
 opob opposable
 opo oppose
 opo^r opposer
 opos opposite
-oposh oppisition
+oposh opposition
 opostv oppositive
 opres oppress
 opresh oppression
@@ -195,6 +199,35 @@ opresr oppressor
 oprbrem opprobrium
 optek optic
 opt^k optical
+
+# Page 127 Column 2
+optsh optician
+optmesm optimism
+optmes optimist
+optm^st optimistic
+opsh option
+opshl optional
+oplens opulence
+oplent opulent
+or^k oracle
+orakeu oracular
+orl oral
+onj orange
+orash oration
+oratr orator
+oratl^k oratorical
+oratreo oratorio
+oratre oratory
+orb orb
+orbt orbit
+oche~d orchard
+oche~des orchardist
+okestra orchestra
+okestrl orchestral
+odan ordain
+odanb ordainable
+odane~ ordainer
+odanm ordainment
 
 # Page 127 Column 3
 odel ordeal
@@ -228,7 +261,7 @@ orejnat originate
 # Page 128 Column 1
 orejnsh origination
 orejnatv originative
-orejnatr oringinator
+orejnatr originator
 oreol oriole
 onam ornament
 oma^m ornamental

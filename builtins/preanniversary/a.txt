@@ -153,9 +153,11 @@ as^a acetic
 asetus acetous
 asetlen acetylene
 achev achieve
+akrom^a achromatic
 akrom^a|e achromatically
 ased acid
 asedte acidity
+ased^u acidulate
 asedlus acidulous
 ak acknowledge
 akm acknowledgment
@@ -284,6 +286,7 @@ avusn advantageousness
 avnt advent
 avntshus adventitious
 avntr adventure
+avntrr adventurer
 avntrus adventurous
 averb adverb
 avesre adversary

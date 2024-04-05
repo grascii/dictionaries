@@ -1,12 +1,13 @@
 # Page 121 Column 1
 nag nag
 nal nail
+nalr nailer
 nan-suk nainsook
 # Support long sound annotation?
 ? na&ev naive
 ? na&evte naivete
 na name
-? nal nameless
+? na-l nameless
 ? nae namely
 nap nap
 napre napery
@@ -106,10 +107,10 @@ nabr^d neighborhood
 nabren neighborliness
 neth neither
 nemss Nemesis
-ne^osm nelolgism
-? ne^os neologist
-? ne^oz neologize
-? ne^o neology
+ne^o(sm neologism
+ne^o(s neologist
+ne^o(z) neologize
+ne^o( neology
 nefit neophyte
 nefeu nephew
 
@@ -198,17 +199,18 @@ nonjenarn nonagenarian
 nonaprns nonappearance
 nonari nonarrival
 nonshalant nonchalant
+non-kbatnt noncombatant
 
 # Page 123 Column 2
-nonkmsht noncommissioned
-nonkmet noncommital
-nonkpli noncompliance
-nonkdtr nonconductor
-nonkfm' nonconforming
-nonkfmes noncomformist
-nonkf^mt nonconformity
-nonktaj noncontagious
-nonktn noncontent
+non-kmsht noncommissioned
+non-kmet noncommital
+non-kpli noncompliance
+non-kdtr nonconductor
+non-kfm' nonconforming
+non-kfmes nonconformist
+non-kf^mt nonconformity
+non-ktaj noncontagious
+non-ktn noncontent
 nondskr nondescript
 nun none
 nonent nonentity
@@ -277,6 +279,7 @@ nuklus nucleus
 # Page 124 Column 2
 nuj nudge
 nugtre nugatory
+nuget nugget
 nusns nuisance
 nul null
 nul^f nullification

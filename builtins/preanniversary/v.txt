@@ -18,8 +18,9 @@ vagrnse vagrancy
 vagrnt vagrant
 vag vague
 vagn vagueness
+vanglos) vainglorious
 vanglo vainglory
-vann vainness
+van-n vainness
 valans valance
 valedsh valediction
 valedek valedictorian
@@ -249,12 +250,12 @@ velj village
 velje~ villager
 velen villain
 velenus villainous
-velene villany
+velene villainy
 velefm villiform
 venagret vinaigrette
 vensb vincible
 venkulm vinculum
-vndek vidicate
+vndek vindicate
 vdekatv vindicative
 vndekatr vindicator
 
@@ -304,7 +305,7 @@ veb visible
 vesh vision
 veshre visionary
 vest visit
-vestsh visition
+vestsh visitation
 vestr visitor
 vesr visor
 vesta vista
@@ -379,7 +380,7 @@ voens voidance
 volant volant
 volatl volatile
 volatln volatileness
-volatliz volatlilize
+volatliz volatilize
 volknek volcanic
 volkn^s) volcanicity
 volknes volcanist

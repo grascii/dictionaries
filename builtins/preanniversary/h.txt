@@ -45,6 +45,7 @@
 'ansm handsome
 'ndri' handwriting
 'nde handy
+'ang hang
 'anga~ hangar
 'ank hank
 'anke~ hanker
@@ -208,7 +209,7 @@ erb herb
 'er^a heretic
 'er^a| heretical
 'e~tf heretofore
-'e~nto hereunto
+'e~n-to hereunto
 'e~th herewith
 'e~tj heritage
 'e~m^a| hermetical
@@ -222,9 +223,9 @@ erb herb
 'ers herself
 'estnse hesitancy
 'estn-t hesitant
-'esta hestitate
-'esta^e hestitatingly
-'estsh hestitation
+'esta hesitate
+'esta^e hesitatingly
+'estsh hesitation
 'etrojen heterogeneous
 'eu hew
 
@@ -369,13 +370,13 @@ onrre honorary
 'ors-shu horseshoe
 'oteklchu^l horticultural
 'oteklchu horticulture
-'osana hosana
+'osana hosanna
 'os hose
 'sre hosiery
 
 # Page 89 Column 2
 'osptb hospitable
-'osptl hostpital
+'osptl hospital
 'ospt^l hospitality
 'os)t host
 'os)tj hostage

@@ -10,9 +10,9 @@ faseshus facetious
 fashl facial
 fasl facile
 faslet facilitate
-fasletsh faciliation
+fasletsh facilitation
 fas^l facility
-faksem facsimily
+faksem facsimile
 fak fact
 faksh faction
 fakshus factious
@@ -46,13 +46,13 @@ fokn falcon
 fo fall
 falashus fallacious
 false fallacy
-fon faooen
+fon fallen
 fal^b fallibility
 falb fallible
 falo fallow
 fos false
 fos^d falsehood
-foseto falsetto
+fo-seto falsetto
 fos^f falsification
 
 # Page 70 Column 3
@@ -148,12 +148,12 @@ fedrl federal
 fedrlsm federalism
 fedrles federalist
 fedra federate
-fedrash federaton
+fedrash federation
 fe fee
 feb feeble
 febn feebleness
 fed feed
-fedl feddl
+fel feel
 fedl^e feelingly
 fan feign
 fand feigned
@@ -222,7 +222,7 @@ fibr fiber
 fiberos fibrous
 feshu fichu
 fekl fickle
-fekln feckleness
+fekln fickleness
 feksh fiction
 fektesh fictitious
 fedl fiddle
@@ -236,11 +236,11 @@ feld field
 fend fiend
 fendsh fiendish
 fers fierce
-fersm fiercemess
+fersn fierceness
 firen fieriness
 fire fiery
 fif fife
-feg feg
+feg fig
 fit fight
 fegmn figment
 fgratv figurative
@@ -267,7 +267,7 @@ fen fin
 finl final
 ? fenala finale
 fina| finally
-fenans fincance
+fenans finance
 fenan financial
 fenanser financier
 fi find
@@ -294,7 +294,7 @@ fesra first-rate
 feskl fiscal
 fesh fish
 feshe~ fisher
-? feshee fishery
+? feshe~e fishery
 feshu fissure
 fest fist
 fet fit
@@ -302,7 +302,7 @@ fetf fitful
 fete~ fitter
 fex fix
 fextv fixative
-fextr fexture
+fextr fixture
 fezl fizzle
 flabe flabby
 flaksed flaccid
@@ -327,7 +327,7 @@ flat flat
 flat-n flatness
 flatn flatten
 flate~ flatter
-? flatee flattery
+? flate~e flattery
 flont flaunt
 flavr flavor
 flo flaw
@@ -340,6 +340,7 @@ fleksh flection
 fled fled
 flej fledge
 fle flee
+fles fleece
 flet fleet
 flet-n fleetness
 flesh flesh
@@ -351,17 +352,18 @@ felxb flexible
 flekr flicker
 flir flier
 fli flight
-? flemsen flimsiness
+? flemse-n flimsiness
 flemse flimsy
 flench flinch
 fleng fling
 flent flint
 flep flip
 flepse flippancy
-flepnt fleppant
+flepnt flippant
 fle~t flirt
 fle~tsh flirtation
 flet flit
+flot float
 flok flock
 flo floe
 flog flog 
@@ -413,16 +415,19 @@ fo foe
 fog fog
 foge foggy
 foeb foible
-foel foel
-foest foest
+foel foil
+foest foist
 fold fold
 folj foliage
 foleo folio
 fok folk
 fo follow
+fo^r follower
+fole folly
 fomn-t foment
 fomn-tsh fomentation
 fond fond
+fondl fondle
 fond-n fondness
 fud food
 ful fool
@@ -444,7 +449,7 @@ fseps forceps
 fss forces
 fsb forcible
 fd ford
-f^a~m forarm
+f^a~m forearm
 fbod forebode
 fkas forecast
 fkls foreclose
@@ -468,6 +473,7 @@ forensk forensic
 f^odan foreordain
 frne~ forerunner
 fsed foresaid
+fse foresee
 fse foresce
 fshado foreshadow
 fsi foresight
@@ -477,10 +483,11 @@ forestsh forestation
 foreste~ forester
 forestre forestry
 ftas foretaste
-fte~ fortell
+fte~ foretell
 fthot forethought
 f^ev forever
 fuon forewarn
+f^umn forewoman
 f^ud foreword
 ffet forfeit
 ffetr forfeiture
@@ -489,7 +496,7 @@ ffetr forfeiture
 fga forgave
 fj forge
 fje~ forger
-? fjee forgery
+? fje~e forgery
 fget forget
 fgetf forgetful
 fgetfn forgetfulness
@@ -500,13 +507,15 @@ fgt forgot
 fgtn forgotten
 fork fork
 f-lon forlorn
+fm form
 fml formal
 fm^l formality
 fmsh formation
 fme~ former
-? fmee formerly
+? fme~e formerly
 fmedb formidable
 fmula formula
+fm^u formulate
 fsak forsake
 fsuth forsooth
 fsa_r forswear
@@ -542,7 +551,7 @@ faul fowl
 fox fox
 
 # Page 76 Column 2
-? f foyer
+? ! foyer
 frakas fracas
 fraksh fraction
 frakshl fractional
@@ -553,7 +562,7 @@ fragm fragment
 fragmre fragmentary
 frag fragrance
 fral frail
-fr^l fraility
+fr^l frailty
 fram frame
 frank franc
 frans France
@@ -669,14 +678,14 @@ fngus fungus
 fnl funnel
 fne funny
 fur fur
-fblo forbelow
+fblo furbelow
 fbesh furbish
 feurus furious
 f-l furl
 f-lng furlong
 f-lo furlough
 fnas furnace
-fjesh furnish
+fnesh furnish
 fneshe~ furnisher
 fnetr furniture
 feurr furor

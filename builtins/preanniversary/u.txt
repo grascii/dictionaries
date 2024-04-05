@@ -15,10 +15,11 @@ uter ulterior
 utm ultimate
 utmatm ultimatum
 ut ultimo
-? u^sm ultraism
-? u^maren ultramarine
-? u^mon ultramontane
-? u^vil ultraviolet
+u)^sm ultraism
+u)^st ultraist
+u)^maren ultramarine
+u)^mon ultramontane
+u)^vil ultraviolet
 ul^u ululate
 ul^ush ululation
 mbrj umbrage
@@ -30,18 +31,18 @@ nb unable
 # Page 190 Column 2
 unabrejd unabridged
 naksb unacceptable
-nakmt' unaccommodating
+nakdt' unaccommodating
 nakp^t unaccomplished
 naktb unaccountable
 nakus^t unaccustomed
-naka^t unaquainted
+naka^t unacquainted
 unadon^t unadorned
 unafkt unaffected
 unadd unaided
 unaloed unalloyed
-? no^b unalterable
+? no(^b unalterable
 unam un-american
-? eunam^mt unanimity
+eunan^mt unanimity
 eunan unanimous
 nansb unanswerable
 nans^t unanswered
@@ -103,7 +104,7 @@ nkshus unconscious
 nksm^t unconsumed
 nktes uncontested
 nk^d uncontradicted
-nk^l uncontrolable
+nk^l uncontrollable
 nk^ve~t uncontrovertible
 nkvenst unconvinced
 nkr^t uncorrected
@@ -129,7 +130,7 @@ u^ke~nt undercurrent
 u^kut undercut
 u^d-n underdone
 u^estm underestimate
-u^g under go
+u^g undergo
 u^grad undergraduate
 u^gr underground
 u^groth undergrowth
@@ -204,12 +205,12 @@ nftn unfortunate
 nfnd^t unfounded
 
 # Page 192 Column 2
-nfrutf unfuitful
+nfrutf unfruitful
 nfnesht unfurnished
 n-gane ungainly
 n-gv ungovernable
 n-grashus ungracious
-n-gram^a| ungramatical
+n-gram^a| ungrammatical
 n-gratf ungrateful
 ? unge_nt unguent
 ungula ungula
@@ -243,7 +244,7 @@ nn-tnsh unintentional
 nn^s' uninteresting
 eun union
 eunsm unionism
-eunes unoinist
+eunes unionist
 eunek unique
 eunsn unison
 eunet unit
@@ -251,6 +252,7 @@ eunetarn unitarian
 euni unite
 eu^nt unity
 eunv universal
+eunvsm universalism
 eunvst universalist
 eunves universe
 eunveste university

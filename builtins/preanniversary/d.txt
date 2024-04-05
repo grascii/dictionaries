@@ -535,7 +535,7 @@ djes digest
 djesb digestible
 djesh digestion
 djestv digestive
-degr differ
+degr digger
 dejt digit
 degnef dignify
 deg^re dignitary
@@ -931,7 +931,7 @@ dreser dresser
 # Page 59 Column 3
 drese dressy
 dreft drift
-drel drell
+drel drill
 drenk drink
 drep drip
 driv drive
@@ -979,7 +979,7 @@ duma duenna
 duet duet
 dug dug
 deuk duke
-dukset dukcet
+dulset dulcet
 duk dull
 
 # Page 60 Column 2
@@ -1014,7 +1014,7 @@ dusten dustiness
 dustl dustless
 dch Dutch
 dtus duteous
-dte^b dubtiable
+dte^b dutiable
 dtes duties
 ? dtef dutiful
 dte duty

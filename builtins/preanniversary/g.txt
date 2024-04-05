@@ -32,6 +32,7 @@ ganga_ gangway
 gap gap
 garash garage
 grb garb
+grbj garbage
 ga~dn garden
 ga~dnr gardener
 gagl gargle
@@ -105,7 +106,7 @@ jntmn gentleman
 jnt gentlemen
 jntln gentleness
 jnte gently
-jntre gentrt
+jntre gentry
 jenflsh genuflection
 jenun genuine
 jenunn genuineness
@@ -151,6 +152,7 @@ jig^n gigantic
 gegl giggle
 geld gild
 jel gill
+gelt gilt
 gemlet gimlet
 jen gin
 jenje~ ginger
@@ -183,10 +185,11 @@ glans glance
 gland gland
 glar glare
 glas glass
-gla,z glaze
+gla,z, glaze
 glem gleam
 gle,n glean
 gle glee
+glen glen
 gleb glib
 glid glide
 gleme~ glimmer
@@ -281,7 +284,7 @@ grasf graceful
 grasl graceless
 grashus gracious
 grashusn graciousness
-gradsh graduation
+gradsh gradation
 gra grade
 grad gradual
 
@@ -307,7 +310,7 @@ g^muth grandmother
 granj grange
 granet granite
 grant grant
-gran^n granualte
+gran^n granulate
 granul granule
 grap grape
 graf^k graphical
@@ -365,8 +368,10 @@ gremas grimace
 grim grime
 grem grin
 grind grind
+grep grip
 grese| grisly
 grest grist
+gresl gristle
 gret grit
 greten grittiness
 

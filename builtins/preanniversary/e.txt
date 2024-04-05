@@ -39,8 +39,8 @@ esn^s) eccentricity
 ekles^st ecclesiastic
 ekles^stl ecclesiastical
 eko echo
-eklar eclair
-ekla eclat
+aklar eclair
+akla eclat
 eklek eclectic
 ekleps eclipse
 ekleptek ecliptic
@@ -60,7 +60,7 @@ ej edge
 edi_s edgewise
 ed^b edibility
 edb edible
-edek edct
+edek edict
 ed^f edification
 edfes edifice
 edfi edify
@@ -76,7 +76,7 @@ edu^l educational
 edu^v educative
 edu^r educator
 edus educe
-efas effface
+efas efface
 efasb effaceable
 efasmn effacement
 fk effect
@@ -115,13 +115,13 @@ egtsm egotism
 egots egotist
 
 # Page 62 Column 2
-eft^stl egotistical
+egt^stl egotistical
 egrejus egregious
-egres efress
+egres egress
 ejep Egypt
 ejepsh Egyptian
 ide~ eider
-eth either
+eth) either
 ejak^u ejaculate
 ejak^ush ejaculation
 ejak^ur ejaculator
@@ -161,12 +161,12 @@ el^ler electrolier
 el^lss electrolysis
 el^liz electrolyze
 elm^t electromagnet
-el^nete~ electrometer
-el^ptne electropathy
+el^mete~ electrometer
+el^pthe electropathy
 el^p electroplate
 el^t electrotype
 el^m electrum
-elemus eleemosymary
+elemos eleemosymary
 elegns elegance
 eleg elegant
 eleje elegy
@@ -212,7 +212,7 @@ lsar elsewhere
 elusedt elucidate
 elusedsh elucidation
 elud elude
-elusv dlusive
+elusv elusive
 emasha&'t emaciate
 emasha&'^t emaciated
 emasha&'sh emaciation
@@ -763,9 +763,9 @@ es^ksh extraction
 es^di extradite
 es^dsh extradition
 es^nus extraneous
-es^odn ordinary
-es^v extravagant
+es^odn extraordinary
 es^v extravagance
+es^v extravagant
 es^m extreme
 es^mes extremist
 es^mt extremity

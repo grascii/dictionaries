@@ -10,7 +10,7 @@ mashn machine
 mashnre machinery
 mashnes machinist
 makrl mackerel
-m^ntosh machintosh
+m^ntosh mackintosh
 makrn macron
 madm madam
 madn madden
@@ -31,8 +31,10 @@ m^at magnate
 m^sha&' magnesia
 m^t magnet
 m^tek magnetic
-m^tsm magnetism
-m^sisb magnetizable
+m^t-sm magnetism
+m^tizb magnetizable
+m^tezsh magnetization
+m^tiz magnetize
 m^fib magnifiable
 m^fkash magnification
 m^f magnificence
@@ -43,17 +45,17 @@ m^lok magniloquence
 m^lok magniloquent
 m^tu magnitude
 m^la&' magnolia
-mogne mahongany
+mogne mahogany
 mad maid
 madn maiden
 ma~ mail
 ma~^b mailable
 mam maim
-mand maimed
+mamd maimed
 man main
 manland mainland
 mntn maintain
-mntmb maintainable
+mntnb maintainable
 
 # Page 111 Column 3
 mntnans maintenance
@@ -77,6 +79,7 @@ males malice
 malesh malicious
 malin malign
 malegse malignancy
+maleg malignant
 mal^b malleability
 malb malleable
 mala^'sh malleation
@@ -168,6 +171,7 @@ ma~t mart
 martn marten
 marshl martial
 ma~tnet martinet
+ma~te~ martyr
 
 # Page 113 Column 1
 ma~trdm martyrdom
@@ -185,6 +189,7 @@ masnre masonry
 maskrad masquerade
 maskrade~ masquerader
 mas mass
+maskr massacre
 masash massage
 masv massive
 masvn massiveness
@@ -193,7 +198,7 @@ mas master
 mastf masterful
 mastl masterless
 mastlen masterliness
-? mastee masterly
+? maste~e masterly
 mastpes masterpiece
 mastre mastery
 mastk masticate
@@ -209,8 +214,9 @@ mach match
 machb matchable
 machl matchless
 ma^l material
-ma^lsm materialism
+ma^l-sm materialism
 ma^les materialist
+ma^l^st materialistic
 ma^liz materialize
 ma^le materially
 ma^nl maternal
@@ -235,12 +241,12 @@ mosolem mausoleum
 mov mauve
 maxm maxim
 maxmiz maximize
-maxmn maximum
+maxmm maximum
 ma may
 mamas mayonnaise
 mar mayor
 marl mayoral
-mar^l mayorlty
+mar^l mayoralty
 medo meadow
 megr meager
 mel meal
@@ -256,27 +262,27 @@ meshub measurable
 meshubn measureableness
 
 # Page 114 Column 1
-meshr measure
+meshu measure
 meshul measureless
 meshum measurement
 met meat
 mekan mechanic
 mekan^k mechanical
 mekansh mechanician
-mekansm kechanism
-mekanes machanist
+mekansm mechanism
+mekanes mechanist
 medl medal
 medaln medallion
 medlr meddler
 medlsm meddlesome
-meda^'t mediate
+meda&'t mediate
 meda&'sh mediation
 meda&'tr mediator
 med^k medical
 medek medicate
 medeksh medication
 medes medicinal
-medsn medicine
+med-sn medicine
 medev medieval
 medokr mediocre
 medok^r mediocrity
@@ -300,7 +306,7 @@ melratr meliorator
 melo mellow
 melon mellowness
 meloe mellowy
-melodn melondeon
+melodn melodeon
 melodus melodious
 melodram melodrama
 melode melody
@@ -328,6 +334,7 @@ mnajre menagerie
 mn-d mend
 mn-db mendable
 mn-dash mendacious
+mn-d^s mendacity
 mn-deknse mendicancy
 mndek mendicant
 mna&'l menial
@@ -371,11 +378,11 @@ me~mad mermaid
 me~m merriment
 
 # Page 115 Column 2
-meren merrienss
+meren merriness
 mere merry
 mesh mesh
 mesmrk mesmeric
-mesmr-zm mesmerism
+mesmr-sm mesmerism
 mesmriz mesmerize
 mesmrizer mesmerizer
 mesj message
@@ -395,7 +402,7 @@ metor meteor
 metork meteoric
 metor^k meteorical
 metori meteorite
-? metor^o meteorology
+metor^o( meteorology
 ? me meter
 me^j meterage
 
@@ -406,7 +413,7 @@ methdes Methodist
 me^k metric
 me^kl metrical
 me^sh metrician
-? me^o metrology
+me^o( metrology
 me^pol metropole
 me^p metropolis
 me^ptn metropolitan
@@ -445,17 +452,17 @@ meleta militate
 melesh militia
 melk milk
 mel mill
-? melena&'~n millenarian
+melena&'~n millenarian
 melnre millenary
 melenl millennial
-melemen milennium
+melenem millennium
 melr miller
 melne~ milliner
 ? melne~e millinery
 meln million
 melna~ millionaire
 melston millstone
-mne^o mimeograph
+mme^o mimeograph
 
 # Page 116 Column 2
 mmek mimic
@@ -501,8 +508,8 @@ merthf mirthful
 merthl mirthless
 msanthrp misanthrope
 msanthrpe misanthropy
-msaprensh misaprehension
-msaprpra^'t misappropriate
+msaprensh misapprehension
+msaprpra&'t misappropriate
 msb'av misbehave
 mselan miscellaneous
 mselane miscellany
@@ -513,7 +520,7 @@ mskdu misconduct
 msks^ksh misconstruction
 ? msns misconstrue
 msknt miscount
-mskra^'nt miscreant
+mskra&'nt miscreant
 
 # Page 117 Column 1
 msdm misdemeanor
@@ -593,9 +600,10 @@ molass molasses
 mold mold
 molekeu molecule
 moles molest
-moles-sh moestation
+moles-sh molestation
 molef^b mollifiable
 mol^f mollification
+molef^r mollifier
 molef mollify
 mom moment
 momre| momentarily
@@ -657,7 +665,7 @@ m more
 ? m^o moreover
 mrg morgue
 mn' morning
-morok moracco
+morok Morocco
 
 # Page 118 Column 3
 moros morose
@@ -678,6 +686,7 @@ mosak mosaic
 mosk mosque
 mosketo mosquito
 mos moss
+mo most
 moth moth
 muth mother
 muthlo mother-in-law
@@ -711,7 +720,7 @@ mon mown
 mch much
 muslj mucilage
 muk muck
-mukus mucus
+mukus mucous
 mud mud
 muden muddiness
 mudl muddle
@@ -747,7 +756,7 @@ murl mural
 
 # Page 119 Column 3
 me~de~ murder
-me~de~^r murderur
+me~de~^r murderer
 me~drus murderous
 merke murky
 me~me~ murmur
@@ -762,7 +771,7 @@ musek music
 mus^k musical
 musesh musician
 muskete~ musketeer
-muslen musline
+muslen muslin
 ms must
 mustash mustache
 mustang mustang
@@ -782,7 +791,7 @@ mutlash mutilation
 mutlatr mutilator
 mutnr mutineer
 mutnus mutinous
-meutne muntiny
+meutne mutiny
 mutn mutton
 mutl mutual
 

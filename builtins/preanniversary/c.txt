@@ -645,6 +645,7 @@ kromotip chromotype
 kronek chronic
 kron^k chronicle
 kron^kr chronicler
+kron^o chronograph
 kron^or chronographer
 kron^ok chronographic
 kron^o( chronologic
@@ -1184,6 +1185,7 @@ kpresb compressible
 kpresh compression
 kpresv compressive
 kpresr compressor
+kpris comprise
 kprmis compromise
 k^lr comptroller
 
@@ -1428,17 +1430,17 @@ kssnt consistent
 kssre consistory
 ksolb consolable
 ksolash consolation
-ksol console
-ksoled consolidate
-ksoledsh consolation
+k-sol console
+k-soled consolidate
+k-soledsh consolidation
 ksma consomme
 ksn consonant
 ksnl consonantal
-ksot consort
-kspk conspicuous
-ksprase conspiracy
-kspratr conspirator
-kspi conspire
+k-sot consort
+k-spk conspicuous
+k-sprase conspiracy
+k-spratr conspirator
+k-spi conspire
 kstb constable
 kstnse constancy
 kstn constant
@@ -1475,7 +1477,7 @@ ksulr consular
 ks^u consulate
 ksulsh consulship
 ksu consult
-ksush consulation
+ksush consultation
 ksmb consumable
 ksm consume
 ksme~ consumer
@@ -1711,7 +1713,7 @@ koredr corridor
 korej^b corrigibility
 korej corrigible
 krob^nt corroborant
-krob corrobrate
+krob corroborate
 krobsh corroboration
 
 # Page 44 Column 3

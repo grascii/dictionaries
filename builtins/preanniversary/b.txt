@@ -105,6 +105,7 @@ bass basis
 basket basket
 barelef bas-relief
 bas bass
+bast baste
 bastnado bastinado
 bat bat
 bach batch
@@ -567,6 +568,7 @@ brekbrak bric-a-brac
 brek brick
 bridl bridal
 brid bride
+brej bridge
 bridl bridle
 bref brief
 bregad brigade
@@ -614,7 +616,7 @@ bruk brook
 brum broom 
 bruth brother
 bruth^d brotherhood
-bruth(la brother-in-law
+bruth(lo brother-in-law
 bruthen brotherliness
 brum brougham
 brau brow

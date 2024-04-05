@@ -24,7 +24,7 @@ taktl tactile
 takt^l tactility
 taktl tactless
 tafta taffeta
-? taf taffe
+taf taffy
 tag tag
 tal tail
 
@@ -133,7 +133,7 @@ tel^e telegraph
 tel^er telegrapher
 tel^ek telegraphic
 tel^e| telegraphy
-telpthe telepathe
+telpthe telepathy
 telfn telephone
 telskp telescope
 ? telskpk telescopic
@@ -306,6 +306,7 @@ th)ed third
 thers thirst
 therste| thirstily
 th)ete thirty
+ths this
 thesl thistle
 theth thither
 thong thong
@@ -358,7 +359,7 @@ thug thug
 th)m thumb
 th)mp thump
 th)ndr thunder
-th)ndrbolt thunderbold
+th)ndrbolt thunderbolt
 thrs thursday
 thus thus
 tha_k thwack
@@ -412,12 +413,12 @@ titn titan
 titnek titanic
 tith tithe
 tit title
-tet-maus titmaus
+tet-maus titmouse
 tetlr titular
 tu to
 tod toad
 tosmas toastmaster
-tmak tobacco
+tbak tobacco
 tbaknes tobacconist
 tobgn toboggan
 toksen tocsin
@@ -516,7 +517,7 @@ toe toy
 tras trace
 trasb traceable
 traka&' trachea
-trakoma trachome
+trakoma trachoma
 trk track
 trkt tract
 trkt^b tractability
@@ -549,7 +550,7 @@ trama_ tramway
 trans trance
 trank tranquil
 trankezsh tranquilization
-trank^l tranquillity
+trank^l tranquility
 
 # Page 185 Column 2
 t^ak transact
@@ -630,7 +631,7 @@ tredl treadle
 tredmel treadmill
 tresn treason
 tresb treasonable
-tresbn traversableness
+tresbn treasonableness
 tresh treasure
 tresh^r treasurer
 tresh^re treasury

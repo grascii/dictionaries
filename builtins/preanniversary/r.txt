@@ -35,6 +35,7 @@ ral rail
 ralre raillery
 rr railroad
 rl railway
+ramn-t raiment
 ran rain
 ranbo rainbow
 ras raise
@@ -67,10 +68,10 @@ ranj range
 ranje~ ranger
 rank rank
 rankl rankle
-ransak ransack
-ransm ransom
-ransme~ ransomer
-ransml ransomeless
+ran-sak ransack
+ran-sm ransom
+ran-sme~ ransomer
+ran-sml ransomless
 rant rant
 rap rap
 rapash rapacious
@@ -160,7 +161,8 @@ rbat rebate
 rebl rebel
 rbeln rebellion
 rbelus rebellious
-nbn rebound
+rbn rebound
+rbuf rebuff
 ? rbl rebuild
 rbeuk rebuke
 rbus rebus
@@ -554,7 +556,7 @@ rsem resemble
 r-sent resent
 r-sntf resentful
 r-sent-m resentment
-rsevash reservation
+r-sevash reservation
 r-sev reserve
 r-sevde reservedly
 r-sevo_r reservoir
@@ -564,8 +566,8 @@ resdns residence
 resdn resident
 resdnsh residential
 resdu residue
-rsedum residumm
-rsin resign
+r-sedum residuum
+r-sin resign
 resg resignation
 rsil resile
 rselens resilience
