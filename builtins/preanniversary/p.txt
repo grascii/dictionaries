@@ -146,7 +146,7 @@ paroksm parochialism
 parode parody
 parol parole
 ? paroxs paroxysm
-para parquet
+parka parquet
 parsi parricide
 parut parrot
 pare parry
@@ -184,6 +184,7 @@ pasj passage
 pasje~ passenger
 pash passion
 pashat passionate
+pashl passionless
 pasv passive
 pas^v passivity
 paspor passport
@@ -219,7 +220,8 @@ pa^sh patrician
 pa^si patricide
 pa^mne patrimony
 pa^ot patriot
-pa^otsm patriotism
+pa^a patriotic
+pa^ot-sm patriotism
 pa^l patrol
 pa^lmn patrolman
 pa^on patron
@@ -340,7 +342,7 @@ prse^b perceivable
 prse perceive
 prse^r perceiver
 prsentj percentage
-prsep precept
+prsep percept
 prsep^b perceptibility
 
 # Page 134 Column 1
@@ -390,7 +392,7 @@ pershbn perishableness
 persti~ peristyle
 pe~tn^ts peritonitis
 prju perjure
-prju^r perjure
+prju^r perjurer
 prmns permanence
 prmn permanent
 prm^b permeability
@@ -403,8 +405,8 @@ prmet permit
 
 # Page 134 Column 3
 prmutb permutable
-prmutsh premutation
-prnesh perniciuos
+prmutsh permutation
+prnesh pernicious
 prrash peroration
 proxi peroxide
 prpnd perpendicular
@@ -426,7 +428,7 @@ prsevns perseverance
 prsev persevere
 prss persist
 prssns persistence
-prssnt presistent
+prssnt persistent
 prs) person
 prs) personal
 prs)^b personable
@@ -542,6 +544,7 @@ fren^o( phrenology
 fes^k physical
 fesesh physician
 fesks physics
+fesgnome physiognomy
 fes^o( physiology
 fese,k physique
 pa&'nes pianist
@@ -589,7 +592,7 @@ pin pine
 penk pink
 pn^k pinnacle
 pint pint
-pa&ene~ pioneero
+pa&ene~ pioneer
 pa&es pious
 pip pipe
 peknse piquancy
@@ -903,7 +906,7 @@ prar prayer
 prarf prayerful
 prarl prayerless
 prech preach
-preche~ precher
+preche~ preacher
 pra&'mb preamble
 pra&'a prearrange
 prekar precarious
@@ -1022,6 +1025,7 @@ pres press
 prest pressed
 preshu pressure
 prestdj prestidigitator
+prestj prestige
 pr-smbe presumably
 pr-sm presume
 pr-sm^te presumedly
@@ -1075,6 +1079,7 @@ prenss princess
 pr principal 
 pr principle
 pr^l principality
+pre principally
 prent print
 prentr printer
 pra&er prior
@@ -1152,7 +1157,8 @@ prgsh progression
 prg^v progressive
 pr'ebt prohibit
 pr'ebsh prohibition
-pr'ektr prohibitory
+pr'ebshst prohibitionist
+pr'ebtr prohibitory
 
 # Page 143 Column 2
 prjk project

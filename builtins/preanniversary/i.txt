@@ -36,6 +36,7 @@ ef if
 egni ignite
 egnitb ignitible
 egnsh ignition
+egno^b ignobility
 egnob ignoble
 egnomn ignominous
 egnomne ignominy
@@ -104,7 +105,7 @@ emersh immersion
 ? emegsh immigration
 ? emns imminence
 ? emn imminent
-emobl immoble
+emobl immobile
 emo^b immobility
 emod immoderate
 emodes immodest
@@ -128,9 +129,9 @@ mparsh^l impartiality
 mparsha| impartially
 mpasb impassable
 mpash^b impassibility
-mpashat mipassionate
+mpashat impassionate
 mpash^t impassioned
-mpasv immpassive
+mpasv impassive
 mpashns impatience
 mpasht impatient
 mpech impeach
@@ -145,7 +146,8 @@ mpl impel
 
 # Page 92 Column 3
 mpnd impend
-mpndr^b impentrability
+mpntr^b impenetrability
+mpntrb impenetrable
 mpnetn impenitent
 mpe~tv imperative
 mprsep^b imperceptibility
@@ -179,12 +181,12 @@ mplak implacable
 mplant implant
 mplem implement
 mplek implicate
-mplaksh implication
-mplest implicite
+mpleksh implication
+mplest implicit
 mplr implore
 mpli imply
-mprli impolite
-mpol^a impilitic
+mpoli impolite
+mpol^a impolitic
 mprt import
 mp importance
 mp important
@@ -192,6 +194,7 @@ mporsh importation
 mporr importer
 mportnat importunate
 mportn importune
+mpo impose
 mposh imposition
 mpos^b impossibility
 mpos impossible
@@ -215,8 +218,8 @@ mpresh impression
 mpreshb impressionable
 mpresv impressive
 mprent imprint
-mpresn imprision
-mpresm impresionment
+mpresn imprison
+mpresm imprisonment
 mpr^b improbability
 mprb improbable
 mprmtu impromptu
@@ -255,13 +258,13 @@ enavtn inadvertent
 enalen inalienable
 enan inane
 enanem inanimate
-enansh inantion
+enansh inanition
 en^nt inanity
 
 # Page 94 Column 1
 enaplek inapplicable
 enap inapt
-enaptet inapititude
+enaptet inaptitude
 ena~tek^u inarticulate
 nsmch inasmuch
 enatnsh inattention
@@ -321,9 +324,10 @@ n-kmod incommode
 n-kprb incomparable
 n-kptb incompatible
 n-kptnse incompetency
-n-kptn inpompetent
+n-kptn incompetent
 n-kp incomplete
 n-kprens^b incomprehensibility
+n-kprens incomprehensible
 n-kpresb incompressible
 n-kse inconceivable
 n-kkv inconclusive
@@ -418,7 +422,7 @@ ndskre indiscreet
 ndskresh indiscretion
 ndskrem indiscriminate
 ndsp^b indispensibility
-ndsp indispensible
+ndsp indispensable
 ndspo indispose
 ndspu indisputable
 ndsolb indissoluble
@@ -436,10 +440,11 @@ ndose indorsee
 
 # Page 96 Column 1
 ndosm indorsement
-n-doser indorser
+ndoser indorser
 ndubtb indubitable
-n-dus induce
-n-duksh induction
+ndus induce
+ndusm inducement
+nduksh induction
 ndeu indue
 ndlj indulge
 ndlj indulgence
@@ -454,13 +459,13 @@ nfkv ineffective
 nfkvn ineffectiveness
 nfktl ineffectual
 nfn^l ineffectuality
-nfkta| ineffectally
+nfkta| ineffectually
 enefkash inefficacious
 enefk inefficacy
 enefesh inefficiency
 enefesht inefficient
 eneleg inelegant
-enelej eneligible
+enelej ineligible
 enelu inequality
 
 # Page 96 Column 2
@@ -487,7 +492,7 @@ nfamus infamous
 nfanse infancy
 nfant infant
 nfantil infantile
-jfantre infantry
+nfantre infantry
 nfatut infatuate
 nfateush infatuation
 nfekshus infectious
@@ -498,13 +503,13 @@ nfel^s) infelicity
 nfer infer
 nferns inference
 nrerr inferior
-jfer^r inferiourity
+nfer^r inferiority
 nfe~nl infernal
 nfes infest
 nfedl infidel
 nfed^l infidelity
 nfeltrat infiltrate
-jfeltrash infilitration
+nfeltrash infiltration
 nfenet infinite
 nfenet-n infiniteness
 nfenetes infinitesimal
@@ -515,6 +520,7 @@ nfemre infirmary
 nf^mt infirmity
 nflam inflame
 nflam^b inflammability
+nflamb inflammable
 nflamsh inflammation
 nflam^re inflammatory
 nfla inflate
@@ -523,16 +529,16 @@ nflash inflation
 # Page 97 Column 1
 nfl inflect
 nflsh inflection
-nflex^b inflixibility
+nflex^b inflexibility
 nflexb inflexible
 nfl inflict
 nf influence
-nfsh influentail
+nfsh influential
 nflunza influenza
 nflux influx
 nfm inform
 nfm^m informality
-nfmsh informaiton
+nfmsh information
 nfme~ informer
 nfraksh infraction
 nfrek infrequency
@@ -553,7 +559,7 @@ ngran ingrain
 # Page 97 Column 2
 ngrasha&'t ingratiate
 ngrat ingratitude
-ngradn-t ingradient
+ngredn-t ingredient
 ngron ingrown
 en'abt inhabit
 en'abtn inhabitant
@@ -652,10 +658,10 @@ nseneu insinuate
 nseneush insinuation
 nsepd insipid
 nss insist
-nssnt inssistent
+nssnt insistent
 nsolens insolence
 nsolent insolent
-nsolb insoluabl
+nsolb insoluble
 nsolvse insolvency
 nsolvnt insolvent
 nsomna&' insomnia
@@ -673,7 +679,7 @@ n-stolash installation
 n-stolm installment
 ns instance
 ns instant
-nstnus insantaneous
+nstnus instantaneous
 ns^t instead
 n-step instep
 nsteg instigate
@@ -701,12 +707,13 @@ ns^ur insulator
 
 # Page 99 Column 1
 nsu insult
+ns)^b insuperable
 ns)^tb insupportable
-ns)^s) insuppressible
+ns)^s insuppressible
 nsh insure
 nsh insurance
 nsh^r insurer
-nsegnt insurgent
+nsejnt insurgent
 nse~mn-tb insurmountable
 nsereksh insurrection
 n-tak intact
@@ -779,8 +786,9 @@ n^p interpret
 n^psh interpretation
 n^p^r interpreter
 n^og interrogate
-n^ogsh interogation
-n^ogtv interrogator
+n^ogsh interrogation
+n^ogtv interrogative
+n^og^r interrogator
 n^og^re interrogatory
 n^up interrupt
 n^upsh interruption
@@ -852,7 +860,7 @@ nvaledt invalidate
 nvaledsh invalidation
 nvaledsm invalidism
 nvaledte invalidity
-nvlb infvaluable
+nvlb invaluable
 nvarb invariable
 nvash invasion
 nvkv invective
@@ -873,7 +881,7 @@ nvesm investment
 nvetra inveterate
 
 # Pag 101 Column 1
-nvedus unvidious
+nvedus invidious
 nvegra invigorate
 nvens invincible
 nvilb inviolable
@@ -889,7 +897,8 @@ nvolsh involution
 nvol involve
 nvul invulnerable
 n^d inward
-a^eden iodine
+a&eden iodine
+a&edfm iodoform
 a&eta iota
 epkak ipecac
 iras^b irascibility
@@ -915,7 +924,7 @@ erepr^b irreparability
 ereprb irreparable
 erpres irrepressible
 erprch irreproachable
-erss irresistable
+erss irresistible
 eresolut irresolute
 eres^v irrespective
 ersp irresponsible

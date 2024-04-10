@@ -4,7 +4,7 @@ klidskp kaleidoscope
 kangaru kangaroo
 kel keel
 ken keen
-kenn keeness
+kenn keenness
 kp keep
 kp^r keeper
 kenl kennel
@@ -40,6 +40,7 @@ kenk kink
 kensh kinship
 kensmn kinsman
 kes kiss
+kechn kitchen
 kit kite
 keth kith
 ketn kitten

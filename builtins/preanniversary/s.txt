@@ -58,8 +58,9 @@ solt salt
 
 # Page 159 Column 3
 solt-n saltness
-salub salubrios
+salub salubrious
 salutre salutary
+salutsh salutation
 salut salute
 salvj salvage
 salvash salvation
@@ -79,7 +80,7 @@ sanktre sanctuary
 sanktm sanctum
 sandl sandal
 sandston sandstone
-sande_ch sandwhich
+sande_ch sandwich
 san sane
 sange_n sanguine
 sanetarm sanitarium
@@ -150,7 +151,7 @@ skant-n scantness
 skar scar
 skrs scarce
 skrsn scarceness
-skr^s) scracity
+skr^s) scarcity
 skarf scarf
 skaref scarify
 skrlet scarlet
@@ -283,6 +284,7 @@ sedat sedate
 sedatv sedative
 sedntre| sedentarily
 sedntre sedentary
+sej sedge
 sedem sediment
 sedsh sedition
 
@@ -307,6 +309,7 @@ selek select
 selsh selection
 s(^ self
 s(^sn^d self-centered
+s(kse self-conceit
 s(^kf self-confidence
 s(^kshus self-conscious
 s(k^l self-control
@@ -681,12 +684,13 @@ slat slate
 slaten slattern
 slote~ slaughter
 slav slave
+slavre slavery
 sled sled
 slej sledge
 slek sleek
 slep sleep
-slepr sleepr
-? slepe~n sleepiness
+slepr sleeper
+? slepe-n sleepiness
 slepl sleepless
 slev sleeve
 slevl sleeveless
@@ -825,7 +829,7 @@ sofne~ softener
 sofnes softness
 soge soggy
 soel soil
-soeld soild
+soeld soiled
 sa_ra soiree
 soje~n sojourn
 solas solace
@@ -1091,6 +1095,7 @@ sko_b squabble
 sko_d squad
 sko_drn squadron
 sko_led squalid
+sko_led-n squalidness
 sko_l squall
 sko_lr squalor
 sko_nd squander
@@ -1219,6 +1224,7 @@ sterotip stereotype
 sterliz sterilize
 sterl' sterling
 stene sternly
+stene~ sterner
 sten-n sternness
 ste~trus stertorous
 stethskp stethoscope
@@ -1290,6 +1296,9 @@ stra straight
 stratn straighten
 strafd straightforward
 stran strain
+strand strained
+strane~ strainer
+stra strait
 strand strand
 stj strange
 stjn strangeness
@@ -1386,7 +1395,7 @@ s)^aj subagent
 
 # Page 175 Column 1
 s(oten subaltern
-skete subcommitee
+skete subcommittee
 skshus subconscious
 sds^k subdistrict
 sdvi subdivide
@@ -1422,7 +1431,7 @@ s(odnsh subordination
 spena subpoena
 s)rogat subrogate
 s)rogsh subrogation
-? srosa sub rosa
+s)rosa sub rosa
 s-skr subscribe
 s-skr^r subscriber
 s-skrsh subscription
@@ -1451,7 +1460,7 @@ steran subterranean
 stl subtile
 st^l subtility
 sutl subtle
-strk substract
+strk subtract
 strksh subtraction
 s)rb suburb
 s)rbn suburban
@@ -1680,7 +1689,7 @@ semet^k symmetrical
 semetre symmetry
 semth^a sympathetic
 semthiz sympathize
-semthizr sypathizer
+semthizr sympathizer
 semthe sympathy
 semfne symphony
 sempos symposium
@@ -1700,7 +1709,7 @@ senod synod
 senonem synonym
 senon synonymous
 senop synopsis
-sentax synatax
+sentax syntax
 senthess synthesis
 senthesst synthesist
 senth^a synthetic

@@ -1,6 +1,6 @@
 # Page 105 Column 1
 labl label
-laba^'l labial
+laba&'l labial
 labr labor
 lab^re laboratory
 labrus laborious
@@ -58,15 +58,15 @@ lapdre lapidary
 # Page 105 Column 3
 lapt lappet
 laps lapse
-larsnus larsenous
-larsne larceny
+lars-nus larcenous
+lars-ne larceny
 la~d lard
 la~de~ larder
 laj large
 laje| largely
 laje~ larger
 lajes largest
-lara^'t lariat
+lara&'t lariat
 lark lark
 larva larva
 laren^ts laryngitis
@@ -182,6 +182,7 @@ lj^sh legislation
 ljv legislative
 lj^r legislator
 ljt legislature
+lejtm legitimate
 leshu leisure
 lemn lemon
 lend lend
@@ -213,7 +214,7 @@ le^ed letterhead
 le^g lettergram
 le^pres letterpress
 letus lettuce
-leve lebee 
+leve levee
 levl level
 levln levelness
 levr lever
@@ -374,7 +375,7 @@ loj lodge
 loft loft
 
 # Page 109 Column 2
-lofte lofty
+lofte| loftily
 loften loftiness
 log log
 loj logic

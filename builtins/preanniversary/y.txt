@@ -25,6 +25,7 @@ e|rl' yearling
 e~|n yearn
 e~|n^e yearningly
 e|st yeast
+e|l yell
 e|lo yellow
 e|lon yellowness
 e|lp yelp
@@ -44,6 +45,7 @@ e-ok yolk
 e-on yon
 u you
 u your
+us yourself
 ung young
 unge~ younger
 ungste~ youngster

@@ -151,7 +151,7 @@ er were
 ues west
 ues^re westerly
 uestn western
-uestnr westener
+uestnr westerner
 ues^d westward
 uetn wetness
 'uak whack
@@ -189,6 +189,7 @@ arev wherever
 areth( wherewith
 areth(o( wherewithal
 'uet whet
+ueth whether
 'etston whetstone
 'ua whey
 ch which

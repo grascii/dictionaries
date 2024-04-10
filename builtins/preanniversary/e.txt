@@ -39,8 +39,8 @@ esn^s) eccentricity
 ekles^st ecclesiastic
 ekles^stl ecclesiastical
 eko echo
-eklar eclair
-ekla eclat
+aklar eclair
+akla eclat
 eklek eclectic
 ekleps eclipse
 ekleptek ecliptic
@@ -60,7 +60,7 @@ ej edge
 edi_s edgewise
 ed^b edibility
 edb edible
-edek edct
+edek edict
 ed^f edification
 edfes edifice
 edfi edify
@@ -76,9 +76,9 @@ edu^l educational
 edu^v educative
 edu^r educator
 edus educe
-efas effface
+efas efface
 efasb effaceable
-efasmn effacement
+efasm effacement
 fk effect
 fkv effective
 fkvn effectiveness
@@ -115,19 +115,19 @@ egtsm egotism
 egots egotist
 
 # Page 62 Column 2
-eft^stl egotistical
+egt^stl egotistical
 egrejus egregious
-egres efress
+egres egress
 ejep Egypt
 ejepsh Egyptian
 ide~ eider
-eth either
+eth) either
 ejak^u ejaculate
 ejak^ush ejaculation
 ejak^ur ejaculator
 ejk eject
 ejksh ejection
-ejkmn ejectment
+ejkm ejectment
 ek eke
 elab elaborate
 elabsh elaboration
@@ -161,12 +161,12 @@ el^ler electrolier
 el^lss electrolysis
 el^liz electrolyze
 elm^t electromagnet
-el^nete~ electrometer
-el^ptne electropathy
+el^mete~ electrometer
+el^pthe electropathy
 el^p electroplate
 el^t electrotype
 el^m electrum
-elemus eleemosymary
+elemos eleemosymary
 elegns elegance
 eleg elegant
 eleje elegy
@@ -204,7 +204,7 @@ elongat elongate
 # Page 63 Column 2
 elongsh elongation
 elop elope
-elopmn elopement
+elopm elopement
 elok eloquence
 elok eloquent
 ls else
@@ -212,7 +212,7 @@ lsar elsewhere
 elusedt elucidate
 elusedsh elucidation
 elud elude
-elusv dlusive
+elusv elusive
 emasha&'t emaciate
 emasha&'^t emaciated
 emasha&'sh emaciation
@@ -223,26 +223,26 @@ emnsepsh emancipation
 emask^u emasculate
 mbam embalm
 mbank embank
-mbankmn embankment
+mbankm embankment
 mbarg embargo
 mbark embark
 mbaras embarrass
-mbarsmn embarrassment
+mbarsm embarrassment
 mbase embassy
 mbtl embattle
 
 # Page 63 Column 3
 mblsh embellish
-mblshmn embellishment
+mblshm embellishment
 mbr ember
 mbezl embezzle
-mbezlmn embezzlement
+mbezlm embezzlement
 mbezlr embezzler
 mbte~ embitter
 mblazn emblazon
 mblem emblem
 mblem^a emblematic
-mbomn embodiment
+mbom embodiment
 mbo embody
 mboldn embolden
 mbos emboss
@@ -252,7 +252,7 @@ mbroil embroil
 mbreo embryo
 emrld emerald
 emej emerge
-emejses emergencise
+emejses emergencies
 emejse emergency
 emeretus emeritus
 emersh emersion
@@ -265,16 +265,17 @@ emns eminence
 emn eminent
 emesre emissary
 emet emit
-emolmn emolument
+emolm emolument
 emosh emotion
 mprr emperor
 mfass emphasis
 mf^a emphatic
+? mf^a|e emphatically
 mpi empire
 mpl employ
 mploe employee
 mplr employer
-mplmn employment
+mplm employment
 mporem emporium
 mpau empower
 mpres empress
@@ -325,7 +326,7 @@ nfeb enfeeble
 nfs enforce
 nfranch enfranchise
 nga engage
-ngamn engagement
+ngam engagement
 ngndr engender
 njn engine
 njne~ engineer
@@ -339,15 +340,15 @@ enegm^a enigmatic
 njoen enjoin
 njoe enjoy
 njeob enjoyable
-njoemn enjoyment
+njoem enjoyment
 nlag enlarge
-nlajmn enlargemnet
+nlajm enlargement
 nlin enlighten
-nlimn enlightenment
+nlim enlightenment
 
 # Page 65 Column 1
 nls enlist
-nlsmn enlistment
+nlsm enlistment
 nlivn enliven
 n^mt enmity
 enob ennoble
@@ -359,11 +360,11 @@ nraj enrage
 nraptr enrapture
 nrech enrich
 nrol enroll
-nrolmn enrollment
+nrolm enrollment
 nskns ensconce
 nshrin enshrine
 nsin ensign
-nslav enlave
+nslav enslave
 nsu ensue
 ntal entail
 ntang entangle
@@ -372,7 +373,7 @@ n^pris enterprise
 n^tn entertain
 n^tnr entertainer
 n^tn-m entertainment
-nthrol enthrall
+nth(rol enthrall
 
 # Page 65 Column 2
 nthron enthrone
@@ -387,7 +388,7 @@ ntin entireness
 ntite entirety
 ntit entitle
 ntete entity
-ntm^o entomology
+ntm^o( entomology
 n^ns entrance
 n^nt entrant
 n^t entreat
@@ -405,7 +406,7 @@ nveb enviable
 
 # Page 65 Column 3
 nvus envious
-nvimn environment
+nvim environment
 nvoe envoy
 nve envy
 e-on eon
@@ -417,7 +418,7 @@ epkeun epicurean
 epdm epidemic
 epdemes epidermis
 ep^g epigram
-ep^g^a epigramatic
+ep^g^a epigrammatic
 ? ep^e epigraph
 epelepse epilepsy
 epelept epileptic
@@ -429,8 +430,8 @@ epestlre epistolary
 eptaf epitaph
 epthet epithet
 eptme epitome
-epk epch
-ek^b equalbility
+epk epoch
+ek^b equability
 
 # Page 66 Column 1
 ekb equable
@@ -446,10 +447,11 @@ eke_re equerry
 eke_stra&'n equestrian
 eki_leb equilibrium
 eki_n equine
+eke_nok equinoctial
 eke_nux equinox
 eke_p equip
 eke_pj equipage
-eke_pmn equipment
+eke_pm equipment
 ekpoes equipoise
 eke_tb equitable
 eke_et equity
@@ -476,7 +478,7 @@ e~d erred
 eronus erroneous
 err error
 erudi erudite
-erudsh drudition
+erudsh erudition
 erp erupt
 erpsh eruption
 eresep erysipelas
@@ -484,7 +486,7 @@ eskalatr escalator
 eskpb escapable
 eskpd escapade
 eskp escape
-eskkmn escapement
+eskkm escapement
 eschu eschew
 eskot escort
 eskro escrow
@@ -500,9 +502,9 @@ espi espy
 eski esquire
 esa essay
 esns essence
-esnsh enssential
+esnsh essential
 estb establish
-estbmn establishment
+estbm establishment
 est estate
 estm esteem
 stemb estimable
@@ -510,7 +512,7 @@ estmbe estimably
 estmat estimate
 estmsh estimation
 estj estrange
-estjmn estrangement
+estjm estrangement
 ets et cetera
 ech etch
 etnl eternal
@@ -525,7 +527,7 @@ etheks ethics
 ethn^oe ethnography
 ethn^o( ethnology
 eth^o( ethology
-eteket etiquiette
+eteket etiquette
 atud etude
 etm^o( etymology
 eukleptus eucalyptus
@@ -551,12 +553,12 @@ evanjiz evangelize
 evap evaporate
 evapsh evaporation
 evash evasion
-evasv devasive
+evasv evasive
 ev eve
 evn even
 evn' evening
-evnn evenness
-evnt envent
+evn-n evenness
+evnt event
 evntf eventful
 evntl eventual
 ev ever
@@ -613,21 +615,22 @@ esis excise
 esit^b excitability
 esitB excitable
 esit excite
-esitmn excitement
+esitm excitement
 es^m exclaim
 es^msh exclamation
 s^mre exclamatory
 es^d exclude
 es^sh exclusion
 es^sv exclusive
-eskmu excommunciate
+eskmu excommunicate
+eskrsha&'t excruciate
 esklpa exculpate
-eskrsh escursion
-eskeu^b escusable
+eskrsh excursion
+eskeu^b excusable
 eskeu excuse
 eskrb execrable
 eslra execrate
-esk excute
+esk execute
 esksh execution
 eskv executive
 esemplre exemplary
@@ -650,7 +653,7 @@ esebtr exhibitor
 eselra exhilarate
 eselrash exhilaration
 esot exhort
-esotsh exhortion
+esotsh exhortation
 es'eum exhume
 esegnt exigent
 esil exile
@@ -692,7 +695,7 @@ espndet expenditure
 espns expense
 espnsv expensive
 spe experience
-esprmn experiment
+esprm experiment
 
 # Page 69 Column 1
 espr^m experimental
@@ -763,9 +766,9 @@ es^ksh extraction
 es^di extradite
 es^dsh extradition
 es^nus extraneous
-es^odn ordinary
-es^v extravagant
+es^odn extraordinary
 es^v extravagance
+es^v extravagant
 es^m extreme
 es^mes extremist
 es^mt extremity
