@@ -73,7 +73,7 @@ nbrak unbreakable
 nbrokn unbroken
 nbsla unbusinesslike
 ? n-ko^t uncalled
-nkane uncanny
+n-kane uncanny
 ns(emnus unceremonious
 nsetn uncertain
 nsetnte uncertainty
@@ -86,34 +86,32 @@ unkl uncle
 ? n-kmn uncommon
 ? n-kmu^v uncommunicative
 
-# decide if boundary is nes. for nk
-
 # Page 191 Column 1
 ? n-kpanon uncompanionable
-? nkp uncomplaining
-nkplemre uncomplimentary
-nkprmis' uncompromising
-nks(en^t unconcerned
-nkdm uncondemned
-nkdsh unconditional
-nkjen uncongenial
-nkek unconnected
-nkkr unconquerable
-nkshb unconscionable
-nkshus unconscious
-nksm^t unconsumed
-nktes uncontested
-nk^d uncontradicted
-nk^l uncontrollable
-nk^ve~t uncontrovertible
-nkvenst unconvinced
-nkr^t uncorrected
-nkuth uncouth
-nkv uncover
+? n-kp uncomplaining
+n-kplemre uncomplimentary
+n-kprmis' uncompromising
+n-ks(en^t unconcerned
+n-kdm uncondemned
+n-kdsh unconditional
+n-kjen uncongenial
+n-kek unconnected
+n-kkr unconquerable
+n-kshb unconscionable
+n-kshus unconscious
+n-ksm^t unconsumed
+n-ktes uncontested
+n-k^d uncontradicted
+n-k^l uncontrollable
+n-k^ve~t uncontrovertible
+n-kvenst unconvinced
+n-kr^t uncorrected
+n-kuth uncouth
+n-kv uncover
 unksh unction
 unktuus unctuous
-nklva^t uncultivated
-nkrbd uncurbed
+n-klva^t uncultivated
+n-krbd uncurbed
 n-dt^t undated
 n-dont^t undaunted
 
@@ -182,7 +180,7 @@ unese uneasy
 nedu^t uneducated
 n-mpl^t unemployed
 n-n-kmb^t unencumbered
-n-nga^t unengaged
+n-n-ga^t unengaged
 n-nli^nd unenlightened
 n-n^pris' unenterprising
 unekl unequal

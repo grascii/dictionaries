@@ -148,7 +148,7 @@ len^t learned
 lene~ learner
 lesb leasable
 les lease
-elsl leasehold
+lesld leasehold
 lesh leash
 lest least
 leth leather
@@ -292,7 +292,7 @@ lem-sen limousine
 lemp limp
 lempd limpid
 lempdte limpidity
-klmpd-n limpidness
+lempd-n limpidness
 len-dn linden
 lan line
 lenj lineage
@@ -302,7 +302,7 @@ lena| lineally
 ? lena&'~ linear
 lenen linen
 lane~ liner
-lennge~ linger
+lenge~ linger
 lengl lingual
 lenge_s linguist
 leng^st linguistic

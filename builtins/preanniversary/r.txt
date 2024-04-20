@@ -2,8 +2,8 @@
 # Page 149 Column 1
 rabi rabbi
 rabn^k rabbinical
-nabt rabbit
-nab rabble
+rabt rabbit
+rab rabble
 rabd rabid
 ras race
 raser racer
@@ -359,8 +359,8 @@ r'ers rehearse
 ran reign
 rmbrs reimburse
 rmbrsm reimbursement
-rnkrna reincarnate
-rnkrnsh reincarnation
+rn-krna reincarnate
+rn-krnsh reincarnation
 rmplant reimplant
 rnst reinstate
 rnst-m reinstatement

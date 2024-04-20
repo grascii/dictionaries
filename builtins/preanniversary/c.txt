@@ -393,7 +393,7 @@ sen-tnl centennial
 sn^ center
 sn^bor centerboard
 sn^pes centerpiece
-sengra centigrade
+sen-gra centigrade
 sentem centime
 sn^l central
 sn^lezsh centralization

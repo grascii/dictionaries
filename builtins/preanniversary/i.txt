@@ -59,7 +59,7 @@ ele^t illiterate
 # Page 91 Column 3
 eln illness
 eloj illogical
-? elumat illuminate
+? elumnat illuminate
 ? elumnsh illumination
 ? elumnar illuminator
 ? elumn illumine
@@ -77,7 +77,7 @@ emaj imagination
 emaj^v imaginative
 emaj imagine
 mbesel imbecile
-jbes^l imbecility
+mbes^l imbecility
 mbib imbibe
 mbeu imbue
 emetb imitable
@@ -273,16 +273,16 @@ enodb inaudible
 enog inaugurate
 nbon inborn
 nbn inbound
-nkal incalculable
-nkdes incandescent
-nktsh incantation
-nkap incapable
-nkapas incapacitate
-nkap^s) incapacity
-nkrsera incarcerate
-nkrnat incarnate
-nkrnsh incarnation
-nkoshus incautious
+n-kal incalculable
+n-kdes incandescent
+n-ktsh incantation
+n-kap incapable
+n-kapas incapacitate
+n-kap^s) incapacity
+n-krsera incarcerate
+n-krnat incarnate
+n-krnsh incarnation
+n-koshus incautious
 nsendrsm incendiarism
 nsendre incendiary
 ensens incense
@@ -306,8 +306,8 @@ e^m inclement
 e^nsh inclination
 e^n incline
 e^nd inclined
-nk inclose
-nk^r inclosure
+n-k inclose
+n-k^r inclosure
 e^d include
 e^sh inclusion
 e^sv inclusive
@@ -552,15 +552,15 @@ njenusn ingeniousness
 anshanu ingenue
 njenute ingenuity
 njnus ingenuous
-nglos inglorious
+n-glos) inglorious
 engot ingot
-ngran ingrain
+n-gran ingrain
 
 # Page 97 Column 2
-ngrasha&'t ingratiate
-ngrat ingratitude
-ngredn-t ingredient
-ngron ingrown
+n-grasha&'t ingratiate
+n-grat ingratitude
+n-gredn-t ingredient
+n-gron ingrown
 en'abt inhabit
 en'abtn inhabitant
 en'al inhale
@@ -588,9 +588,9 @@ njnk injunction
 # Page 97 Column 3
 nju injure
 nju injury
-mjus injuries
-mjuus injurious
-mjuss injustice
+njus injuries
+njuus injurious
+njus-s injustice
 enk ink
 enkl' inkling
 nlad inlaid
@@ -912,7 +912,7 @@ irsh Irish
 # Page 101 Column 2
 erksm irksome
 in iron
-inklad ironclad
+in-klad ironclad
 erashl irrational
 erash^l irrationality
 erfeut irrefutable

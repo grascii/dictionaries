@@ -5,7 +5,7 @@ pas pace
 pasf^b pacifiable
 pask pacific
 pas^f pacification
-fasf^r pacifier
+pasf^r pacifier
 pasf pacify
 pak pack
 pakj package
@@ -68,8 +68,8 @@ poltre paltry
 pampr pamper
 pamf pamphlet
 pansa&' panacea
-pankres pancreas
-pankr^a pancreatic
+pan-kres pancreas
+pan-kr^a pancreatic
 pandemn pandemonium
 panl panel
 pang pang
@@ -525,7 +525,7 @@ fleg^a phlegmatic
 fleg^a| phlegmatical
 fn^a phonetic
 fnek phonic
-pn^o phonograph
+fn^o phonograph
 fn^or phonographer
 fn^ok phonographic
 fn^oe phonography
@@ -1001,8 +1001,8 @@ preposs prepossess
 preposs^e prepossessingly
 prepos preposterous
 prerkest prerequisite
-rerog prerogative
-pres presbyterian
+prerog prerogative
+presb presbyterian
 preshns prescience
 preskr prescribe
 preskrsh prescription

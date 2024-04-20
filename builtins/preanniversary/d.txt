@@ -858,7 +858,7 @@ domne~ domineer
 ? domeun dominion
 domno domino
 donat donate
-konsh donation
+donsh donation
 donke donkey
 donr donor
 dum doom
@@ -885,14 +885,14 @@ do,e doughy
 duv dove
 dauje~ dowager
 daur dower
-dn down
-dnkas downcast
-dnfo downfall
-dnel downhill
-dnri downright
-dn^d downward
+d-n down
+d-n-kas downcast
+d-nfo downfall
+d-nel downhill
+d-nri downright
+d-n^d downward
 daure dowry
-? dox^o doxology
+? dox^o( doxology
 duzn dozen
 drab drab
 drf draft

@@ -811,7 +811,7 @@ apos apposite
 aposh apposition
 apostv appositive
 apras appraise
-pareshb appreciable
+apreshb appreciable
 apresh appreciate
 apresh appreciation
 apreshv appreciative

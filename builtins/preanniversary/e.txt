@@ -320,19 +320,19 @@ ndr endure
 # Page 64 Column 3
 eneme enemy
 nrj^a energetic
-nkrj energy
+nrj energy
 enervat enervate
 nfeb enfeeble
 nfs enforce
 nfranch enfranchise
-nga engage
-ngam engagement
-ngndr engender
+n-ga engage
+n-gam engagement
+n-gndr engender
 njn engine
 njne~ engineer
 engsh english
-ngrav engrave
-ngros engross
+n-grav engrave
+n-gros engross
 en'ans enhance
 enegma enigma
 enegm^a enigmatic
@@ -618,7 +618,7 @@ esit excite
 esitm excitement
 es^m exclaim
 es^msh exclamation
-s^mre exclamatory
+es^mre exclamatory
 es^d exclude
 es^sh exclusion
 es^sv exclusive
@@ -639,7 +639,7 @@ esemt exempt
 esemsh exemption
 
 # Page 68 Column 2
-? esr exercise
+? es-r exercise
 ese~t exert
 esesh exertion
 es'al exhale
@@ -665,7 +665,7 @@ esosheo ex officio
 esonra exonerate
 esorb exorable
 esobtn exorbitant
-? esr exorcise
+? es-r exorcise
 esodem exordium
 
 # Page 68 Column 3

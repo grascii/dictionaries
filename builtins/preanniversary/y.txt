@@ -31,7 +31,7 @@ e|lon yellowness
 e|lp yelp
 e-omn yeoman
 e-omnre yeomanry
-a| yes
+e| yes
 e|st yesterday
 e|t yet
 e|ld yield

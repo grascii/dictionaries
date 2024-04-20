@@ -1,11 +1,11 @@
 # Page 111 Column 1
 m^admes macadamization
-m^admez macadamize
+m^admiz macadamize
 makrone macaroni
 makrun macaroon
 masera macerate
 makenat machinate
-amkensh machination
+makensh machination
 mashn machine
 mashnre machinery
 mashnes machinist
@@ -21,9 +21,9 @@ magnta magenta
 majk magic
 maj^k magical
 majesh magician
-majestrl magisterial
+majesterl magisterial
 majestra magistrate
-m^n^nt magnanimity
+m^n^mt magnanimity
 m^n magnanimous
 
 # Page 111 Column 2
@@ -111,14 +111,14 @@ mnfes manifest
 mnfes-sh manifestation
 mnfesto manifesto
 mnfol manifold
-mnken manikin
+mn-ken manikin
 mnep^u manipulate
 mnep^ush manipulation
 
 # Page 112 Column 2
 mnep^uv manipulative
 mnep^ur manipulator
-mnki mankind
+mn-ki mankind
 mnla manlike
 mnen manliness
 mne~ manner
@@ -297,7 +297,7 @@ mek meek
 mekn meekness
 met meet 
 megafn megaphone
-melank melancholic
+melan-k melancholic
 melan melancholy
 mala melee
 melra meliorate
@@ -500,7 +500,7 @@ mnet minute
 mnute| minutely
 mnusa&' minutia
 mer^k miracle
-lerak miraculous
+merak miraculous
 merash mirage
 merr mirror
 merth mirth
@@ -517,8 +517,8 @@ msch mischief
 mschus mischievous
 msksep misconception
 mskdu misconduct
-msks^ksh misconstruction
-? msns misconstrue
+msks(^ksh misconstruction
+? msns( misconstrue
 msknt miscount
 mskra&'nt miscreant
 
