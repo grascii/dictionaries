@@ -1,6 +1,6 @@
 # Page 91 Column 1
 a&embk iambic
-'s ice
+is ice
 isberg iceberg
 iskrem icecream
 is^k icicle
@@ -61,7 +61,7 @@ eln illness
 eloj illogical
 ? elumnat illuminate
 ? elumnsh illumination
-? elumnar illuminator
+? elumnatr illuminator
 ? elumn illumine
 ? elsh illusion
 ? elusv illusive
@@ -88,9 +88,9 @@ emetatv imitative
 # Page 92 Column 1
 emak^u immaculate
 ema^l immaterial
-ela^l immateriality
+ema^l immateriality
 ematr immature
-imeshu^b immeasurability
+emeshu^b immeasurability
 emeshub immeasurable
 eme immediate
 eme immediately
@@ -157,7 +157,7 @@ mprfsh imperfection
 mperl imperial
 mprl imperil
 mperus imperious
-mperusm imperiousness
+mperusn imperiousness
 mperesh imperishable
 mprmn impermanent
 mprs) impersonal
@@ -187,7 +187,7 @@ mplr implore
 mpli imply
 mpoli impolite
 mpol^a impolitic
-mprt import
+mpor import
 mp importance
 mp important
 mporsh importation
@@ -204,8 +204,8 @@ mpotn impotent
 mpov impoverish
 
 # Page 93 Column 2
-mpkt^b impracticability
-mprltb impracticable
+mprkt^b impracticability
+mprktb impracticable
 mprk^k impractical
 mprek imprecate
 mpreg^b impregnability
@@ -238,14 +238,14 @@ mpudn impudent
 mpeun impugn
 mpls impulse
 mplsv impulsive
-ipu^nt impunity
+mpu^nt impunity
 mpeu impure
 mp^r impurity
 mpush imputation
 mpu impute
 en^b inability
 enakss^b inaccessibility
-enalss inaccessible
+enakss inaccessible
 enakrse inaccuracy
 enakra inaccurate
 enaksh inaction
@@ -283,12 +283,12 @@ n-krsera incarcerate
 n-krnat incarnate
 n-krnsh incarnation
 n-koshus incautious
-nsendrsm incendiarism
-nsendre incendiary
-ensens incense
-nesntv incentive
+n-sendrsm incendiarism
+n-sendre incendiary
+n-sens incense
+n-sn-tv incentive
 nsepsh inception
-eseptv inceptive
+nsep-tv inceptive
 
 # Page 94 Column 2
 nse~tet incertitude
@@ -448,7 +448,7 @@ nduksh induction
 ndeu indue
 ndlj indulge
 ndlj indulgence
-ndlgnt indulgent
+ndljnt indulgent
 ndra indurate
 ndsl industrial
 ndsus industrious
@@ -458,15 +458,15 @@ enef ineffable
 nfkv ineffective
 nfkvn ineffectiveness
 nfktl ineffectual
-nfn^l ineffectuality
+nfk^l ineffectuality
 nfkta| ineffectually
 enefkash inefficacious
-enefk inefficacy
+enefkse inefficacy
 enefesh inefficiency
 enefesht inefficient
 eneleg inelegant
 enelej ineligible
-enelu inequality
+eneku inequality
 
 # Page 96 Column 2
 ene~t inert
@@ -502,13 +502,13 @@ nfelestus infelicitous
 nfel^s) infelicity
 nfer infer
 nferns inference
-nrerr inferior
+nferr inferior
 nfer^r inferiority
 nfe~nl infernal
 nfes infest
 nfedl infidel
 nfed^l infidelity
-nfeltrat infiltrate
+nfeltra infiltrate
 nfeltrash infiltration
 nfenet infinite
 nfenet-n infiniteness
@@ -537,7 +537,7 @@ nfsh influential
 nflunza influenza
 nflux influx
 nfm inform
-nfm^m informality
+nfm^l informality
 nfmsh information
 nfme~ informer
 nfraksh infraction
@@ -545,7 +545,7 @@ nfrek infrequency
 nfrek infrequent
 nfrenj infringe
 nfrenjm infringement
-nfeura^'t infuriate
+nfeura&'t infuriate
 nfeu infuse
 njenus ingenious
 njenusn ingeniousness
@@ -575,7 +575,7 @@ en'eumn inhuman
 en'eum inhume
 enem^k inimical
 enemet inimitable
-eneke_et iniquity
+eneke_te iniquity
 enesh initial
 enesha&'t initiate
 enesha&'sh initiation
@@ -601,7 +601,7 @@ nmo inmost
 en inn
 enat innate
 ene~ inner
-ene~mu innermost
+ene~mo innermost
 ? enervat innervate
 en' inning
 enus innocence
@@ -628,34 +628,34 @@ n-kestv inquisitive
 n-kestvn inquisitiveness
 n-kestr inquisitor
 nrod inroad
-nsan insane
+n-san insane
 ns^nt insanity
 nsashb insatiable
 nskr inscribe
 nskrsh inscription
 nskrutb inscrutable
-nsek insect
-nskr insecure
-nsek^r insecurity
-nsensa insensate
-nsens^b insensibility
-nsensb insensible
+n-sek insect
+n-sekr insecure
+n-sek^r insecurity
+n-sensa insensate
+n-sens^b insensibility
+n-sensb insensible
 nsepr inseparable
 nse~t insert
 nsesh insertion
-nset inset
+n-set inset
 
 # Page 98 Column 2
 nsi inside
-nsedus insidious
-nsit insight
-nsegna insignia
-nsg insignificance
-nsg insignificant
-nsense insincere
-nsen^r insincerity
-nseneu insinuate
-nseneush insinuation
+n-sedus insidious
+n-sit insight
+n-segna&' insignia
+n-sg insignificance
+n-sg insignificant
+n-sense insincere
+n-sen^r insincerity
+n-seneu insinuate
+n-seneush insinuation
 nsepd insipid
 nss insist
 nssnt insistent
@@ -796,14 +796,14 @@ n^upsh interruption
 # Page 100 Column 1
 n^sek intersect
 n^seksh intersection
-n^'prs intersperse
+n^sprs intersperse
 n^st interstate
 n^stes interstice
 n^rbn interurban
 n^va interval
 n^ven intervene
 n^vnsh intervention
-n^f interview
+n^v interview
 n^uev interweave
 ntesta intestate
 ntestn intestine
@@ -811,7 +811,7 @@ n-tmase intimacy
 n-tmat intimate
 n-tmsh intimation
 n-tmedt intimidate
-n-tmdesh intimidation
+n-tmedsh intimidation
 ntu into
 ntolb intolerable
 ntolns intolerance
@@ -830,7 +830,7 @@ n^nch intrench
 n^pd intrepid
 n^pdte intrepidity
 n^kases intricacies
-n^nase intricacy
+n^kase intricacy
 n^kat intricate
 n^g intrigue
 n^nsk intrinsic

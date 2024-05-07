@@ -368,7 +368,7 @@ dranjm derangement
 derlek derelict
 dri deride
 deresh derision
-drevash derivation
+dervash derivation
 derev derivative
 dri derive
 derogsh derogation
@@ -855,7 +855,7 @@ domn dominant
 domnat dominate
 domnsh domination
 domne~ domineer
-? domeun dominion
+? domneun dominion
 domno domino
 donat donate
 donsh donation
@@ -878,7 +878,7 @@ dot dote
 dub double
 dublet doublet
 dau doubt
-dautf doubtful
+dauf doubtful
 daul doubtless
 do dough
 do,e doughy
@@ -923,7 +923,7 @@ drem dream
 dreme~ dreamer
 drer drear
 dreren dreariness
-dreg dredge
+? dreg dredge
 drench drench
 dres dress
 dreser dresser
@@ -964,7 +964,7 @@ dul dual
 dules dualist
 du^l duality
 dubus dubious
-dulk ducal
+dukl ducal
 dukat ducat
 dches duchess
 duk duck
@@ -975,12 +975,12 @@ deud dude
 djn dudgeon
 du due
 dul duel
-duma duenna
+duna duenna
 duet duet
 dug dug
 deuk duke
-dulset dulcet
-duk dull
+dul-set dulcet
+dul dull
 
 # Page 60 Column 2
 dula~d dullard

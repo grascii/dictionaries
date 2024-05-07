@@ -156,7 +156,7 @@ maretm maritime
 mark mark
 markt marked
 mr market
-mr^b marketable
+mrb marketable
 ma~mla marmalade
 ma~mot marmot
 marun maroon
@@ -168,7 +168,7 @@ marsh marsh
 marshl marshal
 marshen marshiness
 ma~t mart
-martn marten
+ma~tn marten
 marshl martial
 ma~tnet martinet
 ma~te~ martyr
@@ -243,7 +243,7 @@ maxm maxim
 maxmiz maximize
 maxmm maximum
 ma may
-mamas mayonnaise
+manas mayonnaise
 mar mayor
 marl mayoral
 mar^l mayoralty
@@ -252,9 +252,9 @@ megr meager
 mel meal
 melen mealiness
 men mean
-? ma&'dr meander
+? ma&'ndr meander
 men'l meaningless
-menm meanness
+men-n meanness
 mntm meantime
 mni~ meanwhile
 mesls measles
@@ -315,7 +315,7 @@ melt melt
 mmb member
 mmbsh membership
 mmbran membrane
-mmbraus membranous
+mmbranus membranous
 memn-to memento
 mmo_r memoir 
 
@@ -420,7 +420,7 @@ me^ptn metropolitan
 metl mettle
 metlsm mettlesome
 mexn Mexican
-ma^esma miasma
+ma&esma miasma
 mikrob microbe
 mikro microscope
 mikro^k microscopic
@@ -442,7 +442,7 @@ migra migrate
 migrash migration
 mig^re migratory
 mild mild
-mildn mildness
+mild-n mildness
 mi~ mile
 mi~^j mileage
 meletnse militancy
@@ -587,7 +587,7 @@ modes modest
 modekm modicum
 modf^b modifiable
 mod^f modification
-modtf^r modifier
+modf^r modifier
 modf modify
 mod^u modulate
 mod^ush modulation
@@ -672,8 +672,8 @@ moros morose
 morosn moroseness
 mofen morphine
 mosel morsel
-mortl mortal
-mor^l mortality
+motl mortal
+mot^l mortality
 motliz mortalize
 mota~ mortar
 mor mortgage
@@ -799,11 +799,11 @@ mutl mutual
 mut^l mutuality
 muzl muzzle
 ma&epa&' myopia
-mera^'d myriad
+mera&'d myriad
 me~tl myrtle
 mis myself
 mestrus mysterious
-mmestrusn mysteriousness
+mestrusn mysteriousness
 mestre mystery
 
 # Page 120 Column 3

@@ -295,7 +295,7 @@ peg peg
 pelekn pelican
 pelmel pell-mell
 pelt pelt
-plves pelvis
+pelves pelvis
 pen pen
 penl penal
 penliz penalize
@@ -321,7 +321,7 @@ pnetnshl penitential
 pnetnsh penitentiary
 pn-mn penman
 pn-mnsh penmanship
-pnatn pennant
+pnant pennant
 pnel penniless
 pne penny
 pn^o( penology
@@ -766,7 +766,7 @@ pondr ponder
 pondrus ponderous
 ponje pongee
 pona~d poniard
-pon-tf pontiff
+pon-df pontiff
 pontun pontoon
 pone pony
 pudl poodle
@@ -881,7 +881,7 @@ paut pout
 pov poverty
 paude~ powder
 pau power
-pauv powerful
+pauf powerful
 paul powerless
 prkt^b practicability
 prktb practicable
@@ -908,7 +908,7 @@ prarl prayerless
 prech preach
 preche~ preacher
 pra&'mb preamble
-pra&'a prearrange
+pra&'ra prearrange
 prekar precarious
 prekarn precariousness
 prekosh precaution
@@ -1030,7 +1030,7 @@ pr-smbe presumably
 pr-sm presume
 pr-sm^te presumedly
 pr-smsh presumption
-pr-smtv presumptive
+pr-sm-tv presumptive
 prespo presuppose
 presposh presupposition
 pretn pretend
@@ -1266,7 +1266,7 @@ protessh protestation
 protes^r protester
 protrk protract
 protrksh protraction
-protrak^r protractor
+protrk^r protractor
 protrud protrude
 protrusv protrusive
 protbns protuberance
@@ -1324,7 +1324,7 @@ pud' pudding
 pudl puddle
 peurl puerile
 puf puff
-peug pugilist
+peuj pugilist
 pgnash pugnacious
 pgn^s) pugnacity
 peusns puissance
@@ -1342,7 +1342,7 @@ pls pulse
 plvrezsh pulverization
 plvriz pulverize
 pmes pumice
-pup pump
+pmp pump
 pnch punch
 pnktel punctilious
 pnk punctual

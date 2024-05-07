@@ -12,8 +12,8 @@ lakdas^k lackadaisical
 lake lackey
 laknek laconic
 lakr lacquer
-lakren lacrimal
-lakta^el lacteal
+lakrem lacrimal
+lakta&'l lacteal
 laktek lactic
 lad lad
 lade~ ladder
@@ -104,9 +104,9 @@ laf^e laughingly
 lafte~ laughter
 lafterl laughterless
 lonch launch
-landr launder
+londr launder
 londre laundry
-lora^'t laureate
+lora&'t laureate
 lorel laurel
 lava lava
 lavtre lavatory
@@ -132,7 +132,7 @@ led lead
 ledn leaden
 lede~ leader
 lef leaf
-leafl leafless
+lefl leafless
 leg league
 legr leaguer
 lek leak
@@ -156,7 +156,7 @@ lev leave
 lekt lecture
 lekt^r lecturer
 lej ledge
-lege~ ledger
+leje~ ledger
 le^d leeward
 le^ua leeway
 lft left
@@ -311,9 +311,9 @@ lenk link
 lenol linoleum
 linotip linotype
 lentl lintel
-la^en lion
+la&en lion
 lep lip
-leka_sh liquation
+lika_sh liquation
 leke_fasht liquefacient
 
 # Page 108 Column 3

@@ -59,7 +59,7 @@ tnjeren tangerine
 
 # Page 179 Column 3
 tnjb tangible
-tnebn tangibleness
+tnjbn tangibleness
 tangl tangle
 tank tank
 tane~ tanner
@@ -78,7 +78,7 @@ ta~de| tardily
 ta~den tardiness
 target target
 tarf tariff
-tarsh tarnish
+tansh tarnish
 tarpolen tarpaulin
 tare tarry
 ta~t tart
@@ -442,7 +442,7 @@ tolrash toleration
 tol toll
 tom'ok tomahawk
 tmato tomato
-tumstone tombstone
+tumston tombstone
 tmo tomorrow
 ton tone
 t-ng tongue
@@ -468,8 +468,8 @@ topaz topaz
 # Page 184 Column 2
 tpk topic
 tp^k topical
-tkmo topmost
-top^r topographer
+tpmo topmost
+top^or topographer
 top^ok topographic
 top^okl topographical
 top^oe topography
@@ -559,7 +559,7 @@ t^atl transatlantic
 t^nd transcend
 t^nd-nt transcendent
 t^nd-ntl transcendental
-t^nd-ntlsm transcendentalism
+t^nd-ntl-sm transcendentalism
 t^ktn-nt transcontinental
 t^kr transcribe
 t^kr transcript
@@ -628,10 +628,10 @@ trechusn treacherousness
 trechre treachery
 tr^k treacle
 tredl treadle
-tredmel treadmill
+tred-mel treadmill
 tresn treason
-tresb treasonable
-tresbn treasonableness
+tresnb treasonable
+tresnbn treasonableness
 tresh treasure
 tresh^r treasurer
 tresh^re treasury

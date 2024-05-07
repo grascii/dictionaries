@@ -246,7 +246,7 @@ rekra&'t recreate
 rekra&'sh recreation
 ? rekremn recriminate
 rekrut recruit
-rektag rectangular
+rektang rectangular
 ? rekdf^b rectifiable
 rekt^f rectification
 ? rekdf^r rectifier
@@ -544,7 +544,7 @@ rkest requisite
 rkessh requisition
 rekitl requital
 rekit requite
-? resend rescind
+? rsend rescind
 rsendb rescindable
 reskeu rescue
 reskeur rescuer
@@ -631,7 +631,7 @@ retes reticence
 retes reticent
 retekeu reticule
 retna retina
-reteu retinue
+retneu retinue
 reti~ retire
 reti~d retired
 retim retirement
@@ -738,7 +738,7 @@ regmarl rigmarole
 regr rigor
 regrus rigorous
 renglet ringlet
-res rinse
+rens rinse
 ra&et riot
 ra&etus riotous
 rep rip

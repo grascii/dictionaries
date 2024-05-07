@@ -49,7 +49,7 @@
 'anga~ hangar
 'ank hank
 'anke~ hanker
-'asm hansom
+'an-sm hansom
 'apaza~d haphazard
 'apl hapless
 'apn happen
@@ -104,7 +104,7 @@ a'ras harass
 'atl hatless
 'atrak hatrack
 'atred hatred
-'otem haughtiness
+'oten haughtiness
 'ote haughty
 'ol haul
 'ont haunt
@@ -209,7 +209,7 @@ erb herb
 'er^a heretic
 'er^a| heretical
 'e~tf heretofore
-'e~n-to hereunto
+'e~n-tu hereunto
 'e~th herewith
 'e~tj heritage
 'e~m^a| hermetical
@@ -304,11 +304,11 @@ oes(t hoist
 'oldr holder
 'ol hole
 'oleda holiday
-'olin holiness
+'olen holiness
 'oland Holland
 'olo hollow
 'ole holly
-'ololos holocaust
+'olokos holocaust
 'olste~ holster
 'ole holy
 'omj homage
@@ -321,7 +321,7 @@ oes(t hoist
 'omen homeliness
 'omopthe homeopathy
 'omsek homesick
-'omsekm homesickness
+'omsekn homesickness
 'omstd homestead
 'om^d homeward
 'omsi homicide
@@ -355,7 +355,7 @@ onrre honorary
 'opr hopper
 'ord horde
 'orizn horizon
-'orizont horizontal
+'orezont horizontal
 'orn horn
 'ornet hornet
 'or^oe horography
@@ -372,7 +372,7 @@ onrre honorary
 'oteklchu horticulture
 'osana hosanna
 'os hose
-'sre hosiery
+'osre hosiery
 
 # Page 89 Column 2
 'osptb hospitable
@@ -435,7 +435,7 @@ ausov howsoever
 # Page 90 Column 1
 'unch hunch
 'und hundred
-'udn^th hundredth
+'und^th hundredth
 'unge~ hunger
 'ungre| hungrily
 'ungre hungry
@@ -477,7 +477,7 @@ i^plan hydroplane
 'imn Hymen
 'em hymn
 'iprble hyperbole
-ipergr^a hypercritical
+iperkr^a hypercritical
 'ifn hyphen
 'epn^a hypnotic
 'epnotsm hypnotism

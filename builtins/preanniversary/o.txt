@@ -34,8 +34,8 @@ oble obligee
 obl^e obligingly
 oblek oblique
 oblet obliterate
-obetsh obliteration
-obevn oblivion
+obletsh obliteration
+oblevn oblivion
 oblev oblivious
 oblng oblong
 obloke obloquy
@@ -70,7 +70,7 @@ obtrud obtrude
 obtrusv obtrusive
 obtus obtuse
 obsves obverse
-obva^'t obviate
+obva&'t obviate
 obva&'sh obviation
 obv obvious
 kash occasion
@@ -128,7 +128,7 @@ oel oil
 oelen oiliness
 oent-m ointment
 old old
-oldn olden
+old-n olden
 oleom oleomargarine
 olfaktre olfactory
 oleg oligarchy
@@ -143,7 +143,7 @@ om-neptns omnipotence
 om-nep omnipotent
 
 # Page 126 Column 3
-om-neprens omnipresence
+om-nepresns omnipresence
 om-nepres omnipresent
 om-neprev omniprevalent
 om-neshns omniscience
@@ -215,7 +215,7 @@ orl oral
 onj orange
 orash oration
 oratr orator
-oratl^k oratorical
+oratr^k oratorical
 oratreo oratorio
 oratre oratory
 orb orb
@@ -254,8 +254,8 @@ orent orient
 orentl oriental
 orefes orifice
 orejn origin
-orij original
-oren^l originality
+orej original
+orej^l originality
 orejnat originate
 
 # Page 128 Column 1
@@ -264,7 +264,7 @@ orejnatv originative
 orejnatr originator
 oreol oriole
 onam ornament
-oma^m ornamental
+ona^m ornamental
 onamsh ornamentation
 oname~ ornamentor
 onat ornate
@@ -272,7 +272,7 @@ onat-n ornateness
 oneth^o( ornithological
 oneth^o(s ornithologist
 oneth^o( ornithology
-orotnd orotund
+orot-nd orotund
 ofn orphan
 ofnj orphanage
 ofn^d orphanhood
@@ -307,11 +307,11 @@ au out
 aukas outcast
 auk outcome
 aukri outcry
-audros outdoors
+audors outdoors
 au^r outer
 au^rmo outermost
 aufet outfit
-aufefe~ outfitter
+aufete~ outfitter
 augroth outgrowth
 aulo outlaw
 aula outlay
@@ -333,7 +333,7 @@ aud outward
 auuet outwit
 oval oval
 ovash ovation
-ovn oven
+uvn oven
 ? o^ over
 o^ak overact
 o^os overalls
@@ -341,7 +341,7 @@ o^bor overboard
 o^chj overcharge
 o^k overcome
 o^kf overconfidence
-o^do overdo
+o^du overdo
 o^estm overestimate
 o^flo overflow
 

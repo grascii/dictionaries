@@ -117,7 +117,7 @@ fathland fatherland
 fath)m fathom
 fath)ml fathomless
 fateg fatigue
-fatm fatten
+fatn fatten
 fatute fatuity
 ? fatuus fatuous
 foset faucet
@@ -154,7 +154,7 @@ feb feeble
 febn feebleness
 fed feed
 fel feel
-fedl^e feelingly
+fel^e feelingly
 fan feign
 fand feigned
 fan^te feignedly
@@ -190,8 +190,8 @@ ferl ferrule
 fere ferry
 fe~tl fertile
 fe~tln fertileness
-fe~tlizsh fertilization
-fetliz fertilize
+fe~tlezsh fertilization
+fe~tliz fertilize
 ferl ferule
 fevnse fervency
 fevnt fervent
@@ -216,10 +216,10 @@ fevresh feverish
 feu few 
 fa&'nsa fiance
 fa&'sko fiasco
-fa^'t fiat
+fa&et fiat
 feb fib
 fibr fiber
-fiberos fibrous
+fibrus fibrous
 feshu fichu
 fekl fickle
 fekln fickleness
@@ -242,14 +242,14 @@ fire fiery
 fif fife
 feg fig
 fit fight
-fegmn figment
+fegm figment
 fgratv figurative
 fgr figure
-felamn filament
+felam filament
 felbe~t filbert
 felch filch
 fil file
-fela^'l filial
+fela&'l filial
 felbus filibuster
 feleg filigree
 fel fill
@@ -555,7 +555,7 @@ frakas fracas
 fraksh fraction
 frakshl fractional
 frakshus fractious
-farktr fracture
+fraktr fracture
 frajl fragile
 fragm fragment
 fragmre fragmentary
@@ -639,7 +639,7 @@ frozn frozen
 frukt^f fructification
 
 # Page 77 Column 2
-fruktf fructify
+frukdf fructify
 frug frugal
 frug^l frugality
 frut fruit

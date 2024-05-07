@@ -126,7 +126,7 @@ je~m germ
 je~mn German
 je~man germane
 je~msi germicide
-je~mat germinate
+je~mnat germinate
 jernd gerund
 jerndv gerundive
 jestek^u gesticulate
@@ -244,7 +244,7 @@ gd-muth godmother
 gdspd godspeed
 goete~ goiter
 gold gold
-goldn golden
+gold-n golden
 golf golf
 gondla gondola
 gondler gondolier
@@ -271,8 +271,8 @@ gauj gouge
 gurmn gourmand
 gaut gout
 gv govern
-gn^b governable
-gnes governess
+gv^b governable
+gves governess
 gv government
 gv^m governmental
 gv^r governor
@@ -310,7 +310,7 @@ g^muth grandmother
 granj grange
 granet granite
 grant grant
-gran^n granulate
+gran^u granulate
 granul granule
 grap grape
 graf^k graphical
@@ -332,7 +332,7 @@ grav grave
 gravl gravel
 gravn graveness
 gravta gravitate
-gratsh gravitation
+gravtsh gravitation
 gr^v gravity
 grave gravy
 gra gray
@@ -366,7 +366,7 @@ grel grill
 grem grim
 gremas grimace
 grim grime
-grem grin
+gren grin
 grind grind
 grep grip
 grese| grisly

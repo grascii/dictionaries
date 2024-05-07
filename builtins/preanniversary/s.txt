@@ -38,7 +38,7 @@ salr sailor
 sant saint
 sant^d sainthood
 santla saintlike
-sainten saintliness
+santen saintliness
 sak sake
 salam salaam
 salashus salacious
@@ -176,7 +176,7 @@ sklrm schoolroom
 skne~ schooner
 sa&eteka sciatica
 sa&ens science
-? sa&endf scientific
+? sa&en-df scientific
 sa&entes scientist
 semeta~ scimitar
 sentla scintillate
@@ -192,7 +192,7 @@ skop scope
 skorch scorch
 skor score
 skrn scorn
-sornf scornful
+skrnf scornful
 skorpn scorpion
 skoch scotch
 skndrel scoundrel
@@ -270,13 +270,13 @@ sekret secrete
 sekresh secretion
 sekt sect
 sektarn sectarian
-sektarnsm sectarianism
+sektarn-sm sectarianism
 seksh section
 sekshl sectional
 sektr sector
 sekeulr secular
 sekeulrsm secularism
-sekeurres secularist
+sekeulres secularist
 sekr secure
 sek^r security
 sedan sedan
@@ -382,7 +382,7 @@ seren serene
 ser^nt serenity
 s(ej serge
 ? s(ajse sergeancy
-sarjnt sergeant
+sajnt sergeant
 sera&'l serial
 seres series
 sers serious
@@ -542,7 +542,7 @@ shriv shrive
 shrevl shrivel
 shraud shroud
 shrub shrub
-shrub shrug
+shrug shrug
 shrnkn shrunken
 shuk shuck
 shude~ shudder
@@ -998,7 +998,7 @@ spk^uv speculative
 spk^ur speculator
 sp speech
 sp^l speechless
-sp^ls speechlessness
+sp^ln speechlessness
 spmakr speechmaker
 spd speed
 spde speedy
@@ -1324,7 +1324,7 @@ str strength
 strn strengthen
 strnd strengthened
 strenus strenuous
-stses stress
+stres stress
 strech stretch
 streche~ stretcher
 strkn stricken
@@ -1353,7 +1353,7 @@ strkt structure
 strg struggle
 strng strung
 strknen strychnine
-stpb stubble
+stb stubble
 stbe~n stubborn
 stbe~n-n stubbornness
 stuko stucco
@@ -1563,7 +1563,7 @@ s)^ven supervene
 s)^vis supervise
 s)^vesh supervision
 supin supine
-super supper
+supr supper
 splant supplant
 supl supple
 splem supplement
@@ -1683,7 +1683,7 @@ seljesm syllogism
 self sylph
 selvn sylvan
 sembl symbol
-somblek symbolic
+semblek symbolic
 sembliz symbolize
 semet^k symmetrical
 semetre symmetry
@@ -1705,7 +1705,7 @@ senkopa syncopate
 senkopash syncopation
 send^k syndical
 sendek syndicate
-senod synod
+senud synod
 senonem synonym
 senon synonymous
 senop synopsis

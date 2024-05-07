@@ -47,7 +47,7 @@ eunan unanimous
 nansb unanswerable
 nans^t unanswered
 unapreshtv unappreciative
-unabrchb unapproachable
+unaprchb unapproachable
 una~m^t unarmed
 unasalb unassailable
 unasm' unassuming
@@ -198,7 +198,7 @@ nfand unfeigned
 nfela&'l unfilial
 nfensht unfinished
 nfet unfit
-ufold unfold
+nfold unfold
 nftn unfortunate
 nfnd^t unfounded
 
@@ -293,11 +293,11 @@ nrest unrest
 nrich unrighteous
 nriv^t unrivaled
 nrle unruly
-nskrp unscrupulous
+n-skrp unscrupulous
 nsel unseal
 nssnb unseasonable
-? nsetld unsettled
-nsite unsightly
+? n-setld unsettled
+n-site unsightly
 nsoshb unsociable
 nsof^t unsophisticated
 nsnd unsound
@@ -375,7 +375,7 @@ e~chn urchin
 e~j urge
 ejnt urgent
 e~n urn
-eu^g usage
+eu^j usage
 euf useful
 eul useless
 ushe~ usher
@@ -385,8 +385,8 @@ eusfruk usufruct
 
 # Page 194 Column 3
 eushrr usurer
-eusrus usurious
-eusrp usurp
+eus-rus usurious
+eus-rp usurp
 eushre usury
 eutnsel utensil
 eutelet utilitarian
