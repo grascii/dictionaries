@@ -51,8 +51,8 @@ kafsken calfskin
 kalbr caliber
 kaleko calico
 kalesth calisthenics
-ka call
-ka^r caller
+ko call
+ko^r caller
 kal^er calligrapher
 kal^ek calligraphic
 
@@ -182,7 +182,7 @@ kapsul capsule
 kaptn captain
 kaptnse captaincy
 kapsh caption
-kpashus captious
+kapshus captious
 kaptvat captivate
 kaptv captive
 kap^v captivity
@@ -630,8 +630,8 @@ chaude~ chowder
 kris Christ
 kresn christen
 kresn-dm Christendom
-kresch Christian
-kresch^nt Christianity
+kres-ch Christian
+kres-ch^nt Christianity
 krisla Christlike
 kres Christmas
 krestid Christmastide
@@ -1262,7 +1262,7 @@ kdnsash condensation
 kdns condense
 kdnser condenser
 kdsen condescend
-kdesn^e condescendingly
+kdsen^e condescendingly
 kdsensh condescension
 kdin condign
 kdem condiment
@@ -1341,7 +1341,7 @@ kfrnt confront
 kfeu confuse
 kfeush confusion
 kfeut confute
-kcha, conge
+ksha, conge
 kjel congeal
 kjenl congenial
 kjen^l congeniality
@@ -1486,7 +1486,7 @@ ksme~ consumer
 ksmat consummate
 ksmash consummation
 ksmsh consumption
-ksmtv consumptive
+ksm-tv consumptive
 ktak contact
 ktajn contagion
 ktajus contagious
@@ -1521,7 +1521,7 @@ ktex context
 kteg contiguous
 ktn-nt continent
 ktn-ntl continental
-ktnjes contingency
+ktnjse contingency
 ktnjnt contingent
 ktnul continual
 ktnuns continuance
@@ -1688,7 +1688,7 @@ krpr^l corporality
 
 # Page 44 Column 2
 krpra corporate
-kpr corporation
+krp corporation
 krporel corporeal
 kor corps
 korps corpse
@@ -1785,7 +1785,7 @@ kupa coupe
 kup couple
 kuplr coupler
 kuplet couplet
-kulp' coupling
+kupl' coupling
 kpn coupon
 krj courage
 krjus courageous

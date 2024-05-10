@@ -1,7 +1,7 @@
 
 # Page 207 Column 1
 eot yacht
-eotmn yachtsman
+eotsmn yachtsman
 ? a|'u yahoo
 a|k yak
 a|m yam

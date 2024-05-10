@@ -17,7 +17,7 @@ es ease
 esel easel
 esm easement
 eser easier
-esem easiness
+esen easiness
 est east
 este~ easter
 ? estee| easterly
@@ -57,7 +57,7 @@ ede eddy
 
 # Page 61 Column 3
 ej edge
-edi_s edgewise
+eji_s edgewise
 ed^b edibility
 edb edible
 edek edict
@@ -103,16 +103,16 @@ eflunt effluent
 eft effort
 efrntre effrontery
 efulj effulgence
-efulgnt effulgent
+efuljnt effulgent
 efeu effuse
 efeush effusion
 efeuv effusive
 eg egg
-egu ego
-egust egoist
+ego ego
+egost egoist
 ego^stl egoistical
-egtsm egotism
-egots egotist
+egt-sm egotism
+egtes egotist
 
 # Page 62 Column 2
 egt^stl egotistical
@@ -133,7 +133,7 @@ elab elaborate
 elabsh elaboration
 elab^v elaborative
 elaps elapse
-ep^st elastic
+el^st elastic
 elas^s) elasticity
 elat elate
 ela^te| elatedly
@@ -183,16 +183,16 @@ elvatr elevator
 elf elf
 elest elicit
 elid elide
-elij^b eligibility
-elijb eligible
-elimn eliminate
-elimnsh elimination
+elej^b eligibility
+elejb eligible
+elemn eliminate
+elemnsh elimination
 elesh elision
 alet elite
 elexer elixir
 elk elk
 eleps ellipse
-ekepss ellipsis
+elepss ellipsis
 eleptek elliptic
 elep^k elliptical
 elm elm
@@ -248,7 +248,7 @@ mboldn embolden
 mbos emboss
 mbras embrace
 mbroe embroider
-mbroil embroil
+mbroel embroil
 mbreo embryo
 emrld emerald
 emej emerge
@@ -327,7 +327,7 @@ nfs enforce
 nfranch enfranchise
 n-ga engage
 n-gam engagement
-n-gndr engender
+n-jndr engender
 njn engine
 njne~ engineer
 engsh english
@@ -339,9 +339,9 @@ enegm^a enigmatic
 ? enegm^ae enigmatically
 njoen enjoin
 njoe enjoy
-njeob enjoyable
+njoeb enjoyable
 njoem enjoyment
-nlag enlarge
+nlaj enlarge
 nlajm enlargement
 nlin enlighten
 nlim enlightenment
@@ -410,7 +410,7 @@ nvim environment
 nvoe envoy
 nve envy
 e-on eon
-epalet epaulet
+epolet epaulet
 efemerl ephemeral
 epk epic
 epkeu epicure
@@ -422,7 +422,7 @@ ep^g^a epigrammatic
 ? ep^e epigraph
 epelepse epilepsy
 epelept epileptic
-epekog epilogue
+epelog epilogue
 epesk Episcopal
 epesod episode
 epesl epistle
@@ -440,21 +440,21 @@ ekl equal
 eklezsh equalization
 ekliz equalize
 eka| equally
-elan^mt equanimity
+ekan^mt equanimity
 eka_sh equation
 eka_tr equator
 eke_re equerry
 eke_stra&'n equestrian
-eki_leb equilibrium
+eke_leb equilibrium
 eki_n equine
 eke_nok equinoctial
-eke_nux equinox
+eke_nox equinox
 eke_p equip
 eke_pj equipage
 eke_pm equipment
 ekpoes equipoise
 eke_tb equitable
-eke_et equity
+eke_te equity
 eke_v equivalent
 ekev^k equivocal
 era era
@@ -486,8 +486,8 @@ eskalatr escalator
 eskpb escapable
 eskpd escapade
 eskp escape
-eskkm escapement
-eschu eschew
+eskpm escapement
+es(chu eschew
 eskot escort
 eskro escrow
 
@@ -507,7 +507,7 @@ estb establish
 estbm establishment
 est estate
 estm esteem
-stemb estimable
+estmb estimable
 estmbe estimably
 estmat estimate
 estmsh estimation
@@ -605,12 +605,12 @@ sepsh exception
 eserp excerpt
 eses excess
 esesv excessive
-esch exchange
-esch^b exchangeability
-eschb exchangeable
+es(ch exchange
+es(ch^b exchangeability
+es(chb exchangeable
 
 # Page 68 Column 1
-eschkr exchequer
+es(chkr exchequer
 esis excise
 esit^b excitability
 esitB excitable
@@ -629,7 +629,7 @@ eskrsh excursion
 eskeu^b excusable
 eskeu excuse
 eskrb execrable
-eslra execrate
+eskra execrate
 esk execute
 esksh execution
 eskv executive
@@ -644,7 +644,7 @@ ese~t exert
 esesh exertion
 es'al exhale
 esos exhaust
-esus-sh exhaustion
+esos-sh exhaustion
 esosv exhaustive
 esostl exhaustless
 esebt exhibit
@@ -655,7 +655,7 @@ eselrash exhilaration
 esot exhort
 esotsh exhortation
 es'eum exhume
-esegnt exigent
+esejnt exigent
 esil exile
 ess exist
 ess existence
@@ -719,9 +719,9 @@ esplorash exploration
 esplr explore
 esplosh explosion
 esplosv explosive
-espot exponent
+espon exponent
 espor export
-exporsh exportation
+esporsh exportation
 espo expose
 esposh exposition
 espos^u expostulate

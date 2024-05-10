@@ -79,7 +79,7 @@ nek neck
 neklas necklace
 nekti necktie
 ? nekr^o necrology
-nelrmnse necromancy
+nekrmnse necromancy
 nekta~ nectar
 ned need
 ne^t needed
@@ -177,10 +177,10 @@ ni^s) nitrous
 no^b nobility
 nob noble
 nobmn nobleman
-nobm nobleness
+nobn nobleness
 nobo nobody
 noktnl nocturnal
-nomten nocturne
+nokten nocturne
 nod nod
 noes noise
 noesl noiseless

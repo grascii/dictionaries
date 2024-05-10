@@ -5,7 +5,7 @@ vaknt vacant
 vakat vacate
 vakash vacation
 vaksnat vaccinate
-vaksnash vaccination
+vaksnsh vaccination
 vaksen vaccine
 vasla vacillate
 vaslash vacillation
@@ -313,7 +313,7 @@ vesul visual
 vesuliz visualize
 vitl vital
 vitlsm vitalism
-vet^l vitality
+vit^l vitality
 vitlesh vitalization
 vitliz vitalize
 

@@ -92,11 +92,11 @@ uotemrk watermark
 uotemeln watermelon
 uote~e watery
 uot watt
-uotmete~ wattmeter
+uot-mete~ wattmeter
 uav wave
 uavr waver
 uax wax
-? uasbere waxberry
+? uasbre waxberry
 ? uasrk waxwork
 uabl waybill
 uafar wayfare
@@ -237,7 +237,7 @@ ilst whilst
 'usov whosoever
 i why
 ueked wicked
-uekedn wickedness
+ueked-n wickedness
 uekr wicker
 ueket wicket
 uid wide
