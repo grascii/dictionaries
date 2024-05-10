@@ -169,7 +169,7 @@ mpe~t^b imperturbability
 mpe~tb imperturbable
 mprvus impervious
 mpt^s) impetuosity
-mpteus impetuous
+mptuus impetuous
 mptus impetus
 mpite impiety
 
@@ -898,7 +898,7 @@ nvol involve
 nvul invulnerable
 n^d inward
 a&eden iodine
-a&edfm iodoform
+a&ed-fm iodoform
 a&eta iota
 epkak ipecac
 iras^b irascibility

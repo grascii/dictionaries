@@ -92,7 +92,7 @@ uotemrk watermark
 uotemeln watermelon
 uote~e watery
 uot watt
-uotmete~ wattmeter
+uot-mete~ wattmeter
 uav wave
 uavr waver
 uax wax

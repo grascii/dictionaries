@@ -1060,7 +1060,7 @@ pris price
 prisl priceless
 prek prick
 pri pride
-pridf prideful
+prid-f prideful
 prest priest
 prest^d priesthood
 preg prig

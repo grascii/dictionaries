@@ -544,13 +544,13 @@ rkest requisite
 rkessh requisition
 rekitl requital
 rekit requite
-? rsend rescind
-rsendb rescindable
+? r-send rescind
+r-sendb rescindable
 reskeu rescue
 reskeur rescuer
 ? rsech research
-rsemblans resemblance
-rsem resemble
+r-semblans resemblance
+r-sem resemble
 
 # Page 155 Column 2
 r-sent resent

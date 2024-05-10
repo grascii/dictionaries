@@ -103,7 +103,7 @@ eflunt effluent
 eft effort
 efrntre effrontery
 efulj effulgence
-efulgnt effulgent
+efuljnt effulgent
 efeu effuse
 efeush effusion
 efeuv effusive
@@ -327,7 +327,7 @@ nfs enforce
 nfranch enfranchise
 n-ga engage
 n-gam engagement
-n-gndr engender
+n-jndr engender
 njn engine
 njne~ engineer
 engsh english

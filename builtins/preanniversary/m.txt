@@ -663,7 +663,7 @@ morliz moralize
 mobd morbid
 m more
 ? m^o moreover
-mrg morgue
+mog morgue
 mn' morning
 morok Morocco
 
