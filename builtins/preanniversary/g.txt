@@ -56,7 +56,7 @@ gasp gasp
 gastrk gastric
 
 # Page 79 Column 3
-gastr^st gastritis
+gastr^ts gastritis
 gat gate
 gata_ gateway
 gath gather
@@ -323,7 +323,7 @@ gras grass
 grat grate
 gratf grateful
 grat^f gratification
-gratf gratify
+gradf gratify
 grates gratis
 grat gratitude
 gratutus gratuitous

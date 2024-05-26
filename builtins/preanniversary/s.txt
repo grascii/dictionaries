@@ -17,7 +17,7 @@ sakref sacrifice
 sakref^r sacrificer
 sakrefesh sacrificial
 sakrelej sacrilege
-sakrlejus sacrilegious
+sakrelejus sacrilegious
 sad sad
 sadn sadden
 sadl saddle
@@ -936,7 +936,7 @@ sup soup
 saur sour
 sos source
 saurn sourness
-sou south
+sau south
 ses southeast
 ses^re southeasterly
 suthen southern
@@ -1039,8 +1039,8 @@ splendr splendor
 splis splice
 splent splint
 splentr splinter
-spet split
-sprj splurge
+splet split
+splrj splurge
 spoel spoil
 spoelr spoiler
 spoelsm spoilsman
@@ -1493,8 +1493,8 @@ sufrjes suffragist
 sufeu suffuse
 sufeush suffusion
 shugr sugar
-sug suggest
-sug suggestion
+suj suggest
+suj suggestion
 susidl suicidal
 susi suicide
 sut suit
@@ -1591,7 +1591,7 @@ shu surely
 shun sureness
 shute surety
 sef surf
-sefa surface
+sefas surface
 sefet surfeit
 s(ej surge
 s(ejn surgeon

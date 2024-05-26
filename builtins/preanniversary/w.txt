@@ -190,7 +190,7 @@ areth( wherewith
 areth(o( wherewithal
 'uet whet
 ueth whether
-'etston whetstone
+'uet-ston whetstone
 'ua whey
 ch which
 'uef whiff
@@ -394,7 +394,7 @@ reth wreath
 rek wreck
 
 # Page 205 Column 3
-rekg wreckage
+rekj wreckage
 ren wren
 rench wrench
 rest wrest

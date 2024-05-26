@@ -32,7 +32,7 @@ nas^l nasality
 natl natal
 natatorem natatorium
 nash nation
-nash^l national
+nashl national
 nashlsm nationalism
 nashles nationalist
 nash^l nationality
@@ -205,7 +205,7 @@ non-kbatnt noncombatant
 non-kmsht noncommissioned
 non-kmet noncommital
 non-kpli noncompliance
-non-kdtr nonconductor
+non-kdu nonconductor
 non-kfm' nonconforming
 non-kfmes nonconformist
 non-kf^mt nonconformity

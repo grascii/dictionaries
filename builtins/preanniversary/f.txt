@@ -348,7 +348,7 @@ flesh flesh
 # Page 74 Column 1
 flu flew
 flex^b flexibility
-felxb flexible
+flexb flexible
 flekr flicker
 flir flier
 fli flight
@@ -525,7 +525,7 @@ fth forth
 fthkm' forthcoming
 ftheth forthwith
 ft^f fortification
-ftf fortify
+fdf fortify
 ftet fortitude
 ft-ni fortnight
 ftres fortress

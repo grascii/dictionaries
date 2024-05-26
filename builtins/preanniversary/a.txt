@@ -240,7 +240,7 @@ ajdek adjudicate
 ajnk adjunct
 aju adjure
 ajus adjust
-ajub adjustable
+ajusb adjustable
 ajutn-t adjutant
 amnes administer
 amnes-sh administration
