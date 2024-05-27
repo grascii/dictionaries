@@ -104,7 +104,7 @@ val veil
 vanl veinless
 velekat vellicate
 velm vellum
-veluspd velocipede
+velospd velocipede
 vel^s) velocity
 velvt velvet
 velvtn velveteen
@@ -266,7 +266,7 @@ venegr vinegar
 venegre vinegary
 vena~|d vineyard
 vntj vintage
-vntne~ vintner
+vnt-ne~ vintner
 vil viol
 vilb violable
 vila violate

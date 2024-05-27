@@ -485,7 +485,7 @@ pestlens pestilence
 pestlent pestilent
 petl petal
 ptsh petition
-ptshr petitionary
+ptshre petitionary
 ptshe~ petitioner
 pe^faksh petrifaction
 pe^f petrify
@@ -503,7 +503,7 @@ fa,tn phaeton
 fantasm phantasm
 fan-tm phantom
 fa~mse pharmacy
-? farenx pharynx
+? farenks pharynx
 fas phase
 fesnt pheasant
 fenom phenomenal
@@ -931,7 +931,7 @@ preseptnse precipitancy
 preseptn precipitant
 presepta precipitate
 preseptsh precipitation
-presptus precipitous
+preseptus precipitous
 pres) precise
 presesh precision
 preklu preclude
@@ -1158,7 +1158,7 @@ prg^v progressive
 pr'ebt prohibit
 pr'ebsh prohibition
 pr'ebshst prohibitionist
-pr'ebtr prohibitory
+pr'ebtre prohibitory
 
 # Page 143 Column 2
 prjk project

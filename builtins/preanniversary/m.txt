@@ -17,7 +17,7 @@ madn madden
 mad made
 madna madonna
 mag magazine
-magnta magenta
+majnta magenta
 majk magic
 maj^k magical
 majesh magician
@@ -82,7 +82,7 @@ malegse malignancy
 maleg malignant
 mal^b malleability
 malb malleable
-mala^'sh malleation
+mala&'sh malleation
 malet mallet
 molt malt
 
@@ -201,7 +201,7 @@ mastlen masterliness
 ? maste~e masterly
 mastpes masterpiece
 mastre mastery
-mastk masticate
+mastek masticate
 
 # Page 113 Column 2
 masteksh mastication
@@ -373,7 +373,7 @@ me~da&'n meridian
 mereno merino
 me~t merit
 me~t^t merited
-me~tros meritorious
+me~trus meritorious
 me~mad mermaid
 me~m merriment
 
@@ -498,7 +498,7 @@ mnuet minuet
 minus minus
 mnet minute
 mnute| minutely
-mnusa&' minutia
+mnusha&' minutia
 mer^k miracle
 merak miraculous
 merash mirage
@@ -518,7 +518,7 @@ mschus mischievous
 msksep misconception
 mskdu misconduct
 msks(^ksh misconstruction
-? msns( misconstrue
+? msks( misconstrue
 msknt miscount
 mskra&'nt miscreant
 

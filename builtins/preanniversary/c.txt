@@ -176,7 +176,7 @@ kaprekrn capricorn
 kapsiz capsize
 kapstn capstan
 kapston capstone
-kapsolr capsular
+kapsulr capsular
 kaps^u capsulate
 kapsul capsule
 kaptn captain
@@ -387,7 +387,7 @@ senshu censure
 senss census
 sent cent
 sentl cental
-sen-tnra&'l centenarian
+sen-tnra&'n centenarian
 sen-tnre centenary
 sen-tnl centennial
 sn^ center
@@ -1091,7 +1091,7 @@ kmneun communion
 kmnsm communism
 kmunes communist
 kmu^nt community
-knut^b commutability
+kmut^b commutability
 kmutb commutable
 kmutsh commutation
 kmutatv commutative

@@ -554,7 +554,7 @@ r-sem resemble
 
 # Page 155 Column 2
 r-sent resent
-r-sntf resentful
+r-sentf resentful
 r-sent-m resentment
 r-sevash reservation
 r-sev reserve

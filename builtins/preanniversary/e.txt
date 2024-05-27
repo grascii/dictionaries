@@ -576,7 +576,7 @@ evdn evident
 evl evil
 evens evince
 evk evoke
-evoksh evolution
+evolsh evolution
 evol evolve
 
 # Page 67 Column 3

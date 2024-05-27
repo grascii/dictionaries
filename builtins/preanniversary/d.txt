@@ -567,7 +567,7 @@ d^mt dimity
 dmpl dimple
 den din
 din dine
-dnjes dinginess
+dnjen dinginess
 dnje dingy
 dnr dinner
 dn-t dint
@@ -721,7 +721,7 @@ dsprsh dispersion
 dsplas displace
 dspla display
 dspl displease
-dspesh displeasure
+dsplesh displeasure
 dspor disport
 dspol disposal
 
@@ -923,7 +923,7 @@ drem dream
 dreme~ dreamer
 drer drear
 dreren dreariness
-? dreg dredge
+? drej dredge
 drench drench
 dres dress
 dreser dresser
@@ -942,7 +942,7 @@ dron drone
 drup droop
 drp drop
 drpse dropsy
-drus dross
+dros dross
 draut drought
 drov drove
 drovr drover
