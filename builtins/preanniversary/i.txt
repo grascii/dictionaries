@@ -27,7 +27,7 @@ adln idleness
 adlr idler
 
 # Page 91 Column 2
-ade| idly
+ade idly
 idol idol
 idolat idolatrous
 idolatre idolatry
