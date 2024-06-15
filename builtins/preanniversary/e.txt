@@ -6,7 +6,7 @@ er ear
 e~drm eardrum
 erl earl
 erldm earldom
-ere| early
+ere early
 e~mark earmark
 e~n earn
 e~ns earnest
@@ -20,7 +20,7 @@ eser easier
 esen easiness
 est east
 este~ easter
-? estee| easterly
+? este~e easterly
 estn eastern
 es^d eastward
 ese easy
@@ -136,7 +136,7 @@ elaps elapse
 el^st elastic
 elas^s) elasticity
 elat elate
-ela^te| elatedly
+ela^te elatedly
 elash elation
 elbo elbow
 eldr elder

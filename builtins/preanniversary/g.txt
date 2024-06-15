@@ -135,7 +135,7 @@ jestek^ur gesticulator
 jestr gesture
 get get
 gisr geyser
-gaste| ghastly
+gaste ghastly
 gerken gherkin
 gost ghost
 jint giant
@@ -185,7 +185,7 @@ glans glance
 gland gland
 glar glare
 glas glass
-gla,z, glaze
+glaz, glaze
 glem gleam
 gle,n glean
 gle glee
@@ -239,7 +239,7 @@ gdfath) godfather
 gdl godless
 gdla godlike
 gden godliness
-gde| godly
+gde godly
 gd-muth godmother
 gdspd godspeed
 goete~ goiter
@@ -337,7 +337,7 @@ gr^v gravity
 grave gravy
 gra gray
 granes grayness
-gra,z graze
+graz, graze
 gres grease
 ? gresen greasiness
 grese greasy
@@ -369,7 +369,7 @@ grim grime
 gren grin
 grind grind
 grep grip
-grese| grisly
+grese grisly
 grest grist
 gresl gristle
 gret grit

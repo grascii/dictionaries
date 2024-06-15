@@ -831,7 +831,7 @@ doj dodge
 doje~ dodger
 dus does
 dog dog
-dogede| doggedly
+dogede doggedly
 dogrel doggerel
 dogma dogma
 dogm^a dogmatic
