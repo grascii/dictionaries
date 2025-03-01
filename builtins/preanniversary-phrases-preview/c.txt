@@ -16,7 +16,7 @@ kbdn can be done
 kbmad can be made
 kv can have
 knv can never
-knaks( can not accept
+knaks( cannot accept
 knak cannot account
 
 # Page 12 Column 2
@@ -31,6 +31,7 @@ knsa cannot say
 knse cannot see
 kn^stn cannot understand
 ktha can that
+kth can the
 kth)b can there be
 kthe can they
 ku can you
@@ -73,12 +74,12 @@ svnj civil engineer
 svlo civil law
 s-s civil service
 s-srfn civil service reform
-k\od C.O.D.
+k\od C. O. D.
 kmkksh come to the conclusion
 kmnk Common Council
 kdshth^s( condition of things
 kfemrir confirming our wire
-k\p Conserative party
+k\p Conservative party
 kstnsh considerable attention
 ksmp considerable importance
 kstoe constitute and appoint

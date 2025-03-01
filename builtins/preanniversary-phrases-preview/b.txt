@@ -46,7 +46,8 @@ besua best way
 bsh be sure
 bshtha be sure that
 bten better than
-btentha better than the 
+btentha better than that
+btenth better than the
 btntha between that
 btnth between the
 btnthes between these
@@ -73,7 +74,7 @@ brfd bring forward
 brutnsh bring to your attention
 brutlo brother-in-law
 brotfd brought forward
-bs(kres business corresponendence
+bs(kres business correspondence
 bs(men business men
 bths-skas but this is a case
 bths-sksh but this is a question
@@ -97,7 +98,7 @@ bret-m by return mail
 bsam by same mail
 btelfn by telephone
 btha by that
-bthadt by taht date
+bthadt by that date
 bthamns by that means
 bthatm by that time
 bth by the

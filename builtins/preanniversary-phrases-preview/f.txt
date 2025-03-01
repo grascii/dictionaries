@@ -34,8 +34,8 @@ fes^p first place
 fesra first rate
 fes-staj first stage
 festm first time
-fob f.o.b.
-fobkrs f.o.b. cars
+fob f. o. b.
+fobkrs f. o. b. cars
 fomn' following morning
 fsetnlengtm for a certain length of time
 fsetnprp for a certain purpose
@@ -129,7 +129,7 @@ fsamrsn for the same reason
 fthmss for themselves
 fth)asb for there has been
 
-# Page 20 Column 1
+# Page 21 Column 1
 fth)snt for there is not
 fthes for these
 fthesegs for these goods
@@ -149,9 +149,9 @@ fthstm for this time
 fthsk for this week
 fus for us
 fch for which
-fchaks(th^s( for which to accept thanks
+fchaks(th^s( for which accept thanks
 
-# Page 20 Column 2
+# Page 21 Column 2
 fu for you
 fuset for your city
 fukt for your country
@@ -173,14 +173,14 @@ fmtha from that
 fmthatm from that time
 fmth from the
 
-Page 21 Column 1
+# Page 22 Column 1
 fmthm from them
 fmths from this
 fmths-stsh from this station
 tm-tm from time to time
 fmus from us
 
-Page 21 Column 2
+# Page 22 Column 2
 fmch from which
 erer from year to year
 fmu from you

@@ -4,7 +4,7 @@ samsi same side
 sampkpe sample copy
 sat-mne~ satisfactory manner
 skl\b school board
-skl\bkete shool board committee
+skl\bkete school board committee
 ssner season of the year
 seknb Second National Bank
 sek^p second place
@@ -32,7 +32,7 @@ sevdasg several days ago
 sev^n several hundred
 sev^nd several hundred dollars
 sevmnthsg several months ago
-sevkashs several occcasions
+sevkashs several occasions
 sevtms several times
 shb shall be
 shba shall be able
@@ -76,6 +76,7 @@ densthatm since that time
 sensthskas since this case
 sensths-s since this is
 sensthn since then
+sexmnths six months
 soso so and so
 sos so as to
 sosget so as to get
@@ -117,6 +118,7 @@ stmg some time ago
 stmbf some time before
 stmuth some time or other
 smeksg some weeks ago
+smersg some years ago
 smarls somewhere else
 somch so much
 snlo son-in-law
@@ -129,7 +131,7 @@ sothsnt so there is not
 
 # Page 66 Column 1
 sothmsb so there must be
-sother so there are
+sother so there were
 sothl so there will
 sothlb so there will be
 sotsp so to speak

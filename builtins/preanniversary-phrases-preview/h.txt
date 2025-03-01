@@ -2,7 +2,7 @@
 adb had been
 adbdn had been done
 adbge had been given
-adbte~ had been btter
+adbte~ had better
 ad-n had not
 adth)b had there been
 'afdn half done
@@ -32,7 +32,7 @@ as-sed has said
 astha has that
 asth has the
 asth) has their
-asth)f has there fore
+asth)f has therefore
 asths has this
 astu has to
 astb has to be
@@ -44,6 +44,7 @@ vba have been able
 # Page 25 Column 1
 vdn have done
 vfnd have found
+vge have given
 vnon have known
 vmnsht have mentioned
 vnb have not been
@@ -92,6 +93,7 @@ efis he finds
 efnd he found
 ega he gave
 egets he gets
+eges he gives
 egs he goes
 e'db he had been
 asekmsi heirs, executors, administrators and assigns
@@ -133,7 +135,7 @@ elsa he will say
 ed he would
 eththeth hither and thither
 opba hope to be able
-opthslb hope this will be
+opthslb hoping this will be
 operfmu hoping to hear from you
 operfmusn hoping to hear from you soon
 oprse hoping to receive
@@ -146,7 +148,7 @@ r-r hour after hour
 'usl House of Lords
 'usrp House of Representatives
 audno how do you know
-aulng how lnog
+aulng how long
 aumne how many
 aumnethm how many of them
 aumnetms how many times

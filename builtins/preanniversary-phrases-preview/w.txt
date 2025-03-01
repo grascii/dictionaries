@@ -2,7 +2,7 @@
 uo^d war department
 osks was considered
 usdn was done
-usri was right
+ustri was it right
 usnt was not
 ustha was that
 usth was the
@@ -11,6 +11,7 @@ uasmnskete Ways and Means Committee
 uels we always
 uer we are
 uervis we are advised
+uerfra we are afraid
 uerar we are aware
 uerarf we are aware of the fact
 uernk' we are enclosing
@@ -21,7 +22,7 @@ uernfm we are informed
 # Page 79 Column 2
 uernposs we are in possession
 uerr we are in receipt of
-uerrod we are in recepit of an order
+uerrod we are in receipt of an order
 uerrchk we are in receipt of your check
 uerrle we are in receipt of your letter
 uerrud we are in receipt of your order
@@ -31,6 +32,7 @@ uerpl we are pleased
 uerpler we are pleased to hear
 uerplno we are pleased to know
 uerplsa we are pleased to say
+uerplse we are pleased to see
 uerplst we are pleased to state
 uerprep we are prepared
 uersenu we are sending you
@@ -49,7 +51,7 @@ uervesor we are very sorry to hear
 uervtr we are, Very truly yours
 uerl' we are willing
 ueri' we are writing
-uerur we are, Yours repsectfully
+uerur we are, Yours respectfully
 uerut we are, Yours truly
 uesktha we ask that
 ueskutnsh we ask your attention
@@ -172,14 +174,14 @@ uemn we remain
 uemnvtu we remain, Very truly yours
 
 # Page 83 Column 1
-uemnur we remain, Yours repsectfully
+uemnur we remain, Yours respectfully
 uemnut we remain, Yours truly
 uemnuvt we remain, Yours very truly
 ueremm we remember
 uerep^t we replied
 uerp we represent
 ueres we respectfully
-uereskutnsh we repectfully call your attention
+uereskutnsh we respectfully call your attention
 ueret we return
 uesa we say
 uesene~th we send herewith
@@ -256,6 +258,7 @@ ueush we wish
 ueushtdu we wish to do
 ueushv we wish to have
 ueushno we wish to know
+ueushsa we wish to say
 ued we would
 
 # Page 85 Column 1
@@ -288,7 +291,7 @@ otdufi what did you find
 otuno what do you know
 otumn what do you mean
 otumnsa' what do you mean by saying
-otumntha what do you mean by taht
+otumntha what do you mean by that
 otuth' what do you think
 otunt what do you want
 otasb what has been
@@ -315,7 +318,7 @@ enaos when I was
 enth when the
 enthe when they
 enthev when they have
-enthevdn when they have don
+enthevdn when they have done
 enos when was
 enu when you
 enur when you are
@@ -339,6 +342,7 @@ enutome when you told me
 enutos when you told us
 enud when you would
 arr where are
+a~dd where did
 ars where is
 arstha where is that
 arsth where is the
@@ -397,6 +401,7 @@ chl which will
 chlemb which will enable
 chd which would
 chdb which would be
+chdbdn which would be done
 chdvb which would have been
 chd-n which would not
 chk-nb which would not be
@@ -412,7 +417,7 @@ chuma which you may
 
 # Page 88 Column 2
 chumab which you may be
-chumav which you may have been
+chumav which you may have
 chusent which you sent
 chul which you will
 chulrse which you will receive
@@ -423,6 +428,7 @@ chud which you would
 'uk who can
 'ukn who can not
 'ukd who could
+'ukd-n who could not
 'udu who do
 'u'd who had
 'uv who have
@@ -492,8 +498,9 @@ ormetns wire me at once
 orrep wire reply
 ush^tha wishing that
 ushg wish to go
+ushv wish to have
 ushsa wish to say
-etho( will all
+etho( with all
 ethem with him
 
 # Page 90 Column 2

@@ -1,9 +1,10 @@
 # Page 92 Column 1
-er^er year after year
-e~tu year or two
-e~tug year or two ago
-ersers years and years
-ersaj years of age
+e|r^e|r year after year
+e~|tu year or two
+e~|tug year or two ago
+e|rsg years ago
+e|rsers years and years
+e|rsaj years of age
 a|no yes or no
 a|s yes, sir
 uls you always
@@ -47,7 +48,7 @@ uknsa you cannot say
 uknse you cannot see
 ukst you can state
 ukte~ you can tell
-uk^ stn you can understand
+uk^stn you can understand
 ukd you could
 ukdb you could be
 ukdv you could have
@@ -88,7 +89,7 @@ uvad you have had
 uvnon you have known
 uvnv you have never
 uvno you have no
-uvn you haven not
+uvn you have not
 uvnba you have not been able
 uvn' you have nothing
 uvnotm you have no time
@@ -182,12 +183,14 @@ ushd you should
 ushdb you should be
 ushdbsh you should be sure
 ushdv you should have
-ushd-n you should not be
+ushd-n you should not
+ushd-nb you should not be
 uth' you think
 utom you told him
 utome you told me
 unt you want
 untv you want to have
+unt-no you want to know
 ul you will
 ulara you will arrange
 ulb you will be
