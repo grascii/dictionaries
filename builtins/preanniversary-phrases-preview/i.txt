@@ -54,6 +54,7 @@ aknbsh I cannot be sure
 aknpose I cannot possibly
 aknremm I cannot remember
 aknsa I cannot say
+aknse I cannot see
 akn^stn I cannot understand
 aksa I can say
 akse I can see
@@ -152,6 +153,7 @@ efths-sth if this is the
 
 # Page 31 Column 2
 efue if we
+efuer if we are
 efuedu if we do
 efuedner if we do not hear
 efuednerfmu if we do not hear from you
@@ -183,6 +185,7 @@ efuvdn if you have done
 efuvad if you have had
 efuvn if you have not
 efunu if you knew
+efuno if you know
 efuma if you may
 efumen if you mean
 efums if you must
@@ -237,7 +240,7 @@ avnb I have not been
 avnba I have not been able
 
 # Page 33 Column 2
-avnotest I have not noticed
+avnotest I have noticed
 avnad I have not had
 avnet I have not yet
 avrse I have received
@@ -268,7 +271,8 @@ amag I may go
 amav I may have
 ama~rfmu I may hear from you
 amamsh I may mention
-amanba I am not able
+amanba I may not be able
+amanvb I may not have been
 amasa I may say
 amn-t I meant
 amatv I might have
@@ -286,7 +290,7 @@ amkb I must be
 amskfes I must confess
 amsge I must give
 ams-sa I must say
-nakrms in accorandance with
+nakrms in accordance with
 nakrnsma in accordance with my
 nakrnsr in accordance with our
 ndatu in a day or two
@@ -305,14 +309,14 @@ nfmnths in a few months
 nfks in a few weeks
 nansth in answer to the
 nansksh in answer to the question
-nansus in answer to your
+nansus in answer to yours
 nanshufa in answer to your favor
 nansule in answer to your letter
 nne in any
 nnekas in any case
 nnevnt in any event
 nneua in any way
-nposh in any position
+nposh in a position
 nssmne~ in a systematic manner
 nektu in a week or two
 nbf in behalf
@@ -359,6 +363,7 @@ nmaposh in my position
 nmaposs in my possession
 nmate~t in my territory
 nod in order
+nodtha in order that
 nodans in order to answer
 nodtb in order to be
 nodtba in order to be able
@@ -370,11 +375,13 @@ nodduso in order to do so
 nodtv in order to have
 nodt-nsh in order to insure
 nodtjj in order to judge
+nodobse in order to observe
 nodtpa in order to pay
 nodtprop in order to prepare
 nodtprch in order to purchase
 nodtrse in order to receive
 nodtsa in order to say
+nodtse in order to see
 nodtsho in order to show
 nodt^stn in order to understand
 nodtri in order to write
@@ -400,6 +407,7 @@ nplas in place
 noef in point of fact
 nposh in position
 nposs in possession
+nprefns in preference
 nprepsh in preparation
 nprg in progress
 nprprsh in proportion
@@ -421,12 +429,12 @@ nremat in regard to the matter
 nrerash in relation
 nrelashmat in relation to the matter
 nrep in reply
-nrepu in reply to you
+nrepu in reply to your
 nrepukmu in reply to your communication
 nrepufa in reply to your favor
 nrepunki in reply to your inquiry
 mrepule in reply to your letter
-nreplsa in reply will way
+nreplsa in reply will say
 nreplst in reply will state
 
 # Page 38 Column 1
@@ -442,6 +450,7 @@ nsomchs in so much as
 nspi in spite
 nsch in such
 nschkas in such a case
+nschks( in such a cause
 nschkdsh in such a condition
 nsuchmne~ in such a manner
 nschst in such a state
@@ -454,7 +463,7 @@ nschtms in such times
 nsh^a insurance agent
 nsh^k insurance company
 ntha in that
-nthatdrksh in that directions
+nthatdrksh in that direction
 ntha~lan in that line
 nthamne~ in that manner
 nthatmat in that matter
@@ -723,7 +732,7 @@ alnba I will not be able
 alone I will only
 alsenu I will send you
 aush I wish
-aushkutnshf I will to call your attention to the fact
+aushkutnshf I wish to call your attention to the fact
 ad I would
 advis I would advise
 adba I would be able

@@ -37,7 +37,7 @@ aktbk account book
 akrle acknowledge receipt of your letter
 akrsth across the
 akprl act of Parliament
-a\d A.D.
+a\d A. D.
 ajusmat adjust the matter
 'd a dollar
 
@@ -91,7 +91,7 @@ ori all right
 ornd all round
 oths-sa all there is to say
 alngth along the
-a\m A.M.
+a\m A. M.
 ampep American people
 amrespk American Railway Express Company
 'm a million
@@ -116,7 +116,7 @@ ndvb and have been
 ndvtakn and have taken
 ndvu and have you
 ndop and hope
-ndopuv and hope you ahve
+ndopuv and hope you have
 ndam and I am
 ndamgl and I am glad
 ndamglsa and I am glad to say
@@ -137,7 +137,7 @@ ndalnb and I will not be
 nd-nrep and in reply
 nds and is
 ndts and it is
-ndlu^t and it looked
+ndlu^t and looked
 ndmak and make
 ndr and our
 ndse and see
@@ -175,7 +175,7 @@ neuth any other
 
 # Page 5 Column 1
 'p a pound
-apl\b application bank
+apl\b application blank
 rn are not
 ru are you
 asmatok as a matter of course
@@ -220,6 +220,7 @@ snesukte~ as near as you can tell
 # Page 6 Column 1
 asprr as per our
 asprod as per order
+asprud as per your order
 skeks as quick as
 skeksp as quick as possible
 skekesp as quickly as possible
@@ -275,7 +276,7 @@ asud as you would
 asudfi as you would find
 to( at all
 toev at all events
-totms as all times
+totms at all times
 tlos at a loss
 te~dt at an early date
 te~da at an early day
@@ -311,7 +312,7 @@ tthatm at that time
 tth at the
 tespmm at the earliest possible moment
 tth) at their
-tlas-ssesh at last session
+tlas-sesh at the last session
 tpda at the present day
 tpmnet at the present minute
 tpmm at the present moment
@@ -327,10 +328,10 @@ tthtm at the time
 tthtmp at the time and place
 tths at this
 tthtnd at this end
-tthsndlan at the end of the line
+tthsndlan at this end of the line
 tthstajkas at this stage of the case
 tthstm at this time
-atne~lo attorney of law
+atne-lo attorney at law
 atnj Attorney General
 tchtm at which time
 tchtmp at which time and place

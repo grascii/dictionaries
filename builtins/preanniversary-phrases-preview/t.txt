@@ -13,8 +13,8 @@ th'uf thanking you for
 th'ufthod thanking you for the order
 th'ufutnsh thanking you for your attention
 th'ufukaftnsh thanking you for your careful attention
-th'ufukitnsh thanking your for your kind attention
-th'ufud thanking your for your order
+th'ufukitnsh thanking you for your kind attention
+th'ufud thanking you for your order
 thnth than the
 tha~r that are
 tha~rn that are not
@@ -27,7 +27,7 @@ thaso that is all
 thasge that is given
 thasma that is my
 thasmapn that is my opinion
-thasn taht is not
+thasn that is not
 thasn' that is nothing
 thasnpos that is not possible
 thasnth that is not the
@@ -50,13 +50,14 @@ tha~ths that there is
 tha~thsnt that there is not
 tha~thos that there was
 thathes that these
+thathe that they
 thath(r that they are
 ? thathed that they had
 thathev that they have
 thathevb that they have been
 thathl that they will
 thathlb that they will be
-thathlrse taht they will receive
+thathlrse that they will receive
 thaths that this
 thaths-s that this is
 thaths-sn that this is not
@@ -72,7 +73,7 @@ tha~lbdn that will be done
 tha~lv that will have
 thad that would
 thadb that would be
-thdander that day and year
+thdander the day and year
 th(latpt the latter part
 th(lostm the loss of time
 thonedf the only difference
@@ -107,7 +108,7 @@ thlb there will be
 thdb there would be
 
 # Page 69 Column 2
-th(rongnt the right honorable gentlemen
+th(rongnt the right honorable gentleman
 thesth^s( these things
 thesl these will
 theslb these will be
@@ -138,13 +139,14 @@ themab they may be
 themaba they may be able
 themaks they may consider
 theman they may not
+themat-n they might not
 thems they must
 themsb they must be
 themsv they must have
 th(otb they ought to be
 th(otba they ought to be able
 th(otbgl they ought to be glad
-th(otv they ought ot have
+th(otv they ought to have
 theteme they tell me
 theth they think
 the~r they were
@@ -218,6 +220,7 @@ thsth' this thing
 # Page 72 Column 1
 thstm this time
 thsua this way
+thsk this week
 thsl this will
 thsdb this would be
 thsdpraps this would perhaps
@@ -366,7 +369,7 @@ tutok to talk
 tute~ to tell
 tutha to that
 tukksh to the conclusion
-tuth) the their
+tuth) to their
 
 # Page 75 Column 2
 tuthm to them
@@ -381,9 +384,10 @@ tutri to try
 tuten to turn
 tus to us
 tch to which
-tchurf to which your refer
+tchurf to which you refer
 tchutnsh to which your attention
-tchule to which your letter refers
+tchule to which your letter
+tchulerfs to which your letter refers
 tchuksh to which your question
 tuum to whom
 tuumkse~n to whom it may concern

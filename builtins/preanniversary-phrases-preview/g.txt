@@ -34,5 +34,5 @@ grmen great men
 grnash great nation
 grnum great number
 grp great pleasure
-grprev great priveleg
+grprev great privilege
 gri great while

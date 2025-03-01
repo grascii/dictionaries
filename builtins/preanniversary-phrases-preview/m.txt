@@ -27,8 +27,8 @@ mabsh may be sure
 mav may have
 mavks( may have cause
 man may not
-manv many not be
-manbkr many not be correct
+manv may not be
+manbkr may not be correct
 manv may not have
 mm\p member of Parliament
 mmbar member of the bar
@@ -42,7 +42,7 @@ mmopsh member of the opposition
 mmsbar members of the bar
 
 # Page 50 Column 1
-mmsbor members fo the board
+mmsbor members of the board
 mnuemn men and women
 mnuemnch men, women and children
 m\sh Michigan Central
@@ -74,7 +74,7 @@ msbge must be given
 msbmad must be made
 msv must have
 matnsh my attention
-madfrs by dear friends
+mad-frs my dear friends
 mad-m My dear Madam
 madmes My dear Miss
 madmr My dear Mr.
