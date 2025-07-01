@@ -1,8 +1,8 @@
 
-all: anniversary-core-qwertigraphy.zip anniversary-supplement-qwertigraphy.zip preanniversary.zip preanniversary-phrases-preview.zip
+all: anniversary-core-qwertigraphy.zip anniversary-supplement-qwertigraphy.zip preanniversary.zip preanniversary-phrases.zip
 
 clean:
-	rm -f anniversary-core-qwertigraphy.zip anniversary-supplement-qwertigraphy.zip preanniversary.zip preanniversary-phrases-preview.zip
+	rm -f anniversary-core-qwertigraphy.zip anniversary-supplement-qwertigraphy.zip preanniversary.zip preanniversary-phrases.zip
 
 .PHONY: all clean
 
@@ -26,8 +26,8 @@ preanniversary.zip: builtins/preanniversary/*.txt
 	rm preanniversary/*
 	rmdir preanniversary
 
-preanniversary-phrases-preview.zip: builtins/preanniversary-phrases-preview/*.txt
-	grascii dictionary build builtins/preanniversary-phrases-preview/*.txt --output preanniversary-phrases-preview
-	zip preanniversary-phrases-preview.zip preanniversary-phrases-preview/*
-	rm preanniversary-phrases-preview/*
-	rmdir preanniversary-phrases-preview
+preanniversary-phrases.zip: builtins/preanniversary-phrases/*.txt
+	grascii dictionary build builtins/preanniversary-phrases/*.txt --output preanniversary-phrases
+	zip preanniversary-phrases.zip preanniversary-phrases/*
+	rm preanniversary-phrases/*
+	rmdir preanniversary-phrases
