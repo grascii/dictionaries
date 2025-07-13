@@ -61,13 +61,12 @@ Use this dictionary if you would like to have the latest updates in between
 releases of Grascii or have the updates even when using an older version of
 Grascii.
 
-#### `preanniversary-phrases-preview`
+#### `preanniversary-phrases`
 
 This dictionary is based on the 1924 *Gregg Shorthand Phrase Book* and contains
 over 3000 phrases according to the pre-anniversary version of the Gregg
-Shorthand system. The dictionary is currently in preview and not included in
-Grascii. However, it is scheduled to be included as a built-in in a future
-release.
+Shorthand system. Use this dictionary if you would like to have the latest updates
+in between releases of Grascii or are using a Grascii version older than 0.7.0.
 
 ### Additional Dictionaries
 
