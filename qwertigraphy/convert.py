@@ -139,7 +139,7 @@ def convert(form):
 
 def join(tokens):
     tokens = list(filter(lambda s: s, tokens))  # remove empty strings
-    exceptions = {"OE", "EU"}
+    exceptions = {"OE", "EU", "AU"}
     builder = []
     for i in range(len(tokens)):
         builder.append(tokens[i])
