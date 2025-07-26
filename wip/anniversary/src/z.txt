@@ -1,23 +1,23 @@
 # Page 260 Column 3
 zel	zeal
-zelut	zealot
-zelutre	zealotry
+zelot	zealot
+zelotre	zealotry
 zelus	zealous
 zebra	zebra
-!	zebu
+zebu	zebu
 zeneth	zenith
 zefr	zephyr
-!	Zeppelin
-sero	zero
+zeplen	Zeppelin
+zero	zero
 zest	zest
 zegzag	zigzag
-s(enk	zinc
-!	Zion
-!	zircon
-!	zirconium
+z(enk	zinc
+za&en	Zion
+zerkn	zircon
+zerknem	zirconium
 zeth	zither
 zoda&'k	zodiac
 zon	zone
-!	zoölogy
-zebak	zwieback
+zo^o(	zoology
+ze_bak	zwieback
 
