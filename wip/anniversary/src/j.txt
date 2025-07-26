@@ -1,0 +1,128 @@
+# Page 118 Column 1
+!	jackal
+jakobn	Jacobean
+!	jaguar
+janetr	janitor
+jan	January
+japn	japan
+jargn	jargon
+jasmn	jasmine
+jontes	jaundice
+!	jauntily
+jelus	jealous
+jova	Jehovah
+jjn	jejune
+!	jellyfish
+jepa~de	jeopardy
+jepa~diz	jeopardize
+jerk	jerk
+!	jerkily
+jese	jersey
+jess	Jesus
+jes(ut	Jesuit
+jetsm	jetsam
+!	jettison
+jul	jewel
+
+# Page 118 Column 2
+julre	jewelry
+jush	Jewish
+jengl	jingle
+!	jingo
+!	jingoism
+jenrekesha	jinrikisha
+!	jinx
+!	jitney
+joke	jockey
+jokos	jocose
+jok^s	jocosity
+joklr	jocular
+jokl^r	jocularity
+joknt	jocund
+!	jocundity
+joen	join
+ajoen	adjoin
+dsjoen	disjoin
+njoen	enjoin
+!	jointed
+joentr	jointure
+joest	joist
+jokr	joker
+jole	jolly
+jol^f	jollification
+
+# Page 118 Column 3
+j^l	jollity
+jon-ke_l	jonquil
+josl	jostle
+jot	jot
+jns	jounce
+je~n	journal
+je~ns(m	journalism
+jen^s(t	journalist
+!	journalize
+je~ne	journey
+jovl	jovial
+jov^l	joviality
+!	jowl
+joe	joy
+njoe	enjoy
+joef	joyful
+joel	joyless
+joes)	joyous
+jubla	jubilate
+!	jubilance
+jubl	jubilant
+!	jubilation
+juble	jubilee
+jj	judge
+ajj	adjudge
+
+# Page 119 Column 1
+jjd	judged
+jj^sh	judgeship
+jjm	judgment
+jdesh	judicial
+jdekv	judicative
+jdek^re	judicatory
+jdekatr	judicature
+jdeshe|	judicially
+jdeshre	judiciary
+jdeshus	judicious
+jugl	juggle
+juglar	jugular
+jmb	jumble
+jmp	jump
+
+# Page 119 Column 2
+jnk	junction
+jnktr	juncture
+jngl	jungle
+jnr	junior
+jnepr	juniper
+jnk	junk
+jures	jurist
+jured^k	juridical
+jures	jurisdiction
+juresp	jurisprudence
+ju^r	juror
+ju	jury
+juman	juryman
+jus	just
+
+# Page 119 Column 3
+njus-s	injustice
+jus-s	justice
+jus(tesha&e~	justiciar
+justf^b	justifiable
+jus(^f	justification
+!	justificatory
+jus(f	justify
+juse	justly
+jusn	justness
+njus	unjust
+njusfb	unjustifiable
+juvnl	juvenile
+juvn	juvenility
+jus(tpo	juxtaposition
+

@@ -1,0 +1,107 @@
+# Page 179 Column 1
+ka_kre	quackery
+ko_drang	quadrangle
+ko_drant	quadrant
+ko_drpd	quadruped
+ko_drp	quadruple
+!	quadruplex
+!	quadruplicate
+ka_gmi~	quagmire
+ka_l	quail
+ka_nt	quaint
+ka_kr	quaker
+kof	qualify
+dskof	disqualify
+ko^f	qualification
+kof^t	qualified
+kudf	qualitative
+ku	quality
+n-kof	unqualified
+ka_m	qualm
+k\t	quantity
+!	quantitative
+ko_ran-tn	quarantine
+ko_rel	quarrel
+ko_relsm	quarrelsome
+
+# Page 179 Column 2
+ko_re	quarry
+ko_t	quart
+ktr	quarter
+!	quartered
+kote~e	quarterly
+kotemas	quartermaster
+!	quartile
+!	quartz
+ko_tran	quatrain
+ka_vr	quaver
+ka	quay
+!	quayage
+ke_n	queen
+ke_r	queer
+ke_nch	quench
+ke_nchl	quenchless
+!	unquenchable
+ke_rlus	querulous
+ke_re	query
+ke_st	quest
+kn	question
+knb	questionable
+kn-d	questioned
+knr	questioner
+ksha~	questionnaire
+
+# Page 179 Column 3
+n-knb	unquestionable
+n-kn-d	unquestioned
+ke_b	quibble
+ke_k	quick
+ke_kn	quicken
+!	quicklime
+ke_knes	quickness
+ke_ksand	quicksand
+ke_kselv	quicksilver
+!	quick-witted
+kisnt	quiescent
+kit	quiet
+kitd	quieted
+kite	quietly
+kit-ns	quietness
+kitu	quietude
+ka&etus	quietus
+ke_l	quill
+ke_lt	quilt
+ki_ni	quinine
+!	quinquennial
+ke_ntes	quintessence
+ke_ntet	quintet
+ki_r	quire
+ke_rk	quirk
+
+# Page 180 Column 1
+ke_t	quit
+!	quitclaim
+!	quitrent
+!	quittance
+!	quitter
+kat	quite
+ke_vr	quiver
+
+# Page 180 Column 2
+ke_x^a	quixotic
+ke_z	quiz
+ke_z^k	quizzical
+!	quoin
+koe_t	quoit
+ko_n-dm	quondam
+ko_rm	quorum
+
+# Page 180 Column 3
+ko_ta	quota
+ko_t	quote
+ko_tb	quotable
+ko_tsh	quotation
+ko_th	quoth
+ko_tda&'n	quotidian
+ko_sht	quotient
+
