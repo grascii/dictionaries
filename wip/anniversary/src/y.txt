@@ -1,49 +1,50 @@
 # Page 260 Column 1
 eot	yacht
-eotsmn	yachtsman
+eotsman	yachtsman
 a|k	yak
 a|m	yam
-!	yank
-ard	yard
-!	yardage
+a|nk	yank
+a~|d	yard
+a~|dj	yardage
 a~|dam	yardarm
-a~|dstek	yardstick
+a~|d-stek	yardstick
 a~|n	yarn
-e-ol	yawl
-a|,	yea
+eol	yawl
+e|	ye
+a|	yea
 e|r	year
 e|rbk	yearbook
 e|rl'	yearling
-ere	yearly
+e|re	yearly
 e~|n	yearn
 e|st	yeast
 
 # Page 260 Column 2
 e|l	yell
-elo	yellow
-e-omn	yeoman
-e-omnre	yeomanry
-es	yes
+e|lo	yellow
+eoman	yeoman
+eomanre	yeomanry
+e|	yes
 e|st	yesterday
-et	yet
-el-d	yield
+e|t	yet
+e|ld	yield
 uneld'	unyielding
-e-odl	yodel
-e-ok	yolk
+eodl	yodel
+eok	yolk
 u	you
 us	yourself
 ung	young
 unge~	younger
 unges	youngest
-!	youngish
+ungsh	youngish
 ungste~	youngster
 euth	youth
 euth)f	youthful
-!	youthfulness
-!	ytterbium
-!	yttrium
+euth)fnes	youthfulness
+eterbm	ytterbium
+etrm	yttrium
 
 # Page 260 Column 3
 eul	yule
-eulti	yuletide
+eultid	yuletide
 
