@@ -6,9 +6,7 @@ import sys
 from functools import partial
 
 from grascii import grammar
-from grascii import GrasciiParser, GrasciiValidator
-
-from lark import UnexpectedInput
+from grascii import GrasciiParser, GrasciiValidator, InvalidGrascii
 
 stroke_map = {
         "c": "CH",
@@ -124,8 +122,8 @@ def convert_stroke(stroke):
     try:
         return stroke_map[stroke.lower()]
     except KeyError:
-        interpretations = gparser.interpret(stroke.upper())
-        return "".join(interpretations[0])
+        interpretation = gparser.interpret(stroke.upper())
+        return "".join(next(interpretation))
 
 
 def convert(form):
@@ -133,7 +131,7 @@ def convert(form):
     tokens = form.split('-')
     try:
         tokens = list(map(convert_stroke, tokens))
-    except UnexpectedInput:
+    except InvalidGrascii:
         return
     return join(tokens)
 
