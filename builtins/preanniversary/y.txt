@@ -12,9 +12,9 @@ a~|d-f yardful
 a~|dstek yardstick
 a~|n yarn
 a|ro yarrow
-e-o yaw
-e-ol yawl
-e-on yawn
+eo yaw
+eol yawl
+eon yawn
 e|, ye
 a|, yea
 
@@ -29,8 +29,8 @@ e|l yell
 e|lo yellow
 e|lon yellowness
 e|lp yelp
-e-omn yeoman
-e-omnre yeomanry
+eomn yeoman
+eomnre yeomanry
 e| yes
 e|st yesterday
 e|t yet
@@ -38,11 +38,11 @@ e|ld yield
 e|ldr yielder
 
 # Page 207 Column 3
-e-odl yodel
-e-oga yoga
-e-ok yoke
-e-ok yolk
-e-on yon
+eodl yodel
+eoga yoga
+eok yoke
+eok yolk
+eon yon
 u you
 u your
 us yourself
