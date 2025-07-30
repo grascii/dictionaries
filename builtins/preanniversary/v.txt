@@ -126,7 +126,7 @@ venesh venetian
 venjns vengeance
 venjf vengeful
 vena&'l venial
-venun venison
+ven-sn venison
 venum venom
 venumus venomous
 ven^s) venosity
@@ -139,7 +139,7 @@ vntr^k ventricle
 vntrel ventriloquism
 vntrelok ventriloquist
 vntr venture
-vntrsm venturesome
+vntr-sm venturesome
 vntrus venturous
 venus venus
 
@@ -176,7 +176,7 @@ ve~mnus verminous
 ve~nak vernacular
 ve~naksm vernacularism
 ve~nl vernal 
-vesl versatile
+vestl versatile
 vest^l versatility
 ves verse
 vest versed
@@ -192,12 +192,12 @@ ve~t^k vertical
 ve~teg vertigo
 ve very
 ves^k vesicle
-vespr vesper
+ves(pr vesper
 vesl vessel
 vestl vestal
 vestb vestibule
 vestj vestige
-vestm vestment
+vest-m vestment
 vestre vestry
 vestremn vestryman
 
@@ -210,8 +210,8 @@ vex vex
 vexsh vexation
 vexashus vexatious
 ? va&eduk viaduct
-? va&el vial
-? va&end viand
+vil vial
+vind viand
 vibrant vibrant
 vibra vibrate
 vibrash vibration
@@ -314,7 +314,7 @@ vesuliz visualize
 vitl vital
 vitlsm vitalism
 vit^l vitality
-vitlesh vitalization
+vitlezsh vitalization
 vitliz vitalize
 
 # Page 198 Column 3
@@ -359,16 +359,16 @@ vkab vocabulary
 vkabus vocabulist
 vkl vocal
 vklek vocalic
-vklsm vocalism
+vkl-sm vocalism
 vkles vocalist
 vklessh vocalization
 vkliz vocalize
 vkash vocation
 vkatv vocative
-vosefrant vociferant
-vosefra vociferate
-vosefrash vociferation
-vosef vociferous
+vo-sefrant vociferant
+vo-sefra vociferate
+vo-sefrash vociferation
+vo-sef vociferous
 vog vogue
 voes voice
 voesf voiceful
@@ -431,7 +431,7 @@ vulknek vulcanic
 vulknessh vulcanization
 vulkniz vulcanize
 vul vulgar
-vulsm vulgarism
+vul-sm vulgarism
 
 # Page 200 Column 1
 vul^r vulgarity

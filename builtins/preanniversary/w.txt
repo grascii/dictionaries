@@ -153,7 +153,7 @@ ues^re westerly
 uestn western
 uestnr westerner
 ues^d westward
-uetn wetness
+uet-n wetness
 'uak whack
 'ual whale
 'ualbon whalebone
@@ -219,7 +219,7 @@ ilst whilst
 'uitkap whitecap
 'uitfesh whitefish
 'uitn whiten
-'uitn whiteness
+'uit-n whiteness
 'uito_sh whitewash
 'ueth whither
 'uetl whittle
@@ -227,7 +227,7 @@ ilst whilst
 'uv whoever
 'ol whole
 'olsa wholesale
-'olsm wholesome
+'ol-sm wholesome
 'um whom
 'umsov whomsoever
 
@@ -332,7 +332,7 @@ uofn woefulness
 uulf wolf
 uulfesh wolfish
 umn woman
-umn womanhood
+umn^d womanhood
 umn-ki womankind
 umnla womanlike
 umnen womanliness
@@ -400,7 +400,7 @@ rench wrench
 rest wrest
 resl wrestle
 rech wretch
-rechdn wretchedness
+rechd-n wretchedness
 regl wriggle
 reng wring
 renge~ wringer
