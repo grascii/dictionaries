@@ -714,7 +714,7 @@ esplest explicit
 esplest-n explicitness
 esplod explode
 esploe exploit
-espoetsh exploitation
+esploetsh exploitation
 esplorash exploration
 esplr explore
 esplosh explosion

@@ -198,7 +198,7 @@ skoch scotch
 skndrel scoundrel
 skaur scour
 skrj scourge
-skout scout
+skaut scout
 skaul scowl
 
 # Page 161 Column 2
@@ -804,7 +804,7 @@ sok soak
 sop soap
 sor soar
 sobr sober
-sobra&ete sobriety
+sobrite sobriety
 sobreka sobriquet
 sosh^b sociability
 soshb sociable
@@ -1403,7 +1403,7 @@ sdu subdue
 sdud subdued
 s)^edtr subeditor
 s)^ekl subequal
-s)'ed subhead
+s)^'ed subhead
 s(jas subjacent
 s(j subject
 s(j^t subjected

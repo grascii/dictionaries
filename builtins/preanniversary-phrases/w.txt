@@ -188,7 +188,7 @@ uesene~th we send herewith
 uesenu we send you
 uesnutda we send you today
 uesentu we sent you
-eush we shall
+uesh we shall
 ueshb we shall be
 ueshba we shall be able
 ueshbgl we shall be glad
@@ -301,7 +301,7 @@ otsko what is called
 otstha what is that
 otsth what is the
 otsths what is this
-otstvdn what is to be done
+otstbdn what is to be done
 otsbs what is your business
 otmsb what must be
 
