@@ -50,7 +50,7 @@ nos no, sir
 notpb Notary Public
 
 # Page 52 Column 2
-noesthn not less than
+nlesthn not less than
 none not only
 nonetha not only that
 nauthn now and then

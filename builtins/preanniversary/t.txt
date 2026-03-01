@@ -615,7 +615,7 @@ t^ves transverse
 trapdor trapdoor
 trapez trapeze
 trapezm trapezium
-trapezoe trapezoid
+trapzoe trapezoid
 trash trash
 traval travail
 trav travel
