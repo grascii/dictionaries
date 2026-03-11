@@ -160,7 +160,7 @@ if __name__ == "__main__":
 
     with args.input_csv as csv_file:
         with args.output_file as out:
-            reader = csv.DictReader(csv_file)
+            reader = csv.DictReader(csv_file, fieldnames=["word", "form", "qwerd", "keyer", "chord", "usage"])
             total_count = 0
             success_count = 0
             for row in reader:
