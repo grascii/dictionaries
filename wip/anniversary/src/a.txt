@@ -1,47 +1,47 @@
-# Page 1 Column 1
+# Page 1 Column 1	
 abak	aback
-abaf	abaft
-abant	abandon
+abaft	abaft
+aband	abandon
 aband-m	abandonment
 abat	abate
-!	abatable
-!	abated
+abatb	abatable
+abatd	abated
 abat-m	abatement
-!	unabated
-!	abbot
+unabatd	unabated
+abot	abbot
 abrev	abbreviate
 abrev	abbreviation
-!	unabbreviated
+unabrev^t	unabbreviated
 abdek	abdicate
-!	abdicated
+abdek^t	abdicated
 abdeksh	abdication
-abdom	abdomen
-!	abdominal
+abdomn	abdomen
+abdomnl	abdominal
 abduk	abduct
-
-# Page 1 Column 2
+	
+# Page 1 Column 2	
 abduksh	abduction
 abd	abed
-!	aberrance
-abernt	aberrant
+aberans	aberrance
+aberant	aberrant
 aberash	aberration
-!	abet
+abet	abet
 abans	abeyance
 ab'or	abhor
-ab'orns	abhorrence
-ab'ornt	abhorrent
+ab'orens	abhorrence
+ab'orent	abhorrent
 abi	abide
 abju	abjure
-!	abjuration
-!	abjures
+abjush	abjuration
+abjus	abjures
 ablatv	ablative
 abl	able
 a^b	ability
-!	able-bodied
-!	ably
+ablbo^t	able-bodied
+able	ably
 dsa^b	disability
-
-# Page 1 Column 3
+	
+# Page 1 Column 3	
 dsab	disable
 enb	enable
 en^b	inability
@@ -49,164 +49,164 @@ nb	unable
 ablsh	ablution
 abnegsh	abnegation
 abnoml	abnormal
-!	abnormality
-!	abnormity
+abnom^l	abnormality
+abnomete	abnormity
 abod	aboard
 abolsh	abolish
 abolesh	abolition
-abolshst	abolitionist
+aboleshes	abolitionist
 abomnat	abominate
 abomnb	abominable
-abommsh	abomination
+abomnsh	abomination
 aborej	aboriginal
 aborejnes	aborigines
 abn	abound
 ab	about
-
-# Page 2 Column 1
+	
+# Page 2 Column 1	
 arabs	whereabouts
 abv	above
-!	abrade
+abrad	abrade
 abrash	abrasion
 abrasv	abrasive
-!	unabraded
-abres	abreast
+unabradd	unabraded
+abrest	abreast
 abrej	abridge
 abrejm	abridgment
 unabrejd	unabridged
 abrog	abrogate
-!	abrogated
+abrog^t	abrogated
 abrogsh	abrogation
 abrp	abrupt
-!	abruptly
-abrpn	abruptness
+abrpe	abruptly
+abrpnes	abruptness
 abss	abscess
-abs(knt	abscond
-!	absconder
+absknd	abscond
+abskndr	absconder
 abs	absence
 abs	absent
 abse	absentee
 abse	absently
-!	absent-mindedly
-!	absinth
-
-# Page 2 Column 2
-abs(o	absolute
-abs(oe	absolutely
-abs(olsh	absolution
-abs(os(m	absolutism
-absol	absolve
-abs(ob	absorb
-!	absorbed
-!	absorbent
-abs(opsh	absorption
-abs(tn	abstain
-!	abstainer
-abs(tmus	abstemious
+absmin^te	absent-mindedly
+absenth	absinth
+	
+# Page 2 Column 2	
+abso	absolute
+absoe	absolutely
+absolsh	absolution
+absosm	absolutism
+absolv	absolve
+absob	absorb
+absobd	absorbed
+absobent	absorbent
+absopsh	absorption
+abstn	abstain
+abstnr	abstainer
+abstmus	abstemious
 abstnens	abstinence
-!	abstinent
+abstnnt	abstinent
 abs(k	abstract
-!	abstractedly
-ab^ksh	abstraction
-ab^us	abstruse
-abs(e~d	absurd
-abs(e~tde	absurdity
-abn-dns	abundance
-abntn	abundant
-!	superabundant
+abs(kte	abstractedly
+abs(ksh	abstraction
+abstrus	abstruse
+abse~d	absurd
+abse~dte	absurdity
+abndns	abundance
+abndn	abundant
+s^abndn	superabundant
 abeu	abuse
-abeud	abused
-
-# Page 2 Column 3
+abeu^t	abused
+	
+# Page 2 Column 3	
 abeus	abuses
-abeu^v	abusive
+abeuv	abusive
 dsabeu	disabuse
-!	abut
-abt-m	abutment
-!	abutter
+abut	abut
+abut-m	abutment
+abute~	abutter
 abes	abyss
 abesml	abysmal
-!	acacia
-akatme	academy
+akasha	acacia
+akadme	academy
 akadmek	academic
 akadmsh	academician
 aksed	accede
 akselra	accelerate
 akselrash	acceleration
-aksel^r	accelerator
+akselra^r	accelerator
 aksent	accent
-aksentut	accentuate
-aksentsh	accentuation
-!	unaccented
+aksenteut	accentuate
+aksenteush	accentuation
+unaksent-d	unaccented
 aks(	accept
 aks(^b	acceptability
-aksb	acceptable
+aks(b	acceptable
 aks(	acceptance
 aks(sh	acceptation
-
-# Page 3 Column 1
-aks(s	accepts
-!	non-acceptance
+	
+# Page 3 Column 1	
+aks(-s	accepts
+nonaks(	non-acceptance
 naks(b	unacceptable
-akss	access
-akss^b	accessibility
-akss	accessible
+aks(s	access
+aks(s^b	accessibility
+aks(s	accessible
 aksesh	accession
-akssre	accessory
-nakss)	inaccessible
-!	accidence
+aks(sre	accessory
+enaks(s	inaccessible
+aksedns	accidence
 aks	accident
 aksl	accidental
-!	accidents
-akla	acclaim
-!	acclaimed
+aks-s	accidents
+aklam	acclaim
+aklamd	acclaimed
 aklamsh	acclamation
 aklimat	acclimate
-!	acclimatize
-akola	accolade
-aktd	accommodate
+aklimatiz	acclimatize
+akolad	accolade
+akdt	accommodate
 akdsh	accommodation
 nakdt'	unaccommodating
-akp	accompany
-akpem	accompaniment
+akpe	accompany
+?akpem	accompaniment
 akpe^st	accompanist
-
-# Page 3 Column 2
-!	unaccompanied
+	
+# Page 3 Column 2	
+nakpe^t	unaccompanied
 akples	accomplice
-kple^s	complicity
+kpl^s	complicity
 akp	accomplish
 akpm	accomplishment
 akr	accord
 akrns	accordance
 akr^e	accordingly
-akotn	accordion
+akodn	accordion
 akos	accost
-!	accosted
+akos^t	accosted
 akt	account
 aktb	accountable
-!	accountancy
+aktnse	accountancy
 aktn	accountant
 naktb	unaccountable
 akre	accredit
 akresh	accretion
 akru	accrue
-!	accrual
-ak^u	accumulate
+akrul	accrual
+akeum^u	accumulate
 akra	accurate
 akrse	accuracy
 akrae	accurately
 enakrse	inaccuracy
-
-# Page 3 Column 3
-nakrae	inaccurately
+	
+# Page 3 Column 3	
+enakrae	inaccurately
 akeu	accuse
-!	accusation
-!	accusative
+akeush	accusation
+akeutv	accusative
 akus	accustom
-nakus^t	unaccustomed
+unakus^t	unaccustomed
 asebte	acerbity
-as(eta	acetate
+aseta	acetate
 as^a	acetic
 asetlen	acetylene
 achevm	achievement
@@ -216,27 +216,27 @@ asedte	acidity
 ased^u	acidulate
 asedlus	acidulous
 ak	acknowledge
-!	acknowledges
+aks	acknowledges
 akm	acknowledgment
 akoli	acolyte
 akni	aconite
 akon	acorn
-ak^s(t	acoustic
+ak^st	acoustic
 aka	acquaint
 aka	acquaintance
-
-# Page 4 Column 1
-akas	acquaintances
+	
+# Page 4 Column 1	
+?akas	acquaintances
 naka^t	unacquainted
 ake_s	acquiesce
 ake_sns	acquiescence
-!	acquiescent
+ake_snt	acquiescent
 aki	acquire
-akid	acquired
+aki^t	acquired
 akim	acquirement
 akis	acquires
 akessh	acquisition
-akes(df	acquisitive
+akestv	acquisitive
 ake_tl	acquittal
 akred	acrid
 akredte	acridity
@@ -246,40 +246,40 @@ akrobt	acrobat
 akrob^a	acrobatic
 akrp	acropolis
 akrs	across
-akr^s(t	acrostic
+akr^st	acrostic
 ak	act
 akt	acted
 aksh	action
 akshb	actionable
-
-# Page 4 Column 2
+	
+# Page 4 Column 2	
 akv	active
 akvte	activity
 akr	actor
 akres	actress
-!	acts
+aks	acts
 enak	enact
 nakv	inactive
-nakvte	inactivity
+enakvte	inactivity
 ra&'k	react
 ra&'kshre	reactionary
 renak	reenact
 t^ak	transact
 aktl	actual
-!	actuality
+akt^l	actuality
 aktle	actually
 aktre	actuary
 akteut	actuate
-!	actuated
+akteutd	actuated
 akeut	acute
-!	acuity
+akeute	acuity
 akeumn	acumen
-!	acuteness
+akeutnes	acuteness
 adj	adage
-!	adagio
+adajo	adagio
 adamn-t	adamant
-
-# Page 4 Column 3
+	
+# Page 4 Column 3	
 adamntn	adamantine
 adap	adapt
 adap^b	adaptability
@@ -287,63 +287,63 @@ adapb	adaptable
 adapsh	adaptation
 adap^r	adapter
 adap^v	adaptive
-atntm	addendum
-atnda	addenda
+adndm	addendum
+adnda	addenda
 ade~	adder
-adk	addict
-adksh	addiction
+adek	addict
+adeksh	addiction
 adsh	addition
 adshl	additional
 adsha|	additionally
 adr	address
 adrs	addresses
-!	addressograph
+adr^o	addressograph
 ra&'dr^t	readdressed
-!	self-addressed
+s(^adr^t	self-addressed
 nadr^t	unaddressed
 adus	adduce
-!	adduces
-atnoe	adenoid
+aduss	adduces
+adnoe	adenoid
 adep	adept
-
-# Page 5 Column 1
+	
+# Page 5 Column 1	
 adek	adequate
 adekse	adequacy
 adeke	adequately
 enadek	inadequate
 ad'e~	adhere
-!	adhered
-ad'e~^ns	adherence
+ad'e~d	adhered
+ad'ens	adherence
 ad'ent	adherent
-!	adheres
+ad'e|~	adheres
 ad'esh	adhesion
 ad'esv	adhesive
 adeu	adieu
 ajas	adjacent
 ajkv	adjective
 ajoen	adjoin
-!	adjoined
+ajoent	adjoined
 aje~n	adjourn
 aje~nt	adjourned
 ajj	adjudge
 ajdek	adjudicate
-!	adjudication
-!	adjudicator
+ajdeksh	adjudication
+ajdek^r	adjudicator
 ajnk	adjunct
 aju	adjure
-!	adjures
-
-# Page 5 Column 2
+ajus	adjures
+	
+# Page 5 Column 2	
 ajus	adjust
 ajusb	adjustable
-!	adjuster
-!	readjust
-!	unadjusted
+ajus^r	adjuster
+ra&'jus	readjust
+unajus^t	unadjusted
 ajutn	adjutant
 amnes	administer
 amnessh	administration
 amnes^v	administrative
-amnr	administrator
+amnes^r	administrator
 amnes^rex	administratrix
 amerb	admirable
 amerl	admiral
@@ -351,56 +351,56 @@ amer^l	admiralty
 amerash	admiration
 mi~	admire
 mi~^r	admirer
-mi~s	admires
+mi|~	admires
 amesb	admissible
 ames^b	admissibility
 amsh	admission
-!	inadmissible
+enamesb	inadmissible
 amet	admit
 ametns	admittance
 ametd	admitted
-
-# Page 5 Column 3
+	
+# Page 5 Column 3	
 amextr	admixture
-anmsh	admonish
-anmsh	admonition
-!	admonitory
-!	adobe
-adoles	adolescence
-!	adolescents
+amnsh	admonish
+amnsh	admonition
+amnetre	admonitory
+adobe	adobe
+adolesns	adolescence
+adolesnt	adolescent
 adp	adopt
 adpsh	adoption
-adp^f	adoptive
+adp^v	adoptive
 ador	adore
 adorb	adorable
 adorash	adoration
 adon	adorn
 adomn	adornment
-unadon^t	unadorned
+unadond	unadorned
 adroe	adroit
-ads(opsh	adsorption
+adsopsh	adsorption
 ad^ush	adulation
 adul	adult
 adulra	adulterate
-adlrash	adulteration
-!	unadulterated
-atmbrash	adumbration
-!	ad valorem
-
-# Page 6 Column 1
+adulrash	adulteration
+unadulra^t	unadulterated
+admbrash	adumbration
+avalrem	ad valorem
+	
+# Page 6 Column 1	
 vans	advance
-!	advanced
-!	advancement
-!	advances
+vanst	advanced
+vansm	advancement
+vanss	advances
 av	advantage
 avus	advantageous
-!	advantages
-ds(av	disadvantage
+avs	advantages
+dsav	disadvantage
 avnt	advent
 avntesh	adventitious
 avntr	adventure
 avntrr	adventurer
-!	adventuresome
+avntrsm	adventuresome
 avntrus	adventurous
 averb	adverb
 averbl	adverbial
@@ -413,160 +413,160 @@ avt-m	advertisement
 avt^r	advertiser
 vis	advice
 vis^b	advisability
-
-# Page 6 Column 2
+	
+# Page 6 Column 2	
 visb	advisable
-vis(d	advised
+visd	advised
 visr	adviser
-vis-s	advises
+viss	advises
 visre	advisory
-!	inadvisable
+nvisb	inadvisable
 avkat	advocate
 avkse	advocacy
-ads	adz
+adz	adz
 eola&'n	Aeolian
-!	aeon
+eon	aeon
 arat	aerate
 arl	aerial
-!	aerify
-es(th^a	aesthetic
-!	aesthetics
+arf	aerify
+esth^a	aesthetic
+esth^as	aesthetics
 afb	affable
 af^b	affability
 afk	affect
 afktsh	affectation
 afkshat	affectionate
-!	disaffected
-!	unaffectedly
+dsafkt	disaffected
+unafkte	unaffectedly
 afins	affiance
-afdf	affidavit
-
-# Page 6 Column 3
+afdv	affidavit
+	
+# Page 6 Column 3	
 afela&'t	affiliate
-!	affiliated
+afela&'d	affiliated
 afela&'sh	affiliation
 af^nt	affinity
 afem	affirm
 afemsh	affirmation
-afemv	affirmative
-!	disaffirm
-afes	affix
-!	afflatus
+afematv	affirmative
+dsafem	disaffirm
+afex	affix
+aflatus	afflatus
 afl	afflict
 aflsh	affliction
 afluns	affluence
 afd	afford
-afd-d	afforded
+afdd	afforded
 afri	affright
 afrnt	affront
 efrntre	effrontery
 afmnshd	aforementioned
-afs(ed	aforesaid
+afsed	aforesaid
 fra	afraid
 nfra	unafraid
-af	after
+aft	after
 afklap	afterclap
-aftnr	after-dinner
-
-# Page 7 Column 1
+afdnr	after-dinner
+	
+# Page 7 Column 1	
 afmath	aftermath
 afnun	afternoon
-af'ot	afterthought
+afthot	afterthought
 afds	afterwards
 agn	again
 agns	against
 ajl	ageless
 aj	agent
 ajse	agency
-!	reagent
+?ra&'jnt	reagent
 aglomsh	agglomeration
-!	agglutination
-a|^dis	aggrandize
-!	aggrandizement
+aglutnsh	agglutination
+a|^ndiz	aggrandize
+a|^ndezmn	aggrandizement
 a|^vat	aggravate
-!	aggravated
+a|^vatd	aggravated
 a|^vash	aggravation
 a|^g	aggregate
 a|^gsh	aggregation
 a|^s	aggress
-a|^ssh	aggression
+a|^sh	aggression
 a|^sv	aggressive
-a|^sr	aggressor
+a|^s)r	aggressor
 a|^vd	aggrieved
-agas	aghast
-
-# Page 7 Column 2
+agast	aghast
+	
+# Page 7 Column 2	
 ajl	agile
 aj^l	agility
 ajta	agitate
-!	agitated
+ajat^t	agitated
 ajtsh	agitation
-!	agitator
-agn^s(t	agnostic
-agnos(tss	agnosticism
+ajat^r	agitator
+agn^st	agnostic
+agnostss	agnosticism
 agne	agony
 agniz	agonize
-a|^ran	agrarian
+a|^ra&'n	agrarian
 a|^	agree
 a|^b	agreeability
 a|b	agreeable
-a|d^	agreed
+a|^d	agreed
 a|m^	agreement
 da|b	disagreeable
 a|^k	agriculture
 a|^kl	agricultural
-!	agronomy
+a|^nome	agronomy
 agrnt	aground
 ageu	ague
 alanthus	ailanthus
-!	aileron
+aleron	aileron
 are|	airily
-
-# Page 7 Column 3
+	
+# Page 7 Column 3	
 a~tit	air-tight
-!	airway
+ara_	airway
 alabas	alabaster
 alak^r	alacrity
 alam	alarm
 albtros	albatross
-!	albino
+albino	albino
 albm	album
 albeumn	albumen
-!	alchemist
+alkemes	alchemist
 alkol	alcohol
-alkolek	alcoholic
+alkolk	alcoholic
 alkolsm	alcoholism
-!	non-alcoholic
+nonalkolk	non-alcoholic
 alkov	alcove
 odeman	alderman
 ale~t	alert
 alj	algebra
-!	algebraic
+aljk	algebraic
 albi	alibi
 alen	alien
 alenb	alienable
 alenat	alienate
-!	alienist
+alenes	alienist
 enalenb	inalienable
-
-# Page 8 Column 1
+	
+# Page 8 Column 1	
 ala	alike
 alemre	alimentary
 alemne	alimony
 aleko_t	aliquot
 alav	alive
-alkal	alkali
-!	alkaline
+alkali	alkali
+alkalin	alkaline
 alkaloe	alkaloid
 alegsh	allegation
 alejns	allegiance
 aleva&'t	alleviate
 aleva&'sh	alleviation
-ala&ens	alliance
-alegatr	alligator
+alins	alliance
+alegate~	alligator
 aletsh	alliteration
 alok	allocate
-!	allocution
+alokeush	allocution
 alopthe	allopathy
 alot-m	allotment
 al	allow
@@ -575,10 +575,10 @@ alns	allowance
 dsal	disallow
 alud	allude
 alsh	allusion
-
-# Page 8 Column 2
+	
+# Page 8 Column 2	
 alr	allure
-!	alluvial
+aluva&'l	alluvial
 omnak	almanac
 omate	almighty
 amn-d	almond
@@ -586,27 +586,27 @@ omo	almost
 ams	alms
 alau	aloud
 alf	alphabet
-!	alphabetic
+alf^a	alphabetic
 alf^a|	alphabetical
 ore	already
 oso	also
 ote~	altar
 ote~	alter
-o(^b	alterable
-o(^ash	alteration
-noterb	unalterable
+oterb	alterable
+oterash	alteration
+? noterb	unalterable
 oteksh	altercation
 otenat	alternate
-!	alternation
-ot-n-tdf	alternative
-!	alternator
+otensh	alternation
+otenatv	alternative
+otenate~	alternator
 otho	although
 altet	altitude
-
-# Page 8 Column 3
+	
+# Page 8 Column 3	
 otu	altogether
 altrusm	altruism
-altr^st	altruistic
+altru^st	altruistic
 alm	alum
 alumn	aluminum
 alm-nus	alumnus
@@ -616,57 +616,57 @@ amal	amalgam
 amal	amalgamate
 amalsh	amalgamation
 amnunss	amanuensis
-!	amaranth
+amaranth	amaranth
 amatr	amateur
 amatre	amatory
-amasd	amazed
-amas(m	amazement
+amazd	amazed
+amazm	amazement
 ambas	ambassador
-!	ambassadorial
+ambasl	ambassadorial
 ambr	amber
-ambdex	ambidextrous
+ambdextrus	ambidextrous
 ambent	ambient
 ambg	ambiguous
 ambgeute	ambiguity
 amb	ambition
-
-# Page 9 Column 1
+	
+# Page 9 Column 1	
 ambesh	ambitious
 ambl	amble
-ambrosha	ambrosia
-!	ambrosial
+ambrosha&'	ambrosia
+ambrosha&'l	ambrosial
 amblans	ambulance
-ambusk	ambuscade
-ambsh	ambush
+ambuskad	ambuscade
+ambush	ambush
 amelra	ameliorate
 amelrash	amelioration
 amnb	amenable
 amn	amend
-amn	amendment
+amnm	amendment
 am^nt	amenity
 am-n	American
-unam	un-American
+unam-n	un-American
 amthes	amethyst
 amb	amiable
 am^b	amiability
 amekb	amicable
 amete	amity
-!	unamiable
+unamb	unamiable
 amed^shs	amidships
-amma&'	ammonia
+am-na&'	ammonia
 amunsh	ammunition
-!	amnesia
-
-# Page 9 Column 2
-amneste	amnesty
+am-nesa&'	amnesia
+	
+# Page 9 Column 2	
+am-neste	amnesty
 mng	among
 mngs	amongst
 amrus	amorous
-amotis	amortize
-!	amortization
+amotiz	amortize
+amotezash	amortization
 amnt	amount
 amtd	amounted
-!	amperage
+amperj	amperage
 amfebus	amphibious
 amfebn	amphibian
 amp	ample
@@ -676,79 +676,79 @@ amptu	amplitude
 amput	amputate
 ampush	amputation
 amus	amuse
-amus-s	amuses
-anakron	anachronism
-!	anachronistic
-!	anaconda
+amuss	amuses
+anakronsm	anachronism
+anakron^st	anachronistic
+anaknda	anaconda
 anema&'	anaemia
-anesthe	anaesthesia
+anesthesa&'	anaesthesia
 anesth^a	anaesthetic
-
-# Page 9 Column 3
+	
+# Page 9 Column 3	
 an^g	anagram
 an^o(	analogy
 analg	analogous
-analis	analyze
+analiz	analyze
 analss	analysis
-anles	analyst
+anales	analyst
 anal^a|	analytical
 anjl	angel
 anjlk	angelic
 arkanjl	archangel
 ange~	anger
-angra|	angrily
+angre|	angrily
 angl	angle
 ko_drang	quadrangle
 rektang	rectangle
 tra&eng	triangle
 angsas	Anglo-Saxon
 angsh	anguish
-angul	angular
-angu^r	angularity
+angulr	angular
+angul^r	angularity
 anelen	aniline
 anemaversh	animadversion
 anem	animal
 anemat	animate
-!	animated
-
-# Page 10 Column 1
+anematd	animated
+	
+# Page 10 Column 1	
 anemsh	animation
-enanem	inanimate
+enanemat	inanimate
 ra&'nemat	reanimate
 anemus	animus
-anem^s)	animosity
+anem^s	animosity
 ankl	ankle
 anls	annals
 anles	annalist
-anexsh	annexation
+anexash	annexation
 anila	annihilate
 anilash	annihilation
 anev	anniversary
 a\d	anno Domini
 anota	annotate
 anotsh	annotation
-ans	announce
-annsd	announced
-anns(m	announcement
-!	announcer
-annsash	annunciation
-anunsa^r	annunciator
+anns	announce
+annst	announced
+annsm	announcement
+annser	announcer
+anunsa&'sh	annunciation
+anunsa&'^r	annunciator
 dnns	denounce
 prnns	pronounce
-!	unannounced
+unannst	unannounced
 anoe	annoy
-
-# Page 10 Column 2
+	
+# Page 10 Column 2	
 anoens	annoyance
-!	annoyed
+anoed	annoyed
 anl	annual
 anle	annually
 anls	annuals
-anutu	annuity
+anute	annuity
 prenl	perennial
-s(emanl	semiannual
-s)^an	superannuate
-!	annular
+semanl	semiannual
+s^aneut	superannuate
+anulr	annular
 anodin	anodyne
 anoent	anoint
 anoma|	anomaly
@@ -758,58 +758,58 @@ anon^mt	anonymity
 nuth	another
 ans	answer
 ansb	answerable
-ansd	answered
+ans^t	answered
 ans-s	answers
 nansb	unanswerable
-!	ant
+ant	ant
 a^gniz	antagonize
-!	antagonism
-
-# Page 10 Column 3
-a^g	antagonist
-a^g^st	antagonistic
-a^s(etn	antecedent
-a^cham	antechamber
+a^gnsm	antagonism
+	
+# Page 10 Column 3	
+a^gnes	antagonist
+a^gn^st	antagonistic
+a^sedn	antecedent
+a^chambr	antechamber
 a^td	antedate
 a^deluv	antediluvian
 a^lop	antelope
 a^na	antenna
-a^penul	antepenult
+a^penut	antepenult
 a^or	anterior
 a^rm	anteroom
 anth^o(	anthology
 anthsi	anthracite
-!	anthrax
+anthrax	anthrax
 anthpoe	anthropoid
 anthp^o(	anthropology
 a^k	antic
 a^sep	anticipate
 a^sepsh	anticipation
-!	anticipatory
+a^sep^re	anticipatory
 na^sep^t	unanticipated
 a^klimax	anticlimax
 a^dot	antidote
-a^loj	antilogy
+a^loje~	antilogy
 a^mne	antimony
-
-# Page 11 Column 1
+	
+# Page 11 Column 1	
 a^pthe	antipathy
-!	antiphonal
+a^fnl	antiphonal
 a^pdes	antipodes
 a^k	antique
-a^ka_r	antiquarian
-!	antiquary
-!	antiquated
-a^kete	antiquity
-!	antisepsis
+a^ka_ra&'n	antiquarian
+a^ka_re	antiquary
+a^ka_td	antiquated
+a^ke_te	antiquity
+a^sepss	antisepsis
 a^sep	antiseptic
 a^thess	antithesis
-a^tox	antitoxin
+a^toxn	antitoxin
 antlr	antler
-!	antonym
+a^nem	antonym
 anvel	anvil
 ank	anxious
-angsa&e	anxiety
+angsi	anxiety
 ne	any
 n'au	anyhow
 neun	anyone
@@ -818,8 +818,8 @@ neua	anyway
 nar	anywhere
 aota	aorta
 apt	apart
-
-# Page 11 Column 2
+	
+# Page 11 Column 2	
 apt-m	apartment
 kpt-m	compartment
 dpt-m	department
@@ -827,55 +827,55 @@ apthe	apathy
 apth^a	apathetic
 ape~tr	aperture
 apex	apex
-!	aphasia
+afasha&'	aphasia
 aforsm	aphorism
 apa&'re	apiary
 apkleps	apocalypse
 apkope	apocope
 apkrfa	apocrypha
-!	apogee
+apoje	apogee
 ap^o(	apology
 ap^ok	apologetic
-!	apologies
-!	apologist
-ap^o(is	apologize
-apoplaxe	apoplexy
-!	apostasy
-apos(tlk	apostolic
+ap^os	apologies
+ap^os)t	apologist
+ap^oiz	apologize
+apoplexe	apoplexy
+apostse	apostasy
+apostlk	apostolic
 apostrfe	apostrophe
-!	apostrophize
+apostrfiz	apostrophize
 apthekre	apothecary
-
-# Page 11 Column 3
-!	apothegm
+	
+# Page 11 Column 3	
+apthem	apothegm
 apthess	apotheosis
 apnj	appanage
 apratus	apparatus
-!	apparatuses
+apratuss	apparatuses
 aprl	apparel
 apel	appeal
-aplnt	appellant
+aplant	appellant
 apela	appellate
 apr	appear
 aprnt	apparent
 aparesh	apparition
 aprns	appearance
 dsapr	disappear
-!	appeasable
-!	unappeasable
-ajnt	append
+apesb	appeasable
+unapesb	unappeasable
+apnt	append
 apndj	appendage
 apndex	appendix
-ajntsi	appendicitis
+apntsi	appendicitis
 aprse	apperceive
 aprsepsh	apperception
 ape~tn	appertain
-ape~tns	appurtenance
-!	appurtenant
-
-# Page 12 Column 1
+ape~tnans	appurtenance
+ape~tnnt	appurtenant
+	
+# Page 12 Column 1	
 apti	appetite
-!	appetizing
+aptiz'	appetizing
 apli	apply
 aplins	appliance
 aplek^b	applicability
@@ -885,52 +885,52 @@ aplsh	application
 aplid	applied
 oe	appoint
 oee	appointee
-!	appointees
+oees	appointees
 oev	appointive
 oem	appointment
 doe	disappoint
 roe	reappoint
 aporsh	apportion
-!	reapportionment
+ra&'porshm	reapportionment
 apos	apposite
 aposh	apposition
-!	appraisal
+aprasl	appraisal
 apresh	appreciate
 apreshb	appreciable
 apresh	appreciation
 apresh^v	appreciative
-
-# Page 12 Column 2
+	
+# Page 12 Column 2	
 dpresha&'t	depreciate
 aprend	apprehend
-!	apprehended
+aprendd	apprehended
 aprensh	apprehension
 aprensv	apprehensive
 msaprensh	misapprehension
 aprentes	apprentice
-!	apprenticeship
+aprentes^sh	apprenticeship
 aprch	approach
 aprchb	approachable
 unaprchb	unapproachable
 aprbash	approbation
-apra	appropriate
-aprae	appropriately
-apranes	appropriateness
-aprash	appropriation
-napra	inappropriate
+aprpra&'t	appropriate
+aprpra&'te	appropriately
+aprpra&'t-nes	appropriateness
+aprpra&'sh	appropriation
+enaprpra&'t	inappropriate
 msaprpra&'t	misappropriate
-!	unappropriated
+unaprpra&'td	unappropriated
 aprv	approve
 aprvl	approval
 aprvd	approved
 dsaprvd	disapproved
 aprx	approximate
 aprxsh	approximation
-
-# Page 12 Column 3
-aprekt	apricot
+	
+# Page 12 Column 3	
+aprekot	apricot
 aprpo	apropos
-!	apt
+apt	apt
 aptet	aptitude
 apte	aptly
 ake_us	aqueous
@@ -938,50 +938,50 @@ aka_rm	aquarium
 ak^a	aquatic
 ake_duk	aqueduct
 ake_len	aquiline
-!	arabesque
-!	arable
+arabesk	arabesque
+arb	arable
 arbte~	arbiter
 arbtrj	arbitrage
 arbtram	arbitrament
 arb	arbitrary
 arbtra	arbitrate
 arbtrash	arbitration
-!	arbitrator
-arborel	arboreal
+arbtra^r	arbitrator
+arborl	arboreal
 arbtus	arbutus
-!	arcade
+arkad	arcade
 arkak	archaic
 arkanjl	archangel
 a~chbesh	archbishop
-
-# Page 13 Column 1
+	
+# Page 13 Column 1	
 a~chdche	archduchy
-!	archeology
-!	archer
+ark^o(	archeology
+a~che~	archer
 a~che~e	archery
-arkpelg	archipelago
+arkpelago	archipelago
 aktek	architect
-aktekrl	architectural
+aktektrl	architectural
 arkivs	archives
 arktek	arctic
 a^rktek	antarctic
-a~dr	ardor
+a~de~	ardor
 a~d-nt	ardent
-a~dus	arduous
-!	argon
+a~duus	arduous
+argn	argon
 argnot	Argonaut
 ageu	argue
 agm	argument
 agmsh	argumentation
-agmadf	argumentative
-!	arid
+?agmatf	argumentative
+ared	arid
 aredte	aridity
-ares(tok	aristocrat
-aresto	aristocracy
-!	aristocratic
+arestok	aristocrat
+arestokse	aristocracy
+arestok^a	aristocratic
 areth	arithmetic
-
-# Page 13 Column 2
+	
+# Page 13 Column 2	
 areth^a|	arithmetical
 a~m	arm
 a~mam	armament
@@ -989,27 +989,27 @@ a~matr	armature
 a~mcha~	armchair
 a~mf	armful
 a~mestes	armistice
-!	armor
-!	armorer
-!	armorial
-a~mre	armory
-!	armpit
-!	disarmed
-!	forearmed
+a~me~	armor
+a~me~^r	armorer
+a~morl	armorial
+a~mre~e	armory
+a~mpet	armpit
+dsa~m^t	disarmed
+f^a~m^t	forearmed
 una~m^t	unarmed
-a~mna&e~n	Armenian
+a~mna&'n	Armenian
 a~neka	arnica
 aroma	aroma
 arom^a	aromatic
 araus	arouse
-!	aroused
-!	arpeggio
-aramn	arraignment
+arausd	aroused
+arpejo	arpeggio
+aranm	arraignment
 ara	arrange
 ara	arrangement
-
-# Page 13 Column 3
-!	arranges
+	
+# Page 13 Column 3	
+aras	arranges
 dranj	derange
 dsara	disarrange
 ra&'ra	rearrange
@@ -1025,60 +1025,60 @@ arsnek	arsenic
 arsn	arson
 a~t	art
 a~tf	artful
-a~tfn	artfulness
+a~tfnes	artfulness
 a~tl	artless
-a~tln	artlessness
+a~tlnes	artlessness
 a~tre	artery
-!	arterial
-!	arteriosclerosise
+a~terl	arterial
+a~tersklerss	arteriosclerosise
 arthri	arthritis
 a~tchk	artichoke
 a~t^k	article
-
-# Page 14 Column 1
+	
+# Page 14 Column 1	
 a~tek^u	articulate
-!	disarticulate
+dsa~tek^u	disarticulate
 ena~tek^u	inarticulate
 a~tfes	artifice
-!	artificer
+a~tfesr	artificer
 a~tfesh	artificial
-!	artficiality
+a~tfesh^l	artficiality
 a~tel	artillery
 a~tesn	artisan
 a~tes	artist
-a~t^s(t	artistic
+a~t^st	artistic
 a~testre	artistry
-!	inartistic
-!	Aryan
+ena~t^st	inartistic
+ara&'n	Aryan
 asbes	asbestos
-as(en	ascend
+asen	ascend
 asen-dnse	ascendancy
-as(entn	ascendant
-as(ensh	ascension
-as(ent	ascent
-ds(en	descend
-as(etn	ascertain
-!	ascertainable
-!	ascertained
-!	ascertainment
-
-# Page 14 Column 2
+asendn	ascendant
+asensh	ascension
+asent	ascent
+dsen	descend
+asetn	ascertain
+asetnb	ascertainable
+astnd	ascertained
+astnm	ascertainment
+	
+# Page 14 Column 2	
 as^a	ascetic
-as(etss	asceticism
-as(kr	ascribe
+asetss	asceticism
+askr	ascribe
 askrb	ascribable
 askrsh	ascription
 aseptek	aseptic
-ashamt	ashamed
-!	ashy
+ashamd	ashamed
+ashe	ashy
 ash^a	Asiatic
 asi	aside
-aseni	asinine
-as(en^nt	asininity
-s(k	ask
-s(kt	asked
-ns(kt	unasked
-!	askance
+asenin	asinine
+asen^nt	asininity
+sk	ask
+skt	asked
+nskt	unasked
+askans	askance
 aslep	asleep
 asparg	asparagus
 aspk	aspect
@@ -1088,96 +1088,96 @@ asprsh	aspersion
 asfalt	asphalt
 asfexa&'t	asphyxiate
 asfexa&'sh	asphyxiation
-
-# Page 14 Column 3
+	
+# Page 14 Column 3	
 aspi	aspire
 aspi^nt	aspirant
 aspra	aspirate
 asprash	aspiration
-!	aspirin
+aspren	aspirin
 asal	assail
 asalb	assailable
-asalnt	assailant
+asalant	assailant
 unasalb	unassailable
-!	unassailed
-a~ss(n	assassin
+unasald	unassailed
+assn	assassin
 assnat	assassinate
 assnsh	assassination
 asolt	assault
-as(em	assemble
-as(emj	assemblage
-as(em	assembly
-as(et	assert
-as(esh	assertion
-as(edf	assertive
-a~ss	assess
-!	assessable
-a~ssd	assessed
-!	assesses
-a~ssm	assessment
-
-# Page 15 Column 1
+asem	assemble
+asemj	assemblage
+asem	assembly
+ase~t	assert
+ase~sh	assertion
+ase~tf	assertive
+ass	assess
+ass^b	assessable
+asst	assessed
+asss	assesses
+assm	assessment
+	
+# Page 15 Column 1	
 assr	assessor
-as(evera	asseverate
-asedus	assiduous
+asevera	asseverate
+aseduus	assiduous
 asedute	assiduity
-as(in	assign
+asin	assign
 asinb	assignable
-!	assignat
-as(int	assigned
-as(ene	assignee
-as(imn	assignment
-as(enr	assignor
-!	unassigned
+asegnat	assignat
+asind	assigned
+asene	assignee
+asinm	assignment
+asenr	assignor
+unas)ind	unassigned
 asemela	assimilate
-!	assimilable
+asemelb	assimilable
 asemelsh	assimilation
 asemel^v	assimilative
-!	unassimilated
-ss(t	assist
-ss(tns	assistance
-ss(tn	assistant
-nss(td	unassisted
+unas)emela^t	unassimilated
+sst	assist
+sstns	assistance
+sstn	assistant
+nsstd	unassisted
 asiz	assize
-as(osht	associate
-as(osh	association
-as(osht-v	associative
-
-# Page 15 Column 2
-ds(osht	dissociate
-as(nans	assonance
+asosht	associate
+asosh	association
+asoshtv	associative
+	
+# Page 15 Column 2	
+dsosht	dissociate
+asnans	assonance
 asot	assort
-!	assorted
-as(ot-m	assortment
+asotd	assorted
+asot-m	assortment
 asa_j	assuage
-as(m	assume
-as(msh	assumption
-unas(m'	unassuming
+asm	assume
+asmsh	assumption
+unas)m'	unassuming
 ashu	assure
 ashuns	assurance
-ashud	assured
+ashu^t	assured
 ashus	assures
 ra&'shu	reassure
 astresk	asterisk
 asma	asthma
-astegmat	astigmatism
-as(tnsh	astonish
-!	astonished
-!	astonishment
-as(tnt	astound
-astrkn	astrakhan
+astegmatsm	astigmatism
+astnsh	astonish
+astnsht	astonished
+astnshm	astonishment
+ast-nd	astound
+astrakan	astrakhan
 astrenjnt	astringent
 astr^o(	astrology
-as(tron	astronomy
-
-# Page 15 Column 3
+astron	astronomy
+	
+# Page 15 Column 3	
 astron^r	astronomer
-astromek	astronomic
+astromk	astronomic
 astut	astute
 asilm	asylum
-adfs(m	atavism
-athes(m	atheism
-athes(	atheist
+atfsm	atavism
+athesm	atheism
+athest	atheist
 athlet	athlete
 athl^a	athletic
 athl^as	athletics
@@ -1187,53 +1187,53 @@ at-mos	atmosphere
 at-mosk	atmospheric
 atm	atom
 atmek	atomic
-atmis	atomize
-!	atone
-!	atoned
+atmiz	atomize
+aton	atone
+atond	atoned
 atonm	atonement
-!	unatoned
+unatond	unatoned
 atrosh	atrocious
-atrfe	atrophy
+atrofe	atrophy
 atch	attach
-atchd	attached
-
-# Page 16 Column 1
+atcht	attached
+	
+# Page 16 Column 1	
 atchs	attaches
 atchm	attachment
-unatchd	unattached
+unatcht	unattached
 atn	attain
 atnb	attainable
 atnd	attained
 atnm	attainment
-natnb	unattainable
-!	attainder
+unatnb	unattainable
+atnde~	attainder
 atmt	attempt
 atmtd	attempted
 atnd	attend
-atntns	attendance
-atndnt	attendant
-atnd-d	attended
+atndns	attendance
+atndn	attendant
+atndd	attended
 tnsh	attention
-atndf	attentive
+atntf	attentive
 enatnsh	inattention
 enatntv	inattentive
-unatnd-d	unattended
+unatndd	unattended
 atneut	attenuate
-!	attenuated
+atneutd	attenuated
 atneush	attenuation
 ates	attest
-ates-sh	attestation
-
-# Page 16 Column 2
+atessh	attestation
+	
+# Page 16 Column 2	
 ati~	attire
-!	attired
+ati~d	attired
 atet	attitude
 atne	attorney
 atrk	attract
-atrkd	attracted
+atrkt	attracted
 atrksh	attraction
 atrkv	attractive
-natrkv	unattractive
+unatrkv	unattractive
 atreb	attribute
 obe~n	auburn
 okshe~	auctioneer
@@ -1242,46 +1242,46 @@ od^s	audacity
 odb	audible
 od^b	audibility
 enodb	inaudible
-otns	audience
-otd	audit
-!	audition
-otde~	auditor
-otdorm	auditorium
-!	auditory
+odns	audience
+odt	audit
+odsh	audition
+odte~	auditor
+odtorm	auditorium
+odtre	auditory
 ogm	augment
-ogm^v	augmentative
-
-# Page 16 Column 3
+ogmatv	augmentative
+	
+# Page 16 Column 3	
 ogre	augury
-og	august
-!	augustly
+ogus	august
+oguse	augustly
 og	August
 oreol	aureole
 orora	aurora
-os(kult-n	auscultation
+os)kultsh	auscultation
 ospess	auspices
 ospesh	auspicious
-!	inauspicious
-os(te~	austere
-os(t^r	austerity
+inuspesh	inauspicious
+os)te~	austere
+os)t^r	austerity
 othent	authentic
 othente	authentically
 othent	authenticate
-othent^se	authenticity
-nothentd	unauthenticated
+othent^s	authenticity
+unothent^t	unauthenticated
 othr	author
-othrdf	authoritative
+othrtf	authoritative
 oth)^r	authority
-othrissh	authorization
-othris	authorize
-othrsh	authorship
-nothrisd	unauthorized
+othrizsh	authorization
+othriz	authorize
+othr^sh	authorship
+unothrizd	unauthorized
 otb^oe	autobiography
-
-# Page 17 Column 1
+	
+# Page 17 Column 1	
 otokthonus	autochthonous
 otok	autocrat
-otokrse	autocracy
+otokse	autocracy
 otok^a	autocratic
 ot^o	autograph
 ot^ot	autographed
@@ -1290,14 +1290,14 @@ otmatsm	automatism
 otmatn	automaton
 otmb	automobile
 otnome	autonomy
-otpse	autopsy
-!	autosuggestion
+otopse	autopsy
+otosuj	autosuggestion
 otm	autumn
 otml	autumnal
 oselre	auxiliary
 avalb	available
-
-# Page 17 Column 2
+	
+# Page 17 Column 2	
 unavalb	unavailable
 avlanch	avalanche
 avares	avarice
@@ -1305,33 +1305,32 @@ avaresh	avaricious
 avenj	avenge
 avnu	avenue
 aver	aver
-avr	average
+avrj	average
 avers	averse
-averssh	aversion
+aversh	aversion
 ave~t	avert
 ava&'sh	aviation
-ava&'tr	aviator
+ava&'te~	aviator
 aved	avid
 avedte	avidity
-!	avidly
+avede	avidly
 voe	avoid
-
-# Page 17 Column 3
+	
+# Page 17 Column 3	
 voeb	avoidable
 voens	avoidance
 voes	avoids
 nvoe	unavoidable
 avdpoe	avoirdupois
-!	avowal
-!	disavowal
+avaul	avowal
+dsavaul	disavowal
 ar	aware
-una_r	unaware
+nar	unaware
 of	awful
 okd	awkward
 on'	awning
-aks(em	axiom
+aksem	axiom
 aksem^a	axiomatic
 akss	axis
 aksl	axle
 ashu	azure
-
