@@ -1,32 +1,32 @@
-# Page 18 Column 1
-!	babbitt
+# Page 18 Column 1	
+babt	babbitt
 bab	babble
-baklor	baccalaureate
-bachl	bachelor
-!	bacillus
-!	bacilli
-!	back
+baklora&'t	baccalaureate
+bachlr	bachelor
+baselus	bacillus
+baseli	bacilli
+bak	back
 bakbon	backbone
-!	backer
-bakgr	background
+bakr	backer
+bakgrnd	background
 bak'nd	backhand
-!	backslider
+bakslide~	backslider
 bakd	backward
-bakd-n	backwardness
-!	backwash
+bakd-nes	backwardness
+bako_sh	backwash
 bakterm	bacterium
 baktera&'	bacteria
-!	bacterial
-!	bacteriology
-btnash	badinage
+bakterl	bacterial
+bakter^o(	bacteriology
+bdnash	badinage
 bafl	baffle
 bag	bag
 bagas	bagasse
 bagtel	bagatelle
-
-# Page 18 Column 2
+	
+# Page 18 Column 2	
 bgj	baggage
-!	bagpipe
+bagpip	bagpipe
 bal	bail
 balf	bailiff
 bale_k	bailiwick
@@ -39,140 +39,140 @@ baldaken	baldachin
 boldrk	baldric
 bok	balk
 balas	ballast
-!	unballasted
-!	ballet
-bal^s(ts	ballistics
+nbalas^t	unballasted
+bala	ballet
+bal^sts	ballistics
 balun	balloon
 balot	ballot
-bolsm	balsam
-balus(te~	baluster
-balus(tra	balustrade
-!	bamboo
+bolsam	balsam
+baluste~	baluster
+balustra	balustrade
+bambu	bamboo
 banl	banal
 ban^l	banality
-
-# Page 18 Column 3
+	
+# Page 18 Column 3	
 bnana	banana
 bandj	bandage
-!	bandaged
-!	bandanna
-ban-dt	bandit
+bandjd	bandaged
+bandana	bandanna
+bandet	bandit
 bantler	bandoleer
 bang	bang
-banesh	banish
-!	banishment
-!	banister
+bansh	banish
+banshm	banishment
+baneste~	banister
 bank	bank
 bankp	bankrupt
-bse	bankruptcy
+bankpse	bankruptcy
 banke_t	banquet
 bantr	banter
 baptiz	baptize
-!	baptism
+bapt-sm	baptism
 baptes	Baptist
 bar	bar
-!	barred
-brb	barb
-!	barbed
+ba~d	barred
+barb	barb
+barbd	barbed
 barbra&'n	barbarian
-!	barbaric
-brbrsm	barbarism
-
-# Page 19 Column 1
-brb^r	barbarity
-brbrus	barbarous
-!	barbecue
-brbr	barber
+barbrk	barbaric
+barbr-sm	barbarism
+	
+# Page 19 Column 1	
+barb^r	barbarity
+barbrus	barbarous
+barbkeu	barbecue
+barbr	barber
 barbkan	barbican
-bgn	bargain
-!	bargained
+bargn	bargain
+bargnd	bargained
 barj	barge
 bareton	baritone
-brle	barley
+barle	barley
 ba~n^k	barnacle
 bar^o	barograph
-barom	barometer
-!	barometric
+baromete~	barometer
+barometrk	barometric
 barn	baron
 barnes	baroness
 barnet	baronet
-!	baronial
+baronl	baronial
 barak	barrack
 barash	barrage
 baratre	barratry
 brl	barrel
 baren	barren
-barenn	barrenness
-barkad	barricade
-
-# Page 19 Column 2
+baren-nes	barrenness
+barekad	barricade
+	
+# Page 19 Column 2	
 barer	barrier
 bareste~	barrister
 bas	base
-basal	basal
-!	baseboard
-bas(m	basement
+basl	basal
+basbod	baseboard
+basm	basement
 bass	bases
 bask	basic
 bass	basis
 dbas	debase
 bashf	bashful
-bashfn	bashfulness
+bashfnes	bashfulness
 baseleka	basilica
-!	basilisk
-!	bassoon
+baselesk	basilisk
+basun	bassoon
 batn	baton
 btaln	battalion
-bte~e~	battery
+bte~e	battery
 btl	battle
 banet	bayonet
 biu	bayou
 bekn	beacon
-!	beagle
-ba&'df	beatify
+begl	beagle
+ba&'tf	beatify
 ba&'t^f	beatification
-
-# Page 19 Column 3
+	
+# Page 19 Column 3	
 ba&'tet	beatitude
 bte	beauty
 btus	beauteous
 btes	beauties
 bte-f	beautiful
-btef	beautify
+bte-f	beautify
 bevr	beaver
-!	because, cause
+ks(	because, cause
 bd	bed
-!	bedchamber
-bdretn	bedridden
+bdchambr	bedchamber
+bdredn	bedridden
 bdrm	bedroom
 bdspred	bedspread
 be	bee
 bfo	befall
-!	befell
+bfel	befell
 bfet	befit
 bf	before
-bfn-t	beforehand
+bf'nd	beforehand
 bfr	befriend
 bg	beg
 bgr	beggar
-!	begonia
-bgi	beguile
-bf	behalf
-
-# Page 20 Column 1
+bgna&'	begonia
+bgal	beguile
+baf	behalf
+	
+# Page 20 Column 1	
 b'av	behave
 b'avd	behaved
 b'avr	behavior
 msb'av	misbehave
 b'ed	behead
-b'el	beheld
+b'eld	beheld
 b'est	behest
 bi	behind
 b'ind	behindhand
 bo(ld	behold
 b'uv	behoove
 bash	beige
-blfre	belfry
+belfre	belfry
 bli	belie
 be	belief
 beb	believable
@@ -182,38 +182,38 @@ nbeb	unbelievable
 blet	belittle
 bel	bell
 belekos	bellicose
-!	bellicosity
+belek^s	bellicosity
 belej	belligerence
 belejse	belligerency
-
-# Page 20 Column 2
+	
+# Page 20 Column 2	
 belej	belligerent
-!	bellows
+belos	bellows
 blng	belong
 blv	belove
 blo	below
 belt	belt
 bench	bench
 bneth	beneath
-bnedsh	benediction
+bnedeksh	benediction
 bnf	benefit
 bnfaksh	benefaction
-bnfaktr	benefactor
+bnfakr	benefactor
 bnefesns	beneficence
-bnefeshnt	beneficent
+bnfesnt	beneficent
 bnfesh	beneficial
-bfesh	beneficiary
+bnfeshre	beneficiary
 bnev	benevolence
 bnev	benevolent
 malev	malevolent
-bni	benign
+bnin	benign
 bnegse	benignancy
 bnegn	benignant
-bns(en	benzene
+bnsen	benzene
 bke_th	bequeath
 bkes	bequest
-
-# Page 20 Column 3
+	
+# Page 20 Column 3	
 berev	bereave
 berth	berth
 bsech	beseech
@@ -221,38 +221,38 @@ bsi	beside
 bsej	besiege
 bsp	bespeak
 bes	best
-!	bestial
-!	bestiality
-b-sto	bestow
-bs(tol	bestowal
+beschl	bestial
+besch^l	bestiality
+bsto	bestow
+bstol	bestowal
 btra	betray
 btral	betrayal
 btrad	betrayed
-!	betroth
+btroth	betroth
 btrothl	betrothal
 bte~	better
-!	bettered
+bte~d	bettered
 btem	betterment
 btn	between
-bvl	bevel
-!	beveled
-bvrj	beverage
+bevl	bevel
+bevld	beveled
+bevrj	beverage
 ba_l	bewail
 ba_r	beware
-
-# Page 21 Column 1
+	
+# Page 21 Column 1	
 be_ldr	bewilder
-!	bewilderment
+be_ldrm	bewilderment
 be_ch	bewitch
 bon	beyond
 banl	biannual
 beb^oe	bibliography
-!	bicameral
+bkamerl	bicameral
 bseps	biceps
-!	bicuspid
-bisikl	bicycle
+bkuspd	bicuspid
+bis^k	bicycle
 bd	bid
-btn	bidden
+bdn	bidden
 ba&enl	biennial
 bgme	bigamy
 bgt	bigot
@@ -260,14 +260,14 @@ bgtre	bigotry
 beshu	bijou
 blengl	bilingual
 belus	bilious
-!	bill, built
+bl	bill, built
 blbod	billboard
 bl'ed	billhead
 bela~ds	billiards
-!	billow
+belo	billow
 bmetlsm	bimetallism
-
-# Page 21 Column 2
+	
+# Page 21 Column 2	
 bnre	binary
 bn^k	binnacle
 bnok	binocular
@@ -276,177 +276,177 @@ b^o(	biology
 bplan	biplane
 berth	birth
 berthda	birthday
-!	birthmark
-rbe~th	rebirth
-bs(ek	bisect
-beshup	bishop
+berthmark	birthmark
+rberth	rebirth
+bsek	bisect
+beshop	bishop
 a~chbesh	archbishop
-!	bishopric
+beshoprk	bishopric
 besmuth	bismuth
 bisn	bison
 bit	bite
 bet	bit
 betn	bitten
 bete~	bitter
-!	bitterest
-!	bitumen
+bete~^st	bitterest
+btumn	bitumen
 blak	black
-blakbre	blackberry
-!	blackboard
-
-# Page 21 Column 3
-!	blacken
-!	blackened
-blakma	blackmail
+blakbere	blackberry
+blakbod	blackboard
+	
+# Page 21 Column 3	
+blakn	blacken
+blaknd	blackened
+blakma~	blackmail
 blaknes	blackness
 blam	blame
-blam-d	blamed
+blamd	blamed
 blaml	blameless
 blamthe	blameworthy
-!	blandish
+blandsh	blandish
 blandshm	blandishment
-blankt	blanket
+blanket	blanket
 blasfem	blaspheme
-blas(n	blazon
+blazn	blazon
 blemsh	blemish
-!	unblemished
-bli	blight
-!	blighted
-!	blinder
-!	blinker
+nblemsht	unblemished
+blit	blight
+blitd	blighted
+blindr	blinder
+blenke~	blinker
 bles	bliss
 blesf	blissful
-!	blissfully
-blesfn	blissfulness
+blesfe	blissfully
+blesfnes	blissfulness
 bleste~	blister
-!	blistered
-
-# Page 22 Column 1
+bleste~d	blistered
+	
+# Page 22 Column 1	
 blith-sm	blithesome
-bles(a~d	blizzard
+bleza~d	blizzard
 blok	block
 blokad	blockade
 blok'us	blockhouse
 blud	blood
 bludl	bloodless
 bludshot	bloodshot
-!	bloody
+blude	bloody
 blaus	blouse
 bljn	bludgeon
 bluf	bluff
 blndr	blunder
-!	blundered
-!	blunderer
+blndr^t	blundered
+blndrr	blunderer
 blnt	blunt
 blr	blur
 blsh	blush
-!	unblushing
+nblsh'	unblushing
 bluste~	bluster
-!	boa
-!	boar
-bor	board
-!	boarded
+boa	boa
+bor	boar
+bod	board
+bodd	boarded
 bode~	boarder
-
-# Page 22 Column 2
+	
+# Page 22 Column 2	
 bost	boast
-!	boastful
+bostf	boastful
 bodes	bodice
 bodken	bodkin
 bo	body
 bos	bodies
 boe	bodily
-boga~d	bodyguard
-!	disembodied
+bo^ga~d	bodyguard
+dsmbo^t	disembodied
 mbo	embody
 bog	bog
-!	bogus
+bogus	bogus
 boelr	boiler
 bold	bold
 boldr	bolder
-!	boldest
+boldes	boldest
 bolste~	bolster
 bolt	bolt
-!	bolted
+boltd	bolted
 bomba~d-m	bombardment
-bomb^s(t	bombastic
-bont	bond
+bomb^st	bombastic
+bond	bond
 bondj	bondage
-!	bonded
+bondd	bonded
 bonet	bonnet
-
-# Page 22 Column 3
+	
+# Page 22 Column 3	
 bonus	bonus
 bk	book
 bkp^r	bookkeeper
 bkp'	bookkeeping
 bkle	booklet
-!	bookshelf
-!	boomerang
-boras(k	boracic
+bkshelf	bookshelf
+bumrang	boomerang
+borask	boracic
 bode~	border
-!	bordered
-!	borderless
+bode~d	bordered
+boderl	borderless
 bro	borough
 boro	borrow
-bus(m	bosom
-btne	botany
-btnek	botanic
+busm	bosom
+botne	botany
+botnek	botanic
 botn^k	botanical
-btnes	botanist
+botnes	botanist
 both	both
 both	bother
-bothd	bothered
-boths(m	bothersome
+both^t	bothered
+both-sm	bothersome
 botl	bottle
-!	bottled
+botld	bottled
 botm	bottom
-
-# Page 23 Column 1
+	
+# Page 23 Column 1	
 bau	bough
 blvd	boulevard
 bns	bounce
-bnsd	bounced
+bnst	bounced
 bn	bound
 bnre	boundary
 bnn	bounden
 bnl	boundless
-ubn-d	unbounded
+nbn^t	unbounded
 bn-te	bounty
 bn-tus	bounteous
-!	bounties
-bn-tef	bountiful
+bn-tes	bounties
+bn-te-f	bountiful
 buka	bouquet
 boven	bovine
 baur	bower
 boldr	bowlder
 bospret	bowsprit
 box	box
-boxd	boxed
-boxr	boxer
-box-s	boxes
+boxt	boxed
+boxer	boxer
+boxs	boxes
 boekot	boycott
-braslet	bracelet
+brasle	bracelet
 braksh	brackish
-
-# Page 23 Column 2
+	
+# Page 23 Column 2	
 braga~t	braggart
 brandsh	brandish
 brav	brave
 bravre	bravery
-!	bravest
-!	brazen
+braves	bravest
+brazn	brazen
 brashe~	brazier
-bred-th	breadth
+bredth	breadth
 brak	break
 brakb	breakable
 brakj	breakage
-nbrak	unbreakable
+nbrakb	unbreakable
 nbrokn	unbroken
-!	breast
+brest	breast
 breth	breath
 brevt	brevet
-!	breviary
+brevre	breviary
 bru	brew
 bribre	bribery
 brid	bride
@@ -455,9 +455,9 @@ bref	brief
 abrev	abbreviate
 brevte	brevity
 bregad	brigade
-
-# Page 23 Column 3
-!	brigand
+	
+# Page 23 Column 3	
+bregnd	brigand
 bregantn	brigantine
 bri	bright
 brin	brighten
@@ -466,8 +466,8 @@ bra&e	brightly
 brines	brightness
 brel	brilliant
 brel	brilliance
-brele	brilliancy
-!	brilliantine
+brelse	brilliancy
+brela&'ntn	brilliantine
 bresl	bristle
 brokad	brocade
 broshu	brochure
@@ -478,116 +478,115 @@ bruthlo	brother-in-law
 bruthe	brotherly
 brum	brougham
 brn	brown
-!	brownish
+brnsh	brownish
 brnt	brunt
 brsh	brush
 brut	brute
-
-# Page 24 Column 1
+	
+# Page 24 Column 1	
 brut^l	brutality
-!	brutalization
+brutlezash	brutalization
 brutliz	brutalize
 bruta|	brutally
-!	brutish
+brutsh	brutish
 bub	bubble
-!	buccaneer
+bukane~	buccaneer
 buket	bucket
-bkl	buckle
-!	buckler
-bkram	buckram
+bukl	buckle
+buklr	buckler
+bukram	buckram
 beukolk	bucolic
 bjet	budget
 buf	buffalo
 bufa	buffet
 beugl	bugle
 bld	build
-!	builded
+bldd	builded
 bldr	builder
 bl	built
-blb	bulb
-blj	bulge
-blk	bulk
-blke	bulky
+bulb	bulb
+bulj	bulge
+bulk	bulk
+bulke	bulky
 bulet	bullet
-
-# Page 24 Column 2
-bletn	bulletin
+	
+# Page 24 Column 2	
+buletn	bulletin
 buln	bullion
-!	bullock
-!	bulrush
+bulok	bullock
+bulrsh	bulrush
 bulrk	bulwark
 bnch	bunch
 bnl	bundle
 bnglu	bungalow
 bngl	bungle
 bnun	bunion
-!	bunker
+bnke~	bunker
 boe	buoy
 boense	buoyancy
 boent	buoyant
-be~tn	burden
-be~tnd	burdened
-!	burdensome
+be~dn	burden
+be~dnd	burdened
+be~dn-sm	burdensome
 buro	bureau
-bu^se	bureaucracy
+burokse	bureaucracy
 burok	bureaucrat
-bu^a	bureaucratic
+burok^a	bureaucratic
 brjes	burgess
 berglr	burglar
-!	burglariouse
+berglar	burglarious
 brlap	burlap
-
-# Page 24 Column 3
+	
+# Page 24 Column 3	
 brlesk	burlesque
-!	burly
+burle	burly
 be~n	burn
 be~n^t	burned
-!	burner
+be~ne~	burner
 be~n-t	burnt
 be~nsh	burnish
 buro	burrow
-!	bursar
-brs(t	burst
-!	bury
-bera&'l	burial
+brsar	bursar
+brst	burst
+bere	bury
+berl	burial
 bush	bush
 bs	business
 bsla	businesslike
-!	bust
-!	bustle
-!	bustled
+bust	bust
+busl	bustle
+busld	bustled
 bese	busy
-!	busied
+bese^t	busied
 bese|	busily
-!	but
+b	but
 bche~	butcher
 butlr	butler
 but	butt
-
-# Page 25 Column 1
+	
+# Page 25 Column 1	
 bute~	butter
-!	buttered
-!	butternut
-!	buttery
+bute~d	buttered
+butenut	butternut
+bute~e	buttery
 butn	button
 butnd	buttoned
 butn'ol	buttonhole
-
-# Page 25 Column 2
-!	buttonhook
-!	buttonwood
+	
+# Page 25 Column 2	
+butn'uk	buttonhook
+butnuud	buttonwood
 butres	buttress
 buxm	buxom
 bi	buy
 bir	buyer
-bus(ad	buzzard
-
-# Page 25 Column 3
-!	by
+buzad	buzzard
+	
+# Page 25 Column 3	
+b	by
 bgn	bygone
-!	by-law
-!	by-product
-bs(tn^r	bystander
+blo	by-law
+bproduk	by-product
+bstn^r	bystander
 bua	byway
 bud	byword
-
