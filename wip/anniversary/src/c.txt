@@ -1,47 +1,47 @@
-# Page 26 Column 1
+# Page 26 Column 1	
 kabl	cabal
 kabj	cabbage
 kabn	cabin
 kab	cabinet
 kab	cable
 kab^g	cablegram
-!	cadaver
-katns	cadence
-!	cadenza
-katd	cadet
+kadavr	cadaver
+kadns	cadence
+kadnza	cadenza
+kadt	cadet
 kaduss	caduceus
-!	cafeteria
-kas(n	caisson
+kaftera&’	cafeteria
+kasn	caisson
 kajol	cajole
 kal^mt	calamity
 kalam	calamitous
-kal-sem	calcium
-kal-semi	calcimine
-kal-sin	calcine
+kalsem	calcium
+kalsemin	calcimine
+kalsin	calcine
 kal	calculate
 kalb	calculable
 kalsh	calculation
-kalr	calculator
-n-kalb	incalculable
-
-# Page 26 Column 2
-ms(kal	miscalculate
-kalent	calendar
-kalbr	caliber
-!	calibrate
+kal^r	calculator
+nkalb	incalculable
+	
+# Page 26 Column 2	
+mskal	miscalculate
+kalend	calendar
+kalebr	caliber
+kalebra	calibrate
 kaleko	calico
-!	caliper
-kales(then	calisthenics
+kalepr	caliper
+kalesthen	calisthenics
 ko	call
 reko	recall
 kalipe	calliope
 kalus	callous
-!	callosity
-kom	calm
-kom-d	calmed
-kome	calmly
-kam-n	calmness
-!	caforie
+kal^s	callosity
+kam	calm
+kamd	calmed
+kame	calmly
+kam-nes	calmness
+kalre	caforie
 kalm-ne	calumny
 kalm-na&'t	calumniate
 kalm-nus	calumnious
@@ -50,62 +50,62 @@ kaml	camel
 kampan	campaign
 kamfr	camphor
 kann	Canadian
-
-# Page 26 Column 3
+	
+# Page 26 Column 3	
 kanl	canal
 kanre	canary
 kans	cancel
 kanssh	cancellation
 kanser	cancer
 kdlab	candelabrum
-ktd	candidate
-ktdse	candidacy
+kddat	candidate
+kddse	candidacy
 kddatr	candidature
 kdl	candle
 kde~	candor
-ktd	candid
+kdd	candid
 kde	candy
 kded	candied
-kani	canine
+kanin	canine
 kaneste~	canister
 kanke~	canker
-kant	canned
-kane~e~	cannery
+kand	canned
+kane~e	cannery
 kanebl	cannibal
 kanun	cannon
 kanunad	cannonade
-!	cannoneer
+kanone~	cannoneer
 kane	canny
 kanu	canoe
-
-# Page 27 Column 1
+	
+# Page 27 Column 1	
 kanpe	canopy
 ktlup	cantaloupe
 kten	canteen
 kte~	canter
 ktelev	cantilever
 kton	canton
-!	canvas
+kanvas	canvas
 kuchuk	caoutchouc
 kap	capable
 kap^b	capability
 kapash	capacious
-kapas	capacitate
-kap^s(	capacity
-n-kap	incapable
-n-kapas	incapacitate
-n-kap^s)	incapacity
+kapasta	capacitate
+kap^s	capacity
+nkap	incapable
+nkapasta	incapacitate
+nkap^s	incapacity
 kaplre	capillary
-kap^l	capillarity
+kapl^r	capillarity
 kpt	capital
 kptsm	capitalism
 kpt^st	capitalist
-kptez-sh	capitalization
+kptezash	capitalization
 kptiz	capitalize
 kpta|	capitally
 kapt^u	capitulate
-
-# Page 27 Column 2
+	
+# Page 27 Column 2	
 rekap^u	recapitulate
 kapres	caprice
 kapresh	capricious
@@ -116,57 +116,57 @@ kaptn	captain
 kapsh	caption
 kapshus	captious
 kaptr	capture
-kapdfat	captivate
-kapdfte	captivity
-kapte	captor
+kaptfat	captivate
+kaptfte	captivity
+kapte~	captor
 karat	carat
-krvan	caravan
+karvan	caravan
 krbi	carbide
 krbin	carbine
-krbol	carbolic
+krbolk	carbolic
 krbn	carbon
 bkrbnat	bicarbonate
 krbidra	carbohydrate
 krbnek	carbonic
-krbnezsh	carbonization
+krbnezash	carbonization
 krbniz	carbonize
-krbrnt	carborundum
-
-# Page 27 Column 3
-krbre~te~	carburetor
+krbrnd	carborundum
+	
+# Page 27 Column 3	
+krbrete~	carburetor
 kakas	carcass
-krs(enoma	carcinoma
+kr-senoma	carcinoma
 ka~dbor	cardboard
 ka~da&'k	cardiac
-katnl	cardinal
+ka~dnl	cardinal
 ka	care
 kaf	careful
-kal	careless
-kaln	carelessness
-kas	cares
-ka-uon	careworn
+ka-l	careless
+ka-lnes	carelessness
+ka-s	cares
+ka^uorn	careworn
 krer	career
 kares	caress
-krbu	caribou
+karebu	caribou
 karek	caricature
 krmn	carmine
 krnl	carnal
 krnj	carnage
 krnev	carnival
 krnev	carnivorous
-n-krnat	incarnate
-n-krnsh	incarnation
+nkrnat	incarnate
+nkrnsh	incarnation
 karl	carol
 karm	carom
-
-# Page 28 Column 1
+	
+# Page 28 Column 1	
 karaus	carouse
 karp	carp
-krjntr	carpenter
+krpntr	carpenter
 krpt	carpet
 krj	carriage
 karn	carrion
-karut	carrot
+karot	carrot
 kae	carry
 kae^r	carrier
 kaes	carries
@@ -180,58 +180,59 @@ krv	carve
 kara&'td	caryatid
 kaskad	cascade
 kash	cash
-!	cashable
-!	cashed
+kashb	cashable
+kasht	cashed
 kashe~	cashier
 kaseno	casino
 kasrol	casserole
-
-# Page 28 Column 2
-kas(teg	castigate
-!	castigated
+	
+# Page 28 Column 2	
+kasteg	castigate
+kasteg^t	castigated
 kastegsh	castigation
-kashu	casual
-!	casually
-kashe^l	casualty
+kashul	casual
+kashule	casually
+kashu^l	casualty
 kashust	casuist
 kataklsm	cataclysm
-katfalk	catafalque
+kat-falk	catafalque
 katlepse	catalepsy
 katl	catalogue
 katlss	catalysis
-katmnt	catamount
-!	catapult
+kat-mnt	catamount
+katpult	catapult
 katrk	cataract
 kata~	catarrh
 katarl	catarrhal
 katas	catastrophe
-!	catastrophic
-kateks(m	catechism
+katask	catastrophic
+kateksm	catechism
 katekiz	catechize
 kateg	category
 kateg^k	categorical
 katnre	catenary
-katplr	caterpillar
-
-# Page 28 Column 3
+katpelr	caterpillar
+	
+# Page 28 Column 3	
 kathed	cathedral
 kath	catholic
 kathss	catholicism
-kath^s)	catholicity
-!	non-catholic
-kkus	caucus
+kath^s	catholicity
+nonkath	non-catholic
+kokus	caucus
 kolflr	cauliflower
-!	cause, because
+ks(	cause
+ks(	because
 ks(l	causal
 ks(sh	causation
-!	causative
-kss)	causes
-k^s(t	caustic
+ks(tv	causative
+ks(-s	causes
+k^st	caustic
 koteriz	cauterize
-koterezsh	cauterization
+kotrezash	cauterization
 kosh	caution
 koshre	cautionary
-!	cautioned
+koshd	cautioned
 koshus	cautious
 prekosh	precaution
 kavlre	cavalry
@@ -239,116 +240,116 @@ kavlkad	cavalcade
 kavler	cavalier
 kave~n	cavern
 kava&'r	caviar
-
-# Page 29 Column 1
-kavl	cavil
-k^v	cavity
+	
+# Page 29 Column 1	
+kavel	cavil
+kavte	cavity
 ses	cease
-sesd	ceased
+sest	ceased
 sesl	ceaseless
-ses-s	ceases
+sess	ceases
 ssash	cessation
-nss(nt	incessant
-!	unceasing
-s(e~de~	cedar
+nssnt	incessant
+ns)es’	unceasing
+sede~	cedar
 sed	cede
 aksed	accede
-!	ceded
-es(ed	exceed
+sedd	ceded
+esed	exceed
 n^sed	intercede
 prese	precede
 prse	proceed
 r-sed	recede
 sesed	secede
-s(ukd	succeed
-s(edela	cedilla
+sukd	succeed
+sedela	cedilla
 seleb	celebrate
-!	celebrant
+seleb^nt	celebrant
 selebsh	celebration
 seleb^r	celebrity
-
-# Page 29 Column 2
+	
+# Page 29 Column 2	
 sel^r	celerity
 akselra	accelerate
-!	deceleration
-selere	celery
-selest	celestial
+dselrash	deceleration
+selre	celery
+seleschl	celestial
 selr	cellar
-!	cello
+chelo	cello
 sellr	cellular
 selloe	celluloid
-s(emnt	cement
-s(emetre	cemetery
-s(enotaf	cenotaph
-s(enser	censer
-s(ens(or	censor
+semnt	cement
+semetre	cemetery
+senotaf	cenotaph
+senser	censer
+sensor	censor
 sensorus	censorious
-s(ens(orsh	censorship
-!	uncensored
-s(enshu	censure
+sensor^sh	censorship
+nsensor^t	uncensored
+senshu	censure
 senshub	censurable
-s(enshud	censured
-s(enshus	censures
-s(enss	census
+senshu^t	censured
+senshus	censures
+senss	census
 sen-tnre	centenary
 sen-tnra&'n	centenarian
 sen-tnl	centennial
-
-# Page 29 Column 3
-s(n^	center
-sen-gra	centigrade
-!	centipede
-s(n^l	central
-s(n^lissh	centralization
-s(n^lis	centralize
-!	decentralize
-s(n^f	centrifugal
-s(n^p	centripetal
-s(entre	century
-!	ceramic
+	
+# Page 29 Column 3	
+sn^	center
+sentgra	centigrade
+sentped	centipede
+sn^l	central
+sn^lizsh	centralization
+sn^liz	centralize
+d-sn^liz	decentralize
+sn^f	centrifugal
+sn^p	centripetal
+sentre	century
+seramek	ceramic
 serblm	cerebellum
 serbrl	cerebral
 seremnt	cerement
-s(e~mne	ceremony
-s(e~mnl	ceremonial
-s(emnus	ceremonious
-ns(emnus	unceremonious
-s(etn	certain
-!	ascertained
-s(etne	certainly
-s(etnte	certainty
-ns(etn	uncertain
-setf	certify
-s(edf	certificate
-
-# Page 30 Column 1
-s(edfsh	certification
-s(es(orari	certiorari
-s(etet	certitude
+se~mne	ceremony
+se~mnl	ceremonial
+se~mnus	ceremonious
+nse~mnus	unceremonious
+setn	certain
+asetnd	ascertained
+setne	certainly
+setnte	certainty
+nsetn	uncertain
+setv	certify
+setv	certificate
+	
+# Page 30 Column 1	
+s(e~t-f	certification
+s(e~shorari	certiorari
+s(e~tet	certitude
 ssash	cessation
-nss(nt	incessant
+nssnt	incessant
 sesh	cession
 shagren	chagrin
 cha~	chair
 a~mcha~	armchair
-cha~ma~n	chairman
-!	chalcedony
+cha~man	chairman
+kalsedne	chalcedony
 chok	chalk
-chalnj	challenge
-chalnjr	challenger
-nchalnjd	unchallenged
+chalenj	challenge
+chalenje~	challenger
+nchalenjd	unchallenged
 chambr	chamber
-chambrlen	chamberlain
+chambrlan	chamberlain
 kameln	chameleon
 shame	chamois
 shampan	champagne
 champn	champion
-champnsh	championship
+champn^sh	championship
 chansel	chancel
 chanselr	chancellor
 chansere	chancery
-
-# Page 30 Column 2
+	
+# Page 30 Column 2	
 shandler	chandelier
 ch	change
 chb	changeable
@@ -365,55 +366,55 @@ shapron	chaperon
 chaplen	chaplain
 chapte~	chapter
 kak	character
-kak^s(t	characteristic
-kakezsh	characterization
-kakis	characterize
-kakis-s	characterizes
+kak^st	characteristic
+kakezash	characterization
+kakiz	characterize
+kakiss	characterizes
 charkol	charcoal
 chj	charge
-chj^b	chargeable
+chjb	chargeable
 chjd	charged
-chjr	charger
-
-# Page 30 Column 3
+chje~	charger
+	
+# Page 30 Column 3	
 dschj	discharge
 charot	chariot
 charote~	charioteer
 ch^r	charity
 cha~tb	charitable
 ncha~tb	uncharitable
-sha~latn	charlatan
+sharlatn	charlatan
 cha~te~	charter
-!	chartered
+cha~te~d	chartered
 shase	chassis
 chasn	chasten
 chastiz	chastise
 chatl	chattel
-shofr	chauffeur
+shufr	chauffeur
 chep	cheap
 chepn	cheapen
-!	cheapened
+chepnd	cheapened
 chepr	cheaper
-!	cheapest
+chepes	cheapest
 chepnes	cheapness
 chek	check
 che~	cheer
-!	cheered
+che~d	cheered
 che~f	cheerful
-che~fn	cheerfulness
-
-# Page 31 Column 1
-cherl	cheerless
-che~e~	cheery
+che~fnes	cheerfulness
+	
+# Page 31 Column 1	
+che~l	cheerless
+che~e	cheery
 kem^k	chemical
 kemes	chemist
 kemesre	chemistry
-cheresh	cherish
+chersh	cherish
 chere	cherry
 cherub	cherub
-ches(t	chest
+chest	chest
 chesnut	chestnut
-!	chevron
+shevrn	chevron
 chekn	chicken
 chid	chide
 cheftn	chieftain
@@ -421,49 +422,49 @@ shefn	chiffon
 child	child
 child^d	childhood
 childsh	childish
-!	childlike
+childla	childlike
 chel	children
-g^chil-d^	grandchild
+g^child	grandchild
 kemera	chimera
 kemerk	chimeric
 kemer^k	chimerical
 chm-ne	chimney
-
-# Page 31 Column 2
-chents	chintz
+	
+# Page 31 Column 2	
+chentz	chintz
 chepm-nk	chipmunk
 chesl	chisel
-!	chiseled
-shevare	chivalry
-shevark	chivalric
-shevarus	chivalrous
+chesld	chiseled
+shevlre	chivalry
+shevlrk	chivalric
+shevlrus	chivalrous
 kloren	chlorine
 bklori	bichloride
 klora	chlorate
 klori	chloride
-!	chlorinate
+klorenat	chlorinate
 klorfm	chloroform
 chkla	chocolate
 choes	choice
-!	choices
+choess	choices
 ki_r	choir
 kolra	cholera
 chus	choose
 chos	chose
-chos(n	chosen
+chosn	chosen
 kod	chord
 korus	chorus
 kris	Christ
 kresn	christen
-
-# Page 31 Column 3
+	
+# Page 31 Column 3	
 kresn-dm	Christendom
 kresch	Christian
 kresch^nt	Christianity
 kres	Christmas
 krom^a	chromatic
 akrom^a	achromatic
-!	panchromatic
+pankrom^a	panchromatic
 kromem	chromium
 kromat	chromate
 kromek	chromic
@@ -472,134 +473,134 @@ kron^k	chronicle
 kron^kr	chronicler
 kron^o	chronograph
 kron^o(	chronology
-kromete~	chronometer
-kres(nthemn	chrysanthemum
+kronomete~	chronometer
+kresnthemm	chrysanthemum
 chnk	chunk
 che~ch	church
 cherl	churl
 che~n	churn
-s(ektrex	cicatrix
-s(egr	cigar
+sektrex	cicatrix
+segr	cigar
 segret	cigarette
-s(enktr	cincture
-
-# Page 32 Column 1
-s(entr	cinder
-ns(enra	incinerate
-s(enemat^o	cinematograph
-s(enamn	cinnamon
-s(enkfoel	cinquefoil
-s(if	cipher
-s(ekl	circle
-s(ekl-d	circled
-s(ekle	circlet
-ns(ekl	encircle
-s^kt^	circuit
+senktr	cincture
+	
+# Page 32 Column 1	
+sendr	cinder
+nsenra	incinerate
+senemat^o	cinematograph
+senamn	cinnamon
+senkfoel	cinquefoil
+sifr	cipher
+sekl	circle
+sekld	circled
+sekle	circlet
+nsekl	encircle
+s(^t	circuit
 s(^tus	circuitous
 s(^l	circular
-!	circularization
+s(^lezash	circularization
 s(^liz	circularize
 s(^la	circulate
-!	circulated
+s(^la^t	circulated
 s(^lash	circulation
 s(^la^re	circulatory
 s(^f	circumference
 s(^flex	circumflex
 s(^loksh	circumlocution
-s^navg^	circumnavigate
-s(^s(kr	circumscribe
-s(^s(p	circumspect
-
-# Page 32 Column 2
+s^navg	circumnavigate
+s(^skr	circumscribe
+s(^sp	circumspect
+	
+# Page 32 Column 2	
 s(^spsh	circumspection
-s(^stns^	circumstance
-s(^stnss^	circumstances
-s(^stnsh^	circumstantial
-s(^s(tnshe|^	circumstantially
+s(^stns	circumstance
+s(^stnss	circumstances
+s(^stnsh	circumstantial
+s(^stnsha|	circumstantially
 s(^vnt	circumvent
-s(^s)	circus
-ss(tn	cistern
-s(etdl	citadel
-s(it	cite
+s(^s	circus
+sstn	cistern
+setdl	citadel
+sit	cite
 sitsh	citation
-nsi	incite
-r-sit	recite
-s(ets	citizen
-s(etsre	citizenry
-s(ets-s	citizens
-s(etssh	citizenship
-s(etrk	citric
+nsit	incite
+rsit	recite
+setz	citizen
+setzre	citizenry
+setz-s	citizens
+setz^sh	citizenship
+setrk	citric
 setrn	citron
-s(vk	civic
-s(v	civil
-s(v^a&'n	civilian
-s(v^l	civility
-s(vesash	civilization
+svk	civic
+sv	civil
+sv^a&'n	civilian
+sv^l	civility
+svezash	civilization
 sviz	civilize
-
-# Page 32 Column 3
-ns(vis(d	uncivilized
-kla	claim
-akla	acclaim
-kla^nt	claimant
-klamt	claimed
+	
+# Page 32 Column 3	
+nsvizd	uncivilized
+klam	claim
+aklam	acclaim
+klamnt	claimant
+klamd	claimed
 k^klam	counterclaim
-dskla	disclaim
+dsklam	disclaim
 re^m	reclaim
-!	unclaimed
-klrvoens	clairvoyance
+nklamd	unclaimed
+klarvoens	clairvoyance
 klame~	clamor
-!	clamorous
-klantes(tn	clandestine
+clamerus	clamorous
+klandestn	clandestine
 klangr	clangor
 klarf	clarify
 klar^f	clarification
-klarnet	clarinet
+klarenet	clarinet
 klarn	clarion
 klask	classic
-!	classical
-!	classicist
+klas^k	classical
+klasess	classicist
 klasf	classify
 klas^f	classification
-!	unclassified
+nklaf^t	unclassified
 klav^k	clavicle
-
-# Page 33 Column 1
-!	clavier
+	
+# Page 33 Column 1	
+claver	clavier
 klen	clean
-klent	cleaned
-klene	cleaner
-klenest	cleanest
+klend	cleaned
+klene~	cleaner
+klenes	cleanest
 klenenes	cleanliness
 klennes	cleanness
 n-klen	unclean
 kle	clear
 kle^j	clearage
 kle^ns	clearance
-kled	cleared
-kler	clearer
-klest	clearest
+kle^t	cleared
+kle^r	clearer
+kle^st	clearest
 klee	clearly
-kle^n	clearness
+klenes	clearness
 kles	clears
 klev	cleave
 klevj	cleavage
 klevr	cleaver
-klemn-t	clement
+klemnt	clement
 klemnse	clemency
-e^m	inclement
+e^mnt	inclement
 kleje	clergy
 klejman	clergyman
-
-# Page 33 Column 2
+	
+# Page 33 Column 2	
 klr	clerk
 klr^k	clerical
 klev	clever
-!	cleverer
-!	cleverest
-kli	client
-kli^j	clientage
-kli^el	clientele
+clev^r	cleverer
+clev^st	cleverest
+klint	client
+klint^j	clientage
+klintel	clientele
 klimak	climactic
 klimat	climate
 aklimat	acclimate
@@ -608,30 +609,30 @@ klimax	climax
 a^klimax	anticlimax
 klenek	clinic
 klen^k	clinical
-!	climcian
-!	clockwise
+klensh	clinician
+kloki_z	clockwise
 kloeste~	cloister
 klos	close
 klosd	closed
-klosr	closer
+kloser	closer
 kloses	closest
-dskls	disclose
-klos(et	closet
-
-# Page 33 Column 3
+dsklos	disclose
+klos)et	closet
+	
+# Page 33 Column 3	
 kloshu	closure
 klau	cloud
 klaul	cloudless
 klaus	clouds
 klaue	cloudy
-!	unclouded
+nklau^t	unclouded
 klovr	clover
 kln	clown
 klb	club
 klmse	clumsy
-!	clumsier
-!	clumsiest
-klmsee	clumsily
+klmser	clumsier
+kmse^st	clumsiest
+klmse|	clumsily
 klmsenes	clumsiness
 kluste~	cluster
 klch	clutch
@@ -640,22 +641,22 @@ koch	coach
 koajte~	coadjutor
 kag^u	coagulate
 kol	coal
-ko,les	coalesce
-ko,lesns	coalescence
-ko,lesent	coalescent
+koles	coalesce
+kolesns	coalescence
+kolesent	coalescent
 kolesh	coalition
-
-# Page 34 Column 1
+	
+# Page 34 Column 1	
 kors	coarse
 korsn	coarsen
-!	coarseness
-!	coarser
-!	coarsest
-kos(t	coast
-!	coastal
-!	coastwise
-!	co-author
-!	cobalt
+krsnes	coarseness
+krser	coarser
+krses	coarsest
+kost	coast
+kostl	coastal
+kosti_s	coastwise
+koothr	co-author
+kobolt	cobalt
 kob	cobble
 kobe_b	cobweb
 kkan	cocaine
@@ -671,14 +672,14 @@ kodsel	codicil
 kodf	codify
 kod^f	codification
 koedu	coeducation
-
-# Page 34 Column 2
+	
+# Page 34 Column 2	
 kofesht	coefficient
 koers	coerce
-ko,ersh	coercion
-ko,ersv	coercive
+koersh	coercion
+koersv	coercive
 koev	coeval
-koes(k^r	coexecutor
+koes)k^r	coexecutor
 kofe	coffee
 kofr	coffer
 kofn	coffin
@@ -687,35 +688,35 @@ kojnt	cogent
 kojse	cogency
 kojta	cogitate
 kojtsh	cogitation
-kojtatv	cogitative
+kojtat^v	cogitative
 konak	cognac
 knat	cognate
-knes(nt	cognizant
+kneznt	cognizant
 knezns	cognizance
 knomn	cognomen
 ko'er	cohere
-ko'erns	coherence
+ko'erens	coherence
 ko'erent	coherent
-!	coherer
+ko’err	coherer
 ko'esh	cohesion
-
-# Page 34 Column 3
+	
+# Page 34 Column 3	
 ko'esv	cohesive
-n-korent	incoherent
+n-ko’erent	incoherent
 ko'ot	cohort
 ka_fur	coiffure
 koenj	coinage
 konsi	coincide
-konsetns	coincidence
-kons(etn	coincident
-konsetnl	coincidental
-kulantr	colander
-kols(em	coliseum
+konsedns	coincidence
+konsedn	coincident
+konsednl	coincidental
+kulandr	colander
+kolsem	coliseum
 kolabra	collaborate
 kolabrash	collaboration
-!	collaborator
+kolabra^r	collaborator
 kolaps	collapse
-!	collapsible
+kolapsb	collapsible
 kolr	collar
 kola	collate
 kolash	collation
@@ -725,45 +726,45 @@ kol	collect
 kolb	collectible
 kolsh	collection
 kol^v	collective
-
-# Page 35 Column 1
-kol^rsh	collectorship
+	
+# Page 35 Column 1	
+kolr^sh	collectorship
 n-kolb	uncollectible
 kolej	college
 koleja&'t	collegiate
 koli	collide
 kolesh	collision
-kolotn	collodion
+kolodn	collodion
 koloe	colloid
 koloke	colloquy
 kolok	colloquial
 koloksm	colloquialism
-!	collusion
+kolsh	collusion
 kolon	cologne
 krnl	colonel
 kolnad	colonnade
 kolne	colony
 kolon	colonial
 kolnes	colonist
-kolnezsh	colonization
+kolnezash	colonization
 kolniz	colonize
 kolfn	colophon
 kul	color
 kull	colorless
-ds(kul	discolor
+dskul	discolor
 kolos	colossal
-
-# Page 35 Column 2
-!	colossus
+	
+# Page 35 Column 2	
+koloss	colossus
 kolpote~	colporteur
 kolm	column
 kolm-na~	columnar
-!	coma
+koma	coma
 kmatos	comatose
 kbat	combat
 kbatn	combatant
 kbatv	combative
-!	non-combatant
+non-kbatn	non-combatant
 kbi	combine
 kbnsh	combination
 kbi^t	combined
@@ -776,11 +777,11 @@ kmeda&'n	comedian
 kmet	comet
 kft	comfort
 kftb	comfortable
-kftr	comforter
+kfte~	comforter
 dskft	discomfort
 n-kftb	uncomfortable
-
-# Page 35 Column 3
+	
+# Page 35 Column 3	
 kmek	comic
 km^k	comical
 kmete	comity
@@ -789,38 +790,38 @@ kman	command
 kman^nt	commandant
 kman^er	commandeer
 kman^r	commander
-kmanm	commandment
-kmnra	commemorate
+kman-m	commandment
+kmmra	commemorate
 kmmrash	commemoration
-kmmratv	commemorative
+kmmra^v	commemorative
 kmns	commence
-!	commenced
-kmns(m	commencement
+kmnst	commenced
+kmnsm	commencement
 kmnd	commend
 kmn-db	commendable
 kmndsh	commendation
-kmntdre	commendatory
-kmnd-d	commended
+kmndtre	commendatory
+kmndd	commended
 kmnshut	commensurate
 kmnshub	commensurable
 kmnt	comment
 kmntre	commentary
 kmnta^r	commentator
-
-# Page 36 Column 1
+	
+# Page 36 Column 1	
 kmntd	commented
 kme~|	commerce
 kmesh	commercial
 kmeshsm	commercialism
-!	commercialization
-!	commercialize
+kmeshezash	commercialization
+kmeshiz	commercialize
 kmsera	commiserate
-kmeserash	commiseration
+kmserash	commiseration
 kmsh	commission
-!	commissioned
+kmshd	commissioned
 kmshe~	commissioner
-!	commissioners
-ke	commit
+kmshe~|	commissioners
+kmet	commit
 kmet-m	commitment
 kete	committee
 kmodus	commodious
@@ -828,40 +829,40 @@ kmodte	commodity
 kmodr	commodore
 kmn	common
 kmne~	commoner
-!	commonly
+kmne	commonly
 kmnlth	commonwealth
 kmosh	commotion
 kmun	commune
 kmunl	communal
-
-# Page 36 Column 2
+	
+# Page 36 Column 2	
 kmunun	communion
 kmunsm	communism
-k^nt	community
+knu^nt	community
 kmu	communicate
 kmu^b	communicable
 kmu^nt	communicant
 kmu	communication
 kmu^v	communicative
-es(kmu	excommunicate
+eskmu	excommunicate
 n-kmu^v	uncommunicative
 kmut	commute
 kmutsh	commutation
-!	commuter
+kmute~	commuter
 kpak	compact
-kpakn	compactness
+kpaknes	compactness
 kpanun	companion
 kpanunb	companionable
-kpanunsh	companionship
+kpanun^sh	companionship
 kp	company
-akp	accompany
+akpe	accompany
 kpr	compare
 kprb	comparable
 kprv	comparative
-kprd	compared
-kprs(n	comparison
-
-# Page 36 Column 3
+kpr^t	compared
+kpr-sn	comparison
+	
+# Page 36 Column 3	
 n-kprb	incomparable
 kpt-m	compartment
 apt-m	apartment
@@ -869,7 +870,7 @@ dpt-m	department
 kpas	compass
 kpash	compassion
 kpashat	compassionate
-kpt^b	compatibility
+kpat^b	compatibility
 kpatb	compatible
 n-kptb	incompatible
 kptrot	compatriot
@@ -877,45 +878,45 @@ kpl	compel
 kpld	compelled
 kplsh	compulsion
 kplsre	compulsory
-kjntm	compendium
-!	compendious
+kpndm	compendium
+kpndus	compendious
 kpnsa	compensate
 kpnsash	compensation
-ks(are	compensatory
+kpnsa^re	compensatory
 kpe	compete
-!	competed
-!	competes
+kpe^t	competed
+kpes	competes
 kptsh	competition
 kptetv	competitive
-
-# Page 37 Column 1
+	
+# Page 37 Column 1	
 kptet	competitor
 kptn	competent
 kptns	competence
 kptne	competently
 n-kptn	incompetent
 kpil	compile
-kpilsh	compilation
-kpil-d	compiled
-kplas	complacent
+kpelash	compilation
+kpild	compiled
+kplasnt	complacent
 kplasns	complacence
 kplasnse	complacency
 kp	complain
 kp^nt	complainant
 kp	complaint
-!	complaisant
+kplasnt	complaisant
 kplem	complement
 kp	complete
 kpsh	completion
-nkp	incomplete
-!	uncompleted
-kples	complex
-kpleste	complexity
+n-kp	incomplete
+n-kp^t	uncompleted
+kplex	complex
+kplexte	complexity
 kplexsh	complexion
 kplek	complicate
 kplek^t	complicated
-
-# Page 37 Column 2
+	
+# Page 37 Column 2	
 kpleksh	complication
 kple^s	complicity
 akples	accomplice
@@ -937,18 +938,18 @@ kposh	composition
 kpos^r	compositor
 kposhu	composure
 kpn	compound
-kprent	comprehend
-kprentd	comprehended
+kprend	comprehend
+kprendd	comprehended
 kprensb	comprehensible
-kprentsh	comprehension
-
-# Page 37 Column 3
+kprensh	comprehension
+	
+# Page 37 Column 3	
 kprensv	comprehensive
 n-kprensb	incomprehensible
 kpres	compress
 kpresb	compressible
-kpressh	compression
-kpresr	compressor
+kpresh	compression
+kpreser	compressor
 kpris	comprise
 kprisd	comprised
 kprmis	compromise
@@ -961,84 +962,84 @@ kpu	compute
 kpush	computation
 kpus	computes
 kmrad	comrade
-kmradsh	comradeship
+kmrad^sh	comradeship
 kkatnat	concatenate
-kkash	concatenation
+kkatnsh	concatenation
 kkav	concave
-kk^v	concavity
+kkavte	concavity
 ksel	conceal
-!	concealed
-
-# Page 38 Column 1
+kseld	concealed
+	
+# Page 38 Column 1	
 kselm	concealment
 ksed	concede
-ks(etd	conceded
+ksedd	conceded
 ksesh	concession
 kset	conceit
-ks(etd	conceited
+ksetd	conceited
 kse	conceive
 kse^b	conceivable
-ks(n^t	concentrate
-!	concentrated
-ks(n^tsh	concentration
-ks(n^k	concentric
+ksn^t	concentrate
+ksn^td	concentrated
+ksn^sh	concentration
+ksn^k	concentric
 ksep	concept
 ksepsh	conception
 ks(e~n	concern
 ks(e~n^t	concerned
-n-ks(en^t	unconcerned
+n-ks(e~n^t	unconcerned
 ks(e~t	concert
-!	concerted
-!	disconcerted
-!	preconcerted
+ks(e~td	concerted
+dsks(e~td	disconcerted
+preks(e~td	preconcerted
 ksesh	concession
-!	conch
+konk	conch
 ksela&'t	conciliate
 ksela&'sh	conciliation
-
-# Page 38 Column 2
+	
+# Page 38 Column 2	
 ksela&'tre	conciliatory
 erksilb	irreconcilable
 rksil	reconcile
 rksela&'sh	reconciliation
 ksis	concise
-ksisn	conciseness
+ksisnes	conciseness
 kklav	conclave
 kk	conclude
 kksh	conclusion
 kkv	conclusive
 n-kkv	inconclusive
 kkk	concoct
-kkkd	concocted
+kkkt	concocted
 kkksh	concoction
 kkmetn	concomitant
 kkod	concord
 kkodns	concordance
-ds(kod	discord
+dskod	discord
 kkrs	concourse
 kkret	concrete
 kkr	concur
-kkrns	concurrence
+kkrens	concurrence
 kkrent	concurrent
-ktm	condemn
-ktmnsh	condemnation
-
-# Page 38 Column 3
-!	condemnatory
-ktmd	condemned
-ktns	condense
+kdm	condemn
+kdmnsh	condemnation
+	
+# Page 38 Column 3	
+kdmnatre	condemnatory
+kdmd	condemned
+kdns	condense
 kdnsash	condensation
-!	condensed
+kdnst	condensed
 kdnser	condenser
-!	condenses
-kdsen	condescend
-!	condescended
-kds(ensh	condescension
+kdnss	condenses
+kd-sen	condescend
+kd-sen^t	condescended
+kd-sensh	condescension
 kdin	condign
 kdem	condiment
 kdsh	condition
 kdshl	conditional
-kdshle	conditionally
+kdshla|	conditionally
 rkdsh	recondition
 n-kdshl	unconditional
 kdolns	condolence
@@ -1048,64 +1049,64 @@ kdus	conduce
 kdusv	conducive
 kduk	conduct
 kdukd	conducted
-kduk^v	conductivity
-
-# Page 39 Column 1
+kdukvte	conductivity
+	
+# Page 39 Column 1	
 kdukr	conductor
-!	misconduet
+mskduk	misconduet
 kdet	conduit
 kon	cone
 knek	conic
 kn^k	conical
-kfksh	confection
-kfkshe~	confectioner
-kfkshre	confectionery
+kfeksh	confection
+kfekshe~	confectioner
+kfekshe~e	confectionery
 kfedra	confederate
-kfedrase	confederacy
+kfedrse	confederacy
 kfedrash	confederation
 kfer	confer
 kfere	conferee
-kfer	conference
-!	conferred
+kferens	conference
+kfer^t	conferred
 kfes	confess
 kfesh	confession
 kfeshl	confessional
 kfesr	confessor
 kfi	confide
-!	confidant
+kfdn	confidant
 kf	confidence
 kf	confident
-kftnsh	confidential
-
-# Page 39 Column 2
-kftnshe	confidentially
+kfdnsh	confidential
+	
+# Page 39 Column 2	
+kfdnsha|	confidentially
 kfe	confidently
 kfin	confine
-kfin-d	confined
-kfimn	confinement
-!	unconfined
+kfind	confined
+kfinm	confinement
+n-kfind	unconfined
 kfem	confirm
 afem	affirm
 kfemsh	confirmation
-kfem-d	confirmed
-!	unconfirmed
-kfes(k	confiscate
-!	confiscated
-kfeskash	confiscation
-!	confiscatory
+kfem^t	confirmed
+n-kfem^t	unconfirmed
+kfesk	confiscate
+kfesk^t	confiscated
+kfesksh	confiscation
+kfesk^re	confiscatory
 kflag	conflagration
 kfl	conflict
-!	confliction
+kflsh	confliction
 kfluns	confluence
 kfm	conform
 kfmb	conformable
 kfmsh	conformation
-kfm-d	conformed
-kfmt	conformity
-kfnt	confound
-
-# Page 39 Column 3
-kfntd	confounded
+kfm^t	conformed
+kf^mt	conformity
+kfnd	confound
+	
+# Page 39 Column 3	
+kfndd	confounded
 kfrnt	confront
 kfrntd	confronted
 kfeu	confuse
@@ -1113,170 +1114,170 @@ kfeu^t	confused
 kfeus	confuses
 kfeush	confusion
 kfeut	confute
-!	confutation
+kfeutsh	confutation
 kjel	congeal
-!	congealed
+kjeld	congealed
 kjenl	congenial
 kjen^l	congeniality
-!	uncongeniality
+n-kjen^l	uncongeniality
 kjes	congest
-!	congested
+kjes^t	congested
 kjesh	congestion
-!	congests
+kjes-s	congests
 kglom	conglomerate
 kglomsh	conglomeration
-kgrat	congratulate
-!	congratulated
+kgrat^u	congratulate
+kgrat^ut	congratulated
 kgrat^ush	congratulation
-!	congratulatory
+kgrat^ure	congratulatory
 kgreg	congregate
-
-# Page 40 Column 1
-!	congregated
-kgrsh	congregation
-!	congregational
+	
+# Page 40 Column 1	
+kgreg^t	congregated
+kgregsh	congregation
+kgregshl	congregational
 gregar	gregarious
 segreg	segregate
 kg	congress
-!	congressional
-kgrus	congruous
+kg^l	congressional
+kgruus	congruous
 n-kgruus	incongruous
-kjkt	conjecture
-kjktl	conjectural
-kjug	conjugal
+kjktr	conjecture
+kjktrl	conjectural
+kjugl	conjugal
 kjug	conjugate
-!	conjugated
+kjug^t	conjugated
 kjugsh	conjugation
 kjnk	conjunction
 kjnktr	conjuncture
 kju	conjure
-!	conjured
-!	conjurer
-!	conjures
+kju^t	conjured
+kju^r	conjurer
+kjus	conjures
 kek	connect
-kekd	connected
+kekt	connected
 keksh	connection
 kekv	connective
-
-# Page 40 Column 2
-ds(kekd	disconnected
-n-kek	unconnected
+	
+# Page 40 Column 2	
+dskekt	disconnected
+n-kekt	unconnected
 knivns	connivance
-knes(ur	connoisseur
+knesur	connoisseur
 knotsh	connotation
 kkr	conquer
 kkrr	conqueror
-n-kkr	unconquerable
-!	unconquered
+n-kkrb	unconquerable
+n-kkr^t	unconquered
 kkes	conquest
 kkes-s	conquests
-ks(ang^nt	consanguinity
+ksang^nt	consanguinity
 kshns	conscience
 kshnshus	conscientious
 kshus	conscious
 kshusnes	consciousness
 n-kshus	unconscious
-ks(kr	conscript
+kskr	conscript
 kskrsh	conscription
-ks(ekra	consecrate
-!	consecrated
+ksekra	consecrate
+ksekra^t	consecrated
 ksekrash	consecration
-!	unconsecrated
-ks(ekv	consecutive
+n-ksekra^t	unconsecrated
+ksekv	consecutive
 ksenss	consensus
-
-# Page 40 Column 3
-ks(ent	consent
-!	consented
-ks(ek	consequence
-ks(ek	consequent
-ks(eksh	consequential
-n-ks(eksh	inconsequential
-ks(ev	conserve
-ks(evash	conservation
-ks(evtsm	conservatism
-ks(evdf	conservative
-ks(evtre	conservatory
-ks(evd	conserved
+	
+# Page 40 Column 3	
+ksent	consent
+ksentd	consented
+ksek	consequence
+ksek	consequent
+kseksh	consequential
+n-kseksh	inconsequential
+ksev	conserve
+ksevash	conservation
+ksevt-sm	conservatism
+ksevtv	conservative
+ksevtre	conservatory
+ksevd	conserved
 ks	consider
 ksb	considerable
 ks^at	considerate
-kssh	consideration
+ks	consideration
 ks-s	considers
 n-ks^at	inconsiderate
-!	unconsidered
+n-ks^t	unconsidered
 ksin	consign
-ks(int	consigned
-ks(ene	consignee
-ks(imn	consignment
-ks(enr	consignor
+ksind	consigned
+ksene	consignee
+ksinm	consignment
+ksenr	consignor
 kss	consist
-
-# Page 41 Column 1
+	
+# Page 41 Column 1	
 kssns	consistence
 kssnse	consistency
 kss^nt	consistent
 ksss	consists
 n-kss^nt	inconsistent
 k-sol	console
-ks(olash	consolation
-!	consoles
-ds(ks(ola	disconsolate
-n-ks(olb	inconsolable
-ks(oltd	consolidate
-ks(oletd^t	consolidated
-ks(oltdsh	consolidation
-ks(n	consonant
-ks(nans	consonance
-ks(ot	consort
-!	consorted
-kspk	conspicuous
-!	conspicuously
-n-kspk	inconspicuous
-kspi	conspire
-k-sprase	conspiracy
-k-spratr	conspirator
-ks(tb	constable
-ks(tb^re	constabulary
-
-# Page 41 Column 2
-ks(tn	constant
-ks(tnse	constancy
+k-solash	consolation
+k-sols	consoles
+dsk-sola	disconsolate
+n-k-solb	inconsolable
+k-soledt	consolidate
+k-soletd^t	consolidated
+k-soledsh	consolidation
+ksn	consonant
+ksnans	consonance
+k-sot	consort
+k-sotd	consorted
+k-spk	conspicuous
+k-spke	conspicuously
+n-k-spk	inconspicuous
+k-spi	conspire
+k-sperse	conspiracy
+k-sperate~	conspirator
+kstb	constable
+kstb^re	constabulary
+	
+# Page 41 Column 2	
+kstn	constant
+kstnse	constancy
 kstelash	constellation
-ks(tnsh	consternation
-ks(t	constitute
-ks(tunse	constituency
-ks(tunt	constituent
-ks(tsh	constitution
+kstnsh	consternation
+kst	constitute
+kstunse	constituency
+kstunt	constituent
+kstsh	constitution
 kstshl	constitutional
 kstsh^l	constitutionality
-!	constitutionally
-!	unconstitutional
+kstsha|	constitutionally
+n-kstshl	unconstitutional
 ks(^n	constrain
 ks(^nt	constraint
-!	unconstrained
+n-ks(^nd	unconstrained
 ks(^k	constrict
-!	constrictor
+ks(^kr	constrictor
 ks(^k	construct
-ks(^kd	constructed
+ks(^kt	constructed
 ks(^kv	constructive
 msks(^ksh	misconstruction
 ks(^	construe
 ks(^d	construed
-ksul	consul
-ks(ula	consulate
-
-# Page 41 Column 3
-ks(u	consult
-ks(u^nt	consultant
-ks(ush	consultation
-ks(us	consults
-ks(m	consume
-ks(m-d	consumed
-ks(mr	consumer
+k-sul	consul
+k-sula	consulate
+	
+# Page 41 Column 3	
+k-su	consult
+k-su^nt	consultant
+k-sush	consultation
+k-sus	consults
+ksm	consume
+ksm^t	consumed
+ksme~	consumer
 ksmat	consummate
-ks(mash	consummation
-ks(msh	consumption
+ksmash	consummation
+ksmsh	consumption
 ksm-tv	consumptive
 ktak	contact
 ktajn	contagion
@@ -1284,125 +1285,125 @@ ktajus	contagious
 ktn	contain
 ktnd	contained
 ktnr	container
-ktamn	contaminate
+ktamnat	contaminate
 ktamnsh	contamination
-!	uncontaminated
+n-ktamnatd	uncontaminated
 ktmp	contemplate
-!	contemplated
+ktmp^t	contemplated
 ktmpsh	contemplation
 ktmp^v	contemplative
 ktmpranus	contemporaneous
-
-# Page 42 Column 1
+	
+# Page 42 Column 1	
 ktmprre	contemporary
 ktmt	contempt
-ktm-tb	contemptible
-ktm-tus	contemptuous
+ktmtb	contemptible
+ktmtuus	contemptuous
 ktnd	contend
-!	contended
+ktndd	contended
 ktnsh	contention
 ktnt	content
 ktntd	contented
 ktnt-m	contentment
-dsktn^t	discontented
+dsktntd	discontented
 ktes	contest
 ktes^nt	contestant
 ktessh	contestation
-!	contested
-!	contests
-n-ktes	incontestable
+ktes^t	contested
+ktes-s	contests
+n-ktesb	incontestable
 ktx	context
 kteg	contiguous
-!	contiguity
+ktegeute	contiguity
 ktnnt	continent
 ktnntl	continental
 ktnjnt	contingent
 ktnjse	contingency
 ktnu	continue
-
-# Page 42 Column 2
+	
+# Page 42 Column 2	
 ktnl	continual
 ktnle	continually
 ktnuns	continuance
 ktneush	continuation
 ktnud	continued
-ktnute	continuity
+ktneute	continuity
 ktnuus	continuous
-ds(ktnu	discontinue
+dsktnu	discontinue
 ktot	contort
-!	contorted
+ktotd	contorted
 ktosh	contortion
 ktur	contour
 k^band	contraband
 k^k	contract
-k^kd	contracted
+k^kt	contracted
 k^ksh	contraction
 k^kr	contractor
 k^dek	contradict
-k^dsh	contradiction
-k^d^re	contradictory
-n-k^d	uncontradicted
-k^ds(tsh	contradistinction
+k^deksh	contradiction
+k^dekre	contradictory
+n-k^dekt	uncontradicted
+k^dstsh	contradistinction
 k^psh	contraption
 k^re	contrary
-k^ren	contrariness
-
-# Page 42 Column 3
+k^renes	contrariness
+	
+# Page 42 Column 3	
 k^s	contrast
-!	contrasted
+k^s^t	contrasted
 k^ven	contravene
 k^vnsh	contravention
 k^b	contribute
 k^bsh	contribution
 k^b^r	contributor
-!	contributory
+k^b^re	contributory
 k^t	contrite
 k^sh	contrition
-!	contrived
+k^vd	contrived
 k^vns	contrivance
-k^l^	control
-k^l-d^	controlled
-k^lr^	controller
-n-k^l	uncontrollable
-!	controvert
-!	controversial
+k^l	control
+k^ld	controlled
+k^lr	controller
+n-k^lb	uncontrollable
+k^ve~t	controvert
+k^vesh	controversial
 k^vese	controversy
-!	incontroverted
-!	incontrovertible
+n-k^ve~td	incontroverted
+n-k^ve~tb	incontrovertible
 ktmse	contumacy
 ktmash	contumacious
 ktume	contumely
 kteu^t	contused
-
-# Page 43 Column 1
+	
+# Page 43 Column 1	
 kteush	contusion
 knun	conundrum
 kvalesns	convalescence
-kvales	convalescent
+kvalesnt	convalescent
 kveksh	convection
 kven	convene
 kvnsh	convention
-!	reconvene
+rekven	reconvene
 kven	convenience
-!	conveniences
+kvens	conveniences
 kven	convenient
 n-kven^t	inconvenienced
 n-kven	inconvenient
 kvnt	convent
-!	conventual
+kvntl	conventual
 kvnsh	convention
 kvnshl	conventional
-!	unconventional
+n-kvnshl	unconventional
 kvej	converge
 kvejnt	convergent
 kves	converse
 kvesnt	conversant
-kvesh	conversation
-kveshl	conversational
-kvesd	conversed
-
-# Page 43 Column 2
-kves-s	converses
+kvessh	conversation
+kvesshl	conversational
+kvest	conversed
+	
+# Page 43 Column 2	
+kvess	converses
 kve~t	convert
 kversh	conversion
 kve~td	converted
@@ -1411,32 +1412,32 @@ kvex	convex
 kvexte	convexity
 kva	convey
 kvans	conveyance
-!	conveyed
+kvad	conveyed
 kvar	conveyer
 kvek	convict
 kveksh	conviction
 kvens	convince
-kvensd	convinced
+kvenst	convinced
 kvev	convivial
 kvev^l	conviviality
 kvk	convoke
 kvkash	convocation
-!	convoked
+kvkt	convoked
 kvolsh	convolution
 kvoe	convoy
-!	convoyed
+kvoed	convoyed
 kvls	convulse
 kvlsh	convulsion
-
-# Page 43 Column 3
+	
+# Page 43 Column 3	
 kvlsv	convulsive
 kukre	cookery
 koop	cooperate
 koop	cooperation
 koopv	cooperative
-kootnat	coordinate
-kootnsh	coordination
-kopt-ne^sh	copartnership
+koodnat	coordinate
+koodnsh	coordination
+kopt-ne~^sh	copartnership
 kopus	copious
 kopr	copper
 kpe	copy
@@ -1448,19 +1449,19 @@ koj^l	cordiality
 kodroe	corduroy
 kork	cork
 kon	corn
-kons(tach	cornstarch
+kon-stach	cornstarch
 kone~	corner
 konet	cornet
 kones	cornice
 krona	corona
 krne~	coroner
-
-# Page 44 Column 1
+	
+# Page 44 Column 1	
 kronet	coronet
 kronsh	coronation
 krprl	corporal
 krpra	corporate
-!	corporately
+krprae	corporately
 krp	corporation
 n-krp	incorporate
 kporl	corporeal
@@ -1469,7 +1470,7 @@ korps	corpse
 krplens	corpulence
 krpusl	corpuscle
 kr	correct
-krd	corrected
+kr^t	corrected
 krsh	correction
 kr^v	corrective
 kre	correctly
@@ -1478,178 +1479,178 @@ kr^r	corrector
 n-kr	incorrect
 n-kr^t	uncorrected
 korela	correlate
-korelad	correlated
+korela^t	correlated
 korelash	correlation
 korel	correlative
-
-# Page 44 Column 2
+	
+# Page 44 Column 2	
 kres	correspond
 kres	correspondence
 kres^nt	correspondent
-!	corresponds
+kres-s	corresponds
 koredr	corridor
 krob	corroborate
 krobsh	corroboration
 krob^v	corroborative
-!	uncorroborated
+n-krob^t	uncorroborated
 krod	corrode
-korosh	corrosion
-korosv	corrosive
+krosh	corrosion
+krosv	corrosive
 korug	corrugate
 korugsh	corrugation
 korp	corrupt
 korpsh	corruption
-!	corruptly
+korpe	corruptly
 n-korpb	incorruptible
-!	corset
+korset	corset
 kotex	cortex
-kornt	corundum
-krbrnt	carborundum
-korus(k	coruscate
-!	coruscation
-korisa	coryza
-
-# Page 44 Column 3
-kos(m^a	cosmetic
+kornd	corundum
+krbrnd	carborundum
+korusk	coruscate
+korusksh	coruscation
+koriza	coryza
+	
+# Page 44 Column 3	
+kosm^a	cosmetic
 kosmek	cosmic
-kos(mpol	cosmopolitan
+kosmpol	cosmopolitan
 kos	cost
-kos(enes	costliness
+kose-nes	costliness
 kose	costly
-kos(tm	costume
-!	costumed
+kostm	costume
+kostmd	costumed
 kostmr	costumer
 kose	cosy
-!	cosily
-kos(enes	cosiness
-!	cotemporaneous
+kose|	cosily
+kosenes	cosiness
+kotmpranus	cotemporaneous
 ktmpranus	contemporaneous
 kotre	coterie
 kotj	cottage
 kotn	cotton
 kauch	couch
-!	cougar
+kugr	cougar
 kd	could
 ksel	council
 kselr	councilor
 knt	count
 kntd	counted
 kntes	countess
-
-# Page 45 Column 1
+	
+# Page 45 Column 1	
 kntl	countless
-!	uncounted
+n-kntd	uncounted
 ktnans	countenance
-ds(ktnans	discountenance
-kntr	counter
+dsktnans	discountenance
+k^	counter
 k^ak	counteract
 k^bal	counterbalance
 k^klam	counterclaim
 k^fet	counterfeit
-!	counterfeited
+k^fetd	counterfeited
 k^e~tnt	counterirritant
-k^mn	countermand
-!	countermanded
-!	countermine
-!	countermined
+k^man	countermand
+k^man^t	countermanded
+k^min	countermine
+k^mind	countermined
 k^pt	counterpart
 k^oe	counterpoint
 kt	country
 ktsi	countryside
 kte	county
-!	coupé
+kupa	coupe
 kupl	couple
 kupld	coupled
 kpn	coupon
 krj	courage
-
-# Page 45 Column 2
+	
+# Page 45 Column 2	
 krjus	courageous
-ds(krj	discourage
+dskrj	discourage
 n-krjm	encouragement
 kurer	courier
 krs	course
 kkrs	concourse
 krser	courser
-krs-s	courses
+krss	courses
 dskrs	discourse
 dskrsv	discursive
 rekrs	recourse
 kot	court
-kot-d	courted
-!	courthouse
+kotd	courted
+kot’us	courthouse
 kotenes	courtliness
-!	court-martial
+kot-marsh	court-martial
 kota~d	courtyard
 ke~tus	courteous
-ke~tse~	courtesy
-kus(n	cousin
+ke~tse	courtesy
+kusn	cousin
 kuvn	covenant
 kv	cover
 kvle	coverlet
-ds(kv	discover
-ds(kve	discovery
-
-# Page 45 Column 3
+dskv	discover
+dskve	discovery
+	
+# Page 45 Column 3	
 rekv	recover
 n-kv	uncover
-kuve~t	covert
+kve~t	covert
 kuvetus	covetous
 kaud	coward
 kaudes	cowardice
-!	cowboy
-!	cowl
+kauboe	cowboy
+kaul	cowl
 koxan	coxswain
 krakr	cracker
-kranbre	cranberry
+kranbere	cranberry
 kranem	cranium
 kranl	cranial
-krazen	craziness
+kraze-nes	craziness
 kra&'t	create
-kra&'t-d	created
+kra&'td	created
 kra&'sh	creation
-kra&'df	creative
+kra&'tv	creative
 kra&'te~	creator
-kra&'tr	creature
+kretr	creature
 rekra&'sh	recreation
-kretns	credence
-kretnsh	credential
+kredns	credence
+krednsh	credential
 kredb	credible
 kred^b	credibility
-
-# Page 46 Column 1
+	
+# Page 46 Column 1	
 kred^l	credulity
 kredlus	credulous
 n-kredb	incredible
 n-kred^l	incredulity
-n-kredu	incredulous
+n-kredlus	incredulous
 kre	credit
-kreb	creditable
+kre^b	creditable
 kre^r	creditor
 kres	credits
-!	discreditable
+dskre^b	discreditable
 kremat	cremate
 kremsh	cremation
 krematre	crematory
 kreol	creole
-kres(ot	creosote
-kreshnto	crescendo
-kresent	crescent
-kres(tfon	crestfallen
+kresot	creosote
+kreshndo	crescendo
+kresnt	crescent
+krestfon	crestfallen
 kretn	cretonne
 kreves	crevice
 kru	crew
 krebj	cribbage
-kremn	criminal
+kremnl	criminal
 kremsn	crimson
-!	crinoline
-
-# Page 46 Column 2
+krenlen	crinoline
+	
+# Page 46 Column 2	
 krepl	cripple
 kriss	crisis
 krises	crises
-kritrn	criterion
-kritr	criteria
+kritern	criterion
+kritra&’	criteria
 kr^a	critic
 kretss	criticism
 kretss	criticize
@@ -1659,165 +1660,164 @@ krosha	crochet
 krokdil	crocodile
 krokus	crocus
 krp	crop
-kroka,	croquet
+kroka	croquet
 kroshe~	crosier
 kros	cross
-krosd	crossed
-!	crosses
-!	crossroad
+krost	crossed
+kross	crosses
+krosrod	crossroad
 krauch	crouch
 krau	crowd
-!	crowded
+krau^t	crowded
 kraus	crowds
 krn	crown
-
-# Page 46 Column 3
+	
+# Page 46 Column 3	
 kronet	coronet
-krnt	crowned
+krnd	crowned
 krsh	crucial
 krsb	crucible
-krsfes	crucifix
-krsfessh	crucifixion
-krs(f	crucify
+krsfex	crucifix
+krsfexsh	crucifixion
+krsf	crucify
 krud	crude
-!	crudely
+krude	crudely
 krudte	crudity
 krul	cruel
 krule	cruelly
-krulte	cruelty
+kru^l	cruelty
 krus	cruise
-!	cruised
+krusd	cruised
 krusr	cruiser
-!	cruises
+kruss	cruises
 krm	crumb
 krmb	crumble
-krmp	crumple
+krumpl	crumple
 krusad	crusade
-!	crusader
+krusade~	crusader
 krch	crutch
-!	crux
+krux	crux
 krept	crypt
-
-# Page 47 Column 1
-kreptk	cryptic
+	
+# Page 47 Column 1	
+kreptek	cryptic
 krept^g	cryptogram
 krestl	crystal
-!	crystalline
-krestlezsh	crystallization
+krestlen	crystalline
+krestlezash	crystallization
 krestliz	crystallize
 keub	cube
-!	cubed
+keubd	cubed
 keubk	cubic
-!	cubical
+keub^k	cubical
 kuku	cuckoo
-keukm	cucumber
-kujl	cudgel
+keukmbr	cucumber
+kjl	cudgel
 ke_sen	cuisine
-keulen	culinary
+keulenre	culinary
 klmnat	culminate
-klmnat-d	culminated
+klmnatd	culminated
 klmnsh	culmination
 klpb	culpable
 klp^b	culpability
 klpret	culprit
-es(klpat	exculpate
+esklpat	exculpate
 n-klpat	inculpate
 klt	cult
 klvat	cultivate
-
-# Page 47 Column 2
-!	cultivated
-!	cultivates
+	
+# Page 47 Column 2	
+klvatd	cultivated
+klvats	cultivates
 klvash	cultivation
-!	cultivator
-n-klva^t	uncultivated
+klvate~	cultivator
+n-klvatd	uncultivated
 kltr	culture
 kltrl	cultural
-kltrd	cultured
-!	uncultured
+kltr^t	cultured
+n-klr^t	uncultured
 klve~t	culvert
 kmbrus	cumbrous
 kmbrsm	cumbersome
 n-kmbr	encumber
 n-kmbrans	encumbrance
-nn-kmbrd	unencumbered
+nn-kmbr^t	unencumbered
 keum^uv	cumulative
-ak^u	accumulate
-!	cuneiform
+akeum^u	accumulate
+keunefm	cuneiform
 kn'	cunning
 kube~d	cupboard
 kupf	cupful
-keuptde	cupidity
+keupdte	cupidity
 keupla	cupola
 keura	curate
 keura^r	curator
-
-# Page 47 Column 3
+	
+# Page 47 Column 3	
 krb	curb
 ke~d	curd
 keu	cure
 keub	curable
-keudf	curative
-!	cures
+keutv	curative
+keus	cures
 n-keub	incurable
 krfeu	curfew
 keu	curious
 keu^s	curiosity
-keue	curiously
+keuse	curiously
 krl	curl
-!	curly
+krle	curly
 krant	currant
-krnse	currency
+krense	currency
 krent	current
 kurek	curriculum
 kureka	curricula
 kurs	curse
-krs(v	cursive
+krsv	cursive
 krsre	cursory
 ke~tal	curtail
 ke~tn	curtain
 krv	curve
 krvtr	curvature
-
-# Page 48 Column 1
-!	curved
+	
+# Page 48 Column 1	
+krvd	curved
 kush	cushion
-!	cushioned
-!	cuspidor
+kushd	cushioned
+kuspdr	cuspidor
 kusta~d	custard
-kus(tde	custody
-kus(tda&'n	custodian
+kustde	custody
+kustda&'n	custodian
 kus	custom
 akus^t	accustomed
 kusre	customary
 kusr	customer
 kus'us	customhouse
-
-# Page 48 Column 2
+	
+# Page 48 Column 2	
 kus-s	customs
 keutnus	cutaneous
 keut^k	cuticle
-s(keutnus	subcutaneous
-ktlre	cutlery
+skeutnus	subcutaneous
+kutlre	cutlery
 kutle	cutlet
 sikl	cycle
-s(iklon	cyclone
-siklop	cyclopedia
-!	cyclopedic
-n-siklo	encyclopedia
-selent	cylinder
-
-# Page 48 Column 3
+siklon	cyclone
+siklopda&’	cyclopedia
+siklopdek	cyclopedic
+nsiklopda&’	encyclopedia
+selend	cylinder
+	
+# Page 48 Column 3	
 selend^k	cylindrical
-!	cymbal
-s(enek	cynic
-!	cynically
-s(enss	cynicism
-s(inshu	cynosure
-ss(t	cyst
-!	cystoid
-z,ar	czar
-z,arena	czarina
-sars(m	czarism
-!	Czech
-
+sembl	cymbal
+senek	cynic
+sen^ke	cynically
+senss	cynicism
+sinshu	cynosure
+sst	cyst
+sstoe	cystoid
+zar	czar
+zarena	czarina
+zar-sm	czarism
+chek	Czech
