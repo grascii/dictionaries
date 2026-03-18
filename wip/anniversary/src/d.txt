@@ -1,273 +1,273 @@
-# Page 49 Column 1
-daks'und	dachshund
+# Page 49 Column 1	
+daksu’nd	dachshund
 dafdel	daffodil
-dagtip	daguerreotype
+dage~tip	daguerreotype
 dante	dainty
-!	daintier
-!	daintiest
+danter	daintier
+dante^st	daintiest
 dante|	daintily
-daleans	dalliance
+dala&’ns	dalliance
 tmj	damage
 tmjd	damaged
-n-dmef	indemnify
-ntmjd	undamaged
-tmas(k	damask
+n-dmnf	indemnify
+n-dmjd	undamaged
+dmask	damask
 damp	damp
 dmpn	dampen
 dampne~	dampener
-!	damper
-!	dampness
+dampr	damper
+dampnes	dampness
 dans	dance
-!	danced
+danst	danced
 danser	dancer
-tndelin	dandelion
-tnde	dandy
-tnje~	danger
-
-# Page 49 Column 2
-tnjus	dangerous
-tnje~s	dangers
-ntnje~d	endangered
+dndelin	dandelion
+dnde	dandy
+dnje~	danger
+	
+# Page 49 Column 2	
+dnjus	dangerous
+dnje~|	dangers
+n-dnje~d	endangered
 da~	dare
 da~d	dared
-!	dares
+da~|	dares
 dark	dark
 darkn	darken
 darknes	darkness
-dta	data
+data	data
 datm	datum
-td	date
-td^t	dated
-ntd^t	undated
+dt	date
+dt^t	dated
+n-dt^t	undated
 datv	dative
 dote~	daughter
 dotelo	daughter-in-law
 g^dote~	granddaughter
 dont	daunt
 dontl	dauntless
-n-dont^t	undaunted
-dfnpot	davenport
+n-dontd	undaunted
+dvnpot	davenport
 davt	davit
 da	day
-!	daydream
-
-# Page 49 Column 3
+dadrem	daydream
+	
+# Page 49 Column 3	
 dali	daylight
 das	days
 datm	daytime
 dazl	dazzle
-!	dazzled
-td	dead
-tdn	deaden
-tdnt	deadened
-tdi	deadeye
-tdfo	deadfall
-tdenes	deadliness
+dazld	dazzled
+dd	dead
+ddn	deaden
+ddnd	deadened
+ddi	deadeye
+ddfo	deadfall
+ddenes	deadliness
 def	deaf
-!	deafened
+defnd	deafened
 defnes	deafness
 de~	deal
 de~^r	dealer
-dels	deals
-!	dealt
+de~|	deals
+delt	dealt
 de~	dear
 de~^r	dearer
-de~^s(t	dearest
+de~^st	dearest
 de~e	dearly
-!	dears
-!	deary
+de~|	dears
+de~e	deary
 n-de~d	endeared
-
-# Page 50 Column 1
-deth)	dearth
+	
+# Page 50 Column 1	
+derth	dearth
 deth	death
-!	deathbed
-!	deathless
-!	deathlike
-!	deathly
+dethbd	deathbed
+dethl	deathless
+dethla	deathlike
+dethe	deathly
 db^k	debacle
-dba	debate
-!	debatable
-dbat-d	debated
+dbat	debate
+dbatb	debatable
+dbatd	debated
 dbate~	debater
 dbentr	debenture
 dbeleta	debilitate
-!	debilitated
-dbletsh	debilitation
+dbeleta^t	debilitated
+dbeletsh	debilitation
 d^b	debility
 dbna~	debonair
-td	debt
+dt	debt
 dbt	debit
-tde~	debtor
-ntd^t-nes	indebtedness
-!	début
+dte~	debtor
+n-dt^t-nes	indebtedness
+dbeu	debut
 dekad	decade
 dekadns	decadence
 dekalk	decalcomania
-
-# Page 50 Column 2
+	
+# Page 50 Column 2	
 dekte~	decanter
-dekap	decapitate
-!	decapitation
-!	decathlon
+dekapta	decapitate
+dekaptsh	decapitation
+dekathlon	decathlon
 dses	decease
-!	deceased
-ds(etn	decedent
+dsest	deceased
+dsedn	decedent
 d-set	deceit
-d-set-f	deceitful
+d-setf	deceitful
 dse	deceive
-!	deceiver
+dse^r	deceiver
 dses	deceives
 dsepsh	deception
-dsepdf	deceptive
-ds(ent	decent
-dsense	decency
-!	decently
-!	indecency
-nts(ent	indecent
-ds(i	decide
+dseptv	deceptive
+d-sent	decent
+d-sense	decency
+d-sente	decently
+nd-sense	indecency
+nd-sent	indecent
+dsi	decide
 dsi^te	decidedly
-ds(is	decides
-dsesh	decision
-ds(isv	decisive
-ds(isve	decisively
-
-# Page 50 Column 3
-!	decisiveness
-ntsesh	indecision
+dsis	decides
+d-sesh	decision
+d-sisv	decisive
+d-sisve	decisively
+	
+# Page 50 Column 3	
+d-sivnes	decisiveness
+nd-sesh	indecision
 n-dsi^t	undecided
-ds(eml	decimal
-!	decimate
-ds(if	decipher
-ds(ifb	decipherable
-uds(ifb	undecipherable
+d-seml	decimal
+d-semat	decimate
+d-sif	decipher
+d-sif^b	decipherable
+nd-sif^b	undecipherable
 de^m	declaim
-de-msh	declamation
-!	declamatory
+de^msh	declamation
+de^matre	declamatory
 de^r	declare
-de-rb	declarable
-de^rsh	declaration
-de^rdf	declarative
-!	declaratory
-dklin	decline
+de^rb	declarable
+de^rash	declaration
+de^ratv	declarative
+de^ratre	declaratory
+de^n	decline
 de^nsh	declension
-de^nt	declined
-de^v	declivity
-n-klin	incline
+de^nd	declined
+de^vte	declivity
+e^n	incline
 re^n	recline
 dekksh	decoction
 dekpo	decompose
-!	decomposed
-
-# Page 51 Column 1
+dekpo^t	decomposed
+	
+# Page 51 Column 1	
 dekposh	decomposition
 dekra	decorate
 dekrash	decoration
-dekratv	decorative
-dekratr	decorator
+dekra^v	decorative
+dekra^r	decorator
 dekorm	decorum
 dekorus	decorous
 dekoe	decoy
-!	decoyed
+dekoed	decoyed
 dekres	decrease
-!	decreased
+dekrest	decreased
 dekre	decree
 dekrept	decrepit
 dekreptu	decrepitude
-tdekat	dedicate
-tdkash	dedication
-ddekator	dedicator
-!	dedicatory
-tdus	deduce
-!	deduces
-tdusb	deducible
-tduk	deduct
-!	deductible
-tduksh	deduction
-!	deductively
-
-# Page 51 Column 2
+ddekat	dedicate
+ddekash	dedication
+ddekate~	dedicator
+ddekatre	dedicatory
+ddus	deduce
+dduss	deduces
+ddusb	deducible
+dduk	deduct
+ddukb	deductible
+dduksh	deduction
+ddukve	deductively
+	
+# Page 51 Column 2	
 ded	deed
-!	deeded
-!	misdeed
+dedd	deeded
+msded	misdeed
 dep	deep
 depn	deepen
-!	deepness
+depnes	deepness
 dpth	depth
 de~	deer
 dfas	deface
 efas	efface
 dfalk	defalcate
 dfalsh	defalcation
-!	defalcator
+dfalk^r	defalcator
 dfam	defame
 dfamsh	defamation
-!	defamatory
+dfamatre	defamatory
 dfot	default
-dfot-d	defaulted
+dfotd	defaulted
 dfote~	defaulter
 dfet	defeat
-dfet-d	defeated
+dfetd	defeated
 dfek	defect
 dfeksh	defection
 dfekv	defective
-dfnt	defend
-
-# Page 51 Column 3
+dfnd	defend
+	
+# Page 51 Column 3	
 dft	defendant
-dfntd	defended
-dfntr	defender
+dfndd	defended
+dfndr	defender
 dfens	defense
 dfensl	defenseless
-!	defensible
+dfensb	defensible
 dfensv	defensive
 dfr	defer
 dfrens	deference
 dfrensh	deferential
 dfeshse	deficiency
 dfesht	deficient
-dfes(et	deficit
+dfeset	deficit
 dfil	defile
 dfin	define
 dfinb	definable
 dfn	definite
-dfn-n	definiteness
+dfn-nes	definiteness
 dfnsh	definition
-dfnedf	definitive
+dfnetv	definitive
 n-dfinb	indefinable
-!	indefinitely
+n-dfne	indefinitely
 dfla	deflate
 dflash	deflation
 dfm	deform
-
-# Page 52 Column 1
-!	deformed
+	
+# Page 52 Column 1	
+dfm^t	deformed
 d-f^mt	deformity
 dfrod	defraud
-!	defrauded
+dfrodd	defrauded
 dfra	defray
-!	defrayal
-dft	deft
+dfral	defrayal
+deft	deft
 dfnk	defunct
 dfi	defy
 dfins	defiance
 dfint	defiant
 dfid	defied
 djenra	degenerate
-djense	degeneracy
+djenrse	degeneracy
 djenrsh	degeneration
 degra	degrade
 degradsh	degradation
-degrad	degraded
+degra^t	degraded
 deg	degree
 didra	dehydrate
 def	deify
-!	deification
-!	deifies
-des(m	deism
-des(t	deist
-
-# Page 52 Column 2
+de^f	deification
+defs	deifies
+desm	deism
+des)t	deist
+	
+# Page 52 Column 2	
 dete	deity
 djk	deject
 djkte	dejectedly
@@ -281,116 +281,116 @@ dlet	delete
 dlesh	deletion
 dleter	deleterious
 dleb	deliberate
-!	deliberately
+dlebe	deliberately
 dlebsh	deliberation
 dleb^v	deliberative
 delek	delicate
 delekse	delicacy
-delekes(n	delicatessen
-ntelek	indelicate
-dleshus	delicious
+delekesn	delicatessen
+ndelek	indelicate
+dlesh	delicious
 dli	delight
-dlid	delighted
+dli^t	delighted
 dlif	delightful
-dlenat	delineate
-
-# Page 52 Column 3
-dlensh	delineation
-dlenatr	delineator
+dlena&’t	delineate
+	
+# Page 52 Column 3	
+dlena&’sh	delineation
+dlena&’te~	delineator
 dlenk	delinquent
-!	delinquency
+dlenkse	delinquency
 dlerm	delirium
-dler	delirious
+dlerus	delirious
 dl	deliver
 dlb	deliverable
 dlns	deliverance
-dl^r	deliverer
+dlr	deliverer
 dl	delivery
-!	undeliverable
+n-dlb	undeliverable
 dlud	delude
-dlud-d	deluded
-dlush	delusion
+dludd	deluded
+dlsh	delusion
 dlusv	delusive
 delj	deluge
-tmag	demagogue
-tman	demand
-tmrkash	demarcation
-tmene~	demeanor
+dmag	demagogue
+dman	demand
+dmrkash	demarcation
+dmene~	demeanor
 demn^t	demented
 demnsha&'	dementia
 dme~t	demerit
-tmis	demise
-
-# Page 53 Column 1
-tmoblis	demobilize
-tmoblisash	demobilization
-tmoblisd	demobilized
-tmr	democrat
-tmkse	democracy
-tmk	democratic
-tmke	democratically
-tmolsh	demolish
-tmolesh	demolition
+dmis	demise
+	
+# Page 53 Column 1	
+dmobliz	demobilize
+dmoblezash	demobilization
+dmoblizd	demobilized
+dmk	democrat
+dmkse	democracy
+dmk	democratic
+dmke	democratically
+dmolsh	demolish
+dmolesh	demolition
 demn	demon
 demnetiz	demonetize
-!	demonetization
-tmons	demonstrate
+demnetezash	demonetization
+dmons	demonstrate
 dmonsb	demonstrable
 dmons^v	demonstrative
-tmonsr	demonstrator
-dmoliz	demoralize
-dmolez-sh	demoralization
-!	demoralized
-tmur	demur
-!	demurrer
-tmurj	demurrage
-tmeur	demure
-tnatr	denature
-tnem	denim
-
-# Page 53 Column 2
-tnes(en	denizen
-tnomnat	denominate
-!	denominated
-tnomnsh	denomination
-dnomnatr	denominator
+dmons^r	demonstrator
+dmorliz	demoralize
+dmorlezash	demoralization
+dmorlizd	demoralized
+dmur	demur
+dmurr	demurrer
+dmurj	demurrage
+dmeur	demure
+dnatr	denature
+dnem	denim
+	
+# Page 53 Column 2	
+dnezen	denizen
+dnomnat	denominate
+dnomnatd	denominated
+dnomnsh	denomination
+dnomnate~	denominator
 dnot	denote
-dnns	denounce
-!	denouncement
-!	denouncer
-dnunsash	denunciation
-!	denunciatory
-tns	dense
-tn^s	density
-dn-tl	dental
-tntes	dentist
-tntesre	dentistry
-tni	deny
-tnil	denial
-tnid	denied
-!	denier
-tnis	denies
-n-dni	undeniable
-doderis	deodorize
+dn-ns	denounce
+dn-nsm	denouncement
+dn-nser	denouncer
+dnunsa&’sh	denunciation
+dnunsa&’tre	denunciatory
+dns	dense
+dn^s	density
+dntl	dental
+dntes	dentist
+dntesre	dentistry
+dni	deny
+dnil	denial
+dnid	denied
+dnir	denier
+dnis	denies
+n-dnib	undeniable
+doderiz	deodorize
 dpt	depart
 apt-m	apartment
-
-# Page 53 Column 3
+	
+# Page 53 Column 3	
 kpt-m	compartment
 dpt-m	department
 dpt^m	departmental
 dptr	departure
-djnt	depend
-djntb	dependable
-djntd	depended
-djntns	dependence
-djntnt	dependent
-ntp	independence
-ntp	independent
+dpnd	depend
+dpndb	dependable
+dpndd	depended
+dpndns	dependence
+dpndnt	dependent
+ndp	independence
+ndp	independent
 dpk	depict
-!	depicted
+dpkt	depicted
 dplet	deplete
-dplet-d	depleted
+dpletd	depleted
 dplesh	depletion
 dplr	deplore
 dplr^b	deplorability
@@ -398,11 +398,11 @@ dplrb	deplorable
 dpon	deponent
 dpop^u	depopulate
 dpot	deport
-!	deportation
-!	deported
-dporm	deportment
-
-# Page 54 Column 1
+dpotsh	deportation
+dpotd	deported
+dpot-m	deportment
+	
+# Page 54 Column 1	
 dpo	depose
 dpos	deposes
 dpos	deposit
@@ -412,8 +412,8 @@ dpos^r	depositor
 dpos^re	depository
 dpo	depot
 dprav	deprave
-!	depravation
-dpr^v	depravity
+dpravash	depravation
+dprvte	depravity
 dprek	deprecate
 dpreksh	deprecation
 dprek^re	deprecatory
@@ -422,14 +422,14 @@ dpresha&'sh	depreciation
 dpredsh	depredation
 dpres	depress
 dpresnt	depressant
-dpressh	depression
+dpresh	depression
 dpresv	depressive
 dpri	deprive
-dprivash	deprivation
+dprevash	deprivation
 privash	privation
-dpth	depth
-
-# Page 54 Column 2
+depth	depth
+	
+# Page 54 Column 2	
 dpu	depute
 dpush	deputation
 dputiz	deputize
@@ -437,161 +437,161 @@ dpute	deputy
 dranj	derange
 dranjm	derangement
 derlek	derelict
-!	dereliction
+derleksh	dereliction
 dri	deride
 deresh	derision
-!	derisive
+drisv	derisive
 dri	derive
-dervash	derivation
+drevash	derivation
 drev	derivative
-derogsh	derogation
+drogsh	derogation
 drogv	derogative
-derog	derogatory
+derog^re	derogatory
 derek	derrick
-ds(en	descend
-as(en	ascend
-ds(entn	descendant
-ds(ent	descent
-ds(kr	describe
+d-sen	descend
+asen	ascend
+dsen-tn	descendant
+dsent	descent
+dskr	describe
 dskrb	describable
-ds(krsh	description
-
-# Page 54 Column 3
-ds(krv	descriptive
-ds(kra	desecrate
+dskrsh	description
+	
+# Page 54 Column 3	
+dskrv	descriptive
+dskra	desecrate
 dskrash	desecration
-ds(e~t	desert
-!	deserted
-ds(ete~	deserter
-ds(esh	desertion
-ds(ev	deserve
-dsevde	deservedly
-n-dsevd	undeserved
-deskat	desiccate
-!	desiccation
-!	desiccator
-ds(in	design
-ds(ig	designate
-ds(igsh	designation
-ds(in-d	designed
-ds(inr	designer
+dse~t	desert
+dse~td	deserted
+dse~te~	deserter
+dsesh	desertion
+d-sev	deserve
+d-sevde	deservedly
+n-d-sevd	undeserved
+d-sekat	desiccate
+d-sekash	desiccation
+d-sekate~	desiccator
+d-sin	design
+d-seg	designate
+d-segsh	designation
+d-sind	designed
+d-sine~	designer
 ds	desire
 dsb	desirable
 ds-s	desires
-ds(us	desirous
+dsus	desirous
 n-dsb	undesirable
 dss	desist
-!	desisted
-
-# Page 55 Column 1
-!	desists
+dss^t	desisted
+	
+# Page 55 Column 1	
+dsss	desists
 dsola	desolate
-!	desolately
+dsolae	desolately
 dsolash	desolation
 dspar	despair
-dspard	despaired
+dspa~d	despaired
 dspra	desperate
 dsprae	desperately
 dsprash	desperation
 dspis	despise
 dspkb	despicable
-dspi	despite
-dsjnt	despond
-!	despondency
-dspond	despondent
+dspit	despite
+dspnd	despond
+dspndnse	despondency
+dspndnt	despondent
 dspot	despot
 dsp^a	despotic
-dsptsm	despotism
-ds(e~t	dessert
-!	destine
-ds(tnsh	destination
-ds(tnd	destined
-destne	destiny
+dspot-sm	despotism
+dse~t	dessert
+dstn	destine
+dstnsh	destination
+dstnd	destined
+dstne	destiny
 dstet	destitute
-ds(tetsh	destitution
-
-# Page 55 Column 2
+dstetsh	destitution
+	
+# Page 55 Column 2	
 ds^oe	destroy
 ds^oed	destroyed
 ds^oer	destroyer
 ds^ksh	destruction
 ds^kv	destructive
 dse_tu	desuetude
-ds(u^re	desultory
-!	desultorily
+dsu^re	desultory
+dsu^re|	desultorily
 dtach	detach
-!	detached
+dtacht	detached
 dtachm	detachment
-tda~	detail
-tdald	detailed
-tdtn	detain
-!	detained
-tdtnsh	detention
-tdek	detect
-tdekd	detected
-tdekv	detective
-!	detector
+dtal	detail
+dtald	detailed
+detn	detain
+detnd	detained
+detnsh	detention
+dtek	detect
+dtekt	detected
+dtekv	detective
+dtekr	detector
 d^	deter
 d^nt	deterrent
 d^ora	deteriorate
-!	deteriorated
+d^ora^t	deteriorated
 d^orash	deterioration
-
-# Page 55 Column 3
+	
+# Page 55 Column 3	
 e~mn	determine
 e~mnsh	determination
 e~mn^te	determinedly
 ne~mnat	indeterminate
-!	predetermined
+pre^e~mn^t	predetermined
 ne~mn^t	undetermined
-tdes	detest
+dtes	detest
 dtesb	detestable
-dtes-sh	detestation
+dtessh	detestation
 dthron	dethrone
-!	dethroned
-!	detonate
-tdonsh	detonation
-tdur	detour
+dthrond	dethroned
+dtonat	detonate
+dtonsh	detonation
+dtur	detour
 d^k	detract
 d^ksh	detraction
 d^kr	detractor
 d^m	detriment
 d^ml	detrimental
-dfas(ta	devastate
-dfas(tash	devastation
-dfl	develop
-dflr	developer
-dflm	development
+dvasta	devastate
+dvastsh	devastation
+dvl	develop
+dvl^r	developer
+dvlm	development
 n-dvl^t	undeveloped
-
-# Page 56 Column 1
-d-va&'t	deviate
-d-va&'t-d	deviated
-d-va&'sh	deviation
+	
+# Page 56 Column 1	
+deva&'t	deviate
+deva&'td	deviated
+deva&'sh	deviation
 devus	devious
-dfis	device
-!	devised
-dfl	devil
-dfoe	devoid
-dfol	devolve
-dfot	devote
+dvis	device
+dvisd	devised
+dvl	devil
+dvoe	devoid
+dvol	devolve
+dvt	devote
 dvte	devotee
 dvosh	devotion
-!	devotional
+dvoshl	devotional
 dvaut	devout
 dextrus	dexterous
-ambdex	ambidextrous
+ambdextrus	ambidextrous
 dex^r	dexterity
 dibtes	diabetes
-!	diabetic
-dib^k	diabolical
-dikr^ea	diacritical
-ditm	diadem
+dib^a	diabetic
+dibol^k	diabolical
+dikr^a|	diacritical
+didm	diadem
 dirss	diaeresis
 dignos	diagnose
 dignoss	diagnosis
-
-# Page 56 Column 2
+	
+# Page 56 Column 2	
 dign^st	diagnostic
 dignostsh	diagnostician
 dig	diagonal
@@ -599,272 +599,272 @@ dige	diagonally
 di^g	diagram
 di^g^a	diagrammatic
 dilek	dialect
-dilekks	dialectics
+dilekteks	dialectics
 dilog	dialogue
 dimete~	diameter
-!	diametric
-!	diametrically
+dimetrk	diametric
+dimetr^ke	diametrically
 dimn	diamond
-dipas(n	diapason
+dipasn	diapason
 difnus	diaphanous
 difram	diaphragm
-!	diatribe
-!	dictaphone
+ditrib	diatribe
+dektfn	dictaphone
 dekta	dictate
 dektsh	dictation
 dekta^r	dictator
-!	dictatorial
+dektra^rl	dictatorial
 dekta^re|	dictatorially
 deksh	diction
-dekzre	dictionary
-
-# Page 56 Column 3
+dekshre	dictionary
+	
+# Page 56 Column 3	
 dekt^o	dictograph
 dektm	dictum
 dekta	dicta
-!	dictums
-tdaktek	didactic
+dektms	dictums
+ddaktek	didactic
 da&et	diet
-!	dietary
-!	dietetics
+da&etre	dietary
+da^et^as	dietetics
 df	differ
 df	difference
 df	different
 dfnsh	differential
-!	differentially
-dfsha&et	differentiate
+dfnsha|	differentially
+dfnsha&et	differentiate
 dfnsha&'sh	differentiation
 dfe	differently
-ndf	indifferent
+n-df	indifferent
 dfk	difficult
-dfkes	difficulties
-dfke	difficulty
-dftn	diffident
+dfks	difficulties
+dfk	difficulty
+dfdn	diffident
 dfdns	diffidence
-!	diffraction
+dfraksh	diffraction
 dfeu	diffuse
-!	diffuses
-
-# Page 57 Column 1
-!	diffusible
+dfeus	diffuses
+	
+# Page 57 Column 1	
+dfeub	diffusible
 dfeush	diffusion
 djes	digest
 djesb	digestible
 djesh	digestion
-djestv	digestive
-ntjesh	indigestion
-!	undigested
+djesv	digestive
+ndjesh	indigestion
+n-djes^t	undigested
 dejt	digit
 dejtl	digital
-!	digitalis
-degnef	dignify
-deg^re	dignitary
+dejtles	digitalis
+degnf	dignify
+degnetre	dignitary
 deg^nt	dignity
 nteg^nt	indignity
-!	undignified
+n-degnf^t	undignified
 degres	digress
 degresh	digression
-!	digressive
+degrev	digressive
 dik	dike
 delap	dilapidate
 delapsh	dilapidation
 dila	dilate
 dilash	dilation
 delatre	dilatory
-
-# Page 57 Column 2
+	
+# Page 57 Column 2	
 delema	dilemma
 delejnt	diligent
 delej	diligence
 delut	dilute
-!	diluted
+delutd	diluted
 delsh	dilution
-!	undiluted
+n-delutd	undiluted
 dem	dim
-!	dimly
-!	dimmed
-!	dimmer
-!	dimness
-!	undimmed
-tmensh	dimension
-tmenshl	dimensional
-tmensh	diminish
-!	diminuendo
+deme	dimly
+demd	dimmed
+deme~	dimmer
+dim-nes	dimness
+n-demd	undimmed
+dmensh	dimension
+dmenshl	dimensional
+dmensh	diminish
+dmeneundo	diminuendo
 dmeneush	diminution
-tmeneu	diminutive
-!	undiminished
-d^m-t	dimity
-tmpl	dimple
+dmeneu	diminutive
+n-dmensht	undiminished
+d^mt	dimity
+dmpl	dimple
 din	dine
-dint	dined
-tnr	dinner
-
-# Page 57 Column 3
-tnje	dingy
-!	dinosaur
-tnt	dint
-da&ess	diocese
+dind	dined
+dnr	dinner
+	
+# Page 57 Column 3	
+dnje	dingy
+dinsor	dinosaur
+dnt	dint
+dises	diocese
 dfthera&'	diphtheria
-!	diphtheritic
+dfther^a	diphtheritic
 dfthong	diphthong
-!	diphthongal
+dfthongl	diphthongal
 dploma	diploma
 dplomat	diplomat
 dplomse	diplomacy
 dplom^a	diplomatic
 dplomates	diplomatist
-deps(omna&'	dipsomania
-!	dipsomaniac
+depsomna&'	dipsomania
+depsolmna&’k	dipsomaniac
 di~	dire
 dirf	direful
-!	direly
+da&e~	direly
 drk	direct
 drksh	direction
-drkns	directness
-dr	director
+drknes	directness
+drk^r	director
 drk^ra	directorate
 drk^re	directory
 ntrk	indirect
-
-# Page 58 Column 1
-!	undirected
+	
+# Page 58 Column 1	
+n-drkt	undirected
 derej	dirigible
 dsab	disable
 dsa^b	disability
 dsabeu	disabuse
-ds(av	disadvantage
-dsavus	disadvantageous
-!	disaffected
-!	disaffection
+ds)av	disadvantage
+ds)avus	disadvantageous
+ds)afkt	disaffected
+ds)afksh	disaffection
 da|	disagree
 da|b	disagreeable
-!	disagreed
-da|	disagreement
+da|^d	disagreed
+da|m	disagreement
 dsal	disallow
 dsapr	disappear
 dsaprns	disappearance
 doe	disappoint
 doem	disappointment
-!	disapprobation
+dsaprbash	disapprobation
 dsaprv	disapprove
 dsaprvl	disapproval
-ds(am	disarm
+dsa~m	disarm
 dsara	disarrange
-!	disarticulate
-dss(te~	disaster
-
-# Page 58 Column 2
+dsa~tek^u	disarticulate
+dsste~	disaster
+	
+# Page 58 Column 2	
 dsstrus	disastrous
-!	disavow
-!	disavowal
+ds)avau	disavow
+ds)avaul	disavowal
 dsband	disband
 dsbe	disbelieve
-!	disbeliever
-dsbrs(m	disbursement
+dsbe^r	disbeliever
+dsbrsm	disbursement
 dska~d	discard
-dska~d-d	discarded
-ds(en	discern
-ds(enb	discernible
-ds(e~mn	discernment
+dska~dd	discarded
+dse~n	discern
+dse~nb	discernible
+dse~nm	discernment
 dschj	discharge
 dschjd	discharged
 dsip	disciple
-dsplenre	disciplinary
-dsplen	discipline
-dskla	disclaim
-!	disclaimed
-!	disclaimer
-dskls	disclose
-!	disclosed
-!	discloses
-dsklshu	disclosure
-!	undisclosed
-
-# Page 58 Column 3
-ds(kul	discolor
-!	discoloration
-dskftr	discomfiture
+dseplenre	disciplinary
+dseplen	discipline
+dsklam	disclaim
+dsklamd	disclaimed
+dsklame~	disclaimer
+dsklos	disclose
+dsklosd	disclosed
+dskloss	discloses
+dskloshu	disclosure
+n-dsklosd	undisclosed
+	
+# Page 58 Column 3	
+dskul	discolor
+dskulsh	discoloration
+dskfetr	discomfiture
 dskft	discomfort
 dskpo	discompose
-!	discomposes
+dskpos	discomposes
 dskposhu	discomposure
-dsks(et	disconcert
-!	disconcertedly
-dsktn-t	discontent
-dsktn^t	discontented
-ds(ktnu	discontinue
-!	discontinuance
-!	discontinued
-ds(kod	discord
+dsks(e~t	disconcert
+dsks(e~tde	disconcertedly
+dsktnt	discontent
+dsktntd	discontented
+dsktnu	discontinue
+dsktnuns	discontinuance
+dsktnud	discontinued
+dskod	discord
 kkod	concord
-ds(kotn	discordant
+dskodn	discordant
 des	discount
-ds(ktnans	discountenance
-ds(krj	discourage
-ds(krjd	discouraged
-ds(krjm	discouragement
+dsktnans	discountenance
+dskrj	discourage
+dskrjd	discouraged
+dskrjm	discouragement
 n-krj	encourage
 dskrs	discourse
 dskrsv	discursive
-
-# Page 59 Column 1
+	
+# Page 59 Column 1	
 dske~tus	discourteous
-ds(kv	discover
-ds(kvr	discoverer
-ds(kve	discovery
-!	discreditable
+dskv	discover
+dskv^r	discoverer
+dskve	discovery
+dskre^b	discreditable
 dskret	discreet
-ds(kresh	discretion
-ndskre	indiscreet
-ds(krep	discrepancy
-ds(kremnat	discriminate
-!	discriminated
+dskresh	discretion
+ndskret	indiscreet
+dskrep	discrepancy
+dskremnat	discriminate
+dskremnatd	discriminated
 dskremnsh	discrimination
-!	discriminatory
-ndskrem	indiscriminate
-ds(k	discuss
-ds(ksh	discussion
+dskremnatre	discriminatory
+ndskremnat	indiscriminate
+dsk	discuss
+dsksh	discussion
 dsdan	disdain
-dsdan-d	disdained
+dsdand	disdained
 dsdanf	disdainful
-!	diseased
+dsesd	diseased
 dsmbark	disembark
-!	disembarcation
-!	disenchant
-ds(n-ga	disengage
-ds(n-gam	disengagement
-
-# Page 59 Column 2
-dsntang	disentangle
+dsmbarkash	disembarcation
+dsnchant	disenchant
+dsn-ga	disengage
+dsn-gam	disengagement
+	
+# Page 59 Column 2	
+dsntangl	disentangle
 dsfa	disfavor
-ds(fetr	disfeature
+dsfetr	disfeature
 dsfegr	disfigure
-ds(franch	disfranchise
-ds(gras	disgrace
+dsfranch	disfranchise
+dsgras	disgrace
 dsgrasf	disgraceful
 dsgis	disguise
-n-dsgiz	undisguised
+n-dsgisd	undisguised
 dsgus	disgust
 dsabel	dishabille
 ds'a~tn	dishearten
 dshev	dishevel
-dsonr	dishonor
+dsone~	dishonor
 dsones	dishonest
-ds(onese	dishonestly
-ds(onese	dishonesty
-dsonrb	dishonorable
+dsonese	dishonestly
+dsonese	dishonesty
+dsonerb	dishonorable
 dselsh	disillusion
 dse^n	disincline
 dse^nsh	disinclination
 dse^nd	disinclined
-dsnfk	disinfect
-ds(nfeknt	disinfectant
-!	disingenuous
-
-# Page 59 Column 3
-dsen'e~t	disinherit
+dsnfek	disinfect
+dsnfeknt	disinfectant
+dsnjnuus	disingenuous
+	
+# Page 59 Column 3	
+ds)en'e~t	disinherit
 dsntegra	disintegrate
-dsn^sd^	disinterested
+dsn^s^t	disinterested
 dsjoen	disjoin
 dsjnk	disjunction
 dsjnk	disjunctive
@@ -872,185 +872,185 @@ dsla	dislike
 dslok	dislocate
 dsloj	dislodge
 dsloe	disloyal
-ds(ml	dismal
-ds(mntl	dismantle
+dsml	dismal
+dsmntl	dismantle
 dsma	dismay
 n-dsmad	undismayed
-!	dismember
+dsmmbr	dismember
 dsmes	dismiss
 dsmesl	dismissal
-!	dismissed
-ds(mnt	dismount
+dsmest	dismissed
+dsmnt	dismount
 dsoba	disobey
-!	disobedience
-ds(obtnt	disobedient
-!	disobeyed
-ds(obl	disoblige
-ds(ode	disorderly
-
-# Page 60 Column 1
+dsobdns	disobedience
+dsobdnt	disobedient
+dsobad	disobeyed
+dsobl	disoblige
+dsode	disorderly
+	
+# Page 60 Column 1	
 dsog	disorganize
-dsprj	disparage
-!	disparagement
+dsparj	disparage
+dsparjm	disparagement
 dspara	disparate
 dsp^r	disparity
 dspashat	dispassionate
 dspach	dispatch
-dspachd	dispatched
-!	dispatcher
+dspacht	dispatched
+dspache~	dispatcher
 dspl	dispel
-!	dispelled
+dspld	dispelled
 dspns	dispense
-!	dispensable
-!	dispensary
-!	dispensation
-!	dispensed
+dspnsb	dispensable
+dspnsare	dispensary
+dspnsash	dispensation
+dspnst	dispensed
 dsprs	disperse
-!	dispersal
+dsprsl	dispersal
 dsprsh	dispersion
 dsplasm	displacement
 dspot	disport
 dspo	dispose
 dspol	disposal
-!	disposes
+dspos	disposes
 dsposh	disposition
-
-# Page 60 Column 2
-!	dispossess
+	
+# Page 60 Column 2	
+dsposs	dispossess
 dspr	disproportion
 dspr	disproportionate
 dsprv	disprove
-!	disproof
+dsprf	disproof
 dspu	dispute
 dspush	disputation
 dspushus	disputatious
-!	disputes
-n-dspu	undisputed
+dspus	disputes
+n-dspu^t	undisputed
 dskof	disqualify
 dsko^f	disqualification
-dskes-sh	disquisition
+dskessh	disquisition
 dsre	disregard
 dsrpu	disrepute
-!	disreputable
+dsrpub	disreputable
 dsres	disrespect
 dsrp	disrupt
 dsrpsh	disruption
-dsat	dissatisfy
-dsatsh	dissatisfaction
-ds(ek	dissect
-dseksh	dissection
-ds(em	dissemble
-dsemnat	disseminate
-
-# Page 60 Column 3
-!	dissemination
-ds(ent	dissent
-dsensh	dissension
-!	dissented
-dsentr	dissenter
-ds(e~t-n	dissertation
-ds(etns	dissidence
-dsemel	dissimilar
-!	dissimilarity
-!	dissimulate
+ds)at	dissatisfy
+ds)atsh	dissatisfaction
+d-sek	dissect
+d-seksh	dissection
+ds)em	dissemble
+ds)emnat	disseminate
+	
+# Page 60 Column 3	
+ds)emnsh	dissemination
+d-sent	dissent
+d-sensh	dissension
+d-sentd	dissented
+d-sentr	dissenter
+dse~tsh	dissertation
+ds)edns	dissidence
+ds)emel	dissimilar
+ds)emel^r	dissimilarity
+ds)em^u	dissimulate
 dsepa	dissipate
-ds(osht	dissociate
+ds)osht	dissociate
 dsolut	dissolute
-ds(olb	dissoluble
-ds(olsh	dissolution
-nts(olb	indissoluble
+dsolb	dissoluble
+dsolsh	dissolution
+ndsolb	indissoluble
 dsonant	dissonant
 dsonans	dissonance
 dsa_d	dissuade
 dsa_sh	dissuasion
-prsa_	persuade
-!	suasion
-ds(tnt	distant
-ds(tns	distance
-dstas	distaste
-
-# Page 61 Column 1
-dstasf	distasteful
-ds(tnd	distend
-!	distensible
-!	distension
-dste~	distill
-!	distillate
-!	distillation
-!	distillery
-ds(t	distinct
-ds(tsh	distinction
-dstn^v	distinctive
-ds(t	distinguish
-dst^b	distinguishable
-nts(t	indistinct
-nts(tb	indistinguishable
-ds(tot	distort
-!	distorted
-dstorsh	distortion
+prsa_d	persuade
+suash	suasion
+dstnt	distant
+dstns	distance
+dstast	distaste
+	
+# Page 61 Column 1	
+dstastf	distasteful
+dstnd	distend
+dstnsb	distensible
+dstnsh	distension
+ds)tel	distill
+ds)tela	distillate
+ds)telash	distillation
+ds)telre	distillery
+dst	distinct
+dstsh	distinction
+dst^v	distinctive
+dst	distinguish
+dstb	distinguishable
+ndst	indistinct
+ndstb	indistinguishable
+dstot	distort
+dstotd	distorted
+dstosh	distortion
 ds^k	distract
 ds^n	distrain
-ds^t^	distraught
+ds^t	distraught
 ds^s	distress
-!	distressed
+ds^st	distressed
 ds^b	distribute
 ds^bsh	distribution
-
-# Page 61 Column 2
-ds^btv	distributive
-!	distributor
+	
+# Page 61 Column 2	
+ds^b^v	distributive
+ds^b^r	distributor
 reds^b	redistribute
-!	undistributed
+n-ds^b^t	undistributed
 ds^k	district
-!	redistricted
-ds(trs	distrust
-ds(trsd	distrusted
-ds(trsf	distrustful
-ds(tb	disturb
+reds^kt	redistricted
+dstrs	distrust
+dstrs^t	distrusted
+dstrsf	distrustful
+dstb	disturb
 dstbns	disturbance
-!	disturbed
-!	disturber
+dstbd	disturbed
+dstb^r	disturber
 n-dstbd	undisturbed
-ds(eu	disuse
-tdo	ditto
+dseu	disuse
+dto	ditto
 da&enl	diurnal
 divg	divagate
-!	divagation
+divgsh	divagation
 divan	divan
-dfej	diverge
-dfej	divergence
-dfejnt	divergent
+dvej	diverge
+dvej	divergence
+dvejnt	divergent
 divrs	divers
-dfes	diverse
-
-# Page 61 Column 3
-!	diversification
+dves	diverse
+	
+# Page 61 Column 3	
+dves^f	diversification
 dvesf	diversify
 dversh	diversion
 dveste	diversity
-dfe~t	divert
-dfes	divest
-dfid	divide
-dfid-d	divided
-dftn	dividend
+dve~t	divert
+dves	divest
+dvid	divide
+dvidd	divided
+dvdn	dividend
 dvide~	divider
 dvesb	divisible
-dfesh	division
-!	divisor
-ndfesb	indivisible
-n-dvi^t	undivided
-dfin	divine
-dfensh	divination
-dfint	divined
-df^nt	divinity
-dfos	divorce
-!	divorcée
-dflj	divulge
-dese	dizzy
-!	dizzily
-!	dizziness
-
-# Page 62 Column 1
+dvesh	division
+dvisr	divisor
+ndvesb	indivisible
+n-dvidd	undivided
+dvin	divine
+dvensh	divination
+dvind	divined
+dv^nt	divinity
+dvos	divorce
+dvose	divorcee
+dvlj	divulge
+deze	dizzy
+deze|	dizzily
+dezenes	dizziness
+	
+# Page 62 Column 1	
 dosel	docile
 dos^l	docility
 doket	docket
@@ -1058,7 +1058,7 @@ doka~d	dockyard
 dr	doctor
 dr^at	doctorate
 dokt	doctrine
-!	doctrinaire
+dokt^ar	doctrinaire
 dokt^l	doctrinal
 dokm	document
 dokmre	documentary
@@ -1066,18 +1066,18 @@ doj	doge
 dogma	dogma
 dogm^a	dogmatic
 dogmatiz	dogmatize
-!	doldrums
+doldrms	doldrums
 do	dollar
 domn	domain
-tm^s(t	domestic
-tm^s(ta	domesticate
-!	domesticated
-tmes^s	domesticity
-tmsel	domicile
+dm^st	domestic
+dm^sta	domesticate
+dm^sta^t	domesticated
+dmes^s	domesticity
+dmsel	domicile
 domnat	dominate
 domnans	dominance
-
-# Page 62 Column 2
+	
+# Page 62 Column 2	
 domnant	dominant
 domnsh	domination
 domne~	domineer
@@ -1085,9 +1085,9 @@ domnun	dominion
 predomnat	predominate
 domno	domino
 donat	donate
-!	donated
+donatd	donated
 donsh	donation
-donr	donor
+done~	donor
 donke	donkey
 dor	door
 dora_	doorway
@@ -1096,59 +1096,59 @@ domnt	dormant
 dome~	dormer
 dometre	dormitory
 domaus	dormouse
-db	double
+dub	double
 dau	doubt
-daud	doubted
+dau^t	doubted
 dauf	doubtful
 daul	doubtless
 daus	doubts
 n-dau^t	undoubted
-
-# Page 62 Column 3
+	
+# Page 62 Column 3	
 daur	dower
 dauje~	dowager
 d-n	down
-d-n-kas	downcast
+d-n-kast	downcast
 d-nfo	downfall
 d-nri	downright
 d-n^d	downward
 dox^o(	doxology
-dus(n	dozen
+duzn	dozen
 drf	draft
 dragn	dragon
-!	dragoon
+dragun	dragoon
 dranj	drainage
 drama	drama
 dram^a	dramatic
 dramates	dramatist
-dramatissh	dramatization
-dramatis	dramatize
+dramatezash	dramatization
+dramatiz	dramatize
 drapre	drapery
-dr^s(t	drastic
+dr^st	drastic
 dro	draw
-!	drawback
-!	drawbridge
-!	drawee
+drobak	drawback
+drabrej	drawbridge
+droe	drawee
 dror	drawer
-
-# Page 63 Column 1
+	
+# Page 63 Column 1	
 dron	drawn
 dred	dread
-dre^t	dreaded
+dredd	dreaded
 dred-f	dreadful
-drednot	dreadnaught
+dred-not	dreadnaught
 drem	dream
-dremt	dreamed
+dremd	dreamed
 dreme~	dreamer
-!	dreamily
+dreme|	dreamily
 dreft	drift
-driva^n	driveway
-!	dromedary
+driva_	driveway
+dromedre	dromedary
 drup	droop
-drop	drop
+drp	drop
 draut	drought
 drn	drown
-!	drowned
+drnd	drowned
 drj	drudge
 drjre	drudgery
 drug	drug
@@ -1156,56 +1156,55 @@ drges	druggist
 drm	drum
 drnk	drunk
 drnka~d	drunkard
-
-# Page 63 Column 2
-!	drunken
-!	drunkenness
+	
+# Page 63 Column 2	
+drnkn	drunken
+drnknes	drunkenness
 dri	dry
-!	drier
-!	driest
-!	dryly
-drin	dryness
-!	dry-shod
+drir	drier
+dri-st	driest
+dra&e	dryly
+drines	dryness
+drishod	dry-shod
 dul	dual
 dubi	dubiety
 dubus	dubious
-ntbtb	indubitable
+ndbtb	indubitable
 dches	duchess
 duktl	ductile
 dukt^l	ductility
 dul	duel
 due	duly
-!	unduly
+n-due	unduly
 d-m	dumb
 d-mp	dump
-tnjn	dungeon
+dnjn	dungeon
 dplex	duplex
 dup	duplicate
 dupsh	duplication
-
-# Page 63 Column 3
-dupr	duplicator
-dups	duplicity
+	
+# Page 63 Column 3	
+dup^r	duplicator
+dup^s	duplicity
 drb	durable
 dr^b	durability
 dr	during
 drash	duration
 dust	dust
-tde	duty
-tdus	duteous
-tdeb	dutiable
-tdes	duties
-dtef	dutiful
-!	undutiful
+dte	duty
+dtus	duteous
+dteb	dutiable
+dtes	duties
+dte-f	dutiful
+n-dte-f	undutiful
 do_rf	dwarf
 de_l	dwell
 de_lt	dwelt
 de_ndl	dwindle
-!	dwindled
-dinmk	dynamic
+de_ndld	dwindled
+dinamek	dynamic
 dinami	dynamite
 dinamo	dynamo
-dinas	dynasty
-dspepsi	dyspepsia
+dinaste	dynasty
+dspepsa&’	dyspepsia
 dspep	dyspeptic
-
