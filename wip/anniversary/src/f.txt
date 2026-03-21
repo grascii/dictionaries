@@ -1,30 +1,30 @@
-# Page 77 Column 1
-fa~b	fable
+# Page 77 Column 1	
+fab	fable
 fabus	fabulous
 fabrk	fabric
 fabrk	fabricate
-!	fabrication
+fabrksh	fabrication
 fasad	facade
 fas	face
-fas(et	facet
-fash	facial
+faset	facet
+fashl	facial
 fasesh	facetious
 fasl	facile
-!	facilely
-faslta	facilitate
+fasle	facilely
+fasleta	facilitate
 fas^l	facility
-faks(em	facsimile
+faksem	facsimile
 fak	fact
 faksh	faction
-!	factional
+fakshl	factional
 fakshus	factious
 faktesh	factitious
 fakte~	factor
 faktre	factory
 fakl^v	facultative
-fakte	faculty
-
-# Page 77 Column 2
+fak^l	faculty
+	
+# Page 77 Column 2	
 mnf	manufacture
 fa~ni	Fahrenheit
 fal	fail
@@ -32,7 +32,7 @@ fald	failed
 falr	failure
 fath	faith
 fath)fnes	faithfulness
-fath)l	faithless
+fathl	faithless
 nfath)f	unfaithful
 fokn	falcon
 fo	fall
@@ -50,13 +50,13 @@ fote~	falter
 fam	fame
 dfam	defame
 famus	famous
-
-# Page 77 Column 3
-!	infamy
+	
+# Page 77 Column 3	
+nfame	infamy
 famel	familiar
 famel^r	familiarity
-famelisash	familiarization
-famelis	familiarize
+famelezash	familiarization
+fameliz	familiarize
 famele	familiarly
 nfamel	unfamiliar
 fama|	family
@@ -65,92 +65,92 @@ famn	famine
 famsh	famish
 fan^a	fanatic
 fanatss	fanaticism
-!	fanatics
+fan^as	fanatics
 fanse	fancy
 fanser	fancier
-!	fanciest
+fanse^st	fanciest
 fansef	fanciful
 fantse	fantasy
 fantsa&'	fantasia
-fant^s(t	fantastic
+fant^st	fantastic
 fa	far
-!	farsighted
+fasitd	farsighted
 fath)	farther
 fath)es	farthest
-
-# Page 78 Column 1
+	
+# Page 78 Column 1	
 fa~m	farm
-!	farmed
+fa~md	farmed
 fa~ma~|	farmers
-!	farmhouse
-!	farmyard
-farth'	farthing
-fas(nat	fascinate
-fas(nat-d	fascinated
-fas(nsh	fascination
+fa~m'us	farmhouse
+fa~ma~d	farmyard
+fath)'	farthing
+fasnat	fascinate
+fasnatd	fascinated
+fasnsh	fascination
 fash	fashion
 fashb	fashionable
-!	old-fashioned
+oldfashd	old-fashioned
 nfashb	unfashionable
-fas(t	fast
-fas(t-n	fasten
-fas(te~	faster
-fas(tst	fastest
-fas(tdus	fastidious
+fast	fast
+fasn	fasten
+faste~	faster
+fastes	fastest
+fastdus	fastidious
 fatl	fatal
 fat^l	fatality
-!	fatally
-fath	father
-fath^d	fatherhood
+fata|	fatally
+fath)	father
+fath)^d	fatherhood
 fath)lo	father-in-law
-fathlant	fatherland
-
-# Page 78 Column 2
+fathland	fatherland
+	
+# Page 78 Column 2	
 fathl	fatherless
-fa'm	fathom
+fath)m	fathom
 fateg	fatigue
 fatuus	fatuous
 fateute	fatuity
 foset	faucet
 fot	fault
-!	faultily
+fote|	faultily
 fotl	faultless
 fote	faulty
 fa	favor
 dsfa	disfavor
 fab	favorable
 fa^et	favorite
-!	favoritism
+fa^et-sm	favoritism
 fas	favors
 nfab	unfavorable
 fe^l	fealty
 fer	fear
 ferf	fearful
 ferl	fearless
-!	fearsome
+fer-sm	fearsome
 fesb	feasible
 fes^b	feasibility
 fest	feast
-
-# Page 78 Column 3
+	
+# Page 78 Column 3	
 feth)	feather
-!	featherweight
+feth)a_t	featherweight
 fetr	feature
-ds(fetr	disfeature
-!	febrile
-fed	federal
+dsfetr	disfeature
+febrl	febrile
+fedrl	federal
 kfedra	confederate
-!	federacy
-fedes	federalist
-!	federalize
+fedrse	federacy
+fedrles	federalist
+fedrliz	federalize
 fedra	federate
 fedrash	federation
 feb	feeble
 nfeb	enfeeble
-febn	feebleness
-feles(ta	felicitate
+febnes	feebleness
+felesta	felicitate
 felestus	felicitous
-fel^s)	felicity
+fel^s	felicity
 felin	feline
 feln	felon
 felonus	felonious
@@ -158,70 +158,70 @@ felne	felony
 fema~	female
 femnen	feminine
 femn^nt	femininity
-
-# Page 79 Column 1
+	
+# Page 79 Column 1	
 femur	femur
-fentr	fender
+fendr	fender
 fe~mnt	ferment
-!	fermentable
-fe~mnsh	fermentation
-!	unfermented
+fe~mntb	fermentable
+fe~mntsh	fermentation
+nfe~mntd	unfermented
 ferosh	ferocious
 fer^s	ferocity
-!	ferric
-!	ferrous
+ferek	ferric
+ferus	ferrous
 ferl	ferrule
 fe~tl	fertile
-!	fertility
-fe~tlezsh	fertilization
+fe~t^l	fertility
+fe~tlezash	fertilization
 fe~tliz	fertilize
-!	fertilizer
+fe~lizer	fertilizer
 fevr	fervor
 efeves	effervesce
 fevnse	fervency
 fevnt	fervent
 feved	fervid
 festl	festal
-fes(dfl	festival
+festvl	festival
 festv	festive
-fest^v	festivity
-
-# Page 79 Column 2
+festvte	festivity
+	
+# Page 79 Column 2	
 festun	festoon
 fetsh	fetish
 fevr	fever
-fevresh	feverish
+fevrsh	feverish
 fa&'sko	fiasco
 fa&et	fiat
 fibr	fiber
 fibrus	fibrous
 fekl	fickle
 feksh	fiction
-!	fictional
+fekshl	fictional
 fektesh	fictitious
 fed^l	fidelity
 nfedl	infidel
 prfede	perfidy
 fedshre	fiduciary
 feld	field
-fent	fiend
-fentsh	fiendish
+fend	fiend
+fendsh	fiendish
 fegr	figure
 dsfegr	disfigure
-fegradf	figurative
-!	figurehead
-t^fgr	transfigure
+fegratv	figurative
+fegr'ed	figurehead
+t^fegr	transfigure
 felam	filament
-
-# Page 79 Column 3
+	
+# Page 79 Column 3	
 felte~	filter
 felte~d	filtered
-!	filtration
+feltrash	filtration
 felth	filth
 finl	final
 finles	finalist
 fin^l	finality
-fine|	finally
+fina|	finally
 fenans	finance
 fenan	financial
 fenanser	financier
@@ -229,18 +229,18 @@ fi	find
 fi^r	finder
 fis	finds
 fin	fine
-fint	fined
+find	fined
 finnes	fineness
-!	finery
+fine~e	finery
 rfine~e	refinery
-fe~nge~	finger
-fe~nge~l	fingerling
+fenge~	finger
+fengerl'	fingerling
 fines	finis
 fensh	finish
 nfensht	unfinished
 fini	finite
-
-# Page 80 Column 1
+	
+# Page 80 Column 1	
 nfenet	infinite
 nfenetes	infinitesimal
 nfenetv	infinitive
@@ -248,88 +248,88 @@ nf^nt	infinity
 fir	fire
 fire	fiery
 firam	firearm
-!	firebrand
-!	firefly
-firmn	fireman
-!	fire plug
-!	fireproof
-!	fireside
+firbrand	firebrand
+firfli	firefly
+firman	fireman
+firplug	fire plug
+firprf	fireproof
+firsi	fireside
 fem	firm
-fem-n	firmness
+fem-nes	firmness
 femam	firmament
 fes	first
 feskl	fiscal
 fesh	fish
-!	fisherman
+feshe~man	fisherman
 feshe~e	fishery
-!	fishhook
-!	fishy
+fesh'uk	fishhook
+feshe	fishy
 feshu	fissure
 fest	fist
-
-# Page 80 Column 2
+	
+# Page 80 Column 2	
 fet	fit
 fetf	fitful
 fete	fitly
-!	fitness
+fit-nes	fitness
 fex	fix
-afes	affix
-!	fixation
+afex	affix
+fexash	fixation
 fextv	fixative
-fex-s	fixes
-!	fixity
+fexs	fixes
+fexte	fixity
 fextr	fixture
-prefes	prefix
-sufes	suffix
+prefex	prefix
+sufex	suffix
 t^fex	transfix
-flaks(ed	flaccid
+flaksed	flaccid
 flajla	flagellate
 flag	flagrant
 flag	flagrance
-flagse	flagrancy
+flag	flagrancy
 flam	flame
-!	flamboyant
+flamboent	flamboyant
 nflamsh	inflammation
-!	flamingo
+flamengo	flamingo
 flanj	flange
 flank	flank
-
-# Page 80 Column 3
+	
+# Page 80 Column 3	
 flanl	flannel
 flash	flash
-!	flashily
-!	flashy
+flashe|	flashily
+flashe	flashy
 flask	flask
 flatirn	flatiron
 flate~	flatter
-!	flattered
-!	flatterer
-!	flatters
+flate~d	flattered
+flate~^r	flatterer
+flate~|	flatters
 flate~e	flattery
 flont	flaunt
 flavr	flavor
-!	flavorous
+flavrus	flavorous
 flaxn	flaxen
 flet	fleet
 flex	flex
 flex^b	flexibility
 flexb	flexible
-flex^or	flexor
+flexor	flexor
 flexr	flexure
 nflexb	inflexible
 flekr	flicker
-fli	flight
-!	flighty
-
-# Page 81 Column 1
+flit	flight
+flite	flighty
+	
+# Page 81 Column 1	
 flench	flinch
 fleng	fling
 flent	flint
-flejnt	flippant
+flepnt	flippant
 fle~tsh	flirtation
 flot	float
-flotash	flotation
-flots(m	flotsam
+flotsh	flotation
+flotsm	flotsam
 flns	flounce
 flndr	flounder
 flr	flour
@@ -337,102 +337,102 @@ flrsh	flourish
 flr	flower
 flres	florist
 fluk	fluctuate
-!	fluctuated
-fluktsh	fluctuation
+fluk^t	fluctuated
+fluksh	fluctuation
 flunt	fluent
 flunse	fluency
 flud	fluid
-flutde	fluidity
-!	fluidrachm
+fludte	fluidity
+fludram	fluidrachm
 flum	flume
 flren	fluorine
-!	fluorescent
-
-# Page 81 Column 2
+flresnt	fluorescent
+	
+# Page 81 Column 2	
 flsh	flush
 flut	flute
 flute~	flutter
-!	fluttered
-!	fluttery
+flute~d	fluttered
+flute~e	fluttery
 fli	fly
-fli	flight
-!	flyer
+flit	flight
+flir	flyer
 fla&e_l	flywheel
 fkus	focus
-!	foci
-!	focuses
+fosi	foci
+fkuss	focuses
 fode~	fodder
-!	foghorn
+fog'orn	foghorn
 foeb	foible
 foel	foil
 foest	foist
 fold	fold
 foleo	folio
 folj	foliage
-!	foliation
+fola&'sh	foliation
 potfoleo	portfolio
 fok	folk
 fo	follow
-for	follower
-
-# Page 81 Column 3
+fo^r	follower
+	
+# Page 81 Column 3	
 fos	follows
 fomn-tsh	fomentation
-font	fond
-!	fondest
-fond-n	fondness
-fontnt	fondant
-fontl	fondle
+fond	fond
+fondes	fondest
+fond-nes	fondness
+fond-nt	fondant
+fondl	fondle
 ful	fool
-!	foolhardy
+fula~de	foolhardy
 fulsh	foolish
-!	foolscap
+fulskap	foolscap
 fut	foot
 futbol	football
-!	footboard
-!	footbridge
-!	footgear
-!	foothill
-!	foothold
+futbod	footboard
+futbrej	footbridge
+futger	footgear
+fut'el	foothill
+fut'old	foothold
 futlis	footlights
-!	footnote
-!	footpath
-!	footprint
-!	footsore
-!	footstep
-!	footstool
-
-# Page 82 Column 1
+fut-not	footnote
+futpath	footpath
+futprent	footprint
+fut-sor	footsore
+fut-step	footstep
+fut-stul	footstool
+	
+# Page 82 Column 1	
 f	for
 forj	forage
-fs(mch	forasmuch
+fsmch	forasmuch
 fora	foray
 fbar	forbear
 fbarns	forbearance
-!	forbore
+fbor	forbore
 fbd	forbid
-fbtn	forbidden
-fs(	force
-enfs(	enforce
-fs(t	forced
-fs(f	forceful
-fss)	forces
-!	reenforce
-fs(eps(	forceps
+fbdn	forbidden
+fs	force
+nfs	enforce
+fst	forced
+fsf	forceful
+fss	forces
+rnfs	reenforce
+fseps	forceps
 fsb	forcible
 f^a~m	forearm
 fbar	forebear
-!	foreboding
-fkas	forecast
-!	forecaster
-fchasl	forecastle
-fkls	foreclose
-fklshu	foreclosure
-
-# Page 82 Column 2
-ffe~nge~	forefinger
+fbod'	foreboding
+fkast	forecast
+fkaste~	forecaster
+fkasl	forecastle
+fklos	foreclose
+fkloshu	foreclosure
+	
+# Page 82 Column 2	
+ffenge~	forefinger
 fgn	foregone
-fgrnt	foreground
+fgrnd	foreground
 fn	foreign
 fne~	foreigner
 fnol	foreknowledge
@@ -442,85 +442,85 @@ fnun	forenoon
 f^odan	foreordain
 frne~	forerunner
 fores	forest
-forestre	forestry
+foresre	forestry
 fte~	foretell
 fto	foretold
 fthot	forethought
 f^umn	forewoman
 ffet	forfeit
 ffetr	forfeiture
-!	forgather
+fgath	forgather
 fj	forge
 fjd	forged
 fje~	forger
-fjre	forgery
+fje~e	forgery
 fget	forget
-
-# Page 82 Column 3
+	
+# Page 82 Column 3	
 fgetf	forgetful
-!	forgettable
+fgetb	forgettable
 fgt	forgot
-!	unforgettable
+nfgetb	unforgettable
 fge	forgive
 fga	forgave
-fgeb	forgivable
+fge^b	forgivable
 fge	forgiven
-nfgeb	unforgivable
-!	unforgiven
-!	forgo
+nfge^b	unforgivable
+nfge	unforgiven
+fg	forgo
 fork	fork
 flon	forlorn
 fm	form
 kfm	conform
 dfm	deform
-fm^l	formal
-fmlte	formality
-fme|	formally
+fml	formal
+fm^l	formality
+fma|	formally
 fmat	format
 fmsh	formation
-fmadf	formative
-fme~e~	formerly
+fmatv	formative
+fme~e	formerly
 nfml	informal
 eunfm	uniform
-
-# Page 83 Column 1
+	
+# Page 83 Column 1	
 fmal	formaldehyde
 fmedb	formidable
 fmula	formula
 fm^u	formulate
 fsak	forsake
 fsuth	forsooth
-fs(uar	forswear
-fkm'	forthcoming
-!	forthright
+fsuar	forswear
+fthkm'	forthcoming
+fth-ri	forthright
 ftheth	forthwith
 fdf	fortify
 ft^f	fortification
 ftres	fortress
-!	unfortified
+nfdf^t	unfortified
 ftet	fortitude
 ft-ni	fortnight
-ftutus	fortuitous
+fteutus	fortuitous
 ftn	fortune
 ftnat	fortunate
-ms(ftn	misfortune
+msftn	misfortune
 nftnat	unfortunate
 fd	forward
-fdr	forwarder
+fde~	forwarder
 fosel	fossil
 foste~	foster
-
-# Page 83 Column 2
+	
+# Page 83 Column 2	
 faul	foul
 fula~d	foulard
 fnd	found
-fntsh	foundation
-fntd	founded
+fndsh	foundation
+fndd	founded
 fndr	founder
 fndre	foundry
 fnt	fount
 fntn	fountain
-!	foursome
+fsm	foursome
 faul	fowl
 fox	fox
 frakas	fracas
@@ -532,24 +532,24 @@ fragm	fragment
 fragmre	fragmentary
 fr^l	frailty
 franch	franchise
-ds(franch	disfranchise
+dsfranch	disfranchise
 nfranch	enfranchise
 frant	frantic
 fren^a	frenetic
-
-# Page 83 Column 3
+	
+# Page 83 Column 3	
 fratnte	fraternity
 fratnl	fraternal
-!	fraternally
-!	fraternize
+fratna|	fraternally
+fratniz	fraternize
 frod	fraud
-!	defrauded
+dfrodd	defrauded
 frodlent	fraudulent
 fre	free
 fred	freed
-fretm	freedom
+fredm	freedom
 free	freely
-!	freeness
+frenes	freeness
 fra	freight
 fra^r	freighter
 frek	frequent
@@ -557,26 +557,26 @@ frek	frequency
 freke	frequently
 fresh	fresh
 freshn	freshen
-!	freshly
+freshe	freshly
 freshman	freshman
-!	freshness
+freshnes	freshness
 fretrk	fretwork
-!	friable
+frib	friable
 fr	friend
-
-# Page 84 Column 1
+	
+# Page 84 Column 1	
 frl	friendless
 fr	friendly
 fr^sh	friendship
-!	unfriendly
+nfr	unfriendly
 fregat	frigate
 fri	fright
 frin	frighten
 frint	frightened
-fritf	frightful
+frif	frightful
 frejd	frigid
 frejdte	frigidity
-!	frigidly
+frejde	frigidly
 rfrej^r	refrigerator
 frenj	fringe
 frev^l	frivolity
@@ -585,19 +585,19 @@ frok	frock
 frlek	frolic
 frnt	front
 frntj	frontage
-!	frontal
-!	fronted
+frntl	frontal
+frntd	fronted
 frnter	frontier
 frntespes	frontispiece
-fros(t	frost
-
-# Page 84 Column 2
-!	frosted
+frost	frost
+	
+# Page 84 Column 2	
+frostd	frosted
 froste	frosty
 froth	froth
 fro^d	froward
 frn	frown
-frnt	frowned
+frnd	frowned
 frug	frugal
 frut	fruit
 frutf	fruitful
@@ -614,22 +614,22 @@ rfeuj	refuge
 fukrm	fulcrum
 fuf	fulfill
 fufm	fulfillment
-nfufd	unfulfilled
+nfuf^t	unfulfilled
 fu	full
-!	fullness
-
-# Page 84 Column 3
-fu	fully
-!	fulminate
-!	fulmination
-fus(m	fulsome
+funes	fullness
+	
+# Page 84 Column 3	
+fue	fully
+fulmnat	fulminate
+fulmnsh	fulmination
+fusm	fulsome
 feum	fume
 feumeg	fumigate
 feumegsh	fumigation
 prfeum	perfume
 fnk	function
 fnk^l	functional
-fnt^m	fundamental
+fnd^m	fundamental
 feunerl	funereal
 fngus	fungus
 fnji	fungi
@@ -639,33 +639,32 @@ flo	furlough
 fnas	furnace
 fnsh	furnish
 fneshe~	furnisher
-!	furnishings
+fnsh^s(	furnishings
 fnetr	furniture
 nfnesht	unfurnished
 feurr	furor
 fth)	further
-
-# Page 85 Column 1
+	
+# Page 85 Column 1	
 fth)ns	furtherance
-tth)m	furthermore
+fth)m	furthermore
 fth)es	furthest
-fdf	furtive
+ftv	furtive
 feure	fury
 feurus	furious
-
-# Page 85 Column 2
-feus	fuse
+	
+# Page 85 Column 2	
+feu	fuse
 feu^b	fusibility
-!	fusible
+feub	fusible
 feush	fusion
 nfeu	infuse
 t^feu	transfuse
-
-# Page 85 Column 3
-!	fuselage
+	
+# Page 85 Column 3	
+feuslj	fuselage
 feutl	futile
 feut^l	futility
 ft	future
-ft^s(t	futurist
+ft^st	futurist
 ft^r	futurity
-
