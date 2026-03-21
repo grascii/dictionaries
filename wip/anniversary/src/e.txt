@@ -1,8 +1,8 @@
-# Page 64 Column 1
+# Page 64 Column 1	
 ech	each
 egr	eager
-!	eagerly
-egrn	eagerness
+egre	eagerly
+egrnes	eagerness
 er	ear
 e~drm	eardrum
 e~mark	earmark
@@ -11,74 +11,74 @@ ere	early
 erer	earlier
 eres	earliest
 e~ns	earnest
-e~nse~	earnestly
-e~nsn	earnestness
+e~nse	earnestly
+e~nsnes	earnestness
 erth	earth
-!	earthen
-!	earthenware
-!	earthliness
+erthn	earthen
+erthna~_	earthenware
+erthenes	earthliness
 erth^ka_k	earthquake
-!	earthward
-!	earthwork
-!	earthworm
-!	unearth
+erth^d	earthward
+erthrk	earthwork
+erth^uum	earthworm
+unerth	unearth
 es	ease
-
-# Page 64 Column 2
+	
+# Page 64 Column 2	
 eser	easier
 ese^st	easiest
 ese|	easily
 esenes	easiness
-!	uneasiness
+unesenes	uneasiness
 unese	uneasy
 est	east
-es(tn	eastern
-!	easterner
-es^d	eastward
+estn	eastern
+estnr	easterner
+est^d	eastward
 et	eat
 etb	eatable
 etn	eaten
-!	eater
-!	uneaten
+ete~	eater
+unetn	uneaten
 ebne	ebony
-!	ebullient
-!	ebullience
+ebulent	ebullient
+ebulens	ebullience
 ebulesh	ebullition
-es(n^k	eccentric
-esn^s)	eccentricity
-ekles^s(t	ecclesiastic
-!	éclat
-eklek	eclectic
+esn^k	eccentric
+esn^s	eccentricity
+ekles^st	ecclesiastic
+ekla	éclat
+eklektek	eclectic
 ekleps	eclipse
-
-# Page 64 Column 3
-!	eclipsed
-eke	economy
-ekek	economic
-ek^k	economical
+	
+# Page 64 Column 3	
+eklepst	eclipsed
+ekme	economy
+ekmek	economic
+ekm^k	economical
 ekmes	economist
 ekmiz	economize
-es(tse	ecstasy
-es(t^a	ecstatic
-es(ema	eczema
+estse	ecstasy
+est^a	ecstatic
+esema	eczema
 edb	edible
 ed^b	edibility
-!	inedible
+enedb	inedible
 edfes	edifice
 ed^f	edification
 edf	edify
-etd	edit
+edt	edit
 edsh	edition
-etde~	editor
-etdrl	editorial
-!	editorially
-!	unedited
+edte~	editor
+edtrl	editorial
+edtra|	editorially
+unedt^t	unedited
 edu	educate
 edu	education
 edu^l	educational
 edu^r	educator
-
-# Page 65 Column 1
+	
+# Page 65 Column 1	
 nedu^t	uneducated
 efas	efface
 dfas	deface
@@ -86,26 +86,26 @@ efasm	effacement
 fk	effect
 fkv	effective
 fktl	effectual
-fkte|	effectually
-!	effectuate
-!	effectuation
+fkte	effectually
+fkteut	effectuate
+fkteush	effectuation
 nfktl	ineffectual
 efemnat	effeminate
 efemnse	effeminacy
 efeves	effervesce
-efervesns	effervescence
-efervesnt	effervescent
+efevesns	effervescence
+efevesnt	effervescent
 efkash	efficacious
 efkse	efficacy
 efesht	efficient
 efeshse	efficiency
-nfshse	inefficiency
-nfsht	inefficient
-eflres(nt	efflorescent
-!	efflux
+enefeshse	inefficiency
+enefesht	inefficient
+efloresnt	efflorescent
+eflux	efflux
 nflux	influx
-
-# Page 65 Column 2
+	
+# Page 65 Column 2	
 eft	effort
 eftl	effortless
 efrntre	effrontery
@@ -113,17 +113,17 @@ efuljnt	effulgent
 efeush	effusion
 efeuv	effusive
 ego	ego
-!	egoism
-egos(t	egoist
-egt-sm	egotism
+ego-sm	egoism
+ego-st	egoist
+egtsm	egotism
 egtes	egotist
-egt^s(t	egotistic
+egt^st	egotistic
 egrejus	egregious
 egres	egress
 kg	congress
 n-gres	ingress
 prg	progress
-tgres	transgress
+t^gres	transgress
 eth)	either
 ejak^u	ejaculate
 ejk	eject
@@ -131,16 +131,16 @@ ejksh	ejection
 njk	inject
 rjk	reject
 elab	elaborate
-
-# Page 65 Column 3
+	
+# Page 65 Column 3	
 elabsh	elaboration
-el^s(t	elastic
-elas^s)	elasticity
+el^st	elastic
+elas^s	elasticity
 elek	elect
-elsh	election
-elshe~	electioneer
+elesh	election
+eleshe~	electioneer
 elekv	elective
-elektr	elector
+elekr	elector
 elekrl	electoral
 elekra	electorate
 relek	reelect
@@ -150,55 +150,55 @@ el^sh	electrician
 el^s	electricity
 el^f	electrification
 el^f	electrify
-!	electrocute
+el^keut	electrocute
 el^d	electrode
 el^ler	electrolier
 el^lss	electrolysis
-!	electrolyte
+el^lit	electrolyte
 elm^t	electromagnet
 el^n	electron
-el^p	electroplate
-
-# Page 66 Column 1
-el^t	electrotype
+el^plat	electroplate
+	
+# Page 66 Column 1	
+el^tip	electrotype
 elemos	eleemosynary
 eleg	elegant
 eleg	elegance
-!	elegantly
+elege	elegantly
 eneleg	inelegant
 elem	element
 el^m	elemental
-!	elementally
+el^me	elementally
 elemre	elementary
 elfnt	elephant
-!	elephantine
-e~lvat	elevate
-e~lvat-d	elevated
-e~lvash	elevation
-e~lvate~	elevator
-eles(t	elicit
-!	elicitation
-!	elicited
+elfnten	elephantine
+elvat	elevate
+elvatd	elevated
+elvash	elevation
+elvate~	elevator
+elest	elicit
+elessh	elicitation
+elestd	elicited
 elid	elide
 elesh	elision
 elejb	eligible
 elej^b	eligibility
-enelej	ineligible
+enelejb	ineligible
 elemnat	eliminate
-
-# Page 66 Column 2
-elemnat-d	eliminated
+	
+# Page 66 Column 2	
+elemnatd	eliminated
 elemnsh	elimination
-!	eliminative
+elemnatv	eliminative
 alet	elite
 elexer	elixir
 eleps	ellipse
 elepss	ellipsis
-eleps(oe	ellipsoid
+elepsoe	ellipsoid
 eleptek	elliptic
-elep^k	elliptical
+elept^k	elliptical
 eloksh	elocution
-elokshst	elocutionist
+elokshes	elocutionist
 elongat	elongate
 elngsh	elongation
 elok	eloquent
@@ -209,190 +209,190 @@ lsar	elsewhere
 elusedt	elucidate
 elusedsh	elucidation
 elud	elude
-elsh	elusion
-elus(v	elusive
-!	elusory
-
-# Page 66 Column 3
+e,lsh	elusion
+e,lusv	elusive
+e,lusre	elusory
+	
+# Page 66 Column 3	
 emasha&'t	emaciate
-emasha&'^t	emaciated
+emasha&'td	emaciated
 emasha&'sh	emaciation
 emnat	emanate
-!	emanated
+emnatd	emanated
 emnsh	emanation
 emnsep	emancipate
 emnsepsh	emancipation
-!	emancipator
+emnsep^r	emancipator
 mbankm	embankment
 mbago	embargo
-!	embarkation
+mbarkash	embarkation
 mbaras	embarrass
-mbarasd	embarrassed
-!	embarrasses
+mbarast	embarrassed
+mbarass	embarrasses
 mbarasm	embarrassment
 mbase	embassy
 ambas	ambassador
 mbezl	embezzle
-!	embezzled
+mbezld	embezzled
 mbezlm	embezzlement
 mbezlr	embezzler
 mblem	emblem
 mblem^a	emblematic
 mbo	embody
-
-# Page 67 Column 1
+	
+# Page 67 Column 1	
 mbos	embodies
 mbom	embodiment
 mboldn	embolden
-!	emboldened
+mboldnd	emboldened
 mbras	embrace
-mbroe	embroider
-!	embroideries
-mbroe~de~e~	embroidery
-!	embryonic
+mbroede~	embroider
+mbroede~es	embroideries
+mbroede~e	embroidery
+mbreonek	embryonic
 emndsh	emendation
 emrld	emerald
 emej	emerge
 emejd	emerged
 emej	emergence
-emej	emergency
-!	emergent
+emejse	emergency
+emejnt	emergent
 eme~tus	emeritus
 emeg	emigrate
 emeg	emigrant
-emgraz	emigration
+emegsh	emigration
 emeg	immigrate
 emn	eminent
 emns	eminence
-!	eminently
+emne	eminently
 emn	imminent
-
-# Page 67 Column 2
-emesre	emissary
+	
+# Page 67 Column 2	
+emesare	emissary
 emet	emit
 emsh	emission
 emolent	emollient
 emolm	emolument
 emosh	emotion
 emoshl	emotional
-emoshle	emotionally
+emosha|	emotionally
 unemoshl	unemotional
 mprr	emperor
 mpres	empress
 mfass	emphasis
-mfassd	emphasized
+mfass^t	emphasized
 mfasss	emphasizes
 mf^a	emphatic
 mpi	empire
 mperk	empiric
-!	empirical
+mper^k	empirical
 mperss	empiricism
 mpl	employ
 mple	employee
 mplr	employer
 mplm	employment
-!	unemployment
+n-mplm	unemployment
 mporm	emporium
-
-# Page 67 Column 3
+	
+# Page 67 Column 3	
 mte	empty
 mted	emptied
-!	emptiest
+mte^st	emptiest
 mtenes	emptiness
 em^u	emulate
 emlus	emulous
-emuls(f	emulsify
+emulsf	emulsify
 emulsh	emulsion
 enb	enable
 en^b	inability
 nb	unable
 enak	enact
-!	enactment
+enakm	enactment
 renak	reenact
 enaml	enamel
-!	enameled
+enamld	enameled
 n-kampm	encampment
 nchant	enchant
-!	enchanted
+nchantd	enchanted
 nchantm	enchantment
-ns(ekl	encircle
-!	enclose
-!	enclosure
+nsekl	encircle
+nk	enclose
+nk^r	enclosure
 n-komn	encomium
-n-kom^s(t	encomiastic
-
-# Page 68 Column 1
+n-kom^st	encomiastic
+	
+# Page 68 Column 1	
 an-kor	encore
-n-kao	encounter
-n-kaod	encountered
-n-kaos	encounters
+n-k^	encounter
+n-k^d	encountered
+n-ks^	encounters
 n-krj	encourage
-ds(krj	discourage
+dskrj	discourage
 n-krjd	encouraged
 n-krjm	encouragement
 n-krjs	encourages
-!	encroachment
+n-krochm	encroachment
 n-kmbrans	encumbrance
-ns(ikl^k	encyclical
-n-siklo	encyclopedia
-!	encyclopedic
+n-sikl^k	encyclical
+n-siklopda&’	encyclopedia
+n-siklopdek	encyclopedic
 nd	end
-!	ended
-ntl	endless
-!	unending
-ntnje~	endanger
-ntnje~d	endangered
+ndd	ended
+ndl	endless
+n-nd’	unending
+ndnje~	endanger
+ndnje~d	endangered
 n-dem	endearment
-ndfr	endeavor
-!	endemic
-!	endorse
-ntos(m	endorsement
-
-# Page 68 Column 2
-!	unendorsed
+n-dvr	endeavor
+ndmek	endemic
+ndos	endorse
+ndosm	endorsement
+	
+# Page 68 Column 2	
+n-ndost	unendorsed
 ndau	endow
-!	endowed
+ndaud	endowed
 ndaum	endowment
-!	unendowed
-ntr	endure
-!	endurable
-ntrans	endurance
-!	unendurable
+n-ndaud	unendowed
+ndr	endure
+ndrb	endurable
+ndrans	endurance
+n-ndrb	unendurable
 eneme	enemy
 n^mt	enmity
 enem^k	inimical
 nrj	energy
 nrj^a	energetic
-nrjis	energize
+nrjiz	energize
 nfeb	enfeeble
-!	enfold
-enfs(	enforce
-!	enforceable
-enfs(d	enforced
-enfs(m	enforcement
-enfs(s	enforces
-!	reenforce
+nfold	enfold
+nfs	enforce
+nfsb	enforceable
+nfst	enforced
+nfsm	enforcement
+nfss	enforces
+rnfs	reenforce
 nfranch	enfranchise
-!	enfranchisement
-
-# Page 68 Column 3
+nfranchm	enfranchisement
+	
+# Page 68 Column 3	
 n-ga	engage
-ds(n-ga	disengage
+dsn-ga	disengage
 n-gam	engagement
 n-gas	engages
-!	reengage
+rn-ga	reengage
 njn	engine
 njne~	engineer
 engsh	English
-!	engraver
+n-gravr	engraver
 n-gros	engross
-n'ans	enhance
-n'ansm	enhancement
-!	unenhanced
+en'ans	enhance
+en'ansm	enhancement
+unen’anst	unenhanced
 enegma	enigma
 enegm^a	enigmatic
 njoen	enjoin
-!	enjoined
+njoend	enjoined
 njnk	injunction
 njoe	enjoy
 njoeb	enjoyable
@@ -400,48 +400,48 @@ njoed	enjoyed
 njoem	enjoyment
 njoes	enjoys
 nlaj	enlarge
-!	enlarged
-
-# Page 69 Column 1
+nlajd	enlarged
+	
+# Page 69 Column 1	
 nlajm	enlargement
 nlin	enlighten
-nlin-d	enlightened
+nlind	enlightened
 nlinm	enlightenment
-n-nli^nd	unenlightened
+n-nlind	unenlightened
 nls	enlist
 nlsm	enlistment
-!	enlists
-!	reenlists
-nlivn	enliven
+nls-s	enlists
+rnls-s	reenlists
+nlavn	enliven
 n^mt	enmity
 enob	ennoble
-!	ennoblement
+enobm	ennoblement
 angne_	ennui
 enom	enormous
-en^mt	enormity
+enomete	enormity
 enome	enormously
 nuf	enough
 nraptr	enrapture
 nrech	enrich
-!	enriched
-!	enrichment
-ns(kns	ensconce
-ns(in	ensign
+nrecht	enriched
+nrechm	enrichment
+n-skns	ensconce
+n-sin	ensign
 nselj	ensilage
-
-# Page 69 Column 2
+	
+# Page 69 Column 2	
 nslav	enslave
-nsu	ensue
-!	ensued
-!	ensues
-!	entablature
+n-su	ensue
+n-sud	ensued
+n-sus	ensues
+ntablatr	entablature
 ntal	entail
-ntal-d	entailed
-ntang	entangle
-!	disentangled
+ntald	entailed
+ntangl	entangle
+dsntangld	disentangled
 n^	enter
-n^d^	entered
-!	enters
+n^d	entered
+ns^	enters
 n^ns	entrance
 n^nt	entrant
 ntre	entry
@@ -452,242 +452,242 @@ n^tn	entertain
 n^tnd	entertained
 n^tnr	entertainer
 n^tnm	entertainment
-nth(rol	enthrall
-!	enthralled
+nthrol	enthrall
+nthrold	enthralled
 nthron	enthrone
-
-# Page 69 Column 3
-!	enthroned
+	
+# Page 69 Column 3	
+nthrond	enthroned
 nthus	enthusiasm
-nthus(t	enthusiast
-nthus^s(t	enthusiastic
+nthus-st	enthusiast
+nthus^st	enthusiastic
 nthus^sta|	enthusiastically
-!	unenthusiastic
+n-nthus^st	unenthusiastic
 ntis	entice
-!	enticed
-!	entices
+ntist	enticed
+ntiss	entices
 nti	entire
 nta&e	entirely
 ntite	entirety
 ntit	entitle
 ntete	entity
-!	entomb
-!	entombed
-!	entombment
+ntum	entomb
+ntumd	entombed
+ntum-m	entombment
 ntm^o(	entomology
-!	entrain
+ntran	entrain
 n^ns	entrance
-!	entrap
+ntrap	entrap
 n^t	entreat
 ntrs	entrust
 ntre	entry
-!	entryway
-
-# Page 70 Column 1
+ntrea_	entryway
+	
+# Page 70 Column 1	
 nti_n	entwine
-!	entwined
+nti_nd	entwined
 eneum	enumerate
 eneumsh	enumeration
-!	enumerator
+eneum^r	enumerator
 enunsa&'	enunciate
 enunsa&'sh	enunciation
-!	enunciator
+enunsa&’^r	enunciator
 nvl	envelope
-!	envelopment
-!	environs
-nvirmn	environment
+nvlm	envelopment
+nvirns	environs
+nvirnm	environment
 nvoe	envoy
 nve	envy
 nveb	enviable
 nvus	envious
-!	unenviable
-!	enzyme
-!	epaulet te
+n-nveb	unenviable
+nzim	enzyme
+epolet	epaulette
 efemerl	ephemeral
-efemerle	ephemerally
+efemerla|	ephemerally
 epk	epic
 ep^k	epical
 epkr	epicure
 epkrn	epicurean
-
-# Page 70 Column 2
+	
+# Page 70 Column 2	
 eptmek	epidemic
 epdemek	epidermic
 epdemes	epidermis
-!	epiglottis
+epglotes	epiglottis
 ep^g	epigram
 epelepse	epilepsy
 epelep	epileptic
 epelog	epilogue
-epes(k	episcopal
-epes(k^a&'n	episcopalian
+epesk	episcopal
+epesk^a&'n	episcopalian
 epesod	episode
-!	episodic
+epesodek	episodic
 epesl	epistle
 eptaf	epitaph
 epthe~lm	epithelium
 epthet	epithet
 eptme	epitome
-eptmis	epitomize
+eptmiz	epitomize
 epok	epoch
 ep^k	epochal
 ekb	equable
 ek^b	equability
 ekl	equal
 eku	equality
-eklezsh	equalization
-
-# Page 70 Column 3
-eklis	equalize
+eklezash	equalization
+	
+# Page 70 Column 3	
+ekliz	equalize
 ekle	equally
-nekl-d	unequaled
-ekan^mt	equanimity
-ekash	equation
-ekate~	equator
-ekatrl	equatorial
+unekld	unequaled
+eka_n^mt	equanimity
+eka_sh	equation
+eka_te~	equator
+eka_trl	equatorial
 eke_stra&'n	equestrian
 eka&'_ngu	equiangular
-!	equidistant
+eke_dstnt	equidistant
 eke_lat	equilateral
 eke_leb	equilibrium
-!	equilibrist
+eke_leb^st	equilibrist
 eki_n	equine
 eke_nox	equinox
 eke_noksh	equinoctial
-ekp	equip
+eke_p	equip
 eke_pj	equipage
 eke_pm	equipment
 eke_te	equity
 eke_tb	equitable
-!	inequitable
+eneke_tb	inequitable
 eneke_te	inequity
 eke_v	equivalent
 eke_v^k	equivocal
-
-# Page 71 Column 1
+	
+# Page 71 Column 1	
 eke_vk	equivocate
-!	equivocation
-!	equivocator
+eke_vksh	equivocation
+eke_vk^r	equivocator
 eradek	eradicate
-!	eradicable
-!	eradication
-!	ineradicable
+eradekb	eradicable
+eradeksh	eradication
+eneradekb	ineradicable
 eras	erase
 erasb	erasable
-erasr	eraser
-erash	erasure
+eraser	eraser
+erashu	erasure
 erek	erect
 erektl	erectile
 erek^l	erectility
 ereksh	erection
-!	erectness
-!	erector
-!	ergo
+ereknes	erectness
+erekr	erector
+ergo	ergo
 e~mn	ermine
-!	erode
+erod	erode
 erosh	erosion
-!	erosive
+erosv	erosive
 er	err
 aberash	aberration
-!	errata
-
-# Page 71 Column 2
+erata	errata
+	
+# Page 71 Column 2	
 er^a	erratic
 eratm	erratum
 enerant	inerrant
-!	unerringly
-erant	errand
+uner^e	unerringly
+erand	errand
 err	error
 eronus	erroneous
 erudi	erudite
 erudsh	erudition
 erp	erupt
 erpsh	eruption
-!	eruptive
+erp^v	eruptive
 eresep	erysipelas
-es(klatr	escalator
-es(kpa	escapade
-es(kp	escape
-!	escaped
+esklate~	escalator
+eskpa	escapade
+eskp	escape
+eskpt	escaped
 eskpm	escapement
-!	inescapable
+enes)kpb	inescapable
 eschet	escheat
 eschu	eschew
-!	eschewal
-es(kot	escort
-!	escorted
-!	unescorted
-
-# Page 71 Column 3
+eschul	eschewal
+eskot	escort
+eskotd	escorted
+unes)kotd	unescorted
+	
+# Page 71 Column 3	
 eskro	escrow
-es(kchn	escutcheon
+eskchn	escutcheon
 esp	especial
 espe	especially
 espnj	espionage
-!	esplanade
+esplanad	esplanade
 espaus	espouse
-!	espousal
+espausl	espousal
 espre	esprit
-es(ki	esquire
-!	essayist
-es(ns	essence
-es(nsh	essential
-es(nshe	essentially
-ke_ntes	quintessence
-es(tbm	establishment
-es(t	estate
-es(tm	esteem
-es(tmd	esteemed
+eski	esquire
+esa^st	essayist
+esns	essence
+esnsh	essential
+esnsha|	essentially
+ke_ntes)ns	quintessence
+estbm	establishment
+est	estate
+estm	esteem
+estmd	esteemed
 estmb	estimable
-enestmb	inestimable
-es(th^a	esthetic
-es(tmat	estimate
-es(tmatd	estimated
-es(tmsh	estimation
-
-# Page 72 Column 1
-!	estimator
-!	estop
-es(tpl	estoppel
-es(tjd	estranged
+enes)tmb	inestimable
+esth^a	esthetic
+estmat	estimate
+estmatd	estimated
+estmsh	estimation
+	
+# Page 72 Column 1	
+estmate~	estimator
+estp	estop
+estpl	estoppel
+estjd	estranged
 estjm	estrangement
-es(tre	estuary
+estre	estuary
 ech	etch
 etnl	eternal
-etnle	eternally
+etna|	eternally
 etnte	eternity
 eth)	ether
-eth)l	ethereal
-!	etherealize
+ethl	ethereal
+ethliz	etherealize
 etheks	ethics
 eth^k	ethical
-!	unethical
+uneth^k	unethical
 ethnek	ethnic
 ethn^o(	ethnology
-!	ethyl
+ethl	ethyl
 etm^o(	etymology
 eukleptus	eucalyptus
 eukr	euchre
 eulje	eulogy
 euljiz	eulogize
-eufms(m	euphemism
-
-# Page 72 Column 2
-!	euphemistic
+eufm-sm	euphemism
+	
+# Page 72 Column 2	
+eufm^st	euphemistic
 eufne	euphony
 evakeut	evacuate
-!	evacuated
-!	evacuation
+evakeutd	evacuated
+evakeush	evacuation
 evad	evade
-!	evaded
+evadd	evaded
 evash	evasion
 evasv	evasive
 evleut	evaluate
-evleut-d	evaluated
+evleutd	evaluated
 evlsh	evaluation
-evanes	evanescent
-!	evanescence
-evanj^s(t	evangelist
+evanesnt	evanescent
+evanesns	evanescence
+evanj^st	evangelist
 evanj^k	evangelical
 evap	evaporate
 evapsh	evaporation
@@ -697,341 +697,340 @@ evntf	eventful
 evntl	eventual
 evnt^l	eventuality
 evntle	eventually
-!	eventuate
-
-# Page 72 Column 3
+evnteut	eventuate
+	
+# Page 72 Column 3	
 unevntf	uneventful
 ev	ever
 otev	whatever
 enev	whenever
 arev	wherever
 chev	whichever
-ev	every
+eve	every
 evbo	everybody
 ev'	everything
 evar	everywhere
 evek	evict
 eveksh	eviction
-evtn	evident
-evtn	evidence
+evdn	evident
+evdns	evidence
 evl	evil
-!	evilly
+eve|	evilly
 evens	evince
 evk	evoke
 evkash	evocation
 evol	evolve
 evolsh	evolution
 evolshes	evolutionist
-ess)rbash	exacerbation
-es(ak	exact
+essrbash	exacerbation
+esak	exact
 esaksh	exaction
-
-# Page 73 Column 1
-es(aktet	exactitude
-esakn	exactness
-nes(ak	inexact
+	
+# Page 73 Column 1	
+esaktet	exactitude
+esaknes	exactness
+nes)ak	inexact
 esaj	exaggeration
-es(olt	exalt
-!	exaltation
-!	exalted
-es(amn	examine
-!	examnation
-es(amp	example
-esemplre	exemplary
-!	exemplification
-es(empf	exemplify
-s(amp	sample
-nesamp^t	unexampled
+esolt	exalt
+esoltsh	exaltation
+esoltd	exalted
+esamn	examine
+esamnsh	examnation
+esamp	example
+esemp^re	exemplary
+esemp^f	exemplification
+esempf	exemplify
+samp	sample
+nes)amp^t	unexampled
 esasp	exasperate
-!	exasperation
+esaspsh	exasperation
 eskavat	excavate
 eskavash	excavation
-!	excavator
-es(ed	exceed
-es(ed-d	exceeded
-es(l	excel
-!	excelled
-es(l	excellence
-
-# Page 73 Column 2
-es(le	excellency
-es(l	excellent
-esls(or	excelsior
+eskavate~	excavator
+esed	exceed
+esedd	exceeded
+es-l	excel
+es-ld	excelled
+es-l	excellence
+	
+# Page 73 Column 2	
+es-le	excellency
+es-l	excellent
+es-lsor	excelsior
 sep	except
-!	exceptionable
-nsepsh	unexceptionable
+sepshb	exceptionable
+nsepshb	unexceptionable
 esep	excerpt
 eses	excess
-eses(v	excessive
+esesv	excessive
 es(ch	exchange
 es(chb	exchangeable
-es(chkr	exchequer
+es(chekr	exchequer
 esis	excise
-!	excision
-es(it	excite
+esesh	excision
+esit	excite
 esit^b	excitability
 esitb	excitable
-!	excitant
-es(etsh	excitation
-es(it-m	excitement
-!	exciter
+esit-nt	excitant
+esetsh	excitation
+esit-m	excitement
+esite~	exciter
 es^m	exclaim
-!	exclaimed
+es^md	exclaimed
 es^msh	exclamation
 es^mre	exclamatory
-
-# Page 73 Column 3
+	
+# Page 73 Column 3	
 es^d	exclude
-es^d-d	excluded
+es^dd	excluded
 es^sh	exclusion
-es^s(v	exclusive
+es^sv	exclusive
 e^d	include
-e^td	included
-es(kmu	excommunicate
-!	excoriate
-es(kres(ns	excrescence
-es(krsha&'t	excruciate
-es(klpat	exculpate
-!	exculpation
-!	exculpatory
-es(krsh	excursion
-es(keu	excuse
-eskeu^b	excusable
-!	excuses
-nes(keub	inexcusable
-es(ekra	execrate
-es(ekrb	execrable
-!	execration
-es(k	execute
-es(knt	executant
-es(ksh	execution
-es(kshr	executioner
-
-# Page 74 Column 1
-es(ekv	executive
-es(k^r	executor
-es(k^rex	executrix
-es(empf	exemplify
-es(emp^r	exemplar
-esemplre	exemplary
-!	exemplification
-es(emt	exempt
-es(emsh	exemption
-es(eka_te~	exequatur
-es(r	exercise
-es(rs	exercises
-es(et	exert
-es(etd	exerted
+e^dd	included
+eskmu	excommunicate
+eskora^’t	excoriate
+eskresns	excrescence
+eskrsha&'t	excruciate
+esklpat	exculpate
+esklpash	exculpation
+esklpatre	exculpatory
+eskrsh	excursion
+eskeu	excuse
+eskeub	excusable
+eskeus	excuses
+nes)keub	inexcusable
+esekra	execrate
+esekrb	execrable
+esekrash	execration
+esk	execute
+esknt	executant
+esksh	execution
+eskshe~	executioner
+	
+# Page 74 Column 1	
+esekv	executive
+esk^r	executor
+esk^rex	executrix
+esempf	exemplify
+esemp^r	exemplar
+esemp^re	exemplary
+esemp^f	exemplification
+esemt	exempt
+esemsh	exemption
+eseka_te~	exequatur
+es-r	exercise
+es-rs	exercises
+es(e~t	exert
+es(e~td	exerted
 es(esh	exertion
 es'al	exhale
-!	exhalation
-es(os	exhaust
-!	exhaustible
-es(ossh	exhaustion
+es’alash	exhalation
+esos	exhaust
+esosb	exhaustible
+esossh	exhaustion
 esosv	exhaustive
-es(osl	exhaustless
-nes(osb	inexhaustible
+esosl	exhaustless
+nesosb	inexhaustible
 esebt	exhibit
-!	exhibited
-
-# Page 74 Column 2
+esebtd	exhibited
+	
+# Page 74 Column 2	
 esebsh	exhibition
-esebtr	exhibitor
+esebte~	exhibitor
 eselra	exhilarate
 eselrash	exhilaration
-es(ot	exhort
+esot	exhort
 esotsh	exhortation
-!	exhorted
+esotd	exhorted
 es'eum	exhume
-!	exhumation
-!	exhumed
+es’eumsh	exhumation
+es’eumd	exhumed
 en'eum	inhume
 esejnt	exigent
-!	exigency
-es(eg	exiguous
+esejse	exigency
+eseg	exiguous
 esil	exile
-!	exiled
-eses	exist
-ess	existence
-ess^nt	existent
-es(et	exit
-es(dus	exodus
-es(ofes(o	ex officio
-es(onra	exonerate
-!	exoneration
-!	exonerative
-
-# Page 74 Column 3
-es(obtn	exorbitant
-es(odem	exordium
-esoterk	exoteric
-!	esoterical
+esild	exiled
+ess(	exist
+ess(	existence
+ess(^nt	existent
+eset	exit
+esdus	exodus
+esofeso	ex officio
+esonra	exonerate
+esonrash	exoneration
+esonra^v	exonerative
+	
+# Page 74 Column 3	
+esobtn	exorbitant
+esodem	exordium
+es(oterk	exoteric
+esoter^k	esoterical
 es^a	exotic
 espand	expand
 espans	expanse
-espansv	expansible
+espansb	expansible
 espansh	expansion
 espansv	expansive
 espasha&'t	expatiate
-!	expatiated
-!	expatiation
+espasha^’td	expatiated
+espasha^’sh	expatiation
 esptra&'t	expatriate
 esp	expect
 espnse	expectancy
 esp^nt	expectant
 espsh	expectation
-!	unexpectedly
+nesp^te	unexpectedly
 espktra	expectorate
-esptnt	expedient
+espdnt	expedient
 espdns	expedience
 espdi	expedite
-esptsh	expedition
-esptesh	expeditious
-
-# Page 75 Column 1
+espdsh	expedition
+espdesh	expeditious
+	
+# Page 75 Column 1	
 espl	expel
-!	expelled
+espld	expelled
 esplsh	expulsion
-esjnt	expend
-esjntetr	expenditure
+espnd	expend
+espndetr	expenditure
 espns	expense
-es(^v	expensive
-esp	experience
+espnsv	expensive
+spe	experience
 nspe^t	inexperienced
 esprem	experiment
-espreml	experimental
+espr^m	experimental
 espremsh	experimentation
-!	experimenter
-e~spe~t	expert
+espremr	experimenter
+espe~t	expert
 espa&'t	expiate
 espa&'sh	expiation
-!	expiatory
+espa&’tre	expiatory
 espi	expire
 esprash	expiration
-epl	explain
-!	explainable
+espl	explain
+esplb	explainable
 esplsh	explanation
 espl^re	explanatory
 espletv	expletive
-esplek	explicable
-
-# Page 75 Column 2
+esplekb	explicable
+	
+# Page 75 Column 2	
 nesplekb	inexplicable
-esples(t	explicit
+esplest	explicit
 esplod	explode
 esplosh	explosion
 esploe	exploit
-espoetsh	exploitation
+esploesh	exploitation
 esplr	explore
-esplrsh	exploration
-esplrtre	exploratory
+esplrash	exploration
+esplratre	exploratory
 espon	exponent
 esponsh	exponential
 espot	export
-!	exportable
-esporsh	exportation
+espotb	exportable
+espotsh	exportation
 espotd	exported
-espotr	exporter
+espote~	exporter
 espo	expose
 espos	exposes
-espoz	exposition
+esposh	exposition
 espos^r	expositor
-!	expository
+espos^re	expository
 espos^u	expostulate
 espn	expound
 espr	express
 esprj	expressage
-
-# Page 75 Column 3
-!	expressible
+	
+# Page 75 Column 3	
+esprb	expressible
 espresh	expression
 esprv	expressive
-!	expressman
+esprman	expressman
 nespr^t	unexpressed
 esprpra&'t	expropriate
-!	expropriation
+esprpra&’sh	expropriation
 esplsh	expulsion
-espls(v	expulsive
+esplsv	expulsive
 espnj	expunge
-esprgat	expurgate
-es(kes(t	exquisite
-es(tnt	extant
-es(tmpre	extempore
-estmp	extemporaneous
-estmpre	extemporary
-!	extemporization
-!	extemporize
-es(tn	extend
-es(tnd	extended
-es(tnsh	extension
-es(tns(v	extensive
-es(tnt	extent
-es(tneut	extenuate
-!	extenuated
-
-# Page 76 Column 1
+esprg	expurgate
+eskest	exquisite
+estant	extant
+estmpre	extempore
+estmpranus	extemporaneous
+estmprre	extemporary
+estmprezash	extemporization
+estmpriz	extemporize
+estn	extend
+estn^t	extended
+estnsh	extension
+estnsv	extensive
+estnt	extent
+estneut	extenuate
+estneutd	extenuated
+	
+# Page 76 Column 1	
 estneush	extenuation
 es^or	exterior
-es^mat	exterminate
+es^mnat	exterminate
 es^mnsh	extermination
-!	exterminator
+es^mnate~	exterminator
 es^nl	external
-es^nle	externally
-es(tenk	extinct
-!	extinction
-es(teng	extinguish
-esteng^b	extinguishable
+es^na|	externally
+estenk	extinct
+estenksh	extinction
+esteng	extinguish
+estengb	extinguishable
 es^pat	extirpate
-!	extirpation
+es^pash	extirpation
 estol	extol
-!	extolled
-es(tot	extort
-!	extorted
-es(tosh	extortion
-!	extortionate
+estold	extolled
+estot	extort
+estotd	extorted
+estosh	extortion
+estoshat	extortionate
 es^	extra
-
-# Page 76 Column 2
+	
+# Page 76 Column 2	
 es^k	extract
-!	extractable
+es^kb	extractable
 es^ksh	extraction
-!	extractive
-!	extractor
+es^kv	extractive
+es^kr	extractor
 es^di	extradite
-!	extraditible
+es^dib	extraditible
 es^dsh	extradition
 es^nus	extraneous
-es^otn	extraordinary
-es^otne|	extraordinarily
+es^odn	extraordinary
+es^odne	extraordinarily
 es^v	extravagant
 es^vns	extravagance
-!	extravaganza
+es^vnsa	extravaganza
 es^m	extreme
 es^mes	extremist
 es^mt	extremity
 es^kat	extricate
 es^kash	extrication
-es^ns(k	extrinsic
-
-# Page 76 Column 3
+es^n-sk	extrinsic
+	
+# Page 76 Column 3	
 es^d	extrude
-es(eub	exuberant
-es(eub	exuberancy
-es(ut	exult
+eseub	exuberant
+eseub	exuberancy
+esut	exult
 esutnt	exultant
 esutsh	exultation
-!	exulted
-i	eye
-!	eyeball
-!	eyebar
-!	eyebrow
-!	eyeglass
-!	eyelash
+esutd	exulted
+a	eye
+ibol	eyeball
+ibar	eyebar
+ibrau	eyebrow
+iglas	eyeglass
+ilash	eyelash
 ile	eyelet
-!	eyelid
-!	eyepiece
+iled	eyelid
+ipes	eyepiece
 is	eyes
-isi	eyesight
-!	eyesore
-!	eyetooth
-
+isit	eyesight
+isor	eyesore
+ituth	eyetooth
