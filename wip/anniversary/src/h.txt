@@ -1,6 +1,6 @@
-# Page 92 Column 1
+# Page 92 Column 1	
 'abe~dashe~	haberdasher
-!	haberdashery
+’abe~dashe~e	haberdashery
 'abt	habit
 'abtb	habitable
 'abtn	habitant
@@ -8,269 +8,269 @@
 'abtsh	habitation
 'abtl	habitual
 'abteut	habituate
-!	habituated
+’abteutd	habituated
 'abtu	habitude
-!	habitué
-!	hackman
-!	hackneyed
-!	hacksaw
-'aduk	haddock
-'agl	haggle
-'als(ton	hailstone
+’abta_	habitue
+’akman	hackman
+’akned	hackneyed
+’akso	hacksaw
+'adok	haddock
+’agl	haggle
+'al-ston	hailstone
 'ar	hair
-!	hairbreadth
-!	hairbrush
+arbredth	hairbreadth
+’arbrsh	hairbrush
 'a~dreser	hairdresser
-!	hairpin
-!	hairspring
-
-# Page 92 Column 2
-!	halberd
+’arpen	hairpin
+’arspreng	hairspring
+	
+# Page 92 Column 2	
+’albe~d	halberd
 'olbt	halibut
 'aloen	Halloween
-'alusnash	hallucination
+'alusnsh	hallucination
 'alusnatre	hallucinatory
 'aloj	halogen
 'olte~	halter
 'ame~	hammer
-!	hammerless
-'amuk	hammock
+’amerl	hammerless
+'amok	hammock
 'ampr	hamper
-!	hampered
-!	unhampered
-'nt	hand
-!	handball
+’ampr^t	hampered
+un’ampr^t	unhampered
+'nd	hand
+’ndbol	handball
 'ndbk	handbook
-!	handcuff
-'ntf	handful
+’ndkuf	handcuff
+'ndf	handful
 'ndekap	handicap
 'ndekraft	handicraft
-!	handily
-!	handiness
-'nterk	handiwork
+’nde|	handily
+’ndenes	handiness
+'nderk	handiwork
 'ankerch	handkerchief
-!	handmade
-
-# Page 92 Column 3
-!	handspring
+’ndmad	handmade
+	
+# Page 92 Column 3	
+’ndspreng	handspring
 'ndri'	handwriting
-!	longhand
-sh^nt	shorthand
-'ntl	handle
-!	handlebar
-'ans(m	handsome
+lng’nd	longhand
+sh^nd	shorthand
+'ndl	handle
+’ndlbar	handlebar
+'an-sm	handsome
 'ang	hang
-!	hanger
-!	hangman
+’ange~	hanger
+’angman	hangman
 'anke~	hanker
-'ans(m	hansom
-'a~pa~s(a~d	haphazard
+'an-sm	hansom
+'apaza~d	haphazard
 'apl	hapless
 'apn	happen
-'ap-n-d	happened
+'apnd	happened
 'ape	happy
-'apa|	happily
+'ape|	happily
 'ape~nes	happiness
 un'ape	unhappy
 'arang	harangue
-a'ras	harass
+’aras	harass
 'arbnje~	harbinger
 'arbr	harbor
 'a~d	hard
-
-# Page 93 Column 1
-'a~tn	harden
-!	hardened
-!	hardener
-!	hard-fisted
-!	hard-headed
-!	hard-hearted
+	
+# Page 93 Column 1	
+'a~dn	harden
+’a~dnd	hardened
+’a~dnr	hardener
+’a~d-festd	hard-fisted
+’a~d’edd	hard-headed
+’a~d’a~td	hard-hearted
 'a~de^d	hardihood
-'a~den	hardiness
-'a~d-n	hardness
-!	hardpan
-!	hard-shell
+'a~denes	hardiness
+'a~d-nes	hardness
+’a~dpan	hardpan
+’a~dshel	hard-shell
 'a~d^sh	hardship
 'a~da~_	hardware
-!	unhardened
-!	harelip
-!	Harlequin
+un’a~dnd	unhardened
+’arlep	harelip
+’arleqe_n	Harlequin
 'a~m	harm
-!	harmful
+’a~mf	harmful
 'a~ml	harmless
 un'a~m^t	unharmed
 'a~mne	harmony
 'a~mnek	harmonic
-!	harmonica
+’a~mneka	harmonica
 'a~mnus	harmonious
-!	harmonization
-
-# Page 93 Column 2
+’amnezash	harmonization
+	
+# Page 93 Column 2	
 'a~mniz	harmonize
 'a~nes	harness
 'arp	harp
-!	harpist
-!	harpoon
-'arps(kod	harpsichord
-!	harrier
+’arpes	harpist
+’arpun	harpoon
+'arp-skod	harpsichord
+’arer	harrier
 'a~sh	harsh
-!	harsher
+’a~she~	harsher
 !	harshest
 !	harshly
-'a~shn	harshness
-'a~ts(o(rn	hartshorn
+’a~shnes	harshness
+'a~tsorn	hartshorn
 'arves	harvest
-'arveste~	harvester
-!	harvests
+'arvest^r	harvester
+’arves-s	harvests
 'ash	hash
-'as(k	hassock
-'as(t	haste
-'as(n	hasten
-!	hastened
+'ask	hassock
+'ast	haste
+'asn	hasten
+’asnd	hastened
 'aste|	hastily
-'asten	hastiness
+'astenes	hastiness
 'ach	hatch
-!	hatchery
-
-# Page 93 Column 3
+’ache~e	hatchery
+	
+# Page 93 Column 3	
 'achet	hatchet
-!	hatchway
+’acha_	hatchway
 'at	hate
-'at-d	hated
+'atd	hated
 'atf	hateful
-!	hatefully
-!	hatefulness
+’atfe	hatefully
+’atfnes	hatefulness
 'atrd	hatred
 'ote	haughty
 'ol	haul
-!	haulage
-!	hauled
+’olj	haulage
+’old	hauled
 'ont	haunt
-!	haunted
+’ontd	haunted
 v	have
 'avk	havoc
 'ok	hawk
-!	hawker
-!	hawk-eyed
-!	hawkweed
+’okr	hawker
+’okid	hawk-eyed
+’oke_d	hawkweed
 'a	hay
 'akk	haycock
-!	hayloft
-!	haymow
-!	hayrack
-
-# Page 94 Column 1
-!	hayseed
+’aloft	hayloft
+’amau	haymow
+’arak	hayrack
+	
+# Page 94 Column 1	
+’ased	hayseed
 'astak	haystack
 'aza~d	hazard
-'a~pa~s(a~d	haphazard
+'apaza~d	haphazard
 'aza~dus	hazardous
-'az,	haze
-!	hazily
-!	haziness
+'az	haze
+’aze|	hazily
+’azenes	haziness
 'asl	hazel
-'ed	head
+’ed	head
 'edak	headache
-!	headband
-!	headboard
-!	headdress
-'ed-d	headed
-!	headfirst
-!	headgear
-!	headily
-!	headland
+’edband	headband
+’edbod	headboard
+’edres	headdress
+'edd	headed
+’ed-fes	headfirst
+’edger	headgear
+’ede|	headily
+’edland	headland
 'edl	headless
-!	headlight
-!	headline
-!	headlong
-!	headpiece
+’edli	headlight
+’edlan	headline
+’dlng	headlong
+’dpes	headpiece
 'ed^k	headquarters
-
-# Page 94 Column 2
-!	headsman
-!	headstone
-'eds(tr	headstrong
-!	headwater
-!	headway
+	
+# Page 94 Column 2	
+’edsman	headsman
+’ed-ston	headstone
+'ed-str	headstrong
+’edo_te~	headwater
+’eda_	headway
 'edrk	headwork
 'el	heal
-!	healed
-!	healer
+’eld	healed
+’elr	healer
 'elth	health
 'elthf	healthful
-!	healthfulness
-'elthe	healthily
-!	unhealed
+’elthfnes	healthfulness
+'elthe|	healthily
+un’eld	unhealed
 un'elthe	unhealthy
 'er	hear
 'e~d	heard
-!	hearer
+’err	hearer
 'ersa	hearsay
 un'e~d	unheard
-!	hearken
+’arkn	hearken
 'ers	hearse
 'a~t	heart
-!	downhearted
+d-n’a~td	downhearted
 'a~tak	heartache
-
-# Page 94 Column 3
+	
+# Page 94 Column 3	
 'a~tbet	heartbeat
 'a~tbrak	heartbreak
 'a~tbrokn	heartbroken
-!	heartburn
+’a~tbe~n	heartburn
 'a~tnd	heartened
-'a~tflt	heartfelt
-!	heartily
+'a~tfelt	heartfelt
+’a~te|	heartily
 'a~tl	heartless
-!	heart-rending
+’a~trend’	heart-rending
 'arth	hearth
-!	hearthstone
-'etr	heater
+’arth-ston	hearthstone
+'ete~	heater
 'eth	heath
-'e'en	heathen
+'ethen	heathen
 'ethensh	heathenish
-!	heathenism
+'etnen-sm	heathenism
 'eth	heather
 'evn	heaven
 'evne	heavenly
 'evn^d	heavenward
 'eve	heavy
 'ever	heavier
-'evest	heaviest
+'eve^st	heaviest
 'eve|	heavily
 'evenes	heaviness
-
-# Page 95 Column 1
+	
+# Page 95 Column 1	
 'ekatm	hecatomb
 'ekl	heckle
 'ektek	hectic
 'ekt^o	hectograph
 'ej	hedge
 'ejog	hedgehog
-!	hedgerow
-!	hedonism
+’ejro	hedgerow
+’edn-sm	hedonism
 'ed	heed
-'etd	heeded
-!	heedfully
-!	heedfulness
+'edd	heeded
+’ed-fe	heedfully
+’ed-f’nes	heedfulness
 'edl	heedless
-!	heedlessness
+’edlnes	heedlessness
 'ejmne	hegemony
 'ejera	hegira
-!	heifer
+’efr	heifer
 'it	height
-'it-n	heighten
+'itn	heighten
 'anus	heinous
 ar	heir
 ares	heiress
 arlum	heirloom
-!	helical
-!	helicoid
-
-# Page 95 Column 2
-!	helix
-!	heliograph
-'elothrp	heliotrope
+’el^k	helical
+’elekoe	helicoid
+	
+# Page 95 Column 2	
+’elex	helix
+’el^o	heliograph
+'elotrop	heliotrope
 'elem	helium
 'elp	help
 'elpt	helped
@@ -278,33 +278,33 @@ arlum	heirloom
 'elpfe	helpfully
 'elpfnes	helpfulness
 'elpl	helpless
-!	helpmate
+’elpmat	helpmate
 'emati	hematite
-!	hemicycle
-'emesf	hemisphere
+’emes)ikl	hemicycle
+'emes)fer	hemisphere
 'emlok	hemlock
 'emorj	hemorrhage
-'emstech	hemstitch
+'em-stech	hemstitch
 'ens	hence
 ensfth	henceforth
-'ens(fd	henceforward
-!	henequen
+'ensfd	henceforward
+’eneke_n	henequen
 'epteka	hepatica
-!	heptagon
-!	heptameter
+’eptagn	heptagon
+’eptamete~	heptameter
 'eptangu	heptangular
-
-# Page 95 Column 3
-erald	herald
-!	heraldic
-!	heraldry
+	
+# Page 95 Column 3	
+’erald	herald
+’eraldek	heraldic
+’eraldre	heraldry
 erb	herb
 'erbash	herbaceous
-!	herbage
-!	herbal
-!	herbarium
+erbj	herbage
+’erbl	herbal
+’erbarm	herbarium
 'erbev	herbivorous
-'erkeu	Herculean
+'erkeuln	Herculean
 'er	here
 'erabs	hereabouts
 'eraf	hereafter
@@ -318,101 +318,101 @@ erb	herb
 'e~n-tu	hereunto
 'erpon	hereupon
 'e~th	herewith
-'e~tde	heredity
-!	hereditability
-
-# Page 96 Column 1
-!	hereditable
-!	hereditament
-'e~dre	hereditary
+'e~dte	heredity
+’e~dt^b	hereditability
+	
+# Page 96 Column 1	
+’e~dtb	hereditable
+’e~dtam	hereditament
+'e~dtre	hereditary
 'e~t^b	heritability
 'e~tb	heritable
 'e~tj	heritage
 en'e~t	inherit
 'erse	heresy
 'er^a	heretic
-!	hermetic
+’e~m^a	hermetic
 'e~met	hermit
 'e~metj	hermitage
 'ero	hero
 'erok	heroic
-!	heroical
-'eroen	heroine
-'eros(m	heroism
-'ern	heron
+’ero^k	heroical
+'eron	heroine
+'ero-sm	heroism
+'eron	heron
 'er'	herring
 'ers	herself
-'es(ta	hesitate
-'es(tns	hesitance
+'esta	hesitate
+'estns	hesitance
 'estnse	hesitancy
-'es(tn	hesitant
-'es(tash	hesitation
-
-# Page 96 Column 2
-!	unhesitating
-'etrojen	heterogeneous
-!	heterogeneity
-'omojen	homogeneous
-'esgn	hexagon
-'es(ag	hexagonal
-!	hexameter
-'es(angu	hexangular
-!	hexapod
+'estn	hesitant
+'estsh	hesitation
+	
+# Page 96 Column 2	
+un’es)ta’	unhesitating
+'etrojenus	heterogeneous
+’etrojnete	heterogeneity
+'omojenus	homogeneous
+'esagn	hexagon
+'esag	hexagonal
+’esamete~	hexameter
+'esangu	hexangular
+’esapod	hexapod
 'a&etus	hiatus
 'ibe~nat	hibernate
 'ibe~nsh	hibernation
 'ekre	hickory
 'id	hide
-'etn	hidden
+'edn	hidden
 'edus	hideous
 'irarke	hierarchy
 'ir^a	hieratic
 'i	high
 'it	height
-'it-n	heighten
+'itn	heighten
 'ibon	highborn
-!	highboy
-'i'ntd	high-handed
-'ilant	highland
-
-# Page 96 Column 3
-'ilantr	highlander
+’iboe	highboy
+'i'ndd	high-handed
+'iland	highland
+	
+# Page 96 Column 3	
+'ilandr	highlander
 'a&e	highly
-!	high-minded
-'in	highness
-!	high-pressure
-!	highroad
-i~n	highway
-!	highwayman
-!	hike
+’imin^t	high-minded
+'ines	highness
+’ipreshu	high-pressure
+’irod	highroad
+’i^ua	highway
+’i^uaman	highwayman
+’ik	hike
 'ilar	hilarious
 'il^r	hilarity
 'el	hill
-!	hilliness
-'eluk	hillock
+’elenes	hilliness
+'elok	hillock
 'elsi	hillside
-!	hilltop
+’eltop	hilltop
 'elt	hilt
-ems	himself
+’ems	himself
 'endr	hinder
-'endrns	hindrance
-enj	hinge
+'endrans	hindrance
+’enj	hinge
 'ent	hint
-!	hinted
+’entd	hinted
 'epdrom	hippodrome
 'epptm	hippopotamus
-
-# Page 97 Column 1
+	
+# Page 97 Column 1	
 'ir	hire
 'irl'	hireling
-'ers(ut	hirsute
-s)	his
+'er-sut	hirsute
+s	his
 'es	hiss
-'est^o	histology
-'es(tre	history
-'es(tra&'n	historian
-'es(trk	historic
-'es(tr^k	historical
+'est^o(	histology
+'estre	history
+'estra&'n	historian
+'estrk	historic
+'estr^k	historical
 'estronek	histrionic
 'ech	hitch
 'eth	hither
@@ -421,42 +421,42 @@ s)	his
 'ord	hoard
 'ob	hobble
 'og	hog
-!	hogback
-!	hogfish
+’ogbak	hogback
+’ogfesh	hogfish
 'ogsh	hoggish
-'ogs(ed	hogshead
+'ogsed	hogshead
 'oge_d	hogweed
-oes(t	hoist
+’oest	hoist
 'oleda	holiday
-
-# Page 97 Column 2
+	
+# Page 97 Column 2	
 'olo	hollow
 'ole	holy
-!	holily
-'olen	holiness
-!	unholy
+’ole|	holily
+'olenes	holiness
+un’ole	unholy
 'omj	homage
 'om	home
 'oml	homeless
 'omla	homelike
-'omen	homeliness
-'omsekn	homesickness
-!	homespun
-'oms(td	homestead
+'omlenes	homeliness
+'om-seknes	homesickness
+’omspn	homespun
+'om-std	homestead
 'om^d	homeward
 'omopthe	homeopathy
 'omerk	Homeric
 'omsi	homicide
-!	homicidal
+’omsi^l	homicidal
 'ome|	homily
-!	homiletics
+’omel^as	homiletics
 'omne	hominy
-'omojen	homogeneous
-'etrojen	heterogeneous
-!	homogeneity
+'omojenus	homogeneous
+'etrojenus	heterogeneous
+’omognete	homogeneity
 'omolg	homologous
-
-# Page 97 Column 3
+	
+# Page 97 Column 3	
 'omnem	homonym
 'omnk	homunculus
 ones	honest
@@ -464,116 +464,116 @@ dsones	dishonest
 onese	honestly
 onese	honesty
 'une	honey
-!	honeybee
-!	honeycomb
+’unebe	honeybee
+’unekom	honeycomb
 'uned	honeyed
 'unemun	honeymoon
-!	honeysuckle
+’unes)ukl	honeysuckle
 one~	honor
-dsonr	dishonor
+dsone~	dishonor
 onerb	honorable
 onerrm	honorarium
 onerre	honorary
-unonr^t	unhonored
+unone~^t	unhonored
 'ud	hood
-!	hooded
-!	hoodwink
+’udd	hooded
+’ude_nk	hoodwink
 'ukuum	hookworm
 'op	hope
 'opfe	hopefully
-'opfn	hopefulness
-
-# Page 98 Column 1
+'opfnes	hopefulness
+	
+# Page 98 Column 1	
 'ople	hopelessly
-!	unhoped
-!	hopscotch
-'oris(n	horizon
-'ores(nt	horizontal
-'ores(nte	horizontally
-'ornt	horned
+un’opt	unhoped
+’op-skoch	hopscotch
+'oriz)n	horizon
+'orezont	horizontal
+'orezonte|	horizontally
+'ornd	horned
 'ornet	hornet
-'ors(kp	horoscope
+'ors)kp	horoscope
 'orr	horror
 'orb	horrible
 'ored	horrid
 'orf	horrify
 'ors	horse
 'orsbak	horseback
-!	horse-chestnut
-!	horseflesh
-!	horsefly
+’orschesnut	horse-chestnut
+’orsflesh	horseflesh
+’orsfli	horsefly
 'orsar	horsehair
-'ors(id	horsehide
-!	horseman
+'orsid	horsehide
+’orsman	horseman
 'p	horsepower
-!	horse-radish
-'ors-shu	horseshoe
-!	horsewhip
-
-# Page 98 Column 2
-!	horsewoman
-!	unhorsed
+’orsradsh	horse-radish
+'orsshu	horseshoe
+’orse_p	horsewhip
+	
+# Page 98 Column 2	
+’orsumn	horsewoman
+un’orst	unhorsed
 'otatre	hortatory
 'otekltr	horticulture
-!	hosier
-'oshe~e~	hosiery
+’oshe~	hosier
+'oshe~e	hosiery
 'osptl	hospital
 'ospt^l	hospitality
 'os)tj	hostage
 'os(tl	hostile
-!	hostilely
-'os(t^l	hostility
+’os)te|	hostilely
+'os)t^l	hostility
 'ot	hot
-!	hot-headed
-!	hothouse
-!	hotness
-'aunt	hound
+’ot’edd	hot-headed
+’ot’us	hothouse
+’ot-nes	hotness
+’aund	hound
 r	hour
-!	hourglass
+r^glas	hourglass
 re	hourly
 'us	house
 'us^old	household
-'usr	householder
+'us^oldr	householder
 'us(kp^r	housekeeper
-!	housemaid
-
-# Page 98 Column 3
+usmad	housemaid
+	
+# Page 98 Column 3	
 'us-s	houses
-!	housewarming
-'us(if	housewife
+’usuom’	housewarming
+'usif	housewife
 'usrk	housework
-is(us	ice house
-s(torus	storehouse
-uars	warehouse
+is‘us	ice house
+stor’us	storehouse
+uar)s	warehouse
 'ovl	hovel
 'uvr	hover
 au	how
 n'au	anyhow
 auv	however
-aus(ov	howsoever
-s(mau	somehow
+ausov	howsoever
+smau	somehow
 'autser	howitzer
 'ubb	hubbub
-!	huckleberry
+’uklbere	huckleberry
 'ukste~	huckster
 'euj	huge
 'eugnot	Huguenot
 'ulk	hulk
 'eumn	human
 'euman	humane
-!	humaneness
-!	humanism
-
-# Page 99 Column 1
-'eumnet	humanitarian
+’euman-nes	humaneness
+’eumn-sm	humanism
+	
+# Page 99 Column 1	
+'eumnetra&'n	humanitarian
 'eum^nt	humanity
-!	humanization
-!	humanize
-!	humankind
+’eumnezash	humanization
+’eumniz	humanize
+’eumnki	humankind
 'umb	humble
-!	humbleness
-!	humblest
-'umbg	humbug
+’umbnes	humbleness
+’umb^st	humblest
+'umbug	humbug
 'um-drm	humdrum
 'eumed	humid
 'eumedf	humidify
@@ -583,92 +583,92 @@ s(mau	somehow
 'umela&'sh	humiliation
 'um^l	humility
 'umok	hummock
-'e~ume~	humor
-'e~ume~^s(t	humorist
+'eume~	humor
+'eume~^st	humorist
 'eumerus	humorous
-!	humorousness
+’eumerusnes	humorousness
 'unch	hunch
-'unt	hundred
-!	hundredfold
-
-# Page 99 Column 2
-'und^th	hundredth
-'unge	hunger
-'unged	hungered
+'und	hundred
+’undfold	hundredfold
+	
+# Page 99 Column 2	
+'undth)	hundredth
+'unge~	hunger
+'unge~^t	hungered
 'ungre|	hungrily
-!	hunk
+’unk	hunk
 'unt	hunt
-!	hunted
+’untd	hunted
 'untr	hunter
-!	huntsman
+’untsman	huntsman
 'e~dl	hurdle
-!	hurdled
-!	hurdler
+’e~dld	hurdled
+’e~dlr	hurdler
 'erl	hurl
 'erekan	hurricane
 'ere	hurry
-!	unhurried
+un’ered	unhurried
 'e~t	hurt
 'e~tf	hurtful
-!	hurtfulness
+’e~tfnes	hurtfulness
 un'e~t	unhurt
 'us(	husband
-'us^re	husbandry
-!	husbands
+'us(^re	husbandry
+’us(s	husbands
 'usk	husk
-!	huskily
-
-# Page 99 Column 3
-'usken	huskiness
+’uske|	huskily
+	
+# Page 99 Column 3	
+'uskenes	huskiness
 'usar	hussar
-!	hustings
+’ust^s(	hustings
 'usl	hustle
-'usl-d	hustled
-!	hustler
-!	hutch
-'is(enth	hyacinth
+'usld	hustled
+’uslr	hustler
+’uch	hutch
+'isenth	hyacinth
 'ilen	hyaline
 'ibred	hybrid
-i^nd	hydrant
+idrant	hydrant
 'idra	hydrate
 'idrol	hydraulic
 'idrokrbn	hydrocarbon
 'idroklrk	hydrochloric
 'idrel^k	hydroelectric
 'idroj	hydrogen
-i^mete~	hydrometer
-i^fob	hydrophobia
-i^plan	hydroplane
-'idros(t^as	hydrostatics
-'idros(id	hydroxide
+’idromete~	hydrometer
+’idrofoba&’	hydrophobia
+’idroplan	hydroplane
+'idro-st^as	hydrostatics
+'idros)id	hydroxide
 'ijen	hygiene
 'ijenek	hygienic
-!	hygienically
-
-# Page 100 Column 1
-!	hymnal
+’ijen^ke	hygienically
+	
+# Page 100 Column 1	
+’im-nl	hymnal
 'iprbla	hyperbola
 'iprble	hyperbole
 'iperkr^a|	hypercritical
 'ipe~trofe	hypertrophy
 'ifn	hyphen
-!	hyphenate
-!	hyphenated
-'ifnt	hyphened
-
-# Page 100 Column 2
+’ifnat	hyphenate
+’ifnatd	hyphenated
+'ifnd	hyphened
+	
+# Page 100 Column 2	
 'epnss	hypnosis
 'epn^a	hypnotic
-'epnots(m	hypnotism
+'epnots)m	hypnotism
 'epnotes	hypnotist
-!	hypnotize
-!	hypochondria
-!	hypochondriac
+’epnotiz	hypnotize
+’ipkndra&’	hypochondria
+’ipkndra&’k	hypochondriac
 'epkrse	hypocrisy
 'epkret	hypocrite
-
-# Page 100 Column 3
-'epkra|	hypocritical
+	
+# Page 100 Column 3	
+'epkr^a|	hypocritical
 'ipdemek	hypodermic
 'iptnus	hypotenuse
 'ipthek	hypothecate
@@ -676,5 +676,4 @@ i^plan	hydroplane
 'ipth^a|	hypothetical
 'estera&'	hysteria
 'ester^k	hysterical
-'es(trks	hysterics
-
+'estrks	hysterics
