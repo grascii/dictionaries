@@ -1,19 +1,19 @@
-# Page 101 Column 1
+# Page 101 Column 1	
 a&embk	iambic
 ibex	ibex
 ibes	ibis
 is	ice
 isberg	iceberg
-!	icebound
-is(us	ice house
-!	iceman
+isbn	icebound
+is'us	ice house
+isman	iceman
 is^k	icicle
-!	icily
-!	iciness
+ise|	icily
+ise-nes	iciness
 ikr	ichor
-!	ichthyology
+ekth^o(	ichthyology
 ikn	icon
-!	iconoclasm
+ikn-klasm	iconoclasm
 ikn-klas	iconoclast
 ade	idea
 ades	ideas
@@ -22,49 +22,49 @@ adelsm	idealism
 adeles	idealist
 adel^st	idealistic
 ade^l	ideality
-adelissh	idealization
-
-# Page 101 Column 2
-adelis	idealize
+adelezash	idealization
+	
+# Page 101 Column 2	
+adeliz	idealize
 adele	ideally
-!	identic
-atn^k	identical
-atn^f	identification
-atndf	identify
-atnte	identity
-!	unidentified
+adnk	identic
+adn^k	identical
+adn^f	identification
+adndf	identify
+adnte	identity
+unadndf^t	unidentified
 edose	idiocy
 edot	idiot
 ed^a	idiotic
-etm	idiom
-edem^a	idiomatic
-!	unidiomatic
-edos(enk	idiosyncrasy
+edm	idiom
+edm^a	idiomatic
+unedm^a	unidiomatic
+edo-senk	idiosyncrasy
 adl	idle
-!	idled
-adln	idleness
+adld	idled
+adlnes	idleness
 adlr	idler
 ade	idly
 adl	idol
-!	idolater
-idolatre	idolatry
-!	idolize
-idl	idyl
-
-# Page 101 Column 3
+adlate~	idolater
+adlatre	idolatry
+adliz	idolize
+adl	idyl
+	
+# Page 101 Column 3	
 adlk	idyllic
-!	igneous
+egnus	igneous
 egni	ignite
-!	ignites
+egnis	ignites
 egnsh	ignition
 egnob	ignoble
 egnomne	ignominy
 egnomn	ignominious
 eg	ignorance
 eg	ignorant
-!	ignorantly
+ege	ignorantly
 egnor	ignore
-!	iguana
+ega_na	iguana
 elk	ilk
 eleg	illegal
 eleg^l	illegality
@@ -73,45 +73,45 @@ elejtmat	illegitimate
 eleber	illiberal
 eles(t	illicit
 elet	illiterate
-ele^se	illiteracy
+eletse	illiteracy
 elnes	illness
 eloj^k	illogical
 elumnat	illuminate
-
-# Page 102 Column 1
-!	illuminant
+	
+# Page 102 Column 1	
+elumnant	illuminant
 elumnsh	illumination
-elumnatr	illuminator
+elumnate~	illuminator
 elumn	illumine
 elsh	illusion
-elus(v	illusive
-!	illusory
+elusv	illusive
+elusre	illusory
 elus	illustrate
 elus	illustration
 elus^v	illustrative
 elusr	illustrator
-elus(us	illustrious
+elusus	illustrious
 emj	image
 emjre	imagery
 emaj	imagine
-emajb	imaginable
+emaj^b	imaginable
 emaj^re	imaginary
 emaj	imagination
-emajdf	imaginative
-unemajb	unimaginable
+emajtv	imaginative
+unemaj^b	unimaginable
 mbesel	imbecile
 mbes^l	imbecility
 mbib	imbibe
-embroleo	imbroglio
+mbroleo	imbroglio
 mbeu	imbue
-
-# Page 102 Column 2
-ntmat	intimate
+	
+# Page 102 Column 2	
+emeta	imitate
 emetb	imitable
 emetsh	imitation
-emetatv	imitative
-!	imitator
-enemet	inimitable
+emeta^v	imitative
+emeta^r	imitator
+enemetb	inimitable
 emak^u	immaculate
 emak^ue	immaculately
 emn	immanent
@@ -120,21 +120,21 @@ ematr	immature
 emeshub	immeasurable
 eme	immediate
 eme	immediately
-!	immediateness
+emenes	immediateness
 emnorl	immemorial
 emns	immense
 emnse	immensely
 emers	immerse
 emersh	immersion
 emeg	immigrant
-emgraz	immigration
+emgrash	immigration
 emn	imminent
 emns	imminence
 emobl	immobile
-
-# Page 102 Column 3
-!	immobilization
-!	immobilize
+	
+# Page 102 Column 3	
+emoblezash	immobilization
+emobliz	immobilize
 emod	immoderate
 emodes	immodest
 emola	immolate
@@ -142,88 +142,88 @@ emorl	immoral
 emor^l	immorality
 emotl	immortal
 emot^l	immortality
-!	immortalize
-!	immortally
-emub	immovable
+emotliz	immortalize
+emota|	immortally
+emu^b	immovable
 emun	immune
 emu^nt	immunity
-!	immunize
-!	immunology
+emuniz	immunize
+emun^o(	immunology
 emur	immure
 emutb	immutable
-!	immutability
-!	imp
-!	impish
+emut^b	immutability
+emp	imp
+empsh	impish
 mpak	impact
 mpar	impair
-!	impaired
-!	impairment
-
-# Page 103 Column 1
-!	unimpaired
-!	impale
-mpalp	impalpable
-!	impalpability
+mpa~d	impaired
+mparm	impairment
+	
+# Page 103 Column 1	
+n-mpa~d	unimpaired
+mpal	impale
+mpalpb	impalpable
+mpalp^b	impalpability
 mpanl	impanel
 mpt	impart
-mptl	impartial
+mparsh	impartial
 mparsh^l	impartiality
-mparshe	impartially
-!	impassion
+mparsha|	impartially
+mpash	impassion
 mpashat	impassionate
 mpashd	impassioned
 mpasv	impassive
-!	impassivity
+mpasvte	impassivity
 mpasht	impatient
 mpashns	impatience
 mpech	impeach
 mpechb	impeachable
 mpechm	impeachment
-n-mpech	unimpeachable
+n-mpechb	unimpeachable
 mpekb	impeccable
-!	impeccability
+mpek^b	impeccability
 mpkeun	impecunious
-!	impecuniosity
+mpkeun^s	impecuniosity
 mped	impede
-
-# Page 103 Column 2
-mpe~tns	impedance
+	
+# Page 103 Column 2	
+mpedns	impedance
 mpdem	impediment
 mpdema	impedimenta
 mpl	impel
-mjnt	impend
+mpnd	impend
 mpntrb	impenetrable
 mpntr^b	impenetrability
 mpnetn	impenitent
-!	impenitence
-mpe~df	imperative
+mpnetns	impenitence
+mpe~tv	imperative
 mprsep	imperceptible
 mprf	imperfect
 mprfsh	imperfection
 mprfe	imperfectly
 mprfra	imperforate
 mperl	imperial
-!	imperialism
-!	imperialist
-!	imperialistic
-!	imperially
+mperl-sm	imperialism
+mperles	imperialist
+mperl^st	imperialistic
+mpera|	imperially
 mperus	imperious
 mperl	imperil
-mperl-d	imperiled
-mperesh	imperishable
+mperld	imperiled
+mpershb	imperishable
 mprs)	impersonal
-
-# Page 103 Column 3
-mprs(nat	impersonate
-mprs)nsh	impersonation
-!	impersonator
+	
+# Page 103 Column 3	
+mpr-snat	impersonate
+mpr-snsh	impersonation
+mpr-snate~	impersonator
 mpe~tnnt	impertinent
-mpe~tne~ns	impertinence
+mpe~tnens	impertinence
 mpe~tb	imperturbable
 mpe~t^b	imperturbability
 mprvus	impervious
 mptuus	impetuous
-mpt^s)	impetuosity
+mptu^s	impetuosity
 mptus	impetus
 mpenj	impinge
 mpus	impious
@@ -239,444 +239,444 @@ mplr	implore
 mpli	imply
 mplid	implied
 mpoli	impolite
-
-# Page 104 Column 1
-!	impolitely
+	
+# Page 104 Column 1	
+mpola&e	impolitely
 mpol^a	impolitic
-!	imponderable
+mpondrb	imponderable
 mpot	import
-!	importable
+mpotb	importable
 mp	importance
 mp	important
 mpotsh	importation
 mpotd	imported
-mpotr	importer
+mpote~	importer
 n-mp	unimportant
 mportn	importune
-!	importunacy
+mportnse	importunacy
 mportnat	importunate
 mpor^nt	importunity
 mpo	impose
 mposh	imposition
 mpos	impossible
 mpos^b	impossibility
-mpos(t	impost
-mpostr	impostor
-mpos(tr	imposture
+mpost	impost
+mposte~	impostor
+mpostr	imposture
 mptnt	impotent
 mpov	impoverish
-!	impoverishment
-
-# Page 104 Column 2
+mpovm	impoverishment
+	
+# Page 104 Column 2	
 mprktb	impracticable
 mprkt^b	impracticability
 mprek	imprecate
-!	imprecation
-!	imprecatory
+mpreksh	imprecation
+mprek^re	imprecatory
 mpreg	impregnable
 mpreg^b	impregnability
-!	impregnate
+mpregnat	impregnate
 mpregnsh	impregnation
-mpresare-o	impresario
-!	imprescriptible
+mpresareo	impresario
+mpreskrb	imprescriptible
 mpres	impress
 mpresh	impression
 mpreshb	impressionable
-!	impressionism
-!	impressionistic
+mpreshsm	impressionism
+mpresh^st	impressionistic
 mpresv	impressive
 mpremate~	imprimatur
 mprent	imprint
-mpres(n	imprison
-!	imprisoned
-mpres(mn	imprisonment
+mpresn	imprison
+mpresnd	imprisoned
+mpresnm	imprisonment
 mprb	improbable
 mpr^b	improbability
 mprmtu	impromptu
-
-# Page 104 Column 3
+	
+# Page 104 Column 3	
 mprpr	improper
 mprpri	impropriety
 mpr	improve
 mpr^b	improvable
 mpr	improvement
-nmprd	unimproved
+n-mpr^t	unimproved
 mprvdn	improvident
 mprvis	improvise
 mprvesash	improvisation
 mprudn	imprudent
 mprudns	imprudence
-mpeutn	impudent
+mpeudn	impudent
 mpudns	impudence
 mpeun	impugn
-!	impugnable
-!	impugned
-!	impugnment
+mpeunb	impugnable
+mpeund	impugned
+mpeunm	impugnment
 mpls	impulse
-!	impulsion
+mplsh	impulsion
 mplsv	impulsive
 mpeu^nt	impunity
 mpeu	impure
-!	impurely
+mpeue	impurely
 mp^r	impurity
 mpu	impute
-
-# Page 105 Column 1
-!	imputable
+	
+# Page 105 Column 1	
+mpub	imputable
 mpush	imputation
-!	imputative
+mputv	imputative
 en^b	inability
 nb	unable
-nakss)	inaccessible
+enakss	inaccessible
 enakss^b	inaccessibility
-nakra	inaccurate
+enakra	inaccurate
 enakrse	inaccuracy
 enaksh	inaction
 nakv	inactive
 nakvte	inactivity
 enadek	inadequate
 enadekse	inadequacy
-!	inadmissible
+enamesb	inadmissible
 enavtn	inadvertent
-!	inadvisable
-!	inadvisability
+nvisb	inadvisable
+nvis^b	inadvisability
 enalenb	inalienable
 enan	inane
 en^nt	inanity
-enanem	inanimate
+enanemat	inanimate
 enansh	inanition
 naplekb	inapplicable
 enapos	inapposite
-
-# Page 105 Column 2
-!	inappreciable
+	
+# Page 105 Column 2	
+enapreshb	inappreciable
 enapresh^v	inappreciative
-napra	inappropriate
+enaprpra&'t	inappropriate
 enapt	inapt
 enaptet	inaptitude
 ena~tek^u	inarticulate
-!	inartistic
-ns(mch	inasmuch
+ena~t^st	inartistic
+nsmch	inasmuch
 enatnsh	inattention
 tnsh	attention
-atndf	attentive
+atntv	attentive
 enatntv	inattentive
 enodb	inaudible
 enog	inaugurate
 enog^l	inaugural
 enogsh	inauguration
-!	inauspicious
+enospesh	inauspicious
 nbon	inborn
 n-kalb	incalculable
 n-kdes	incandesce
-!	incandescence
-n-kdes	incandescent
+n-kdesns	incandescence
+n-kdesnt	incandescent
 n-ktsh	incantation
 n-kap	incapable
-n-kapas	incapacitate
-
-# Page 105 Column 3
-!	incapacitation
+n-kapasta	incapacitate
+	
+# Page 105 Column 3	
+n-kapastsh	incapacitation
 n-krsera	incarcerate
 n-krnat	incarnate
 n-krnsh	incarnation
-n-sendre	incendiary
-n-sens	incense
-n-sn-tv	incentive
+nsendre	incendiary
+nsens	incense
+nsen-tv	incentive
 nsepsh	inception
 nse~tet	incertitude
-nss(nt	incessant
+nssnt	incessant
 nch	inch
 n-koat	inchoate
-ns(etn	incident
-!	incidence
-ns(etnl	incidental
-ns(tnle	incidentally
-ns(enra	incinerate
-!	incineration
-!	incinerator
+nsedn	incident
+nsedns	incidence
+nsednl	incidental
+nsdnla|	incidentally
+nsenra	incinerate
+nsenrash	incineration
+nsenra^r	incinerator
 nsepent	incipient
-!	incise
-!	incised
+nsis	incise
+nsist	incised
 nsesh	incision
-nsis	incisive
-!	incisor
-
-# Page 106 Column 1
-nsi	incite
-!	incitement
-ns(v^l	incivility
-e^m	inclement
+nsisv	incisive
+nsisr	incisor
+	
+# Page 106 Column 1	
+nsit	incite
+nsit-m	incitement
+nsv^l	incivility
+e^mnt	inclement
 klemn-t	clement
 e^mnse	inclemency
-n-klin	incline
-dklin	decline
-n-klinsh	inclination
-e^nt	inclined
+e^n	incline
+de^n	decline
+e^nsh	inclination
+e^nd	inclined
 re^n	recline
 n-k	inclose
 n-k^r	inclosure
 e^d	include
-e^td	included
+e^dd	included
 e^sh	inclusion
-e^s(v	inclusive
+e^sv	inclusive
 n-kneto	incognito
-n-korent	incoherent
-!	incoherence
+n-ko'erent	incoherent
+n-ko'erens	incoherence
 n-kbusb	incombustible
 n-km	income
 n-kmnshut	incommensurate
 n-kprb	incomparable
 n-kptb	incompatible
-
-# Page 106 Column 2
-!	incompatibility
+	
+# Page 106 Column 2	
+n-kpat^b	incompatibility
 n-kptn	incompetent
-!	incompetence
+n-kptns	incompetence
 nkp	incomplete
 n-kprensb	incomprehensible
 n-kprens^b	incomprehensibility
 n-kkv	inconclusive
 n-kgruus	incongruous
 n-kgrute	incongruity
-n-ks(eksh	inconsequential
+n-kseksh	inconsequential
 n-ks^at	inconsiderate
-!	inconsiderable
+n-ksb	inconsiderable
 n-kss^nt	inconsistent
 n-kssnse	inconsistency
-n-ks(olb	inconsolable
+n-ksolb	inconsolable
 n-kspk	inconspicuous
-!	inconspicuously
-!	inconstancy
-n-ktes	incontestable
-!	incontrovertible
+n-kspke	inconspicuously
+n-kstnse	inconstancy
+n-ktesb	incontestable
+n-k^ve~tb	incontrovertible
 n-kven	inconvenient
 n-kven	inconvenience
 n-krp	incorporate
 n-krp	incorporation
-!	incorporator
-
-# Page 106 Column 3
+n-krp^r	incorporator
+	
+# Page 106 Column 3	
 n-kr	incorrect
 n-korej	incorrigible
 n-korej^b	incorrigibility
 n-korpb	incorruptible
-!	incorruptibility
+n-korp^b	incorruptibility
 n-kres	increase
-n-kresd	increased
+n-krest	increased
 n-kredb	incredible
 n-kred^b	incredibility
 n-kred^l	incredulity
-n-kredu	incredulous
+n-kredlus	incredulous
 n-krem	increment
 n-kremnat	incriminate
-!	incrimination
-!	incriminatory
-!	incubate
-!	incubation
-n-keuba	incubator
-!	incubus
+n-kremnsh	incrimination
+n-krematre	incriminatory
+n-keubat	incubate
+n-keubash	incubation
+n-keubate~	incubator
+n-keubus	incubus
 n-kul	inculcate
-!	inculcation
+n-kulsh	inculcation
 n-klpat	inculpate
-!	inculpation
-!	inculpatory
-n-kmb	incumbent
-
-# Page 107 Column 1
+n-klpash	inculpation
+n-klpatre	inculpatory
+n-kmbent	incumbent
+	
+# Page 107 Column 1	
 n-keunab	incunabula
 n-kr	incur
 n-keub	incurable
-ntd^t-nes	indebtedness
-nts(ent	indecent
-!	indecency
-ntsesh	indecision
-ntsis(v	indecisive
-ndekor	indecorous
+ndt^t-nes	indebtedness
+ndsent	indecent
+ndsense	indecency
+ndsesh	indecision
+ndsisv	indecisive
+ndekorus	indecorous
 ndekorm	indecorum
-ntd	indeed
+n-dd	indeed
 n-dfat	indefatigable
-!	indefensible
+n-dfensb	indefensible
 n-dfinb	indefinable
 ndfn	indefinite
-n-dfnn	indefiniteness
+n-dfn-nes	indefiniteness
 ndelb	indelible
-!	indelibility
-ntelek	indelicate
-!	indelicacy
-n-dmef	indemnify
-!	indemnification
-ntm^nt	indemnity
-ntnt	indent
-ntnsh	indentation
-
-# Page 107 Column 2
-ntnt-d	indented
-ntnsh	indention
-n-dn-tr	indenture
-ntp	independent
-ntp	independence
-nts(krb	indescribable
-nts^kb	indestructible
+ndel^b	indelibility
+ndelek	indelicate
+ndelekse	indelicacy
+n-dm-nf	indemnify
+n-dm-n^f	indemnification
+ndm^nt	indemnity
+ndnt	indent
+ndntsh	indentation
+	
+# Page 107 Column 2	
+ndntd	indented
+ndnsh	indention
+ndntr	indenture
+ndp	independent
+ndp	independence
+ndskrb	indescribable
+nds^kb	indestructible
 ne~mnat	indeterminate
-!	indeterminable
-ntex	index
-ntxr	indexer
-ntx-s	indexes
-nteses	indices
-nta&'n	Indian
-ntek	indicate
-!	contraindicate
-nteksh	indication
-ntekv	indicative
-ntek^r	indicator
-!	indicatory
-ntsha&'	indicia
-ntit	indict
-n-ditb	indictable
-ntit-m	indictment
-ndf	indifference
-
-# Page 107 Column 3
-ndf	indifferent
-!	indifferently
-ntjnus	indigenous
-ntjnt	indigent
-ntj	indigence
-ntjesh	indigestion
-!	indigestible
-nteg	indignant
+ne~mnb	indeterminable
+ndex	index
+ndexer	indexer
+ndexs	indexes
+ndeses	indices
+nda&'n	Indian
+ndek	indicate
+k^ndek	contraindicate
+ndeksh	indication
+ndekv	indicative
+ndek^r	indicator
+ndek^re	indicatory
+ndsha&'	indicia
+ndit	indict
+nditb	indictable
+ndit-m	indictment
+n-df	indifference
+	
+# Page 107 Column 3	
+n-df	indifferent
+n-dfe	indifferently
+ndjnus	indigenous
+ndjnt	indigent
+ndj	indigence
+ndjesh	indigestion
+ndjesb	indigestible
+ndegn	indignant
 ndegnsh	indignation
-nteg^nt	indignity
+ndeg^nt	indignity
 ndego	indigo
-ntrk	indirect
-!	indirection
-n-drkn	indirectness
-ndskre	indiscreet
+ndrk	indirect
+ndrksh	indirection
+ndrknes	indirectness
+ndskret	indiscreet
 ndskresh	indiscretion
-ndskrem	indiscriminate
+ndskremnat	indiscriminate
 ndsp	indispensable
 ndspo	indispose
-!	indisposition
-ntspub	indisputable
-nts(olb	indissoluble
-nts(t	indistinct
-!	indistinctly
-!	indistinctness
-
-# Page 108 Column 1
-nts(tb	indistinguishable
-ntit	indite
-ntv	individual
-ntvsm	individualism
-ntv^s(t	individualist
-ntv^s(t	individualistic
-ntv^l	individuality
-ntvis	individualize
-ndfesb	indivisible
+ndsposh	indisposition
+ndspub	indisputable
+ndsolb	indissoluble
+nds	indistinct
+ndste	indistinctly
+ndst-nes	indistinctness
+	
+# Page 108 Column 1	
+ndstb	indistinguishable
+ndit	indite
+ndv	individual
+ndvsm	individualism
+ndv^st	individualist
+ndv^st	individualistic
+ndv^l	individuality
+ndviz	individualize
+n-dvesb	indivisible
 ndolent	indolent
 ndolens	indolence
 ndometb	indomitable
-ntors	indoors
-ntos	indorse
-!	indorsed
-ntose	indorsee
+ndors	indoors
+ndos	indorse
+ndost	indorsed
+ndose	indorsee
 ndosm	indorsement
 ndoser	indorser
-!	indorses
-!	unindorsed
-ntbtb	indubitable
-n-dus	induce
+ndoss	indorses
+n-ndost	unindorsed
+ndbtb	indubitable
+ndus	induce
 ndusm	inducement
-ntuk	induct
-ntukns	inductance
-
-# Page 108 Column 2
+nduk	induct
+ndukns	inductance
+	
+# Page 108 Column 2	
 nduksh	induction
-!	inductive
-!	inductor
-ntlj	indulge
-ntlj	indulgence
+ndukv	inductive
+ndukr	inductor
+ndlj	indulge
+ndlj	indulgence
 ndljnt	indulgent
-nts	industry
-ntsl	industrial
-!	industrialism
-!	industrialist
-!	industrialize
-!	industrially
-nts(us	industrious
+nds	industry
+ndsl	industrial
+ndsl-sm	industrialism
+ndsles	industrialist
+ndsliz	industrialize
+ndsle	industrially
+ndsus	industrious
 enebra&'t	inebriate
-!	inebriation
+enebra&'sh	inebriation
 enebri	inebriety
-!	inedible
+enedb	inedible
 enef	ineffable
 nfkv	ineffective
 nfktl	ineffectual
-nfkta|	ineffectually
-nfsht	inefficient
-nfshse	inefficiency
-!	inelegance
+nfktle	ineffectually
+enefesht	inefficient
+enefeshse	inefficiency
+eneleg	inelegance
 eneleg	inelegant
-
-# Page 108 Column 3
-enelej	ineligible
+	
+# Page 108 Column 3	
+enelejb	ineligible
 eneluk	ineluctable
-!	inept
-!	ineptitude
+enept	inept
+eneptet	ineptitude
 neku	inequality
-!	inequitable
-!	ineradicable
+eneke_tb	inequitable
+eneradekb	ineradicable
 enerant	inerrant
 ene~t	inert
 enersha&'	inertia
-ene~t-n	inertness
+ene~t-nes	inertness
 enestmb	inestimable
 enevtb	inevitable
 enevt^b	inevitability
-nes(ak	inexact
-nesaktet	inexactitude
-nes(keub	inexcusable
-nes(osb	inexhaustible
-!	inexhaustibility
-nes(osbe	inexhaustibly
-nes(orb	inexorable
-nesptnt	inexpedient
-!	inexpensive
+nes)ak	inexact
+nes)aktet	inexactitude
+nes)keub	inexcusable
+nesosb	inexhaustible
+nesos^b	inexhaustibility
+nesosbe	inexhaustibly
+nesorb	inexorable
+nespdnt	inexpedient
+nespnsv	inexpensive
 nspe	inexperience
 nesplekb	inexplicable
-
-# Page 109 Column 1
+	
+# Page 109 Column 1	
 nes^kb	inextricable
-!	inextricability
+nes^k^b	inextricability
 nfalb	infallible
 nfal^b	infallibility
-!	infamy
+nfame	infamy
 nfamus	infamous
 nfant	infant
 nfanse	infancy
-!	infanticide
+nfantsi	infanticide
 nfantil	infantile
 nfantre	infantry
 nfateut	infatuate
-!	infatuated
+nfateutd	infatuated
 nfateush	infatuation
-!	infeasible
+nfesb	infeasible
 nfek	infect
 nfeksh	infection
 nfekshus	infectious
 nfelestus	infelicitous
 nfel^s	infelicity
 nfer	infer
-nferns	inference
-!	inferential
+nferens	inference
+nferensh	inferential
 nferr	inferior
 nfer^r	inferiority
-
-# Page 109 Column 2
+	
+# Page 109 Column 2	
 nfe~nl	infernal
-!	inferno
-!	infertile
-!	infertility
+nfe~no	inferno
+nfe~tl	infertile
+nfe~t^l	infertility
 nfes	infest
 nfedl	infidel
 nfed^l	infidelity
@@ -688,18 +688,18 @@ nfenetu	infinitude
 nf^nt	infinity
 nfem	infirm
 nfemre	infirmary
-nf^mt	infirmity
+nfemete	infirmity
 nflam	inflame
 nflam^b	inflammability
 nflamb	inflammable
 nflamsh	inflammation
-nflam-tre	inflammatory
+nflamatre	inflammatory
 nfla	inflate
-nflad	inflated
+nfla^t	inflated
 nflash	inflation
 nfl	inflect
-
-# Page 109 Column 3
+	
+# Page 109 Column 3	
 nflsh	inflection
 nflexb	inflexible
 nflex^b	inflexibility
@@ -707,95 +707,95 @@ nfl	inflict
 nflsh	infliction
 nf	influence
 nfsh	influential
-!	uninfluenced
-nflunsa	influenza
+n-nf^t	uninfluenced
+nflunza	influenza
 nflux	influx
-!	efflux
+eflux	efflux
 nfm	inform
 nfml	informal
 nfm^l	informality
 nfm^nt	informant
 nfmsh	information
-nfmadf	informative
-nfmr	informer
-msnmf	misinform
-nnfm-d	uninformed
+nfmatv	informative
+nfme~	informer
+msnfm	misinform
+nnfm^t	uninformed
 nfraksh	infraction
 nfranj	infrangible
 nfrek	infrequent
 nfrenj	infringe
 nfrenjm	infringement
-
-# Page 110 Column 1
+	
+# Page 110 Column 1	
 nfeura&'t	infuriate
-!	infuriated
+nfeura&'td	infuriated
 nfeu	infuse
-!	infusible
-!	infusion
+nfeub	infusible
+nfeush	infusion
 njenus	ingenious
 njenute	ingenuity
 njnuus	ingenuous
-!	ingest
+njes	ingest
 njesh	ingestion
 n-glos)	inglorious
 engot	ingot
 n-gran	ingrain
-!	ingrained
+n-grand	ingrained
 n-grasha&'t	ingratiate
-!	ingratiation
-!	ingratiatory
-n-gredn-t	ingredient
+n-grasha&'sh	ingratiation
+n-grasha&'tre	ingratiatory
+n-grednt	ingredient
 n-gres	ingress
 n-gron	ingrown
 en'abt	inhabit
-!	inhabitable
-!	inhabitancy
+en'abtb	inhabitable
+en'abtnse	inhabitancy
 en'abtn	inhabitant
-!	inhabitation
-
-# Page 110 Column 2
-en'abt-d	inhabited
-!	uninhabited
+en'abtsh	inhabitation
+	
+# Page 110 Column 2	
+en'abtd	inhabited
+unen'abtd	uninhabited
 en'al	inhale
-!	inhalation
-!	inhaled
-!	inhaler
+en'alash	inhalation
+en'ald	inhaled
+en'alr	inhaler
 en'a~mnus	inharmonious
-!	inhere
-!	inhered
-!	inherence
+en'e~	inhere
+en'e~^t	inhered
+en'e~ns	inherence
 en'e~nt	inherent
 en'e~t	inherit
 dsen'e~t	disinherit
-'e~dre	hereditary
+'e~dtre	hereditary
 'e~tj	heritage
 en'e~tb	inheritable
 en'e~tns	inheritance
-!	inherited
-!	inheritor
-n'bt	inhibit
-n'bsh	inhibition
-!	inhibitory
-en'ospt	inhospitable
-'neumn	inhuman
-'neuman	inhumane
-
-# Page 110 Column 3
-!	inhumanity
+en'e~td	inherited
+en'e~te~	inheritor
+en'ebt	inhibit
+en'ebsh	inhibition
+en'ebtre	inhibitory
+en'osptb	inhospitable
+en'eumn	inhuman
+en'euman	inhumane
+	
+# Page 110 Column 3	
+en'eum^nt	inhumanity
 enem^k	inimical
-enemet	inimitable
+enemetb	inimitable
 eneke_te	iniquity
-!	iniquitous
+eneke_etus	iniquitous
 enesh	initial
-!	initially
+enesha|	initially
 enesha&'t	initiate
 enesha&'sh	initiation
-eneshtre	initiatory
-!	uninitiated
+enesha&'tre	initiatory
+unenesha&'td	uninitiated
 njk	inject
 njksh	injection
-!	injector
-njdsh	injudicious
+njkr	injector
+njdeshus	injudicious
 njnk	injunction
 nju	injure
 nju^t	injured
@@ -806,13 +806,13 @@ nnju^t	uninjured
 njus-s	injustice
 njus	unjust
 enk	ink
-
-# Page 111 Column 1
-!	inkhorn
+	
+# Page 111 Column 1	
+enk'orn	inkhorn
 enkl'	inkling
-!	inkstand
-!	inkwell
-!	inky
+enkstn	inkstand
+enke_l	inkwell
+enke	inky
 nlad	inlaid
 nland	inland
 nle	inlet
@@ -830,21 +830,21 @@ enos-s	innocents
 enok	innocuous
 enovat	innovate
 enovash	innovation
-!	innovative
-!	innovator
-enunto	innuendo
-
-# Page 111 Column 2
+enovatv	innovative
+enovate~	innovator
+enundo	innuendo
+	
+# Page 111 Column 2	
 eneumb	innumerable
 enok^u	inoculate
 enofensv	inoffensive
-!	inoperable
+enoprb	inoperable
 nopra^v	inoperative
 enoprtn	inopportune
-!	inopportuneness
-enotnat	inordinate
-kootnat	coordinate
-s(odn	subordinate
+enoprtn-nes	inopportuneness
+enodnat	inordinate
+koodnat	coordinate
+s(odnat	subordinate
 enognek	inorganic
 npasht	inpatient
 n-kes	inquest
@@ -855,193 +855,193 @@ n-kis	inquires
 n-kis	inquiries
 n-ki	inquiry
 n-kessh	inquisition
-n-kes(df	inquisitive
-ns(an	insane
-ns^nt	insanity
-ns(anetre	insanitary
-ns(kr	inscribe
-
-# Page 111 Column 3
-!	inscriber
-nskrsh	inscription
-nskrutb	inscrutable
-!	inscrutability
-ns(ek	insect
-ns(eksi	insecticide
-ns(ekvrus	insectivorous
-ns(ekr	insecure
-ns(ek^r	insecurity
+n-kestv	inquisitive
+n-san	insane
+n-s^nt	insanity
+n-sanetre	insanitary
+n-skr	inscribe
+	
+# Page 111 Column 3	
+n-skr^r	inscriber
+n-skrsh	inscription
+n-skrutb	inscrutable
+n-skrut^b	inscrutability
+n-sek	insect
+n-seksi	insecticide
+n-sekvrus	insectivorous
+n-sekr	insecure
+n-sek^r	insecurity
 n-sensb	insensible
 n-sensa	insensate
 n-sens^b	insensibility
-!	insensitive
-!	insentience
-ns(ensht	insentient
-nsepr	inseparable
-ns(e~t	insert
-ns(e~t-d	inserted
+n-senstv	insensitive
+n-senshns	insentience
+n-sensht	insentient
+nseprb	inseparable
+nse~t	insert
+nse~td	inserted
 nsesh	insertion
-ns(et	inset
-!	inshore
+nset	inset
+nshor	inshore
 nsi	inside
-!	insider
+nsi^r	insider
 n-sedus	insidious
-nsit	insight
-
-# Page 112 Column 1
+n-sit	insight
+	
+# Page 112 Column 1	
 n-segna&'	insignia
-ns(g	insignificant
-ns(egnef	insignificance
+n-sg	insignificant
+n-sg	insignificance
 n-sense	insincere
-!	insincerely
-n-sen^r	insincerity
-ns(eneut	insinuate
-!	insinuated
+n-sensee	insincerely
+n-sens^r	insincerity
+n-seneut	insinuate
+n-seneutd	insinuated
 n-seneush	insinuation
 nsepd	insipid
-!	insipidity
+nsepdte	insipidity
 nss	insist
 nssns	insistence
 nss^nt	insistent
-!	insobriety
-nsolent	insolent
-nsolens	insolence
-ns(olb	insoluble
-nsolvse	insolvency
-nsolvnt	insolvent
-nsomna&'	insomnia
+n-sobri	insobriety
+n-solent	insolent
+n-solens	insolence
+n-solb	insoluble
+n-solvnse	insolvency
+n-solvnt	insolvent
+s-som-na&'	insomnia
 n-somch	insomuch
 nsp	inspect
 nspsh	inspection
 nsp^r	inspector
-
-# Page 112 Column 2
+	
+# Page 112 Column 2	
 nspi	inspire
 nsprash	inspiration
 nsprashl	inspirational
-nspid	inspired
-!	inspirer
+nspi^t	inspired
+snpi^r	inspirer
 nspis	inspires
-ns(t^b	instability
-ns(tol	install
-ns(tolash	installation
-ns(told	installed
-ns(tolm	installment
+n-st^b	instability
+n-stol	install
+n-stolash	installation
+n-stold	installed
+n-stolm	installment
 ns	instant
 ns	instance
-ns(tnus	instantaneous
+nstnus	instantaneous
 nse	instantly
-ns(td	instead
+n-std	instead
 n-step	instep
-nsteg	instigate
-nstegsh	instigation
-nsteg^r	instigator
-n-ste~	instill
-ns(tenk	instinct
-ns(tenk^v	instinctive
-ns(t	institute
-ns(tsh	institution
-
-# Page 112 Column 3
-!	institutional
+n-steg	instigate
+n-stegsh	instigation
+n-steg^r	instigator
+n-stel	instill
+n-stenk	instinct
+n-stenk^v	instinctive
+n-st	institute
+n-stsh	institution
+	
+# Page 112 Column 3	
+n-stshl	institutional
 ns^k	instruct
 ns^ksh	instruction
 ns^kshl	instructional
 ns^kv	instructive
 ns^kr	instructor
-!	instructress
-!	uninstructed
+ns^kres	instructress
+n-ns^kt	uninstructed
 ns^m	instrument
 ns^ml	instrumental
-!	instrumentalist
+ns^mles	instrumentalist
 ns^m^l	instrumentality
-!	instrumentally
-!	instrumentation
-nsodn	insubordinate
-ns(otnsh	insubordination
-ns(ufb	insufferable
-ns(uf	insufficient
-ns^u	insulate
-nsulr	insular
-!	insularity
-ns^ush	insulation
-ns^ur	insulator
-!	uninsulated
-ns(u	insult
-
-# Page 113 Column 1
-!	insults
-nsb	insuperable
-ns^b	insuperability
-ns^tb	insupportable
-ns)^s	insuppressible
+ns^ma|	instrumentally
+ns^msh	instrumentation
+nsodnat	insubordinate
+nsodnsh	insubordination
+n-sufb	insufferable
+n-suf	insufficient
+n-s^u	insulate
+n-sulr	insular
+n-sul^r	insularity
+n-s^ush	insulation
+n-s^ur	insulator
+n-n-s^ut	uninsulated
+nsu	insult
+	
+# Page 113 Column 1	
+n-sus	insults
+n-s^b	insuperable
+n-s^b	insuperability
+n-s^tb	insupportable
+n-s^sb	insuppressible
 nsh	insure
-!	insurability
-!	insurable
+nsh^b	insurability
+nshb	insurable
 nsh	insurance
-!	uninsured
+n-nsh^t	uninsured
 nsejnt	insurgent
-nse~mn-tb	insurmountable
+nse~mntb	insurmountable
 nsereksh	insurrection
-!	insurrectionary
+nserekshre	insurrectionary
 ntak	intact
 ntaleo	intaglio
 ntak	intake
-ntnjb	intangible
-!	intangibility
+n-tnjb	intangible
+n-tnj^b	intangibility
 ntje~	integer
 dsntegra	disintegrate
 ntegrl	integral
 ntegra	integrate
 ntegrash	integration
 nteg^r	integrity
-
-# Page 113 Column 2
+	
+# Page 113 Column 2	
 ntegm	integument
 n^ek	intellect
 n^ek	intellectual
-!	intellectually
+n^ene	intellectually
 n^jnt	intelligent
 n^j	intelligence
-!	intelligibility
-n^j	intelligible
-!	unintelligent
+n^j^b	intelligibility
+n^jb	intelligible
+n-n^jnt	unintelligent
 ntmpra	intemperate
 ntmp	intemperance
-!	intemperately
+ntmprae	intemperately
 ntn	intend
 ntnt	intent
 ntnsh	intention
-ntntn	intendant
+ntndn	intendant
 ntns	intense
-!	intensification
-n-tnsf	intensify
-n-tnste	intensity
-n-tnsv	intensive
+ntns^f	intensification
+ntnsf	intensify
+ntn^s	intensity
+ntnsv	intensive
 ntnt	intent
 ntn	intend
 ntnsh	intention
 ntnshl	intentional
-
-# Page 113 Column 3
-!	intentness
-nn-tnsh	unintentional
-!	interborough
+	
+# Page 113 Column 3	
+ntnt-nes	intentness
+n-ntnsh	unintentional
+n^bro	interborough
 n^sed	intercede
-!	interceded
+n^sedd	interceded
 n^sesh	intercession
-n^sep^	intercept
-n^sepsh^	interception
+n^sep	intercept
+n^sepsh	interception
 n^chb	interchangeable
-n^kolej	intercollegiate
+n^koleja&'t	intercollegiate
 n^krs	intercourse
-n^tnomnshl	interdenominational
-!	interdependent
+n^dnomnshl	interdenominational
+n^dpndnt	interdependent
 n^dek	interdict
-n^dsh	interdiction
-n^s^	interest
-n^sd^	interested
-!	uninterested
+n^deksh	interdiction
+n^s	interest
+n^s^t	interested
+n-n^s^t	uninterested
 n^fer	interfere
 n^ferns	interference
 n^m	interim
@@ -1049,134 +1049,134 @@ n^or	interior
 n^jk	interject
 n^lok	interlock
 n^lokte~	interlocutor
-
-# Page 114 Column 1
+	
+# Page 114 Column 1	
 n^lopr	interloper
 n^lud	interlude
-!	intermarriage
+n^marj	intermarriage
 n^med	intermediate
-!	intermediary
-n^meds(o	intermezzo
+n^medre	intermediary
+n^medso	intermezzo
 n^mnb	interminable
-n^meng	intermingle
-!	intermit
+n^mengl	intermingle
+n^met	intermit
 n^msh	intermission
-!	intermittence
+n^metns	intermittence
 n^metn	intermittent
-!	intermixture
-!	intern
+n^mextr	intermixture
+n^n	intern
 n^mn	internment
 n^nl	internal
-n^nle	internally
+n^na|	internally
 n^nashl	international
 n^nes(n	internecine
 n^pla	interpellate
-!	interpellation
+n^plash	interpellation
 n^pola	interpolate
 n^polash	interpolation
 n^po	interpose
 n^posh	interposition
-
-# Page 114 Column 2
+	
+# Page 114 Column 2	
 n^p	interpret
 n^psh	interpretation
-n^pdf	interpretative
+n^ptv	interpretative
 n^p^r	interpreter
 n^reg	interregnum
-!	interrelation
+n^relash	interrelation
 n^og	interrogate
 n^ogsh	interrogation
 n^ogv	interrogative
 n^og^re	interrogatory
 n^up	interrupt
-n^upd	interrupted
+n^up^t	interrupted
 n^upsh	interruption
-!	uninterrupted
-n^s(kl^s(t	interscholastic
+n-n^up^t	uninterrupted
+n^skl^st	interscholastic
 n^sek	intersect
 n^sprs	intersperse
 n^st	interstate
-n^s(tes	interstice
-!	interstices
-n^s(tesh	interstitial
-!	intertwine
-!	intertwined
+n^stes	interstice
+n^stess	interstices
+n^stesh	interstitial
+n^ti_n	intertwine
+n^ti_nd	intertwined
 n^vl	interval
-n^ven^	intervene
-
-# Page 114 Column 3
-n^vensh^	intervention
-!	non-intervention
+n^ven	intervene
+	
+# Page 114 Column 3	
+? n^vnsh	intervention
+nonn^vnsh	non-intervention
 n^veu	interview
 n^uev	interweave
 ntes(ta	intestate
 ntes(tn	intestine
 ntmat	intimate
 ntmse	intimacy
-!	intimated
+ntmatd	intimated
 ntmsh	intimation
 ntmetd	intimidate
-ntmetdd	intimidated
-ntmetdsh	intimidation
+ntmedt^t	intimidated
+ntmedsh	intimidation
 ntu	into
 ntolrans	intolerance
-ntolb	intolerable
-ntolnt	intolerant
+ntolrb	intolerable
+ntolrant	intolerant
 nton	intone
-n-tonsh	intonation
-n-tox	intoxicate
-!	intoxicant
-!	intoxicated
+ntonsh	intonation
+ntox	intoxicate
+ntox^nt	intoxicant
+ntox^t	intoxicated
 ntoxsh	intoxication
-!	non-intoxicating
+non-ntox'	non-intoxicating
 n^kb	intractable
-
-# Page 115 Column 1
+	
+# Page 115 Column 1	
 nt^jnt	intransigent
 nt^j	intransigence
-nt^df	intransitive
-na^s(t	intrastate
-nt^nchm	intrenchment
+nt^tv	intransitive
+na^st	intrastate
+n^nchm	intrenchment
 n^pd	intrepid
 n^pdte	intrepidity
-n^kat	intricate
+n^k	intricate
 es^kat	extricate
 n^kse	intricacy
 n^g	intrigue
-n^ns(k	intrinsic
-es^ns(k	extrinsic
+n^n-sk	intrinsic
+es^n-sk	extrinsic
 n^dus	introduce
-n^duk	introduction
+n^duksh	introduction
 n^dukre	introductory
-!	introit
+n^et	introit
 n^sp	introspect
 n^spsh	introspection
 n^sp^v	introspective
-!	introvert
-!	introversion
+n^ve~t	introvert
+n^versh	introversion
 n^d	intrude
 n^de~	intruder
 n^sh	intrusion
-
-# Page 115 Column 2
-n^s(v	intrusive
-n^st	intrust
+	
+# Page 115 Column 2	
+n^sv	intrusive
+ntrs	intrust
 nteush	intuition
-nteudf	intuitive
+nteutv	intuitive
 enunk	inunction
-nntd	inundate
-nn-dsh	inundation
+n-n-dt	inundate
+n-n-dsh	inundation
 enur	inure
 nvad	invade
 nvash	invasion
 nvaled	invalid
-nvaled-d	invalidate
+nvaledt	invalidate
 nvaledsh	invalidation
-nvaletde	invalidity
+nvaledte	invalidity
 nvlb	invaluable
 nvar	invar
 nvarb	invariable
-!	invariability
+nvar^b	invariability
 nva	inveigh
 nvekv	invective
 nvegl	inveigle
@@ -1184,160 +1184,159 @@ nvnt	invent
 nvnsh	invention
 nvntv	inventive
 nvntr	inventor
-
-# Page 115 Column 3
+	
+# Page 115 Column 3	
 nvntre	inventory
 nves	inverse
-!	inversion
+nverssh	inversion
 nve~t	invert
-!	inverted
+nve~td	inverted
 nves	invest
-nvesd	invested
-nves(m	investment
-nvesr	investor
+nves^t	invested
+nvesm	investment
+nves^r	investor
 nves-s	invests
-!	reinvest
-nves(g	investigate
-nves(gsh	investigation
-!	investigative
+rnves	reinvest
+nvesg	investigate
+nvesgsh	investigation
+nvesgv	investigative
 nvesg^r	investigator
 nvetra	inveterate
 nvedus	invidious
 nvegra	invigorate
-!	invigoration
+nvegrash	invigoration
 nvens	invincible
-!	invincibility
+nvens^b	invincibility
 nvilb	inviolable
-!	inviolability
+nvil^b	inviolability
 nvila	inviolate
 nvesb	invisible
-
-# Page 116 Column 1
-!	invisibility
+	
+# Page 116 Column 1	
+nves^b	invisibility
 nvi	invite
-nvish	invitation
-!	uninvited
-nvs(	invoice
-nvss)	invoices
+nvatsh	invitation
+n-nvi^t	uninvited
+nvs	invoice
+nvss	invoices
 nvk	invoke
-nvksh	invocation
-nvolnt	involuntary
-!	involuntarily
+nvkash	invocation
+nvolntre	involuntary
+nvolntre|	involuntarily
 nvolut	involute
 nvolsh	involution
-nvo	involve
+nvol	involve
 nvulnerb	invulnerable
 nvulner^b	invulnerability
 n^d	inward
-!	inwardly
-!	inwardness
-a&etn	iodine
+n^de	inwardly
+n^d-nes	inwardness
+a&edn	iodine
 a&eda	iodate
-!	iodic
+a&edek	iodic
 a&edi	iodide
-!	iodize
+a&ediz	iodize
 in	ion
-!	ionization
-
-# Page 116 Column 2
-!	ionize
-!	Ionic
+inezash	ionization
+	
+# Page 116 Column 2	
+iniz	ionize
+a&enek	Ionic
 a&eta	iota
 epkak	ipecac
-ira	irate
+irat	irate
 iras^b	irascibility
 irasb	irascible
 ires	iris
-eredes	iridescence
-eredes	iridescent
-eretm	iridium
+eredesns	iridescence
+eredesnt	iridescent
+eredm	iridium
 erk	irk
 erksm	irksome
 irn	iron
 flatirn	flatiron
-in-klad	ironclad
-!	ironside
+irn-klad	ironclad
+irnsi	ironside
 irna~_	ironware
-!	ironwood
+irnuud	ironwood
 irnrk	ironwork
 irne	irony
 irn^k	ironical
-!	irradiate
-!	irradiation
+erada&'t	irradiate
+erada&'sh	irradiation
 erashl	irrational
-
-# Page 116 Column 3
-!	irrationally
+	
+# Page 116 Column 3	
+erasha|	irrationally
 ere^mb	irreclaimable
 erksilb	irreconcilable
-!	irrecoverable
-!	irredeemable
+erekv^b	irrecoverable
+eredmb	irredeemable
 erfrag	irrefragable
 erfranj	irrefrangible
 erfeutb	irrefutable
 ereg	irregular
-ereg	irregularity
-erel	irrelevant
-!	irreligious
-eremtb	irremediable
-!	irremovable
-ereprb	irreparable
-!	irreplaceable
-erpres	irrepressible
+ereg^r	irregularity
+erelvnt	irrelevant
+erelejus	irreligious
+eremdb	irremediable
+eremu^b	irremovable
+erparb	irreparable
+erplasb	irreplaceable
+erpresb	irrepressible
 erprchb	irreproachable
-erssb	irresistible
-!	irresistibility
-!	irresoluble
-eresolut	irresolute
-!	irresolution
+erss^b	irresistible
+erss^b	irresistibility
+ersolb	irresoluble
+ersolut	irresolute
+ersolsh	irresolution
 eres^v	irrespective
 ersp	irresponsible
-
-# Page 117 Column 1
-erp^b	irresponsibility
-!	irretraceable
+	
+# Page 117 Column 1	
+ersp^b	irresponsibility
+eretrasb	irretraceable
 er^vb	irretrievable
 erev	irreverent
 erev	irreverence
-!	irreversible
+ervesb	irreversible
 ervkb	irrevocable
 ereg	irrigate
 eregsh	irrigation
 e~ta	irritate
 e~t^b	irritability
 e~tb	irritable
-e~tnt	irritant
+e~t-nt	irritant
 e~tsh	irritation
-
-# Page 117 Column 2
-!	irritative
+	
+# Page 117 Column 2	
+e~ta^v	irritative
 erpsh	irruption
-!	isinglass
-!	Islam
-ilant	island
-!	isobar
+isnglas	isinglass
+eslam	Islam
+iland	island
+isobar	isobar
 isola	isolate
 isolash	isolation
-!	isomeric
-!	isotherm
+isomerk	isomeric
+isothem	isotherm
 eshu	issue
 eshuns	issuance
-!	reissue
-!	unissued
-
-# Page 117 Column 3
-es(mus	isthmus
-eta|	Italy
+reshu	reissue
+uneshud	unissued
+	
+# Page 117 Column 3	
+esmus	isthmus
+etale	Italy
 etaln	Italian
-!	itchy
+eche	itchy
 atm	item
 atmiz	itemize
 atnra	itinerate
-itnrse	itinerancy
+atnranse	itinerancy
 atnrant	itinerant
 atnrre	itinerary
 ts	its
 tss	itself
 ivre	ivory
 ive	ivy
-
