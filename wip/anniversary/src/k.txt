@@ -1,71 +1,71 @@
-# Page 120 Column 1
+# Page 120 Column 1	
 kiser	kaiser
-klidskp	kaleidoscope
-!	kaleidoscopic
+klid-skp	kaleidoscope
+klid-skpk	kaleidoscopic
 kangru	kangaroo
 kaolen	kaolin
 kp	keep
 bkp^r	bookkeeper
-'us(kp^r	housekeeper
-kepr	keeper
-!	keepsake
+'uskp^r	housekeeper
+kp^r	keeper
+kp^sak	keepsake
 kpt	kept
 tmkp^r	timekeeper
 kenl	kennel
 krnl	kernel
-kers(en	kerosene
+ker-sen	kerosene
 kerse	kersey
 kebod	keyboard
-kedf	khedive
+kedv	khedive
 ked-nap	kidnap
 ked-ne	kidney
 kel	kiln
 kel^g	kilogram
-!	kilometer
+kelomete~	kilometer
 kelt	kilt
-
-# Page 120 Column 2
+	
+# Page 120 Column 2	
 ki	kind
-!	kinder
-kis(t	kindest
-ka&en	kindliness
+ki^r	kinder
+kist	kindest
+ka&enes	kindliness
 ka&e	kindly
 kines	kindness
-!	kinds
+kis	kinds
 n-ki	unkind
 ken-ga~tn	kindergarten
-kentred	kindred
+kendred	kindred
 kin	kine
 ken^a	kinetic
 keng	king
-!	kingbird
-!	kingbolt
-!	kingcraft
-kengtm	kingdom
-!	kingfisher
+kengbe~d	kingbird
+kengbolt	kingbolt
+kengkraft	kingcraft
+kengdm	kingdom
+kengfeshe~	kingfisher
 kengle	kinglet
 kengenes	kingliness
-!	king-pin
+kengpen	king-pin
 keng^sh	kingship
-kensmn	kinsman
-!	kiosk
+kens(man	kinsman
+keosk	kiosk
 kechn	kitchen
-
-# Page 120 Column 3
+	
+# Page 120 Column 3	
 keth	kith
 ketn	kitten
-!	kleptomaniac
+kleptomna&'k	kleptomaniac
 nav	knave
 navre	knavery
-navesh	knavish
-!	kneecap
+navsh	knavish
+nekap	kneecap
 ni	knight
-!	knighted
+ni^t	knighted
 nis	knights
 una&e	unknightly
 not	knot
 notd	knotted
-!	unknotted
+unotd	unknotted
 no	know
 nu	knew
 nob	knowable
@@ -74,7 +74,6 @@ nol	knowledge
 non	known
 unon	unknown
 nukl	knuckle
-!	knurl
+nerl	knurl
 kopk	kopeck
 kreptn	krypton
-
