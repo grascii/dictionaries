@@ -1,84 +1,84 @@
-# Page 121 Column 1
+# Page 121 Column 1	
 labl	label
 laba&'l	labial
 labr	labor
-lab^re	laboratory
-labrd	labored
-!	laborer
+labratre	laboratory
+labr^t	labored
+labrr	laborer
 labrus	laborious
-labenum	laburnum
+labe~num	laburnum
 labrenth	labyrinth
 lasera	lacerate
-!	lacerated
-!	laceration
-!	lachrymal
-!	lachrymose
+lasera^t	lacerated
+laserash	laceration
+lakreml	lachrymal
+lakremos	lachrymose
 lakr	lacquer
 lakros	lacrosse
 laktek	lactic
 lakeuna	lacuna
-!	lacunae
-!	lacunas
+lakeune	lacunae
+lakeunas	lacunas
 lade~	ladder
-latn	laden
+ladn	laden
 ladl	ladle
 lade	lady
-
-# Page 121 Column 2
+	
+# Page 121 Column 2	
 ladela	ladylike
-!	ladyship
+lade^sh	ladyship
 laga~d	laggard
 lagun	lagoon
 late	laity
 lambent	lambent
 lam	lame
-!	lamed
-!	lamely
-!	lameness
-lamn-t	lament
-!	lamentable
-!	lamentation
-!	lamented
+lamd	lamed
+lame	lamely
+lam-nes	lameness
+lamnt	lament
+lamntb	lamentable
+lamntsh	lamentation
+lamntd	lamented
 lamna	lamina
-!	laminate
-!	laminated
-!	lamination
+lamnat	laminate
+lamnatd	laminated
+lamnsh	lamination
 lampun	lampoon
-!	lamprey
+lampre	lamprey
 lanset	lancet
-!	lancination
-lant	land
-lantd	landed
-!	landfall
-
-# Page 121 Column 3
-lantoldr	landholder
-lantlade	landlady
-!	landlocked
-lantlod	landlord
-!	landmark
-!	landowner
-lants(kp	landscape
-lantslep	landslip
-!	landsman
+lansensh	lancination
+land	land
+landd	landed
+landfo	landfall
+	
+# Page 121 Column 3	
+land'oldr	landholder
+landlade	landlady
+landlokt	landlocked
+landlod	landlord
+landmark	landmark
+landone~	landowner
+landskp	landscape
+landslep	landslip
+landsman	landsman
 land^d	landward
 lang	language
 lange_d	languid
 langsh	languish
-langr	languor
-!	languorous
+lange~	languor
+langerus	languorous
 lantn	lantern
-!	lanthanum
-!	lanyard
+lanthanum	lanthanum
+lana~d	lanyard
 lapl	lapel
 lapdre	lapidary
 laps	lapse
 larbod	larboard
-lars-ne	larceny
-lars-nus	larcenous
-!	larch
-
-# Page 122 Column 1
+lar-sne	larceny
+lar-snus	larcenous
+larch	larch
+	
+# Page 122 Column 1	
 la~d	lard
 laj	large
 nlaj	enlarge
@@ -89,188 +89,188 @@ lara&'t	lariat
 lark	lark
 larkspur	larkspur
 larva	larva
-!	larval
+larvl	larval
 larenkx	larynx
 larenji	laryngitis
 lastu	lassitude
 laso	lasso
 las	last
-lasd	lasted
+las^t	lasted
 lase	lastly
 las-s	lasts
 lach	latch
 lachke	latchkey
-!	latchstring
+lachstreng	latchstring
 lat	late
 late	lately
-lat-n	lateness
-
-# Page 122 Column 2
+lat-nes	lateness
+	
+# Page 122 Column 2	
 late~	later
 lates	latest
 late~	latter
-latn-t	latent
+latnt	latent
 latl	lateral
-!	laterally
+latle	laterally
 lath	lath
 lath	lathe
 lath	lather
 latn	Latin
-!	Latinism
+latn-sm	Latinism
 latnes	Latinist
 lat^nt	Latinity
 latet	latitude
-latetutnl	latitudinal
+latetudnl	latitudinal
 late~	latter
 latemo	lattermost
 lates	lattice
-!	latticework
+latesrk	latticework
 lod	laud
 lod^b	laudability
 lodb	laudable
 lodsh	laudation
-lodre	laudatory
-lotnum	laudanum
-
-# Page 122 Column 3
+lodtre	laudatory
+lodnum	laudanum
+	
+# Page 122 Column 3	
 laf	laugh
 lafb	laughable
-!	laughingstock
+lafsto	laughingstock
 lafte~	laughter
 lonch	launch
 londr	launder
-!	laundress
-lontre	laundry
-!	laundryman
+londres	laundress
+londre	laundry
+londreman	laundryman
 lorel	laurel
 lora&'t	laureate
 lava	lava
-!	lavaliere
+lavler	lavaliere
 lavtre	lavatory
 lavndr	lavender
-lavesh	lavish
+lavsh	lavish
 lo	law
 lof	lawful
-!	lawgiver
+loge^r	lawgiver
 lol	lawless
-!	lawmaker
-!	lawsuit
+lomakr	lawmaker
+losut	lawsuit
 lor	lawyer
-laks	lax
-!	laxative
-
-# Page 123 Column 1
-lakste	laxity
-laxn	laxness
-rlaks	relax
+lax	lax
+laxtv	laxative
+	
+# Page 123 Column 1	
+laxte	laxity
+laxnes	laxness
+rlax	relax
 lar	layer
-lase	lazy
-!	lazily
-lazen	laziness
+laze	lazy
+laze|	lazily
+laze-nes	laziness
 led	lead
-letn	leaden
-le~de~	leader
-le~de~sh	leadership
-!	leadsman
+ledn	leaden
+lede~	leader
+lede~^sh	leadership
+ledsman	leadsman
 leg	league
 lek	leak
 lekj	leakage
-leken	leakiness
+lekenes	leakiness
 len	learn
 len^t	learned
 len-t	learnt
 les	lease
-les(old	leasehold
-!	leaseholder
+lesold	leasehold
+lesoldr	leaseholder
 lese	lessee
-les(or	lessor
+lesor	lessor
 les(t	least
-
-# Page 123 Column 2
+	
+# Page 123 Column 2	
 leth	leather
 leth^et	leatheret
-!	leathern
+lethn	leathern
 lethoe	leatheroid
-!	leatherwood
-!	leathery
+lethuud	leatherwood
+lethe	leathery
 levn	leaven
 lektn	lectern
 lektr	lecture
-lekt^r	lecturer
-le~je~	ledger
+lektrr	lecturer
+leje~	ledger
 le^d	leeward
 le^ua	leeway
 lft	left
-!	left-handed
+lft'ndd	left-handed
 legse	legacy
 leg	legal
 eleg	illegal
-legs(m	legalism
+legsm	legalism
 leg^l	legality
-legezsh	legalization
+legezash	legalization
 legiz	legalize
-!	legally
+lega|	legally
 legat	legate
 legate	legatee
-
-# Page 123 Column 3
-legsh	legation
-!	legato
-lejnt	legend
+	
+# Page 123 Column 3	
+legash	legation
+legato	legato
+lejnd	legend
 lejndre	legendary
-lejtman	legerdemain
-!	legging
+lejdman	legerdemain
+leg'	legging
 lejb	legible
 elejb	illegible
 lej^b	legibility
 lejn	legion
 lejnre	legionary
 lj	legislate
-lj	legislation
+lj^sh	legislation
 ljv	legislative
 lj^r	legislator
 ljt	legislature
-ljtmat	legitimate
+lejtmat	legitimate
 elejtmat	illegitimate
-!	legitimacy
-!	legitimateness
-ljtmsh	legitimation
-!	legitimatize
-ljtmes	legitimist
-!	legume
-!	leguminous
-
-# Page 124 Column 1
+lejtmse	legitimacy
+lejtmat-nes	legitimateness
+lejtmsh	legitimation
+lejmtatiz	legitimatize
+lejtmes	legitimist
+legeum	legume
+legeumnus	leguminous
+	
+# Page 124 Column 1	
 leshu	leisure
-!	leisureliness
-!	leisurely
+leshuenes	leisureliness
+leshue	leisurely
 lemn	lemon
 lemnad	lemonade
-!	lemur
+lemur	lemur
 leng	length
 lengn	lengthen
-!	lengthily
-!	lengthiness
-!	lengthways
-lengi	lengthwise
-!	lengthy
+lenge|	lengthily
+lengenes	lengthiness
+lenga_s	lengthways
+lengi_s	lengthwise
+lenge	lengthy
 lenent	lenient
-!	lenience
-!	leniently
-lenedf	lenitive
+lenens	lenience
+lenente	leniently
+lenetv	lenitive
 l^nt	lenity
 lent	Lent
-!	Lenten
-!	lentil
+lentn	Lenten
+lentl	lentil
 lentek	lenticular
 lenin	leonine
 lepe~d	leopard
-!	leper
-
-# Page 124 Column 2
+lepr	leper
+	
+# Page 124 Column 2	
 leprse	leprosy
-!	leprous
-!	lesion
+leprus	leprous
+lesh	lesion
 les	less
 les(t	least
 les(n	lessen
@@ -278,65 +278,65 @@ lesnd	lessened
 leser	lesser
 les(n	lesson
 le	let
-!	lethal
+lethl	lethal
 lethje	lethargy
-!	lethargic
-!	lethargical
+lethjk	lethargic
+lethj^k	lethargical
 le	letter
-led	lettered
-le^ed	letterhead
-le^pres	letterpress
+le^t	lettered
+le^'ed	letterhead
+lepres	letterpress
 letus	lettuce
 levnt	levant
 leve	levee
 levl	level
-levl-d	leveled
-!	leveler
+levld	leveled
+levlr	leveler
 levr	lever
-
-# Page 124 Column 3
+	
+# Page 124 Column 3	
 levrj	leverage
 levithan	leviathan
-!	levitate
-!	levitation
-l^v	levity
+levta	levitate
+levtsh	levitation
+levte	levity
 lexkn	lexicon
 lex^oe	lexicography
 lib	liable
 li^b	liability
-!	liaison
+la&'son	liaison
 la&er	liar
-!	libation
+libash	libation
 libl	libel
-!	libelant
-!	libeled
+liblant	libelant
+libld	libeled
 lible	libelee
 liblr	libeler
-!	libelous
+liblus	libelous
 leber	liberal
 eleber	illiberal
 leber-sm	liberalism
-leb^l	liberality
-!	liberalization
-!	liberalizer
+leber^l	liberality
+leberezash	liberalization
+leberizer	liberalizer
 lebra|	liberally
-
-# Page 125 Column 1
+	
+# Page 125 Column 1	
 leb	liberty
 lebera	liberate
-leberad	liberated
+lebera^t	liberated
 leberash	liberation
-leberar	liberator
+lebera^r	liberator
 librre	library
-libra&'n	librarian
+librra&'n	librarian
 lebreto	libretto
-lis(ns	license
-lis(nsd	licensed
-!	licensee
-lis(nsha&'t	licentiate
+li-sns	license
+li-snst	licensed
+li-snse	licensee
+li-snsha&'t	licentiate
 likn	lichen
 lekres	licorice
-!	lictor
+lekte~	lictor
 lej	liege
 len	lien
 lu	lieu
@@ -347,35 +347,35 @@ lafla	lifelike
 laflng	lifelong
 laftm	lifetime
 lavs	lives
-
-# Page 125 Column 2
+	
+# Page 125 Column 2	
 left	lift
 lig	ligate
 legm	ligament
-!	ligation
-legatr	ligature
+ligsh	ligation
+legtr	ligature
 li	light
 ali	alight
 dlif	delightful
 nlinm	enlightenment
 li^t	lighted
 lin	lighten
-!	lightened
+lind	lightened
 lir	lighter
-lis(t	lightest
-l'is	lighthouse
+list	lightest
+l'is)	lighthouse
 la&e	lightly
-!	light-minded
-li^n	lightness
+limin^t	light-minded
+li^nes	lightness
 lin'	lightning
 lis	lights
-!	lightship
-lis(m	lightsome
+li^sh	lightship
+li-sm	lightsome
 reli	relight
 legnus	ligneous
 legnf	lignify
-
-# Page 125 Column 3
+	
+# Page 125 Column 3	
 legni	lignite
 la	like
 dsla	dislike
@@ -383,67 +383,67 @@ la^b	likable
 lae^d	likelihood
 lae	likely
 lan	liken
-lan-d	likened
-la^n	likeness
+land	likened
+lanes	likeness
 las	likes
 la&es	likewise
 nlae	unlikely
 lilak	lilac
-!	lilt
+lelt	lilt
 lele	lily
 lembr	limber
 lim	lime
-!	limekiln
-!	limelight
-!	limewater
+limkel	limekiln
+limli	limelight
+limo_te~	limewater
 lemet	limit
 lemetb	limitable
 lemsh	limitation
 lemetd	limited
 lemetl	limitless
-
-# Page 126 Column 1
-lems(en	limousine
+	
+# Page 126 Column 1	
+lem-sen	limousine
 lempd	limpid
 lempdte	limpidity
-lentn	linden
+len-dn	linden
 lan	line
-alin	align
+alan	align
 lenj	lineage
 lenl	lineal
 lenam	lineament
 lena&e~	linear
-lan-d	lined
-!	lineman
+land	lined
+lan-man	lineman
 lane~	liner
 relan	reline
-nlant	unlined
+nland	unlined
 lenen	linen
 lenge~	linger
 lanshre	lingerie
 lengl	lingual
 lenge_s	linguist
 leng^st	linguistic
-leng^s(ts	linguistics
+leng^sts	linguistics
 lenem	liniment
 lenkj	linkage
 lenol	linoleum
-
-# Page 126 Column 2
+	
+# Page 126 Column 2	
 lanotip	linotype
 lentl	lintel
 la&en	lion
-!	lioness
-!	lionize
+la&enes	lioness
+la&eniz	lionize
 leke_d	liquid
-leke_fksh	liquefaction
-leke_f^b	liquefiable
+leke_faksh	liquefaction
+leke_fb	liquefiable
 leke_f	liquefy
-leke_s(nt	liquescent
-leke_td	liquidate
+leke_snt	liquescent
+leke_dt	liquidate
 leke_dsh	liquidation
-leke_dtr	liquidator
-!	liquidity
+leke_dte~	liquidator
+leke_dte	liquidity
 lekr	liquor
 lera	lira
 lera	lire
@@ -452,69 +452,69 @@ ls	list
 nls	enlist
 lsl	listless
 ls-s	lists
-!	reenlist
-les(n	listen
-les(n-d	listened
-
-# Page 126 Column 3
-les(nr	listener
-le~te~	liter
-!	literate
+rnls	reenlist
+lesn	listen
+lesnd	listened
+	
+# Page 126 Column 3	
+lesne~	listener
+lete~	liter
+let	literate
 elet	illiterate
 letse	literacy
 letl	literal
-le^lsm	literalism
+letl-sm	literalism
 let^l	literality
-le^siz	literalize
+letliz	literalize
 letre	literary
 letr	literature
 t^let	transliterate
 letharj	litharge
 lith	lithe
-!	lithesome
+lith-sm	lithesome
 letha&'	lithia
 lethm	lithium
 leth^o	lithograph
 leteg	litigate
-!	litigable
-!	litigant
+letegb	litigable
+letegnt	litigant
 letsh	litigation
-!	litigious
+letejus	litigious
 let-mus	litmus
-le~te~	litter
-
-# Page 127 Column 1
+lete~	litter
+	
+# Page 127 Column 1	
 let	little
 letrl	littoral
 letje	liturgy
-!	liturgic
+letjk	liturgic
+lev	live
 lav	live
-lav	live
-lavd	lived
+levd	lived
 lave^d	livelihood
-laven	liveliness
-!	livelong
-lavr	liver
-lavre	livery
+lavenes	liveliness
+lavlng	livelong
+levr	liver
+levre	livery
 levd	livid
 leza~d	lizard
 lof	loaf
-!	loaves
+lovs	loaves
 lom	loam
 loth,	loathe
-!	loathful
-!	loathly
-!	loathsome
+lothf	loathful
+lothe	loathly
+loth-sm	loathsome
 lobe	lobby
-!	lobbyist
-lob-ste~	lobster
+lobe^st	lobbyist
+lobste~	lobster
 lok	local
-
-# Page 127 Column 2
-!	localism
+	
+# Page 127 Column 2	
+lok-sm	localism
 lok^l	locality
-!	localization
-lokis	localize
+lokezash	localization
+lokiz	localize
 loka|	locally
 lok	locate
 alok	allocate
@@ -523,52 +523,52 @@ loksh	location
 lok	lock
 lokr	locker
 loket	locket
-!	lockjaw
+lokjo	lockjaw
 lokau	lockout
-!	locksmith
+loksmeth	locksmith
 lokmosh	locomotion
-lokmodf	locomotive
+lokmotv	locomotive
 lokus	locus
-!	loci
+losi	loci
 lokus	locust
 loj	lodge
-!	lodger
-!	lodgment
+loje~	lodger
+lojm	lodgment
 loft	loft
 lofte|	loftily
-
-# Page 127 Column 3
-loften	loftiness
-!	logarithm
-!	loggia
+	
+# Page 127 Column 3	
+loftenes	loftiness
+logrethm	logarithm
+loja^'	loggia
 lojk	logic
 eloj^k	illogical
-lojkl	logical
+loj^k	logical
 lojesh	logician
-!	logotype
-!	logwood
+logtip	logotype
+loguud	logwood
 loete~	loiter
-!	loitered
-!	loiterer
+loete~d	loitered
+loete~^r	loiterer
 lon	lone
 lonenes	loneliness
-lons(m	lonesome
-!	lonesomeness
+lon-sm	lonesome
+lon-sm-nes	lonesomeness
 lng	long
 blng	belong
-elongat	elongate
-!	longboat
+elngat	elongate
+lngbot	longboat
 lng^t	longed
 lnge~	longer
 lnges	longest
-lnjvte	longevity
-!	longhand
-
-# Page 128 Column 1
-!	longhorn
+lngjvte	longevity
+lng'nd	longhand
+	
+# Page 128 Column 1	
+lng'orn	longhorn
 lnjtu	longitude
-!	longitudinal
-!	longshoreman
+lngtudnl	longitudinal
+lngshorman	longshoreman
 prlng	prolong
 lu	look
 aulu	outlook
@@ -576,65 +576,65 @@ lup	loop
 lup'ol	loophole
 lus	loose
 lusn	loosen
-lus(nt	loosened
+lusnd	loosened
 lusnes	looseness
 loka_sh	loquacious
 lok^s	loquacity
 lod	lord
-!	lordliness
-lodsh	lordship
+lodenes	lordliness
+lod^sh	lordship
 lor	lore
 lornet	lorgnette
 lus	lose
-!	losable
+losb	losable
 los	loss
 los(t	lost
 lotre	lottery
-
-# Page 128 Column 2
+	
+# Page 128 Column 2	
 lotus	lotus
 lau	loud
 laur	louder
-laus(t	loudest
+laust	loudest
 laue	loudly
-!	loudness
+launes	loudness
 lnj	lounge
 lv	love
-!	lovable
+lvb	lovable
 lvl	loveless
-lven	loveliness
+lvenes	loveliness
 lve	lovely
 lvr	lover
-!	lovesick
-!	unlovable
+lvsek	lovesick
+nlvb	unlovable
 lo	low
 lobon	lowborn
-!	lowboy
+loboe	lowboy
 lor	lower
-!	lowermost
-los(t	lowest
+lormo	lowermost
+lo-st	lowest
 loland	lowland
-lo,en	lowliness
-!	lowness
-!	low-pressure
-
-# Page 128 Column 3
+loenes	lowliness
+lones	lowness
+lopreshu	low-pressure
+	
+# Page 128 Column 3	
 lospr^t	low-spirited
 loe	loyal
-loe^s(t	loyalist
+loe^st	loyalist
 loe	loyalty
 lbrek	lubricate
-!	lubricant
+lbreknt	lubricant
 lbreksh	lubrication
-lbrekatr	lubricator
-lus(nt	lucent
-lus(ed	lucid
+lbrek^r	lubricator
+lusnt	lucent
+lused	lucid
 lusedte	lucidity
 luk	luck
-!	luckily
-luken	luckiness
+luke|	luckily
+lukenes	luckiness
 lukl	luckless
-luktv	lucrative
+lukrtv	lucrative
 lukbrash	lucubration
 ludek	ludicrous
 lugj	luggage
@@ -644,9 +644,9 @@ lmbgo	lumbago
 lmbr	lumber
 lumnus	luminous
 lumnre	luminary
-
-# Page 129 Column 1
-!	luminescent
+	
+# Page 129 Column 1	
+lumnesnt	luminescent
 lumn^s	luminosity
 lmp	lump
 luna~	lunar
@@ -656,28 +656,27 @@ lnch	lunch
 lnchn	luncheon
 lrch	lurch
 lr	lure
-
-# Page 129 Column 2
+	
+# Page 129 Column 2	
 lred	lurid
 lrk	lurk
 lshus	luscious
 luste~	luster
-!	lustrous
-!	lute
-!	Lutheran
+lustrus	lustrous
+lut	lute
+luthran	Lutheran
 lux	luxury
-lux^ns	luxuriance
+luxns	luxuriance
 luxnt	luxuriant
-
-# Page 129 Column 3
+	
+# Page 129 Column 3	
 luxt	luxuriate
 luxus	luxurious
-lis(em	lyceum
+li-sem	lyceum
 lemf^a	lymphatic
 lenks	lynx
 la&enas	lyonnaise
 lir	lyre
 lerk	lyric
-!	lyrical
+ler^k	lyrical
 lerss	lyricism
-
