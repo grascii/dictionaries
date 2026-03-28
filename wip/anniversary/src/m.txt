@@ -1,11 +1,11 @@
-# Page 130 Column 1
+# Page 130 Column 1	
 makbr	macabre
-m^atm	macadam
-m^admiz	macadamize
+m^adm	macadam
+? admiz	macadamize
 makrone	macaroni
 makrun	macaroon
 masera	macerate
-!	maceration
+maserash	maceration
 machta	machete
 machklash	machicolation
 maknsh	machination
@@ -13,30 +13,30 @@ mashn	machine
 mashnre	machinery
 mashnes	machinist
 makrl	mackerel
-makrokos(m	macrocosm
-!	microcosm
+makrokosm	macrocosm
+mikrokosm	microcosm
 makrn	macron
-!	maculate
+mak^u	maculate
 emak^u	immaculate
 mad	mad
-!	madhouse
-!	madman
-!	madness
-matm	madam
-
-# Page 130 Column 2
-!	madrigal
+mad'us	madhouse
+mad-man	madman
+mad-nes	madness
+madm	madam
+	
+# Page 130 Column 2	
+madregl	madrigal
 mag	magazine
 majnta	magenta
 magt	maggot
-!	Magi
+maji	Magi
 majk	magic
 majesh	magician
-majstra	magistrate
-majes(terl	magisterial
-!	magistracy
-majes(trl	magistral
-!	magistrature
+majestra	magistrate
+majesterl	magisterial
+majestrse	magistracy
+majestrl	magistral
+majestratr	magistrature
 m^n	magnanimous
 m^n^mt	magnanimity
 m^at	magnate
@@ -44,158 +44,158 @@ m^shm	magnesium
 m^sha&'	magnesia
 m^t	magnet
 m^tek	magnetic
-!	magnetically
+m^t^ke	magnetically
 m^t-sm	magnetism
-m^tezsh	magnetization
+m^tezash	magnetization
 m^tiz	magnetize
 m^to	magneto
 m^f	magnificent
-
-# Page 130 Column 3
+	
+# Page 130 Column 3	
 m^fns	magnificence
 m^feko	magnifico
 m^f	magnify
 m^f	magnification
-m^fir	magnifier
+m^fr	magnifier
 m^lok	magniloquent
 m^tu	magnitude
 m^la&'	magnolia
-!	magpie
+magpi	magpie
 maraja	maharaja
 m'ogne	mahogany
 mad	maid
-matn	maiden
-!	maidenhair
-!	maidenhood
-matne	maidenly
-ma~lb	mail
+madn	maiden
+madn'ar	maidenhair
+madn^d	maidenhood
+madne	maidenly
+ma~	mail
 ma~^b	mailable
-ma~l-d	mailed
-ma~lr	mailer
-!	unmailable
+ma~^t	mailed
+ma~^r	mailer
+n-ma^b	unmailable
 mam	maim
 mamd	maimed
 man	main
 manland	mainland
-
-# Page 131 Column 1
+	
+# Page 131 Column 1	
 mane	mainly
-!	mainmast
-!	mainsail
-!	mainspring
-!	mainstay
+man-mas(t	mainmast
+mansal	mainsail
+manspreng	mainspring
+mansta	mainstay
 mntn	maintain
 mntnb	maintainable
 mntnd	maintained
 mntnans	maintenance
 majeste	majesty
-maj^s(t	majestic
-!	majolica
+maj^st	majestic
+majoleka	majolica
 maje~	major
 maj^r	majority
 mak	make
 makbe	make-believe
 makr	maker
 maksheft	makeshift
-!	make-up
+makup	make-up
 n-mak	unmake
-!	maladjustment
+malajusm	maladjustment
 malamnessh	maladministration
-!	maladroit
+maladroe	maladroit
 malade	malady
 malpe~t	malapert
-
-# Page 131 Column 2
+	
+# Page 131 Column 2	
 malaprpo	malapropos
 malara&'	malaria
-!	malarial
-!	malassimilation
+malarl	malarial
+malasemelash	malassimilation
 malktnt	malcontent
-!	male
+ma~	male
 fema~	female
-maledsh	malediction
-!	maledictory
-malfak	malefactor
-malfes(nt	maleficent
+maledeksh	malediction
+maledekre	maledictory
+malfakr	malefactor
+malfesnt	maleficent
 malev	malevolent
 malfesns	malfeasance
 malfmsh	malformation
 males	malice
 malesh	malicious
 malin	malign
-malegse	malignancy
+malegnse	malignancy
 malegn	malignant
-!	malignity
+maleg^nt	malignity
 maline	malignly
-!	malinger
-!	malingerer
+malenge~	malinger
+malenge~^r	malingerer
 malb	malleable
 mal^b	malleability
-
-# Page 131 Column 3
-!	malnutrition
-!	malodorous
+	
+# Page 131 Column 3	
+malnutresh	malnutrition
+maloderus	malodorous
 malprkt	malpractice
 molt	malt
 moltes	Maltese
-!	maltreat
+maltret	maltreat
 malvessh	malversation
-mnoth)	mammoth
+mmoth	mammoth
 man	man
-!	manhole
+man'ol	manhole
 mn^d	manhood
 man-ki	mankind
 mane	manly
-!	manslaughter
+manslote~	manslaughter
 mn	men
-!	unmanned
+n-mand	unmanned
 mn^k	manacle
 mnj	manage
-mj^b	manageability
+mnj^b	manageability
 mnjb	manageable
 mnjm	management
 mnje~	manager
 mnjerl	managerial
-mnjerle	managerially
-mjrsh	managership
-
-# Page 132 Column 1
-nmnjb	unmanageable
+mnjera|	managerially
+mnje~^sh	managership
+	
+# Page 132 Column 1	
+n-mnjb	unmanageable
 mnate	manatee
 mndamus	mandamus
 mndaren	mandarin
-mntd	mandate
-mntdre	mandatory
+mndt	mandate
+mndtre	mandatory
 mndb	mandible
-mn-dolen	mandolin
+mndolen	mandolin
 mnuvr	maneuver
 manganes	manganese
-!	manger
+mnje~	manger
 mnje	mangy
-mn^a&'	mania
-mna&'k	maniac
+mana&'	mania
+mana&'k	maniac
 man^k	maniacal
-mnakr	manicure
-mnakres	manicurist
+mnekr	manicure
+mnekres	manicurist
 mnfes	manifest
 mnfessh	manifestation
-!	manifestly
-mnfes(o	manifesto
+mnfese	manifestly
+mnfeso	manifesto
 mnfold	manifold
-!	manifolder
+mnfoldr	manifolder
 mneken	manikin
 mnep^u	manipulate
-
-# Page 132 Column 2
+	
+# Page 132 Column 2	
 mne~	manner
-mnersm	mannerism
+mner-sm	mannerism
 mnerl	mannerless
-mnee	mannerly
-!	unmannerly
+mne~e	mannerly
+n-mne~e	unmannerly
 mne~	manor
-!	manorial
+mnorl	manorial
 mnsh	mansion
-!	mantelpiece
+mntlpes	mantelpiece
 mnl	manual
 mnle	manually
 mnf	manufacture
@@ -203,125 +203,125 @@ mnfaktre	manufactory
 mnfr	manufacturer
 mnumsh	manumission
 mnr	manure
-mnus(kr	manuscript
+mnuskr	manuscript
 mne	many
 mapl	maple
-!	maraschino
+maraskeno	maraschino
 marod	maraud
 marode~	marauder
 marb	marble
 mach	march
 mache~	marcher
-
-# Page 132 Column 3
+	
+# Page 132 Column 3	
 markne^g	marconigram
-!	mare
+ma~	mare
 majn	margin
 majnl	marginal
-!	marginalia
-!	marginally
-!	margrave
-!	marigold
+majnla&'	marginalia
+majna|	marginally
+margrav	margrave
+maregold	marigold
 maren	marine
 marene~	mariner
 smaren	submarine
-u)^maren	ultramarine
+ut-maren	ultramarine
 marenet	marionette
 maretl	marital
 maretm	maritime
 mark	mark
-markd	marked
-!	markedly
-!	marker
-!	marksman
-!	unmarked
+markt	marked
+markde	markedly
+markr	marker
+marksman	marksman
+n-markt	unmarked
 mr	market
-!	marketability
+mr^b	marketability
 mrb	marketable
-ma~mla~d	marmalade
-
-# Page 133 Column 1
-!	marmoset
+ma~mlad	marmalade
+	
+# Page 133 Column 1	
+ma~moset	marmoset
 marun	maroon
-!	marooned
+marund	marooned
 marke_s	marquis
 markes	marquise
 mare	marry
 marj	marriage
-!	marriageable
-!	unmarried
+marjb	marriageable
+n-mared	unmarried
 marsh	marshal
 marsh	martial
-!	martially
+marsha|	martially
 ma~te~	martyr
-ma~tetm	martyrdom
+ma~tedm	martyrdom
 marv	marvel
 marv	marvelous
-maskt	mascot
-mas(keu	masculine
+maskot	mascot
+maskeu	masculine
 maskeu^nt	masculinity
 masn	mason
 masnre	masonry
-mas(kr	massacre
+maskr	massacre
 masash	massage
-mas(v	massive
+masv	massive
 mas	master
-
-# Page 133 Column 2
-mas(f	masterful
-mas(enes	masterliness
+	
+# Page 133 Column 2	
+masf	masterful
+mas-enes	masterliness
 mase	masterly
 maspes	masterpiece
 mas-s	masters
-!	mastership
+mas^sh	mastership
 masrk	masterwork
 mase	mastery
-!	masthead
-mas(tek	masticate
+mast'ed	masthead
+mastek	masticate
 masteksh	mastication
-mas(df	mastiff
+masdf	mastiff
 mastodn	mastodon
 matdr	matador
 mach	match
 machl	matchless
-!	matchmaker
-!	matchwood
-nmachd	unmatched
+machmakr	matchmaker
+machuud	matchwood
+n-macht	unmatched
 mater	material
 emater	immaterial
-ma^l-sm	materialism
-ma^les	materialist
-ma^l^st	materialistic
+mater-sm	materialism
+materst	materialist
+mater^st	materialistic
 mater^l	materiality
-
-# Page 133 Column 3
-!	materialization
-ma^liz	materialize
+	
+# Page 133 Column 3	
+materezash	materialization
+materiz	materialize
 matera|	materially
 matnl	maternal
-matne|	maternally
+matna|	maternally
 matnte	maternity
 math^as	mathematics
 mathtsh	mathematician
-!	matinée
+matna	matinee
 matrsi	matricide
 matrk^u	matriculate
 matremne	matrimony
-ma^mn	matrimonial
-!	matrimonially
-!	matrix
+matremnl	matrimonial
+matremna|	matrimonially
+matrex	matrix
 matress	matrices
-ma^n	matron
+matrn	matron
 mat	matter
-ma^s	mattress
+matres	mattress
 matr	mature
 ematr	immature
 mat^r	maturity
 prematr	premature
-!	maudlin
+modlen	maudlin
 mos(olem	mausoleum
-
-# Page 134 Column 1
+	
+# Page 134 Column 1	
 mov	mauve
 mavrk	maverick
 maxm	maxim
@@ -329,7 +329,7 @@ maxmn	maximum
 m'am	mayhem
 manas	mayonnaise
 mar	mayor
-maserka	mazurka
+mazerka	mazurka
 megr	meager
 men	mean
 mene	meanly
@@ -341,97 +341,97 @@ mesls	measles
 meshu	measure
 kmnshut	commensurate
 meshube	measurably
-meshud	measured
+meshu^t	measured
 meshul	measureless
 meshum	measurement
-!	measurer
+meshu^r	measurer
 meshus	measures
-mkan	mechanic
-
-# Page 134 Column 2
+mekanek	mechanic
+	
+# Page 134 Column 2	
 mekan^k	mechanical
 mekansh	mechanician
 mekansm	mechanism
-!	mechanization
-!	mechanize
+mekanezash	mechanization
+mekaniz	mechanize
 medl	medal
-!	medalist
+medles	medalist
 medaln	medallion
-medls(m	meddlesome
-!	median
+medl-sm	meddlesome
+meda&'n	median
 meda&'t	mediate
 meda&'sh	mediation
-!	mediative
-meda&'tr	mediator
+meda&'tv	mediative
+meda&'te~	mediator
 med^k	medical
 medekm	medicament
 medek	medicate
 medeksh	medication
-!	medicative
-medes	medicinal
-meds(n	medicine
+medekv	medicative
+med-snl	medicinal
+med-sn	medicine
 medev	medieval
-!	medievally
+medeva|	medievally
 medokr	mediocre
 medok^r	mediocrity
-
-# Page 134 Column 3
-metdat	meditate
-metdsh	meditation
+	
+# Page 134 Column 3	
+medtat	meditate
+medtsh	meditation
 medtatv	meditative
-metm	medium
-!	media
-!	mediums
+medm	medium
+meda&'	media
+medms	mediums
 mershm	meerschaum
 melan	melancholy
-!	melancholia
+melana&'	melancholia
 melan-k	melancholic
 melra	meliorate
 amelra	ameliorate
 melrash	melioration
-!	mellifluous
-melodram	melodrama
-!	melodramatic
+melef	mellifluous
+melodrama	melodrama
+melodram^a	melodramatic
 melode	melody
-melotn	melodeon
-!	melodic
+melodn	melodeon
+melodek	melodic
 melodus	melodious
 melt	melt
-mnbr	member
-mnbr^sh	membership
-mno	memorandum
-mna	memoranda
-
-# Page 135 Column 1
-!	memorandums
-mnre	memory
-kmnra	commemorate
+mmbr	member
+mmbr^sh	membership
+mmo	memorandum
+mma	memoranda
+	
+# Page 135 Column 1	
+mmos	memorandums
+mmre	memory
+kmmra	commemorate
 memnto	memento
 mmo_r	memoir
-!	memorabilia
-m-mrb	memorable
-mnorl	memorial
-mnrissh	memorization
-mnris	memorize
+mmrbela&'	memorabilia
+mmrb	memorable
+mmorl	memorial
+mmrezash	memorization
+mmriz	memorize
 mnas	menace
 mnash	menage
 mnajre	menagerie
 mndash	mendacious
 mnd^s	mendacity
-mndek	mendicant
-mn-deknse	mendicancy
+mndeknt	mendicant
+mndeknse	mendicancy
 menl	menial
 mnenji	meningitis
-!	meniscus
+mneskus	meniscus
 mnshush	mensuration
 kmnshut	commensurate
-tmensh	dimension
-mnshudf	mensurative
+dmensh	dimension
+mnsutv	mensurative
 mntl	mental
-
-# Page 135 Column 2
+	
+# Page 135 Column 2	
 mnt^l	mentality
-mn-ta|	mentally
+mnta|	mentally
 mnsh	mention
 mnshd	mentioned
 mntr	mentor
@@ -441,157 +441,157 @@ mersnre	mercenary
 merseriz	mercerize
 mecht	merchant
 mechdis	merchandise
-!	merchantman
+mecht-man	merchantman
 merkre	mercury
-merkeu	mercurial
+merkrl	mercurial
 merse	mercy
-mers(e~f	merciful
-mers(e~l	merciless
+merse-f	merciful
+merse-l	merciless
 me~	mere
-mere	merely
-!	merest
-!	meretricious
+me~e	merely
+me~^st	merest
+me~tresh	meretricious
 mej	merge
-merje~	merger
+meje~	merger
 me~da&'n	meridian
-!	meridional
-
-# Page 135 Column 3
-!	meringue
+me~denl	meridional
+	
+# Page 135 Column 3	
+merang	meringue
 mereno	merino
 me~t	merit
-me~t^t	merited
+me~td	merited
 me~trus	meritorious
-!	unmerited
+n-me~td	unmerited
 me~mad	mermaid
-mere|	merry
-!	merrily
-me~m	merriment
-!	merrymaking
+mere	merry
+mere|	merrily
+merem	merriment
+meremak'	merrymaking
 masa	mesa
 mesmriz	mesmerize
-mesmr-sm	mesmerism
-!	mesquite
+mesmrsm	mesmerism
+mesket	mesquite
 mesj	message
 mesje~	messenger
-metbls(m	metabolism
+metbl-sm	metabolism
 metl	metal
 metlk	metallic
-!	metalloid
-metlje	metallurgy
-metmorfs(	metamorphose
-metmorfss)	metamorphosis
+metloe	metalloid
+metlrje	metallurgy
+metmorfs	metamorphose
+metmorfss	metamorphosis
 metfr	metaphor
-
-# Page 136 Column 1
-metfr^kl	metaphorical
-metfes	metaphysics
+	
+# Page 136 Column 1	
+metfr^k	metaphorical
+metfesks	metaphysics
 metfes^k	metaphysical
-!	metaphysician
+metfesesh	metaphysician
 metor	meteor
 metork	meteoric
 metori	meteorite
 metor^o(	meteorology
-me^	meter
+mete~	meter
 methd	method
 methd^k	methodical
 methdes	methodist
 metek	meticulous
-me^k	metric
-me^kl	metrical
+metrk	metric
+metr^k	metrical
 metrnom	metronome
-me^p	metropolis
-me^ptn	metropolitan
-mes(nen	mezzanine
+metrp	metropolis
+metrpol	metropolitan
+meznen	mezzanine
 ma&esma	miasma
-!	miasmal
-!	miasmatic
+misml	miasmal
+ma&esm^a	miasmatic
 mikrb	microbe
-!	microbiology
-!	microcosm
-
-# Page 136 Column 2
-makrokos(m	macrocosm
-!	micrometer
+mikrb^o(	microbiology
+mikrokosm	microcosm
+	
+# Page 136 Column 2	
+makrokosm	macrocosm
+mikromete~	micrometer
 mikroog	microorganism
 mikrofn	microphone
-mikros(kp	microscope
-mikro^k	microscopic
+mikroskp	microscope
+mikroskpk	microscopic
 med-ni	midnight
 meds	midst
-!	midwinter
+mede_ntr	midwinter
 mat	might
 omate	almighty
 mate|	mightily
-maten	mightiness
+matenes	mightiness
 mate	mighty
 migra	migrate
-migraz	migration
+migrash	migration
 migra^re	migratory
 mild	mild
-!	mildly
-mild-n	mildness
+milde	mildly
+mild-nes	mildness
 meldu	mildew
 mi~	mile
 mi~^j	mileage
 mipost	milepost
 miston	milestone
-
-# Page 136 Column 3
+	
+# Page 136 Column 3	
 meletn	militant
 meletnse	militancy
-!	militarism
-melet^s(t	militarist
-melet^s(t	militaristic
+melet-sm	militarism
+melet^st	militarist
+melet^st	militaristic
 melet	military
 meleta	militate
 melesha	militia
 melk	milk
-!	milkman
-!	milkweed
+melkman	milkman
+melke_d	milkweed
 melen	millennium
-melnre	millenary
-!	millenial
-melne~	milliner
-me~le~ne~e~	millinery
+melenre	millenary
+melenl	millenial
+melene~	milliner
+melene~e	millinery
 meln	million
 melna~	millionaire
 melnth	millionth
-mne^o	mimeograph
-mnek	mimic
+mme^o	mimeograph
+mmek	mimic
 mmekre	mimicry
 mnaret	minaret
 mnatre	minatory
 min	mind
-
-# Page 137 Column 1
+	
+# Page 137 Column 1	
 minf	mindful
 remin	remind
 n-minf	unmindful
-mint	mined
+mind	mined
 mnerl	mineral
 mner^o(	mineralogy
-meng	mingle
+mengl	mingle
 mna&'tr	miniature
-mnemis	minimize
-mnemissh	minimization
-mnemn	minimum
-mne~s(te~	minister
+mnemiz	minimize
+mnemezash	minimization
+mnemm	minimum
+mneste~	minister
 amnes	administer
-mnestrel	ministerial
-!	ministration
+mnesterl	ministerial
+mnestrash	ministration
 mnestre	ministry
 mine~	minor
-mns(te~	minster
-mns(trel	minstrel
+mnste~	minster
+mnstrel	minstrel
 mn-t	mint
 mnuet	minuet
 minus	minus
 mnet	minute
-mnet	minute
+mnut	minute
 mnusha&'	minutia
-
-# Page 137 Column 2
+	
+# Page 137 Column 2	
 mer^k	miracle
 merak	miraculous
 merash	mirage
@@ -599,161 +599,161 @@ merr	mirror
 merth	mirth
 merthf	mirthful
 merthl	mirthless
-!	misadventure
-!	misalliance
-msanthrp	misanthrope
-!	misanthropic
-!	misanthropical
-!	misapprehended
+ms)avntr	misadventure
+msalins	misalliance
+ms)anth(rp	misanthrope
+ms)anth(rpk	misanthropic
+ms)anth(rp^k	misanthropical
+msaprendd	misapprehended
 msaprensh	misapprehension
 msaprpra&'t	misappropriate
-!	misarrange
+msara	misarrange
 msb'av	misbehave
-!	misbehavior
-ms(kal	miscalculate
-!	miscarry
-!	miscarries
+msb'avr	misbehavior
+mskal	miscalculate
+mskae	miscarry
+mskaes	miscarries
 msejnsh	miscegenation
 mselan	miscellaneous
-!	miscellanea
+mselana&'	miscellanea
 mselanes	miscellanist
-
-# Page 137 Column 3
+	
+# Page 137 Column 3	
 mselane	miscellany
 msch	mischief
 mschus	mischievous
-msksep	misconception
-mskdu	misconduct
-msks(	misconstrue
+msksepsh	misconception
+mskduk	misconduct
+msks(^	misconstrue
 msks(^ksh	misconstruction
 msknt	miscount
-!	miscounted
+mskntd	miscounted
 mskra&'nt	miscreant
-!	misdeed
-ms(tm	misdemeanor
+msded	misdeed
+msdm	misdemeanor
 miser	miser
 msere	misery
 mserb	miserable
-!	misfeasance
-!	misfire
+msfesns	misfeasance
+msfir	misfire
 msfet	misfit
-ms(ftn	misfortune
+msftn	misfortune
 msge'	misgiving
-!	misgovern
+msgv	misgovern
 ms'ap	mishap
-msnmf	misinform
-ms(n^p	misinterpret
+msnfm	misinform
+msn^p	misinterpret
 msjjd	misjudged
-
-# Page 138 Column 1
-!	misleading
+	
+# Page 138 Column 1	
+msled'	misleading
 msla	mislike
 msmnj	mismanage
-!	misname
+msna	misname
 msnome~	misnomer
-!	misplace
+msplas	misplace
 msprent	misprint
 msprnns	mispronounce
 msko_t	misquote
-!	misread
+msred	misread
 msrp	misrepresent
-!	misrepresentation
-!	misrule
+msrpsh	misrepresentation
+msrl	misrule
 msel	missile
 mesh	mission
 meshre	missionary
 mesv	missive
-!	misspell
-!	misspelled
-mss(t	misstate
-!	misstatement
-ms(t	mistake
-ms(te	mistakenly
+mspl	misspell
+mspld	misspelled
+msst	misstate
+msst-m	misstatement
+mst	mistake
+mste	mistakenly
 n-mstb	unmistakable
 mselto	mistletoe
-
-# Page 138 Column 2
-ms(t-d	mistook
-ms(tret	mistreat
-ms(tres	mistress
-!	mistrial
-ms(trs	mistrust
-ds(trs	distrust
-!	mistrustful
-ms^s(tn	misunderstand
-!	misuniderstood
-ms(eu	misuse
-!	miter
-!	mitered
+	
+# Page 138 Column 2	
+mstuk	mistook
+mstret	mistreat
+mstres	mistress
+mstril	mistrial
+mstrs	mistrust
+dstrs	distrust
+mstrsf	mistrustful
+ms^stn	misunderstand
+ms^stu	misunderstood
+mseu	misuse
+mite~	miter
+mite~d	mitered
 meteg	mitigate
-!	mitigable
+metegb	mitigable
 metegsh	mitigation
 metn	mitten
 mex	mix
 amextr	admixture
-!	miscible
+mesb	miscible
 mext	mixed
-!	mixer
-!	mixes
-mestr	mixture
+mexer	mixer
+mexs	mixes
+mextr	mixture
 nemnek	mnemonic
 mon	moan
-
-# Page 138 Column 3
-!	moaned
+	
+# Page 138 Column 3	
+mond	moaned
 mobl	mobile
 emobl	immobile
 mo^b	mobility
-moblisash	mobilization
-moblis	mobilize
-mokas(en	moccasin
+moblezash	mobilization
+mobliz	mobilize
+mokasen	moccasin
 mok	mock
 mokre	mockery
 mod	moderate
 emod	immoderate
-!	moderately
-!	moderateness
+mode	moderately
+mod-nes	moderateness
 modsh	moderation
 mod^r	moderator
-motn	modern
-!	modernism
-!	modernist
-!	modernity
-!	modernization
-!	modernize
+modn	modern
+modn-sm	modernism
+modnes	modernist
+modnte	modernity
+modnezash	modernization
+modniz	modernize
 modes	modest
 modese	modestly
 modese	modesty
 modekm	modicum
-
-# Page 139 Column 1
+	
+# Page 139 Column 1	
 modf	modify
 mod^f	modification
 modfr	modifier
-mod^lat	modulate
+mod^u	modulate
 mo'ar	mohair
-m'amtn	Mohammedan
+m'amdn	Mohammedan
 moest	moist
 moesn	moisten
-!	moistened
-!	moistly
+moesnd	moistened
+moeste	moistly
 moestr	moisture
 molass	molasses
 mold	mold
 molek	molecule
 molek	molecular
-!	molehill
+mol'el	molehill
 moles	molest
-moles-sh	molestation
-!	unmolested
+molessh	molestation
+n-moles^t	unmolested
 molef	mollify
 mol^f	mollification
-!	mollusk
-!	molten
-molebtnum	molybdenum
+molusk	mollusk
+moltn	molten
+molebdnum	molybdenum
 mom	moment
-
-# Page 139 Column 2
+	
+# Page 139 Column 2	
 momre|	momentarily
 momre	momentary
 mome	momently
@@ -761,94 +761,94 @@ momus	momentous
 momum	momentum
 mnark	monarch
 anrke	anarchy
-!	monarchial
-!	monarchism
-!	monarchist
+mnarkl	monarchial
+mnarksm	monarchism
+mnarkes	monarchist
 mnarke	monarchy
 mnas(tre	monastery
-mn^s(t	monastic
+mn^st	monastic
 mne	money
 mnetre	monetary
 mnetiz	monetize
 mned	moneyed
-!	mongoose
-!	mongrel
+mongus	mongoose
+mngrel	mongrel
 mnete~	monitor
 mnk	monk
 mnke	monkey
 mon^k	monocle
 mnode	monody
 mnog	monogamy
-
-# Page 139 Column 3
-!	monogamous
+	
+# Page 139 Column 3	
+mnog	monogamous
 mn^g	monogram
 mn^o	monograph
 mnleth	monolith
 mnlog	monologue
-mn^os(t	monologist
+mn^ost	monologist
 mnomna&'	monomania
 mnoplan	monoplane
 mnople	monopoly
-!	monopolism
+mnopl-sm	monopolism
 mnoples	monopolist
-!	monopolistic
-mnoplissh	monopolization
-mnoplis	monopolize
+mnopl^st	monopolistic
+mnoplezash	monopolization
+mnopliz	monopolize
 mnoton	monotone
 mnotnus	monotonous
 mnotne	monotony
 mnotip	monotype
-mns(n	monsoon
-mns(te~	monster
-mnst^s)	monstrosity
-mnstrus	monstrous
+mn-sn	monsoon
+mn-ste~	monster
+mn-str^s	monstrosity
+mn-strus	monstrous
 mnth	month
 mnthe	monthly
 mnum	monument
-
-# Page 140 Column 1
+	
+# Page 140 Column 1	
 mnu^m	monumental
 mud	mood
-!	moodily
-muden	moodiness
+mude|	moodily
+mudenes	moodiness
 mun	moon
 munli	moonlight
-!	moonshine
-!	moonstone
+munshin	moonshine
+mun-ston	moonstone
 morl	moral
-dmoliz	demoralize
+dmorliz	demoralize
 emorl	immoral
 moral	morale
-!	moralism
-mores	moralist
-!	moralistic
+morl-sm	moralism
+morles	moralist
+morl^st	moralistic
 mor^l	morality
-morlizsh	moralization
+morlezash	moralization
 morliz	moralize
-!	morally
+mora|	morally
 moratorm	moratorium
 mobd	morbid
-mobtde	morbidity
-!	morbidly
-mortn	mordant
+mobdte	morbidity
+mobde	morbidly
+mordn	mordant
 m	more
-
-# Page 140 Column 2
-tth)m	furthermore
-mo^	moreover
-morebunt	moribund
+	
+# Page 140 Column 2	
+fth)m	furthermore
+m^o	moreover
+morebund	moribund
 mn'	morning
-morok	morocco
-!	moron
+moroko	morocco
+moron	moron
 moros	morose
 mofen	morphine
-mo(f^o(	morphology
+mof^o(	morphology
 mosel	morsel
 motl	mortal
-!	immortalize
+emotliz	immortalize
 mot^l	mortality
-mote|	mortally
+mota|	mortally
 mote~	mortar
 mor	mortgage
 more	mortgagee
@@ -856,72 +856,72 @@ morr	mortgagor
 modf	mortify
 mot^f	mortification
 motre	mortuary
-mos(ak	mosaic
-msketo	mosquito
-!	mossiness
+mosak	mosaic
+mosketo	mosquito
+mose-nes	mossiness
 mo	most
-
-# Page 140 Column 3
+	
+# Page 140 Column 3	
 omo	almost
-nmo	inmost
-!	mostly
+n-mo	inmost
+moe	mostly
 uprmo	uppermost
 ut-mo	utmost
 utemo	uttermost
-!	motet
+motet	motet
 muth	mother
 gd-muth	godmother
 g^muth	grandmother
-!	motherhood
+muth^d	motherhood
 muthlo	mother-in-law
-!	motherland
+muthland	motherland
 muthl	motherless
 muthenes	motherliness
 muthprl	mother-of-pearl
-!	stepmother
+stepmuth	stepmother
 mosh	motion
 moshd	motioned
 moshl	motionless
-modf	motive
-modfat	motivate
-modfash	motivation
+motv	motive
+motvat	motivate
+motvash	motivation
 motle	motley
 mote~	motor
-
-# Page 141 Column 1
-!	motored
-motres	motorist
-!	motorman
+	
+# Page 141 Column 1	
+mote~d	motored
+mote~st	motorist
+moteman	motorman
 moto	motto
 mnd	mound
 mnt	mount
-ds(mnt	dismount
+dsmnt	dismount
 mntn	mountain
 mntnr	mountaineer
-mn-tnus	mountainous
-mn-t^t	mounted
+mntnus	mountainous
+mntd	mounted
 remnt	remount
-s(emnt	surmount
-!	unmounted
+se~mnt	surmount
+n-m-td	unmounted
 mntbank	mountebank
 mon	mourn
-!	mourner
+mone~	mourner
 monf	mournful
 maus	mouse
-!	mice
-!	mouser
+mis	mice
+mausr	mouser
 mauth	mouth
-!	mouthed
-!	mouthful
+mauthd	mouthed
+mauth)f	mouthful
 mauthpes	mouthpiece
-
-# Page 141 Column 2
+	
+# Page 141 Column 2	
 mu	move
 emub	immovable
 mu^b	movability
-mub	movable
+mu^b	movable
 mum	movement
-mur	mover
+mu^r	mover
 mue	movie
 remu	remove
 mor	mower
@@ -930,80 +930,80 @@ muslj	mucilage
 muslaj	mucilaginous
 mukus	mucous
 mulato	mulatto
-!	mulberry
+mulbere	mulberry
 mulk	mulct
-!	mulcted
-mul	mule
+mulkt	mulcted
+meul	mule
 mu^far	multifarious
-!	multiform
+mu^fm	multiform
 mu^f^mt	multiformity
 mu^g	multigraph
 mu^melna~	multimillionaire
-mu^p	multiply
+mu^pli	multiply
 mu^pl	multiple
-
-# Page 141 Column 3
+	
+# Page 141 Column 3	
 mu^plex	multiplex
-mu^plek	multiplicand
-!	multiplication
-!	multiplicative
+mu^pleknd	multiplicand
+mu^pleksh	multiplication
+mu^plekv	multiplicative
 mu^pl^s	multiplicity
-mu^p^r	multiplier
+mu^plir	multiplier
 mu^tu	multitude
 mu^tudnus	multitudinous
 mnb	mumble
-mne~	mummer
-mumre	mummery
-mne	mummy
+mme~	mummer
+mme~e	mummery
+mme	mummy
 mn^f	mummification
 mnf	mummify
 mnps	mumps
 mndan	mundane
 mnesp	municipal
 mnesp^l	municipality
-!	municipally
-munfes(nt	munificent
-munefes	munificence
+mnespa|	municipally
+munfesnt	munificent
+munfesns	munificence
 munsh	munition
 murl	mural
 emur	immure
 me~de~	murder
-
-# Page 142 Column 1
+	
+# Page 142 Column 1	
 me~de~d	murdered
-!	murderess
-me~de~rus	murderous
+me~deres	murderess
+me~derus	murderous
 mur^a	muriatic
 merk	murk
-!	murkily
+merke|	murkily
 merkenes	murkiness
 me~me~	murmur
-!	murmurer
-me~mrus	murmurous
-mus(katn	muscadine
-!	muscatel
+me~me~^r	murmurer
+me~merus	murmurous
+muskadn	muscadine
+muskatl	muscatel
 musl	muscle
-mus(klr	muscular
-muskeu^r	muscularity
-!	muscularly
-!	musculature
+musklr	muscular
+muskl^r	muscularity
+musklre	muscularly
+musklatr	musculature
 meus	muse
-mus(em	museum
+musem	museum
 msh	mush
 mshrm	mushroom
-mus(ek	music
+musek	music
 mus^k	musical
-
-# Page 142 Column 2
-mus(ekal	musicale
+	
+# Page 142 Column 2	
+musekl	musicale
 musesh	musician
-!	musket
+musket	musket
 muskete~	musketeer
-!	musketry
-mus(kmeln	muskmelon
-!	muskrat
+musketre	musketry
+muskmeln	muskmelon
+muskrat	muskrat
 muslen	muslin
-!	mussel
+musl	mussel
 ms	must
 mustash	mustache
 musta~d	mustard
@@ -1013,34 +1013,33 @@ emutb	immutable
 mut^b	mutability
 mutb	mutable
 mutsh	mutation
-!	mutative
+muta^v	mutative
 t^mut	transmute
 meut	mute
-!	muteness
+meut-nes	muteness
 mutla	mutilate
-
-# Page 142 Column 3
+	
+# Page 142 Column 3	
 mutlash	mutilation
-mutlatr	mutilator
+mutla^r	mutilator
 mutne	mutiny
 mutnr	mutineer
 mutnus	mutinous
 mutn	mutton
 mutl	mutual
-!	mutually
+mutle	mutually
 musl	muzzle
 ma&epa&'	myopia
 mera&'d	myriad
 me~tl	myrtle
-mis	myself
-mes(tre	mystery
-mes(trus	mysterious
-m^s(t	mystic
-m^s(tl	mystical
-mes(tss	mysticism
+ma-s	myself
+mestre	mystery
+mestrus	mysterious
+m^st	mystic
+m^stl	mystical
+mestss	mysticism
 mest^f	mystification
-mes(df	mystify
+mesdf	mystify
 meth	myth
 meth^k	mythical
-meth^o	mythology
-
+meth^o(	mythology
