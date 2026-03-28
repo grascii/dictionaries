@@ -1,143 +1,143 @@
-# Page 143 Column 1
+# Page 143 Column 1	
 nakr	nacre
 nakrus	nacreous
-nans(uk	nainsook
-!	naïve
-!	naïveté
+nan-suk	nainsook
+niv	naive
+nivta	naivete
 na	name
-!	misnamed
-!	namable
+msna^t	misnamed
+na^b	namable
 na-l	nameless
 nae	namely
-na~s	names
-!	namesake
+na-s	names
+na-sak	namesake
 nekna	nickname
 se~na	surname
 una^t	unnamed
 napre	napery
 napken	napkin
 napolen	Napoleon
-!	Napoleonic
+napolenek	Napoleonic
 narssus	narcissus
 nark^a	narcotic
 narkss	narcosis
-!	narcotism
-!	narcotize
-
-# Page 143 Column 2
+narkt-sm	narcotism
+narktiz	narcotize
+	
+# Page 143 Column 2	
 nara	narrate
 narash	narration
 nara^v	narrative
-narar	narrator
+nara^r	narrator
 naro	narrow
 narod	narrowed
 naror	narrower
-naros(t	narrowest
+narost	narrowest
 naroe	narrowly
-!	narrow-minded
-naron	narrowness
+naromin^t	narrow-minded
+narones	narrowness
 nara_l	narwhal
 nasl	nasal
 nas^l	nasality
-!	nasalize
-nase|	nasally
-!	nascent
-!	nasty
-!	nastier
-!	nastiest
-!	nastily
-!	nastiness
-!	natation
+nasliz	nasalize
+nasa|	nasally
+nasnt	nascent
+naste	nasty
+naster	nastier
+naste^st	nastiest
+naste|	nastily
+nastenes	nastiness
+natsh	natation
 nash	nation
 n^nashl	international
-
-# Page 143 Column 3
+	
+# Page 143 Column 3	
 nashl	national
-nashlsm	nationalism
-nashl^s(t	nationalistic
+nashl-sm	nationalism
+nashl^st	nationalistic
 nash^l	nationality
-nashlezsh	nationalization
+nashlezash	nationalization
 nashliz	nationalize
-nashe|	nationally
-nadf	native
-nat^v	nativity
-nat	nature
-natl	natural
-!	naturalism
-natles	naturalist
-natl^st	naturalistic
-!	naturalization
-natliz	naturalize
-natle	naturally
-natln	naturalness
-pretnatl	preternatural
-s^natl	supernatural
-unatl	unnatural
+nasha|	nationally
+natv	native
+natvte	nativity
+natr	nature
+natrl	natural
+natrl-sm	naturalism
+natrles	naturalist
+natrl^st	naturalistic
+natrlezash	naturalization
+natrliz	naturalize
+natra|	naturally
+natrlnes	naturalness
+pretnatrl	preternatural
+s^natrl	supernatural
+unatrl	unnatural
 note	naughty
-!	naughtiest
-!	naughtily
-noten	naughtiness
-
-# Page 144 Column 1
+note^st	naughtiest
+note|	naughtily
+notenes	naughtiness
+	
+# Page 144 Column 1	
 nosha&'	nausea
 nosha&'t	nauseate
-!	nauseous
+noshus	nauseous
 not^k	nautical
-arn^a	aeronautic
+aronotek	aeronautic
 notlus	nautilus
 navg	navigate
-s^navg^	circumnavigate
+s(^navg	circumnavigate
 navg^b	navigability
 navgb	navigable
 navgsh	navigation
-navgr	navigator
+navg^r	navigator
 nave	navy
 nav	naval
 ne~	near
 ne~^r	nearer
-ne~^s(t	nearest
-ne~e~	nearly
-ne~^n	nearness
-ners(itd	nearsighted
+ne~^st	nearest
+ne~e	nearly
+ne~nes	nearness
+nersitd	nearsighted
 net	neat
-!	neater
-!	neatest
-!	neatly
-net-n	neatness
-
-# Page 144 Column 2
+nete~	neater
+netes	neatest
+nete	neatly
+net-nes	neatness
+	
+# Page 144 Column 2	
 nebla	nebula
-nebul^s)	nebulosity
-nebulus	nebulous
+nebul^s	nebulosity
+neblus	nebulous
 ness	necessary
 nesss	necessaries
 nesse	necessarily
 nessta	necessitate
-!	necessitous
-ness(t	necessity
+nesstus	necessitous
+nesst	necessity
 uness	unnecessary
 nek	neck
-!	neckband
-!	neckcloth
+nekband	neckband
+nekkloth	neckcloth
 nekrch	neckerchief
 neklas	necklace
 nekti	necktie
-!	neckwear
-nekr^o	necrology
+neka_r	neckwear
+nekr^o(	necrology
 nekrp	necropolis
-nekrmnse	necromancy
+nekromnse	necromancy
 nekta~	nectar
 ned	need
-ned-d	needed
+nedd	needed
 ned-f	needful
 ned-fe	needfully
-
-# Page 144 Column 3
-nedens	neediness
+	
+# Page 144 Column 3	
+nedenes	neediness
 nedl	needless
 nefar	nefarious
-negdf	negative
-negash	negation
+negtv	negative
+negsh	negation
 neg	neglect
 neg^f	neglectful
 negj	negligence
@@ -146,184 +146,184 @@ negjb	negligible
 negosh	negotiate
 negosh^b	negotiability
 negoshb	negotiable
-nosh	negotiation
-negoshr	negotiator
+negosh	negotiation
+negosh^r	negotiator
 nabr	neighbor
 nabr^d	neighborhood
-!	neighborly
+nabre	neighborly
 neth	neither
 nemss	Nemesis
 neoleth	neolithic
-!	neon
-nefit	neophyte
+neon	neon
+neofit	neophyte
 nepnthe	nepenthe
 nefeu	nephew
-
-# Page 145 Column 1
-!	nepotism
+	
+# Page 145 Column 1	
+nept-sm	nepotism
 nev	nerve
 nevl	nerveless
 nevus	nervous
-!	unnerved
+unevd	unnerved
 nesht	nescient
 nesl	nestle
-!	nether
+neth	nether
 netrk	network
 nurl	neural
-nuralja	neuralgia
+nurlja&’	neuralgia
 nuras(thena&'	neurasthenia
 nurss	neurosis
 nur^a	neurotic
 nute~	neuter
 nutrl	neutral
 nutr^l	neutrality
-nutrlissh	neutralization
-nutrlis	neutralize
+nutrlezash	neutralization
+nutrliz	neutralize
 nutra|	neutrally
 nv	never
 nvm	nevermore
 nvl	nevertheless
 nu	new
-!	newcomer
-
-# Page 145 Column 2
+nukme~	newcomer
+	
+# Page 145 Column 2	
 nur	newer
-nus(t	newest
+nust	newest
 nue	newly
-nu^n	newness
-!	newsmonger
+nunes	newness
+nusm-nge~	newsmonger
 nsp	newspaper
 renu^b	renewable
-!	New Year's
+nurs	New Year's
 nes	next
 neb	nibble
 nis	nice
 nise	nicely
-!	niceness
+nisnes	niceness
 niser	nicer
 nises	nicest
 niste	nicety
 nekl	nickel
 neklef	nickeliferous
-neklotn	nickelodeon
+neklodn	nickelodeon
 nekna	nickname
-nekotn	nicotine
+nektn	nicotine
 nega~d	niggard
 ni	night
-!	nightdress
-nifu	nightfall
-
-# Page 145 Column 3
+nidres	nightdress
+nifo	nightfall
+	
+# Page 145 Column 3	
 nign	nightgown
 nin-gal	nightingale
 nie	nightly
 nima~	nightmare
-!	nights
+nis	nights
 nitm	nighttime
-nilsm	nihilism
+nil-sm	nihilism
 niles	nihilist
-nil^s(t	nihilistic
+nil^st	nihilistic
 nemb	nimble
 nembus	nimbus
 nite~	niter
 nitra	nitrate
 nitrk	nitric
-ni^f	nitrification
-!	nitrify
+nitr^f	nitrification
+nitrf	nitrify
 nitroj	nitrogen
 nitrojus	nitrogenous
 nitrogles	nitroglycerin
-ni^s)	nitrous
+nitrus	nitrous
 nob	noble
 egnob	ignoble
 no^b	nobility
 nobman	nobleman
-!	nobler
-
-# Page 146 Column 1
-!	noblest
+nob^r	nobler
+	
+# Page 146 Column 1	
+nob^st	noblest
 nobo	nobody
 noktn	nocturne
 noktnl	nocturnal
 noes	noise
 noesl	noiseless
-noese	noisily
-!	noisiness
-!	noisome
+noese|	noisily
+noese-nes	noisiness
+noe-sm	noisome
 nomad	nomad
-!	nomadic
+nomadek	nomadic
 nomnk	nomenclature
 msnome~	misnomer
 nomnl	nominal
-!	nominally
+nomna|	nominally
 nomnat	nominate
-tnomnat	denominate
+dnomnat	denominate
 nomnsh	nomination
 nomne	nominee
 nonjenra&'n	nonagenarian
 nonagn	nonagon
-!	non-appearance
+nonaprns	non-appearance
 nonshalant	nonchalant
-!	nonchalance
-!	non-combatant
-
-# Page 146 Column 2
-!	non-commissioned
-!	noncommittal
-!	non-communicant
-!	non-conductor
-!	non-conformity
-!	non-conformist
-nonts(kr	nondescript
+nonshalans	nonchalance
+non-kbatn	non-combatant
+	
+# Page 146 Column 2	
+non-kmshd	non-commissioned
+non-kmetl	noncommittal
+non-kmu^nt	non-communicant
+non-kdukr	non-conductor
+non-kf^mt	non-conformity
+non-kfmes	non-conformist
+nondskr	nondescript
 nun	none
-nonent	nonentity
-!	nonesuch
-!	non-existence
-!	non-metallic
+non-ntete	nonentity
+nunsch	nonesuch
+non-ess(	non-existence
+non-metkl	non-metallic
 nonprel	nonpareil
-!	non-participating
-!	non-payment
-!	nonplus
-!	non-resident
-!	non-resistant
-nons(ens	nonsense
-nons^k	nonsensical
-!	non-subscriber
-!	non-suit
-!	non-union
+nonptesp’	non-participating
+nonpam	non-payment
+nonplus	nonplus
+nonrs-edn	non-resident
+nonrss^nt	non-resistant
+non-sens	nonsense
+non-sens^k	nonsensical
+non-s-skr^r	non-subscriber
+non-sut	non-suit
+noneun	non-union
 nun	noon
 nun-da	noonday
-
-# Page 146 Column 3
-!	noontide
-!	noontime
+	
+# Page 146 Column 3	
+nun-tid	noontide
+nun-tm	noontime
 nom	norm
 abnoml	abnormal
-nom	normal
-!	normalcy
-!	normality
-nome|	normally
-!	subnormal
+noml	normal
+nomlse	normalcy
+nom^l	normality
+noma|	normally
+snoml	subnormal
 nomn	Norman
 noth	north
 nes	northeast
-!	northeaster
+nesr	northeaster
 nesre	northeasterly
-nes(tn	northeastern
-!	northeastward
+nestn	northeastern
+nes^d	northeastward
 nothe	northerly
 nothen	northern
 nothene~	northerner
-!	northernmost
-!	northland
-!	northwest
-nure	northwesterly
-nues(tn	northwestern
+nothen-mo	northernmost
+nothland	northland
+n-u	northwest
+n-ure	northwesterly
+n-utn	northwestern
 nos	nose
-
-# Page 147 Column 1
-!	noseband
-!	nosebleed
+	
+# Page 147 Column 1	
+nosband	noseband
+nosbled	nosebleed
 nosga	nosegay
 nostrel	nostril
 nostrm	nostrum
@@ -341,53 +341,53 @@ notbk	notebook
 notd	noted
 notthe	noteworthy
 n'	nothing
-n'n	nothingness
-nes	notice
-nesb	noticeable
+n'nes	nothingness
+notes	notice
+notesb	noticeable
 nodf	notify
 not^f	notification
 nosh	notion
-
-# Page 147 Column 2
+	
+# Page 147 Column 2	
 notrus	notorious
 notri	notoriety
 neths	notwithstanding
-n^n	noun
-prnn	pronoun
-nersh	nourish
-nershm	nourishment
+n-n	noun
+prn-n	pronoun
+nursh	nourish
+nurshm	nourishment
 nov	novel
 novet	novelette
-novst	novelist
-!	novelize
+nov^st	novelist
+noviz	novelize
 novte	novelty
 noves	novice
-noveshat	novitiate
+novesha&’t	novitiate
 nau	now
 naudas	nowadays
 noar	nowhere
-noxshus	noxious
-!	innoxious
-obnoksus	obnoxious
+nokshus	noxious
+enokshus	innoxious
+obnokshus	obnoxious
 nozl	nozzle
-!	nucleate
+nukla&’t	nucleate
 nukla&'r	nuclear
-!	nucleation
+nukla&’sh	nucleation
 nuklus	nucleus
-
-# Page 147 Column 3
+	
+# Page 147 Column 3	
 neud	nude
-!	nudity
+neudte	nudity
 nj	nudge
 nugatre	nugatory
 nuget	nugget
-nus(ns	nuisance
+nusns	nuisance
 nul	null
 nul^f	nullification
-nulef	nullify
+nulf	nullify
 n^l	nullity
 num	numb
-!	numbness
+num-nes	numbness
 num	number
 numl	numberless
 neumrl	numeral
@@ -395,28 +395,27 @@ eneum	enumerate
 eneumb	innumerable
 neumra	numerate
 neumrash	numeration
-neumratr	numerator
+neumra^r	numerator
 neum^k	numerical
 neum	numerous
-!	numismatics
+numesm^as	numismatics
 nunsho	nuncio
-!	nunnery
-
-# Page 148 Column 1
+nunre	nunnery
+	
+# Page 148 Column 1	
 nupsh	nuptial
 ners	nurse
-!	nursed
-!	nursemaid
-
-# Page 148 Column 2
-!	nursery
-!	nurseryman
+nerst	nursed
+nersmad	nursemaid
+	
+# Page 148 Column 2	
+nersere	nursery
+nereseman	nurseryman
 ne~tr	nurture
-!	nutmeg
-
-# Page 148 Column 3
+nut-meg	nutmeg
+	
+# Page 148 Column 3	
 nutrem	nutriment
 nutresh	nutrition
-nu^shus	nutritious
-nu^tv	nutritive
-
+nutreshus	nutritious
+nutretv	nutritive
