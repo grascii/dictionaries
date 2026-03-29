@@ -1,18 +1,18 @@
-# Page 149 Column 1
-!	oat
-!	oaten
+# Page 149 Column 1	
+ot	oat
+otn	oaten
 ot-mel	oatmeal
-oth)	oath
-!	obbligato
+oth	oath
+oblegato	obbligato
 obdra	obdurate
 obdrse	obduracy
-obtnt	obedient
-ds(obtnt	disobedient
-obtns	obedience
-obas(ns	obeisance
+obdnt	obedient
+dsobdnt	disobedient
+obdns	obedience
+obasns	obeisance
 oblesk	obelisk
-!	obese
-ob^s)	obesity
+obes	obese
+ob^s	obesity
 oba	obey
 dsoba	disobey
 obtre	obituary
@@ -23,18 +23,18 @@ obshb	objectionable
 ob^v	objective
 ob^vte	objectivity
 ob^r	objector
-
-# Page 149 Column 2
-!	unobjectionable
+	
+# Page 149 Column 2	
+nobshb	unobjectionable
 objug	objurgate
-!	oblation
+oblash	oblation
 obl	oblige
 ds(obl	disoblige
 obleg	obligate
 oblsh	obligation
-obl^re	obligatory
+obleg^re	obligatory
 oblek	oblique
-!	obliquity
+obleke_te	obliquity
 oblet	obliterate
 obletsh	obliteration
 t^let	transliterate
@@ -42,17 +42,17 @@ oblevn	oblivion
 oblev	oblivious
 oblng	oblong
 obloke	obloquy
-obnoksus	obnoxious
-!	oboe
-!	obscene
+obnokshus	obnoxious
+obo	oboe
+ob-sen	obscene
 obs^nt	obscenity
-obs(kr	obscure
-!	obscureness
-obsk^r	obscurity
-obs(ek	obsequious
-
-# Page 149 Column 3
-obs(eke	obsequy
+ob-skr	obscure
+ob-skrnes	obscureness
+ob-sk^r	obscurity
+ob-sek	obsequious
+	
+# Page 149 Column 3	
+obseke	obsequy
 obse	observe
 obseb	observable
 obse^ns	observance
@@ -60,38 +60,38 @@ obse^nt	observant
 obsesh	observation
 obse^re	observatory
 obse^r	observer
-!	unobservant
+unobse^nt	unobservant
 obss	obsess
-!	obsessed
+obsst	obsessed
 obsesh	obsession
-obs(etn	obsidian
-obsole	obsolete
-!	obsolescence
-obsoles	obsolescent
-!	obsoletely
-!	obsoleteness
+ob-sedn	obsidian
+obsolet	obsolete
+obsoles(ns	obsolescence
+obsolesnt	obsolescent
+obsolete	obsoletely
+obsolet-nes	obsoleteness
 obs^k	obstacle
-obstn	obstinate
-obs(tns(e	obstinacy
-!	obstinately
-obs(trep	obstreperous
-obs(k	obstruct
-obs(ksh	obstruction
-
-# Page 150 Column 1
-!	obstructionist
-obs(kv	obstructive
-!	obstructor
-!	unobstructed
+ob-stnat	obstinate
+ob-stnse	obstinacy
+ob-stnate	obstinately
+ob-strep	obstreperous
+obsk	obstruct
+obsksh	obstruction
+	
+# Page 150 Column 1	
+obskshes	obstructionist
+obskv	obstructive
+obskr	obstructor
+unobskt	unobstructed
 obtn	obtain
 obtnb	obtainable
 obtnd	obtained
-!	unobtainable
+unobtnb	unobtainable
 obtrud	obtrude
-!	obtruder
+obtrude~	obtruder
 obtrsh	obtrusion
 obtrusv	obtrusive
-!	unobtrusive
+unobtrusv	unobtrusive
 obtus	obtuse
 obves	obverse
 obva&'t	obviate
@@ -101,101 +101,101 @@ kash	occasion
 kashl	occasional
 kashe|	occasionally
 kashd	occasioned
-oks(etn	occident
+oksedn	occident
 oksednl	occidental
 oksept	occiput
-
-# Page 150 Column 2
-!	occlude
+	
+# Page 150 Column 2	
+oklud	occlude
 oklsh	occlusion
 oklt	occult
 okltsh	occultation
-!	occultism
+olkt-sm	occultism
 okp	occupy
-okpnse	occupancy
+okpse	occupancy
 okpnt	occupant
 okp	occupation
 okp^l	occupational
-!	preoccupied
-!	unoccupied
+preokp^t	preoccupied
+unokp^t	unoccupied
 okr	occur
 okrens	occurrence
 osh	ocean
 oshk	oceanic
-!	oceanography
+osh^oe	oceanography
 okr	ocher
 oklokse	ochlocracy
-okdf	octave
-oktag	octagon
+oktv	octave
+oktagn	octagon
 oktag	octagonal
-!	octameter
+oktamete~	octameter
 oktangu	octangular
-!	octavo
-
-# Page 150 Column 3
+oktvo	octavo
+	
+# Page 150 Column 3	
 oktpus	octopus
 oklr	ocular
 okles	oculist
 od	odd
-otde	oddity
-od-n	oddness
-otm	odium
+odte	oddity
+od-nes	oddness
+odm	odium
 odus	odious
-!	odometer
-odr	odor
+odomete~	odometer
+ode~	odor
 doderis	deodorize
-!	malodorous
+maloderus	malodorous
 oderef	odoriferous
 oderl	odorless
-!	odorous
+oderus	odorous
 o	of
 of	off
 ofl	offal
-!	offcast
-!	off-color
-ofnt	offend
+ofkast	offcast
+ofkul	off-color
+ofnd	offend
 enofensv	inoffensive
-ofntr	offender
+ofndr	offender
 ofens	offense
 ofensv	offensive
-
-# Page 151 Column 1
+	
+# Page 151 Column 1	
 of	offer
 os	office
 os^oldr	officeholder
 osr	officer
 oss	offices
 oshl	official
-oshe|	officially
+osha|	officially
 osha&'t	officiate
-!	officiation
+osha&'sh	officiation
 oshus	officious
 ofn	often
 ofne~	oftener
-ofntms	oftentimes
+ofn-tms	oftentimes
 om	ohm
-!	ohmmeter
+omete~	ohmmeter
 oel	oil
-!	oilcloth
-!	oiler
-!	oilily
-oelen	oiliness
-!	oilskin
-!	oilstone
+oelkloth	oilcloth
+oelr	oiler
+oele|	oilily
+oelenes	oiliness
+oelsken	oilskin
+oelston	oilstone
 old	old
-old-n	olden
+oldn	olden
 oldr	older
-
-# Page 151 Column 2
+	
+# Page 151 Column 2	
 oldes	oldest
-!	old-fashioned
-!	oldish
-!	oldness
+oldfashd	old-fashioned
+oldsh	oldish
+oldnes	oldness
 oleom	oleomargarine
 olfaktre	olfactory
 oleg	oligarchy
 olev	olive
-!	omega
+omega	omega
 omle	omelet
 omn	omen
 omnus	ominous
@@ -208,138 +208,138 @@ om-nepr	omnipresent
 om-nesht	omniscient
 nesht	nescient
 om-neshns	omniscience
-!	prescient
+presht	prescient
 on	on
-!	onlooker
-!	onto
-
-# Page 151 Column 3
+onlu^r	onlooker
+on-tu	onto
+	
+# Page 151 Column 3	
 on^d	onward
 th)on	thereon
 un	one
 non	no one
 onnes	oneness
 unss	oneself
-!	one-sided
+unsi^t	one-sided
 one	only
-!	onomatopoeia
-!	onus
-onrus	onerous
-!	onyx
-u,z	ooze
+onomatpa&'	onomatopoeia
+onus	onus
+onerus	onerous
+onex	onyx
+uz	ooze
 opl	opal
 oples	opalesce
-!	opalescence
-!	opalescent
+oplesns	opalescence
+oplesnt	opalescent
 opak	opaque
 op^s	opacity
 opn	open
 opna~	open-air
-!	opener
+opne~	opener
 opnid	open-eyed
-!	open-faced
-!	open-hearted
-
-# Page 152 Column 1
+opnfast	open-faced
+opn'a~d	open-hearted
+	
+# Page 152 Column 1	
 opnarth	open-hearth
 opne	openly
 opnnes	openness
 opnrk	openwork
 ropn	reopen
-!	unopened
+unopnd	unopened
 opra	opera
 opreta	operetta
 opra	operate
 koop	cooperate
-!	operable
-oprad	operated
+oprb	operable
+opra^t	operated
 opras	operates
 oprash	operation
 opra^v	operative
 opra^r	operator
-!	ophthalmology
+ofthalm^o(	ophthalmology
 opn	opinion
 opnatd	opinionated
 opnatv	opinionative
 opem	opium
 opa&'t	opiate
-!	opossum
+oposm	opossum
 opon	opponent
 oprtn	opportune
-
-# Page 152 Column 2
-!	opportunism
+	
+# Page 152 Column 2	
+oprtn-sm	opportunism
 oprtnes	opportunist
 opr	opportunity
 opo	oppose
 opos	opposes
 opos	opposite
 oposh	opposition
-!	unopposed
+unopo^t	unopposed
 opres	oppress
 opresh	oppression
-oprev	oppressive
-opresr	oppressor
-!	opprobrious
+opresv	oppressive
+opreser	oppressor
+oprbrus	opprobrious
 oprbrm	opprobrium
 optek	optic
-opt^l	optical
+opt^k	optical
 optsh	optician
-optms(m	optimism
-optmes(	optimist
-optm^s(t	optimistic
-!	optimistical
+optm-sm	optimism
+optmes	optimist
+optm^st	optimistic
+optm^stl	optimistical
 optmum	optimum
 opsh	option
 opshl	optional
 optmetre	optometry
-
-# Page 152 Column 3
-!	optometrist
+	
+# Page 152 Column 3	
+optmetres	optometrist
 oplent	opulent
 oplens	opulence
-!	opus
+opus	opus
 opra	opera
 or	or
 or^k	oracle
-orakeu	oracular
-!	oracularly
+oraklr	oracular
+oraklre	oracularly
 orl	oral
-ore|	orally
+ora|	orally
 oranj	orange
-!	orangeade
+oranjad	orangeade
 orash	oration
-oratr	orator
+orate~	orator
 oratr^k	oratorical
 oratreo	oratorio
 oratre	oratory
 orb	orb
 orbt	orbit
 oche~d	orchard
-okes(tra	orchestra
+okestra	orchestra
 okestrl	orchestral
-okes(tra	orchestrate
-!	orchestration
-
-# Page 153 Column 1
+okestra	orchestrate
+okestrash	orchestration
+	
+# Page 153 Column 1	
 oked	orchid
 odan	ordain
-!	ordained
-otnsh	ordination
+odand	ordained
+odnsh	ordination
 odel	ordeal
 od	order
-ds(od	disorder
+dsod	disorder
 odenes	orderliness
 rod	reorder
-otnl	ordinal
-otnans	ordinance
-otn	ordinary
-es^otn	extraordinary
-otne	ordinarily
+odnl	ordinal
+odnans	ordinance
+odn	ordinary
+es^odn	extraordinary
+odne	ordinarily
 odnat	ordinate
-kootnat	coordinate
-enotnat	inordinate
-s(odn	subordinate
+koodnat	coordinate
+enodnat	inordinate
+s(odnat	subordinate
 od-nans	ordnance
 ogn	organ
 ognek	organic
@@ -347,17 +347,17 @@ ogn^ke	organically
 ognsm	organism
 ognes	organist
 og	organize
-
-# Page 153 Column 2
+	
+# Page 153 Column 2	
 dsog	disorganize
 og	organization
 rog	reorganize
-!	unorganized
+nog^t	unorganized
 oje	orgy
 orent	orient
 orentl	oriental
-!	orientalism
-!	orientalist
+orentl-sm	orientalism
+orentles	orientalist
 orenta	orientate
 orentsh	orientation
 orefes	orifice
@@ -370,158 +370,157 @@ orejnsh	origination
 orejnatv	originative
 orejnate~	originator
 oreol	oriole
-!	Orion
+ora&en	Orion
 omlu	ormolu
 onat	ornate
 onam	ornament
-
-# Page 153 Column 3
-onaml	ornamental
+	
+# Page 153 Column 3	
+on^m	ornamental
 onamsh	ornamentation
-o(neth^o(	ornithology
-orotnt	orotund
+oneth^o(	ornithology
+orot-nd	orotund
 ofn	orphan
 ofnj	orphanage
-ofn-d	orphaned
+ofnd	orphaned
 ofn^d	orphanhood
-!	orthochromatice
+othokrom^a	orthochromatic
 othodox	orthodox
-!	unorthodox
-!	orthoëpy
-oth)^oe	orthography
+unothodox	unorthodox
+othope	orthoepy
+oth^oe	orthography
 othpdek	orthopedic
 osela	oscillate
 oselash	oscillation
-!	oscillator
-oselatre	oscillatory
-os(k^u	osculate
+osela^r	oscillator
+osela^re	oscillatory
+os)k^u	osculate
 oshe~	osier
-os(mem	osmium
-!	osmosis
-!	osprey
-os(f	ossify
-os(us	Osseous
-
-# Page 154 Column 1
-os(tntsh	ostentation
-os)tns	ostensible
-os)tn-tshus	ostentatious
-os(topth	osteopath
-os(trass	ostracize
-os(trass	ostracism
-os^ch	ostrich
+os)mem	osmium
+os)moss	osmosis
+ospra	osprey
+os)f	ossify
+os)us	osseous
+	
+# Page 154 Column 1	
+os)tntsh	ostentation
+os)tnsb	ostensible
+os)tntash	ostentatious
+os)topth	osteopath
+os)trass	ostracize
+os)trass	ostracism
+os)trech	ostrich
 uth	other
 uthi	otherwise
 osheos	otiose
-!	otter
+ote~	otter
 rss	ourselves
 au	out
 aukast	outcast
-!	outclass
+auklas	outclass
 aukm	outcome
-!	outcrop
+aukrp	outcrop
 aukri	outcry
-!	outdistance
+audstns	outdistance
 audors	outdoors
 aur	outer
 aurmo	outermost
-!	outfield
+aufeld	outfield
 aufet	outfit
-!	outgeneral
-
-# Page 154 Column 2
-!	outgo
+augen	outgeneral
+	
+# Page 154 Column 2	
+aug	outgo
 augroth	outgrowth
-!	outlandish
+aulandsh	outlandish
 aulo	outlaw
 aule	outlet
 aulan	outline
-aulant	outlined
-aulav	outlive
+auland	outlined
+aulev	outlive
 aulu	outlook
 aunum	outnumber
 au^p	output
 auraj	outrage
 aurech	outreach
-!	outrigger
+auregr	outrigger
 ausi	outside
-aus(tn'	outstanding
-!	outtalk
+austn'	outstanding
+autok	outtalk
 au^d	outward
-!	outwear
+auuar	outwear
 auuet	outwit
-oval	oval
+ovl	oval
 uvn	oven
 o^	over
 o^os	overalls
 o^o	overawe
-
-# Page 154 Column 3
-!	overbalance
-o^bor	overboard
-!	overburden
-!	overcapitalize
+	
+# Page 154 Column 3	
+o^bal	overbalance
+o^bod	overboard
+o^be~dn	overburden
+o^kptiz	overcapitalize
 o^chj	overcharge
 o^kot	overcoat
 o^km	overcome
-!	overdevelop
+o^dvl	overdevelop
 o^du	overdo
-!	overdraft
-!	overdriven
+o^drf	overdraft
+o^drevn	overdriven
 o^du	overdue
-!	overexpose
-o^flo^	overflow
-!	overhand
-!	overhang
+o^espo	overexpose
+o^flo	overflow
+o^'nd	overhand
+o^'ang	overhang
 o^'ol	overhaul
-o'^ed^	overhead
-!	overinfluence
-o^lap^	overlap
+o^'ed	overhead
+o^nf	overinfluence
+o^lap	overlap
 o^lu	overlook
-!	overnight
+o^ni	overnight
 o^pau	overpower
-!	overproduction
-!	overreach
-
-# Page 155 Column 1
+o^produksh	overproduction
+o^rech	overreach
+	
+# Page 155 Column 1	
 o^rl	overrule
-!	overrun
-!	overseer
+o^rn	overrun
+o^ser	overseer
 o^shado	overshadow
 o^shu	overshoe
-o^s(it	oversight
-!	oversize
-!	oversubscribe
+o^sit	oversight
+o^siz	oversize
+o^s-skr	oversubscribe
 o^t	overt
-o^t	overtake
+o^tak	overtake
 o^thro	overthrow
 o^tm	overtime
-
-# Page 155 Column 2
-!	overtone
+	
+# Page 155 Column 2	
+o^ton	overtone
 o^tr	overture
-o^ten^	overturn
-!	overweight
+o^ten	overturn
+o^uat	overweight
 o^uelm	overwhelm
-o^uelm-d	overwhelmed
+o^uelmd	overwhelmed
 o^rot	overwrought
 aul	owl
 aule	owlet
-!	owlish
+aulsh	owlish
 on	own
 one~	owner
-
-# Page 155 Column 3
+	
+# Page 155 Column 3	
 one~^sh	ownership
-osalk	oxalic
-osej	oxygen
-dos(id	dioxide
-'idros(id	hydroxide
-mnos(id	monoxide
-os(id	oxide
-oxediz	oxidize
-os(idroj	oxyhydrogen
-!	protoxide
+oxalk	oxalic
+ox)ej	oxygen
+dox)id	dioxide
+idrox)id	hydroxide
+mnox)id	monoxide
+ox)id	oxide
+ox)ediz	oxidize
+ox)idroj	oxyhydrogen
+protox)id	protoxide
 oeste~	oyster
-os(on	ozone
-
+ozon	ozone
