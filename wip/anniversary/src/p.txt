@@ -1,117 +1,117 @@
-# Page 156 Column 1
+# Page 156 Column 1	
 pablm	pabulum
-!	pacemaker
-!	pachyderm
+pasmakr	pacemaker
+pakdem	pachyderm
 pasf	pacify
-pas(k	pacific
-!	pacifically
+pask	pacific
+paske	pacifically
 pas^f	pacification
-pasf^r	pacifier
-pas(fs(m	pacifism
-pas(fes	pacifist
+pasfr	pacifier
+pasfsm	pacifism
+pasfes	pacifist
 pak	pack
 pakj	package
 pakr	packer
-pakt	packet
-pakt	pact
+paket	packet
+pak	pact
 pad	pad
 padl	paddle
-paduk	paddock
+padok	paddock
 padlok	padlock
 pagn	pagan
 paj	page
-pajnash	pagination
+pajnsh	pagination
 pajnt	pageant
 pajntre	pageantry
-
-# Page 156 Column 2
+	
+# Page 156 Column 2	
 pd	paid
-!	overpaid
-!	repaid
+o^pd	overpaid
+rpd	repaid
 npd	unpaid
 pan	pain
 panf	painful
 panl	painless
-panstak	painstaking
+panstak'	painstaking
 pant	paint
 pantd	painted
 pantr	painter
 pajma	pajama
 palas	palace
 palash	palatial
-!	palanquin
+palanken	palanquin
 palat	palate
 palatb	palatable
-!	paleography
-!	paleontology
+pal^oe	paleography
+palont^o(	paleontology
 palet	palette
-!	palfrey
-!	palimpsest
-!	palindrome
+palfre	palfrey
+palempss	palimpsest
+palendrom	palindrome
 palsad	palisade
 pol	pall
-
-# Page 156 Column 3
-!	palladium
+	
+# Page 156 Column 3	
+paladm	palladium
 pala&'t	palliate
 pala&'sh	palliation
-!	palliative
-!	pallium
+pala&'tv	palliative
+palm	pallium
 palr	pallor
-!	palmetto
-!	palmist
-!	palmistry
+palmeto	palmetto
+pames	palmist
+pamesre	palmistry
 palpat	palpate
 palp^b	palpability
-palp	palpable
+palpb	palpable
 palpash	palpation
 palpta	palpitate
 polse	palsy
-!	palsied
+polse^t	palsied
 poltre	paltry
-!	pampas
+pampas	pampas
 pamf	pamphlet
 pansa&'	panacea
-!	panchromatic
+pankrom^a	panchromatic
 akrom^a	achromatic
 othokrom^a	orthochromatic
-pan-kres	pancreas
+pan-kra&'s	pancreas
 pan-kr^a	pancreatic
-
-# Page 157 Column 1
+	
+# Page 157 Column 1	
 pandemn	pandemonium
-!	panegyric
-!	panegyrical
-!	panegyrist
-!	panegyrize
+panjerk	panegyric
+panjer^k	panegyrical
+panjeres	panegyrist
+panjeriz	panegyrize
 panl	panel
 pang	pang
-pan-k	panic
+panek	panic
 pane~	pannier
-panople	panoply
+panple	panoply
 panrama	panorama
 panramek	panoramic
 panse	pansy
 pant	pant
-!	pantaloon
-!	pantheon
-panthr	panther
-!	pantograph
+pantlun	pantaloon
+panthen	pantheon
+panth	panther
+pant^o	pantograph
 pantomm	pantomime
 pantre	pantry
 papse	papacy
 papl	papal
 papr	paper
 nsp	newspaper
-!	papoose
-
-# Page 157 Column 2
-!	paprika
+papus	papoose
+	
+# Page 157 Column 2	
+papreka	paprika
 par	par
-!	parity
-p^b^	parable
-p^bola^	parabola
-p^bolk^	parabolic
+p^r	parity
+p^b	parable
+p^bola	parabola
+p^bolk	parabolic
 p^bol	parabolical
 p^shut	parachute
 parad	parade
@@ -121,99 +121,99 @@ p^dox	paradox
 p^dox^k	paradoxical
 p^fen	paraffin
 p^gn	paragon
-p^g^	paragraph
-!	parallax
+p^g	paragraph
+p^lax	parallax
 p^l	parallel
 p^l^g	parallelogram
-np^l	unparalleled
+np^l^t	unparalleled
 p^liz	paralyze
 p^lss	paralysis
 p^l^a	paralytic
-!	paralyzes
-p^mn	paramount
-
-# Page 157 Column 3
-!	paranoia
-!	paranoiac
+p^liss	paralyzes
+p^mnt	paramount
+	
+# Page 157 Column 3	
+p^noa&'	paranoia
+p^noa&'k	paranoiac
 p^pt	parapet
 p^fer	paraphernalia
 p^fras	paraphrase
 p^sit	parasite
-!	parasitic
+p^s^a	parasitic
 prsel	parcel
-pachm	parchment
-pa~d-n	pardon
+parchm	parchment
+pa~dn	pardon
 pa~dnb	pardonable
-!	unpardonable
-!	paregoric
+npa~dnb	unpardonable
+paregork	paregoric
 parent	parent
 parentj	parentage
 parentl	parental
 prenthess	parenthesis
-!	parentheses
+parentheses	parentheses
 parsh	parish
 pareshe~	parishioner
 prl	parliament
-!	parliamentarian
+prl^ra&'n	parliamentarian
 prl^re	parliamentary
-!	unparliamentary
+nprl^re	unparliamentary
 parlr	parlor
-
-# Page 158 Column 1
-parok	parochial
+	
+# Page 158 Column 1	
+parokl	parochial
 parode	parody
 parol	parole
 paroxs	paroxysm
-!	paroxysmal
+paroxs^l	paroxysmal
 parka	parquet
 parsi	parricide
-!	parricidal
-parut	parrot
-prsle	parsley
-!	parsnip
-prsemne	parsimony
-prsemnus	parsimonious
-prsn	parson
-prsnj	parsonage
+parsi^l	parricidal
+parot	parrot
+parsle	parsley
+parsnep	parsnip
+par-semne	parsimony
+par-semnus	parsimonious
+par-sn	parson
+par-snj	parsonage
 pt	part
 apt	apart
 apt-m	apartment
 kpt-m	compartment
 dpt-m	department
 ptak	partake
-!	parterre
-ptl	partial
+pa~ta~	parterre
+parsh	partial
 parsh^l	partiality
-ptle	partially
-
-# Page 158 Column 2
+parsha|	partially
+	
+# Page 158 Column 2	
 ptesp	participate
 ptespnt	participant
 ptsep	participle
-!	participial
+ptsepl	participial
 pt^k	particle
 pat	particular
 pat^r	particularity
-pat^ris	particularize
+patiz	particularize
 pate	particularly
-ptes	partisan
-ptessh	partisanship
+ptesn	partisan
+ptesn^sh	partisanship
 ptsh	partition
 pt-ne~	partner
-pt-ne~sh	partnership
+pt-ne~^sh	partnership
 ptrej	partridge
 pte	party
-!	paschal
+paskl	paschal
 pas	pass
 mpasb	impassable
 pasb	passable
 pasj	passage
-!	passageway
-pas(t	passed
+pasja_	passageway
+past	passed
 pas	past
-paj	passenger
-
-# Page 158 Column 3
+pasje~	passenger
+	
+# Page 158 Column 3	
 pash	passion
 dspashat	dispassionate
 mpashd	impassioned
@@ -221,38 +221,38 @@ pashat	passionate
 pashl	passionless
 pasv	passive
 mpasv	impassive
-pas^v	passivity
-!	passover
+pasvte	passivity
+pas^o	passover
 paspor	passport
-pud	password
+pasud	password
 past	paste
-pasbor	pasteboard
-!	pastel
-!	pastern
+pastbod	pasteboard
+pastl	pastel
+pastn	pastern
 pastm	pastime
-pas(te~	pastor
+paste~	pastor
 pastrl	pastoral
 pastra	pastorate
 pastre	pastry
-pas(tr	pasture
+pastr	pasture
 pastrj	pasturage
 pach	patch
-!	patchwork
-!	patchy
-
-# Page 159 Column 1
-!	patella
+pachrk	patchwork
+pache	patchy
+	
+# Page 159 Column 1	
+patela	patella
 patnt	patent
-patn-tb	patentable
-!	patented
-patn-te	patentee
-pa^nl	paternal
-!	paternalism
-!	paternally
-!	paternity
+patntb	patentable
+patntd	patented
+patnte	patentee
+patnl	paternal
+patnl-sm	paternalism
+patna|	paternally
+patnte	paternity
 path	path
-!	pathfinder
-!	pathless
+path^fi^r	pathfinder
+path(l	pathless
 ptha_	pathway
 pth^o(	pathology
 pth(os	pathos
@@ -260,31 +260,31 @@ pth^a	pathetic
 pasht	patient
 mpasht	impatient
 pashns	patience
-!	patio
-pa^rk	patriarch
-!	patriarchal
-!	patriarchate
-pa^sh	patrician
-pa^mne	patrimony
-
-# Page 159 Column 2
-!	patrimoniale
+pateo	patio
+ptrark	patriarch
+ptrarkl	patriarchal
+ptrarkat	patriarchate
+ptresh	patrician
+ptremne	patrimony
+	
+# Page 159 Column 2	
+ptremnl	patrimonial
 ptrot	patriot
-ptrot^a|	patriotic
+ptr^a	patriotic
 ptrotsm	patriotism
 ptrol	patrol
-pa^lmn	patrolman
-pa^on	patron
+ptrolman	patrolman
+ptrn	patron
 ptrnj	patronage
-!	patroness
-pa^niz	patronize
-!	patronymic
+ptrnes	patroness
+ptrniz	patronize
+ptrnemek	patronymic
 patn	pattern
 patnd	patterned
-p^s)	paucity
+p^s	paucity
 popr	pauper
 poprsm	pauperism
-!	pauperization
+poprezash	pauperization
 popriz	pauperize
 pos	pause
 pav	pave
@@ -292,17 +292,17 @@ pavm	pavement
 paveln	pavilion
 pon	pawn
 ponbrokr	pawnbroker
-!	pawnshop
-
-# Page 159 Column 3
+ponshop	pawnshop
+	
+# Page 159 Column 3	
 pa	pay
 pd	paid
 pab	payable
 pae	payee
-!	payees
+paes	payees
 pamas	paymaster
 pam	payment
-!	repaid
+rpd	repaid
 rpa	repay
 npd	unpaid
 pes	peace
@@ -310,844 +310,844 @@ pasf	pacify
 pesb	peaceable
 pesf	peaceful
 pesmakr	peacemaker
-pkk	peacock
-!	peanut
+pekk	peacock
+penut	peanut
 prl	pearl
 pesant	peasant
 pesantre	peasantry
 peb	pebble
-!	pebbly
-pekn	pecan
-!	peccant
-!	peccadillo
-
-# Page 160 Column 1
-!	peccancy
-!	peccary
-!	peck
-!	pectoral
-pk^u	peculate
+pebe	pebbly
+pekan	pecan
+peknt	peccant
+pekdelo	peccadillo
+	
+# Page 160 Column 1	
+peknse	peccancy
+pekre	peccary
+pek	peck
+pektrl	pectoral
+pek^u	peculate
 pkeu	peculiar
 pkeu^r	peculiarity
-pkeu	peculiarly
+pkeue	peculiarly
 pkeun	pecuniary
-!	pedagogue
-!	pedagogic
+pdag	pedagogue
+pdagojk	pedagogic
 pdagoj^k	pedagogical
 pdagoje	pedagogy
 pdl	pedal
-pdn-t	pedant
-pd^n	pedantic
-!	pedantical
-pdn-tre	pedantry
-!	peddle
+pednt	pedant
+pdant	pedantic
+pdant^k	pedantical
+pedntre	pedantry
+pdl	peddle
 pdlr	peddler
 pdestl	pedestal
 pdestra&'n	pedestrian
-!	pedestrianism
-!	pediatrics
-!	pedicula
-
-# Page 160 Column 2
+pdestra&'n-sm	pedestrianism
+pda&'trks	pediatrics
+pdeklr	pedicular
+	
+# Page 160 Column 2	
 pdeg	pedigree
-!	pediment
-!	pedometer
+pdem	pediment
+pdomete~	pedometer
 per	peer
 perj	peerage
-!	peeress
+peres	peeress
 perl	peerless
-pevesh	peevish
+pevsh	peevish
 peg	peg
-!	Pegasus
-pelekn	pelican
-!	pelisse
-!	pellagra
-!	pellet
-!	pellucid
-!	peltry
+pegass	Pegasus
+pelekan	pelican
+peles	pelisse
+pelagra	pellagra
+pele	pellet
+pelused	pellucid
+peltre	peltry
 pelves	pelvis
-!	pelvic
-!	pemmican
-pen	pen
-!	penholder
-!	penknife
+pelvk	pelvic
+pemekan	pemmican
+pn	pen
+pnoldr	penholder
+pnif	penknife
 pnans	penance
 penl	penal
-!	penalization
-
-# Page 160 Column 3
+penlezash	penalization
+	
+# Page 160 Column 3	
 penliz	penalize
 pn^l	penalty
-pn^o(	penology
+pen^o(	penology
 pnchant	penchant
 pnsel	pencil
-pnd-nt	pendant
-!	pendulous
+pndnt	pendant
+pndlus	pendulous
 pndlm	pendulum
 pntra	penetrate
 pntr^b	penetrability
 pntrb	penetrable
-!	penetrant
+pntrant	penetrant
 pntrash	penetration
-pntratv	penetrative
-!	penguin
-!	peninsula
-pnensulr	peninsular
+pntra^v	penetrative
+pn-ge_n	penguin
+pnen-sula	peninsula
+pnen-sulr	peninsular
 pnetns	penitence
 mpnetn	impenitent
-pnetn-t	penitent
-pnetnshl	penitential
-pnetnsh	penitentiary
-!	penitently
+pnetn	penitent
+pnetnsh	penitential
+pnetnshre	penitentiary
+pnetne	penitently
 pnant	pennant
 pne	penny
-
-# Page 161 Column 1
-pnel	penniless
+	
+# Page 161 Column 1	
+pne-l	penniless
 pnsh	pension
-!	pensionary
+pnshre	pensionary
 pnshe~	pensioner
 pnsv	pensive
-!	pent
-!	pentagon
-!	pentameter
-!	Pentecost
-!	penthouse
-penul	penult
-a^penul	antepenult
-!	penultimate
-!	penumbra
-pneure	penury
-pneurus	penurious
-!	peon
+pnt	pent
+pntagn	pentagon
+pntamete~	pentameter
+pntekos	Pentecost
+pnt'us	penthouse
+penut	penult
+a^penut	antepenult
+penutmat	penultimate
+pnumbra	penumbra
+pnure	penury
+pnurus	penurious
+peon	peon
 peone	peony
 pep	people
 pepr	pepper
-!	peppermint
-pepsn	pepsin
+peprmnt	peppermint
+pep-sen	pepsin
 pravntr	peradventure
 pramb^u	perambulate
-!	percale
-
-# Page 161 Column 2
+prkal	percale
+	
+# Page 161 Column 2	
 prse	perceive
 mprsep	imperceptible
 prsep	perceptible
 prsepsh	perception
-mprsepdf	perceptive
-!	perceptual
-prs(entj	percentage
+prseptv	perceptive
+prseptl	perceptual
+pr-sentj	percentage
 prchans	perchance
 prkola	percolate
-!	percolation
-prkolatr	percolator
+prkolash	percolation
+prkola^r	percolator
 prkush	percussion
-!	percussive
+prkusv	percussive
 pe~dsh	perdition
-!	peregrination
+pregrensh	peregrination
 premtre	peremptory
-!	peremptorily
-premtren	peremptoriness
+premtre|	peremptorily
+premtrenes	peremptoriness
 prenl	perennial
 prf	perfect
 mprf	imperfect
-!	perfectible
+prf^b	perfectible
 prfsh	perfection
 prfe	perfectly
-!	pluperfect
-
-# Page 161 Column 3
+plprf	pluperfect
+	
+# Page 161 Column 3	
 prfede	perfidy
 prfedus	perfidious
 prfra	perforate
-!	perforates
+prfras	perforates
 prfrash	perforation
-prfratr	perforator
+prfra^r	perforator
 prfs	perforce
 prfm	perform
-!	performable
+prfmb	performable
 prfmns	performance
-prfmr	performer
+prfme~	performer
 prfeum	perfume
-!	perfumer
-prfeumre	perfumery
+prfeume~	perfumer
+prfeume~e	perfumery
 prfnk	perfunctory
-!	perfunctorily
-prfnkren	perfunctoriness
+prfnke	perfunctorily
+prfnknes	perfunctoriness
 praps	perhaps
 perl	peril
-mperl-d	imperiled
+mperld	imperiled
 perlus	perilous
-pemete~	perimeter
+premete~	perimeter
 pe~d	period
-!	periodic
+pe~dek	periodic
 pe~d^k	periodical
-
-# Page 162 Column 1
-!	periodicity
-prapt^a	peripatetic
+	
+# Page 162 Column 1	
+pe~d^s	periodicity
+prept^a	peripatetic
 prefre	periphery
-!	periphrastic
+prefr^st	periphrastic
 preskp	periscope
 persh	perish
-mperesh	imperishable
+mpereshb	imperishable
 pershb	perishable
-persti~	peristyle
-!	peritoneum
-pe~tn^ts	peritonitis
-!	periwinkle
+perstil	peristyle
+pe~tnom	peritoneum
+pe~tni	peritonitis
+pere_nkl	periwinkle
 prju	perjure
-!	perjured
+prju^t	perjured
 prju^r	perjurer
-!	perjures
-!	perjury
+prjus	perjures
+prju	perjury
 prmn	permanent
 prmns	permanence
 prmne	permanently
-!	permanganate
-prma&'te	permeate
+prmang	permanganate
+prma&'t	permeate
 prm^b	permeability
-prmeb	permeable
+prmb	permeable
 prma&'sh	permeation
-
-# Page 162 Column 2
+	
+# Page 162 Column 2	
 prmet	permit
 prmes^b	permissibility
 prmesb	permissible
 prmsh	permission
 prmutsh	permutation
 prnesh	pernicious
-prrash	peroration
-proxi	peroxide
+prorash	peroration
+proxid	peroxide
 prpnd	perpendicular
 prptra	perpetrate
-!	perpetrates
+prptras	perpetrates
 prptrash	perpetration
-prptratr	perpetrator
+prptra^r	perpetrator
 prptl	perpetual
 prptle	perpetually
 prpteut	perpetuate
-prpteut-d	perpetuated
+prpteutd	perpetuated
 prpteush	perpetuation
-!	perpetuator
-prptute	perpetuity
+prpteute~	perpetuator
+prpteute	perpetuity
 prplex	perplex
-!	perplexed
-!	perplexedly
+prplext	perplexed
+prplexde	perplexedly
 prplexte	perplexity
 prkest	perquisite
-
-# Page 162 Column 3
-prs(keu	persecute
-prs(keush	persecution
-prs(keu^r	persecutor
-prsev	persevere
-prsevns	perseverance
-!	Persian
-!	persiflage
-!	persimmon
+	
+# Page 162 Column 3	
+pr-skeu	persecute
+pr-skeush	persecution
+pr-skeu^r	persecutor
+pr-sever	persevere
+pr-severans	perseverance
+peshn	Persian
+pr-seflash	persiflage
+pr-semn	persimmon
 prss	persist
 prssns	persistence
 prssnse	persistency
 prss^nt	persistent
-prs	person
+prs)	person
 mprs)	impersonal
-mprs(nat	impersonate
+mprs)nat	impersonate
 prs)^b	personable
 prs)j	personage
-prs	personal
-prs^l	personality
-!	personalize
-prse	personally
-!	personalty
+prs)	personal
+prs)^l	personality
+pers)iz	personalize
+prs)e	personally
+prs)^l	personalty
 prs)^f	personification
-!	personify
+prsf	personify
 prs)nel	personnel
-
-# Page 163 Column 1
+	
+# Page 163 Column 1	
 prsp^v	perspective
 prspkash	perspicacious
 prspk	perspicacity
-prspkeu	perspicuity
-!	perspicuous
+prspkeute	perspicuity
+prspk	perspicuous
 prspi	perspire
 prsprash	perspiration
-!	perspires
-prsa_	persuade
+prspis	perspires
+prsa_d	persuade
 dsa_d	dissuade
-!	persuaded
+prsa_dd	persuaded
 prsa_de~	persuader
-!	persuades
+prsa_ds	persuades
 prsa_sh	persuasion
-prsa_s	persuasive
-!	persuasiveness
-!	suasion
+prsa_sv	persuasive
+prsa_svnes	persuasiveness
+suash	suasion
 pe~t	pert
 pe~tn	pertain
 pe~tnd	pertained
 pe~tnash	pertinacious
-pe~tn^s)	pertinacity
-!	pertinence
-!	pertinency
+pe~tn^s	pertinacity
+pe~tnens	pertinence
+pe~tnense	pertinency
 pe~tnnt	pertinent
-
-# Page 163 Column 2
+	
+# Page 163 Column 2	
 pe~tb	perturb
 ds(tb	disturb
 pe~tbash	perturbation
-!	perturbed
+pe~tbd	perturbed
 perus	peruse
 perusl	perusal
-!	Peruvian
+peruva&'n	Peruvian
 prvad	pervade
 prvash	pervasion
-!	pervasive
+prvas	pervasive
 prves	perverse
-!	perversely
+prvese	perversely
 prversh	perversion
-prvaste	perversity
-!	perversive
+prveste	perversity
+prvesv	perversive
 prve~t	pervert
-!	perverted
+prve~td	perverted
 prvus	pervious
 mprvus	impervious
-pesmsm	pessimism
+pesm-sm	pessimism
 pesmes	pessimist
 pesm^st	pessimistic
 pest	pest
-!	pesthouse
+pest'us	pesthouse
 pestlens	pestilence
-
-# Page 163 Column 3
+	
+# Page 163 Column 3	
 pestlent	pestilent
-!	pestilential
-!	pet
+pestlensh	pestilential
+pet	pet
 petl	petal
-!	petite
+ptet	petite
 petsh	petition
 ptshe~	petitioner
 ptrel	petrel
-pe^f	petrify
-pe^faksh	petrifaction
-!	petrifactive
-!	petrol
+ptrf	petrify
+ptrfaksh	petrifaction
+ptrfakv	petrifactive
+ptrl	petrol
 ptrlm	petroleum
-!	petticoat
+ptekot	petticoat
 pte	petty
-!	pettily
-pten	pettiness
-!	pettish
+pte~	pettily
+ptenes	pettiness
+ptsh	pettish
 ptlant	petulant
 ptlans	petulance
-!	petunia
+ptuna&'	petunia
 peu	pew
 peute~	pewter
-!	phaëton
+fatn	phaeton
 falankx	phalanx
-
-# Page 164 Column 1
-fan-tm	phantom
+	
+# Page 164 Column 1	
+fantm	phantom
 fantasm	phantasm
 fa~mse	pharmacy
-!	pharmaceutic
-!	pharmaceutical
+fa~ms^a	pharmaceutic
+fa~ms^a|	pharmaceutical
 fesnt	pheasant
-!	phenol
-fenomm	phenomenon
-fenoma	phenomena
-fenomme	phenomenal
+fenol	phenol
+fenomn	phenomenon
+fenomna	phenomena
+fenomnl	phenomenal
 fa&el	phial
-!	philanderer
+felandrr	philanderer
 felan	philanthropy
-felanpk	philanthropic
-!	philanthropical
-felanpes	philanthropist
-!	philatelic
+felan-k	philanthropic
+felan^k	philanthropical
+felan^st	philanthropist
+felatlk	philatelic
 fel'amnek	philharmonic
 fel^o(	philology
 felos	philosophy
-felosr	philosopher
+felos^r	philosopher
 felosk	philosophic
 felos^k	philosophical
-felosis	philosophize
-!	philter
-
-# Page 164 Column 2
+felosiz	philosophize
+felte~	philter
+	
+# Page 164 Column 2	
 flem	phlegm
-fleg^a	phlegmatic
-!	phlox
+flegm^a	phlegmatic
+flox	phlox
 fnek	phonic
 fn^a	phonetic
-!	phonetician
-!	phonetics
+fnetsh	phonetician
+fn^as	phonetics
 fn^o	phonograph
-fosfrus	phosphorus
+fosf	phosphorus
 fosfat	phosphate
-!	phosphide
-!	phosphoresce
-!	phosphorescence
-!	phosphorescent
-!	photo-electric
+fosfid	phosphide
+fosf	phosphoresce
+fosfns	phosphorescence
+fosfnt	phosphorescent
+ftel^k	photo-electric
 ft^o	photograph
-!	photogravure
-!	photolithograph
-!	photomicrograph
-!	photoplay
-!	photostat
+ftogravr	photogravure
+ftoleth^o	photolithograph
+ftomikr^o	photomicrograph
+ftopla	photoplay
+ftostat	photostat
 fras	phrase
 fras^o(	phraseology
-!	phrenetic
+fren^a	phrenetic
 frant	frantic
-
-# Page 164 Column 3
+	
+# Page 164 Column 3	
 fren^o(	phrenology
-!	phthisis
-!	phylactery
-!	physic
+thiss	phthisis
+felak	phylactery
+fesk	physic
 fes^k	physical
 fesesh	physician
-!	physicist
+fesess	physicist
 fesks	physics
 fesgnome	physiognomy
 fes^o(	physiology
-fese,k	physique
+fesek	physique
 pa&'no	piano
 pa&'nes	pianist
 pa&'za	piazza
 pika	pica
-!	picaresque
-!	piccolo
+pkresk	picaresque
+pklo	piccolo
 pek	pick
-!	pickax
-!	picker
-pket	picket
+pekaks	pickax
+pekr	picker
+peket	picket
 pkl	pickle
 pknek	picnic
 pktr	picture
-!	pictograph
-
-# Page 165 Column 1
+pkt^o	pictograph
+	
+# Page 165 Column 1	
 pktrl	pictorial
-!	pictorially
+pktra|	pictorially
 pktres(k	picturesque
 pa&ete	piety
-!	pig
-!	piggery
-!	piggish
-!	pig-headed
+pg	pig
+pgre	piggery
+pgsh	piggish
+pg'edd	pig-headed
 pejn	pigeon
-pegm	pigment
-!	pigmentation
+pgm	pigment
+pgmsh	pigmentation
 pik	pike
-!	pikestaff
-!	pilaster
-!	pilchard
+pikstaf	pikestaff
+pelaste~	pilaster
+pelcha~d	pilchard
 pil	pile
-!	piled
+pild	piled
 pel^g	pilgrim
 pel^gj	pilgrimage
 pelj	pillage
 pelr	pillar
-!	pillion
+peln	pillion
 pelre	pillory
 pelo	pillow
-!	pillowcase
-
-# Page 165 Column 2
-pilut	pilot
-!	pimento
-!	pimple
+pelokas	pillowcase
+	
+# Page 165 Column 2	
+pilot	pilot
+pemnto	pimento
+pempl	pimple
 pen	pin
-!	pinafore
-!	pincers
+penfor	pinafore
+pensers	pincers
 pench	pinch
 pin	pine
-!	pineapple
-!	ping-pong
+pinapl	pineapple
+pengpong	ping-pong
 penk	pink
-!	pinnace
-pn^k	pinnacle
+penas	pinnace
+pen^k	pinnacle
 pip	pipe
-!	pipage
-!	pipe clay
-pipd	piped
-!	pipette
+pipj	pipage
+pipkla	pipe clay
+pipt	piped
+pept	pipette
 peknt	piquant
 peknse	piquancy
-pe,k	pique
-pirat	pirate
+pek	pique
+pira	pirate
 pirse	piracy
-!	piratic
-!	pirouette
-
-# Page 165 Column 3
-!	piscatorial
-!	pistachio
+pir^a	piratic
+pere_t	pirouette
+	
+# Page 165 Column 3	
+peskatrl	piscatorial
+pestasho	pistachio
 pestl	pistol
 pestn	piston
-!	pit
-!	pitfall
-!	pitted
+pet	pit
+petfo	pitfall
+petd	pitted
 pech	pitch
 peche~	pitcher
-!	pith
-petns	pittance
+peth	pith
+ptns	pittance
 pte	pity
-ptes	piteous
+ptus	piteous
 pteb	pitiable
-!	pitied
-ptef	pitiful
-ptel	pitiless
-!	pitilessness
+pted	pitied
+pte-f	pitiful
+pte-l	pitiless
+pte-lnes	pitilessness
 pevt	pivot
-!	pivotal
+pevtl	pivotal
 plaka~d	placard
 plak	placate
 plak^b	placability
 plakb	placable
 plas	place
-
-# Page 166 Column 1
-!	placeman
+	
+# Page 166 Column 1	
+plasman	placeman
 plasm	placement
-!	placer
+plaser	placer
 plasd	placid
 plasdte	placidity
-plajrsm	plagiarism
+plajr-sm	plagiarism
 plajres	plagiarist
-plajris	plagiarize
+plajriz	plagiarize
 plajre	plagiary
 plag	plague
 plan	plain
-!	plainer
+plane~	plainer
 plane	plainly
-!	plainness
+plan-nes	plainness
 plant	plaint
 pdf	plaintiff
 plantv	plaintive
 plan	plan
 plant	planned
 planet	planet
-!	planetoid
-!	plangent
+planetoe	planetoid
+planjnt	plangent
 plank	plank
 plant	plant
 mplant	implant
-
-# Page 166 Column 2
+	
+# Page 166 Column 2	
 plantsh	plantation
-!	planted
+plantd	planted
 plantr	planter
 splant	supplant
 t^plant	transplant
-!	plantain
+plantn	plantain
 plaste~	plaster
-!	plastered
-!	plasterer
+plaste~d	plastered
+plaste~^r	plasterer
 pl^st	plastic
-!	plasticity
+plas^s	plasticity
 plat	plate
 plato	plateau
-!	plated
-!	plateful
+platd	plated
+platf	plateful
 platn	platen
-!	plater
+plate~	plater
 platfm	platform
 platnum	platinum
-!	platinate
-!	platinic
+platnat	platinate
+platnek	platinic
 platet	platitude
-!	platitudinize
-!	platitudinous
-!	platoon
-
-# Page 166 Column 3
-!	plaudit
+platetudniz	platitudinize
+platetudnus	platitudinous
+platun	platoon
+	
+# Page 166 Column 3	
+plodt	plaudit
 plosb	plausible
 plos^b	plausibility
 pla	play
 plar	player
 plaf	playful
-!	playgoer
-plagrnt	playground
-!	playhouse
+plag^r	playgoer
+plagrnd	playground
+pla's	playhouse
 plamat	playmate
-!	plaything
-!	playtime
+plath'	plaything
+platm	playtime
 plari	playwright
 pl	please
 dspl	displease
 ples	pleasant
-!	pleasantly
-plesn	pleasantness
+plese	pleasantly
+plesnes	pleasantness
 ples^re	pleasantry
-pleshub	pleasurable
+pleshb	pleasurable
 plesh	pleasure
-npes	unpleasant
+nples	unpleasant
 plebn	plebeian
-!	plebiscite
-!	plectrum
-
-# Page 167 Column 1
+plebest	plebiscite
+plektrm	plectrum
+	
+# Page 167 Column 1	
 plej	pledge
-!	pledgee
+pleje	pledgee
 pleje~	pledger
-!	pledgor
+plejor	pledgor
 plente	plenty
-!	plenarily
+plenre|	plenarily
 plenre	plenary
 plenep	plenipotentiary
 plenetu	plenitude
-plents	plenteous
-plentf	plentiful
-!	pleonasm
-!	plethora
-!	plethoric
-!	pleura
-!	pleurisy
+plentus	plenteous
+plentef	plentiful
+plenasm	pleonasm
+plethra	plethora
+plethrk	plethoric
+plra	pleura
+plrse	pleurisy
 plint	pliant
 pli^b	pliability
 plib	pliable
 plinse	pliancy
-pli	plight
+plit	plight
 plau	plow
-!	plowshare
+plausha~	plowshare
 pluk	pluck
-!	pluckily
-
-# Page 167 Column 2
+pluke|	pluckily
+	
+# Page 167 Column 2	
 pluke	plucky
 plug	plug
-!	plumb
-!	plumbed
+plm	plumb
+plmd	plumbed
 plme~	plumber
-!	plumbic
-!	plumbago
+plmbk	plumbic
+plmbago	plumbago
 plum	plume
 plumj	plumage
 plmp	plump
 plndr	plunder
 plndrr	plunderer
 plnj	plunge
-!	plunger
-!	pluperfect
+plnje~	plunger
+plprf	pluperfect
 plrl	plural
 plr^l	plurality
-!	pluralize
+plrliz	pluralize
 plus	plus
 plutok	plutocrat
-!	plutocracy
+plutokse	plutocracy
 plutok^a	plutocratic
 num^a	pneumatic
-!	pneumatics
+num^as	pneumatics
 numna&'	pneumonia
-
-# Page 167 Column 3
+	
+# Page 167 Column 3	
 poket	pocket
-!	pocketbook
-!	pocketknife
+poketbk	pocketbook
+poket-nif	pocketknife
 poem	poem
 poet	poet
-!	poetaster
-!	poetic
+poetaste~	poetaster
+po^a	poetic
 poetre	poetry
 poenant	poignant
 poenanse	poignancy
-!	poinciana
-!	poinsettia
+poen-sa&'na	poinciana
+poen-seta&'	poinsettia
 oe	point
-oer	pointer
+oe^r	pointer
 oel	pointless
 oes	points
 poes	poise
-poes(n	poison
-poes(n-d	poisoned
-!	poisoner
-poes(nus	poisonous
+poesn	poison
+poesnd	poisoned
+poesne~	poisoner
+poesnus	poisonous
 pok	poke
 pokr	poker
 pol	pole
 polr	polar
-
-# Page 168 Column 1
+	
+# Page 168 Column 1	
 pol^r	polarity
-polrezsh	polarization
+polrezash	polarization
 polriz	polarize
-!	polarizer
-!	polecat
-!	polemic
-!	polemical
+polrizer	polarizer
+polkat	polecat
+polemek	polemic
+polem^k	polemical
 poles	police
-polesmn	policeman
+polesman	policeman
 pol	policy
-!	policyholder
-polesh	polish
-poleshe~	polisher
+pol'oldr	policyholder
+polsh	polish
+polshe~	polisher
 poli	polite
-polie	politely
-polit-n	politeness
+pola&e	politely
+polines	politeness
 pol^a	politic
 pol^a|	political
 poletsh	politician
-!	politicly
+pol^a&e	politicly
 pol^as	politics
 p^l	polity
-!	polka
+polka	polka
 polen	pollen
 polut	pollute
-
-# Page 168 Column 2
-polut-d	polluted
-polutsh	pollution
-!	polonaise
-!	polonium
-!	poltroon
-!	polyandry
+	
+# Page 168 Column 2	
+polutd	polluted
+polsh	pollution
+polonas	polonaise
+polonem	polonium
+poltrun	poltroon
+polandre	polyandry
 poleg	polygamy
-!	polyglot
-!	polygon
-!	polygonal
-!	polyp
+poleglot	polyglot
+polegn	polygon
+poleg	polygonal
+polep	polyp
 pomad	pomade
-!	pomegranate
+pomegranat	pomegranate
 pml	pommel
-!	pomology
-!	pompadour
+pom^o(	pomology
+pompdur	pompadour
 pompus	pompous
-pomp^s)	pomposity
-!	poncho
+pomp^s	pomposity
+poncho	poncho
 pond	pond
 pondr	ponder
-!	ponderable
+pondrb	ponderable
 pondrus	ponderous
 ponje	pongee
 pona~d	poniard
-
-# Page 168 Column 3
+	
+# Page 168 Column 3	
 pon-df	pontiff
-!	pontifical
-!	pontificate
+pon-df^k	pontifical
+pon-dfk	pontificate
 pontun	pontoon
 pone	pony
 pu	poor
 pust	poorest
 pu'us	poorhouse
 pue	poorly
-!	poorness
+punes	poorness
 poplr	poplar
 poplen	poplin
 pop	popular
 dpop^u	depopulate
 poplas	populace
 pop^r	popularity
-popis	popularize
+popiz	popularize
 pope	popularly
 pop^u	populate
-!	populous
+popus	populous
 npop	unpopular
 poselan	porcelain
 porch	porch
-!	porcupine
-!	porphyry
-
-# Page 169 Column 1
+porkpin	porcupine
+porfre	porphyry
+	
+# Page 169 Column 1	
 porpus	porpoise
 porej	porridge
-!	porringer
+porenje~	porringer
 pot	port
 potb	portable
 potj	portage
 potl	portal
-!	portcullis
+potkules	portcullis
 pote~	porter
-!	porterhouse
+poter'us	porterhouse
 potfoleo	portfolio
-!	porthole
+pot'ol	porthole
 poteko	portico
-!	portière
-potn-d	portend
-potn-t	portent
-potn-tus	portentous
+pota~	portiere
+potnd	portend
+potnt	portent
+potntus	portentous
 porsh	portion
-!	apportioned
+aporshd	apportioned
 potra	portray
-potrat	portrait
+potra	portrait
 potratr	portraiture
 potral	portrayal
-!	Portuguese
-po	pose
-
-# Page 169 Column 2
+potuges	Portuguese
+pos	pose
+	
+# Page 169 Column 2	
 dpo	depose
 espo	expose
 mpo	impose
-!	poses
+poss	poses
 prpo	propose
 spo	suppose
 posh	position
 dposh	deposition
-espoz	exposition
+esposh	exposition
 mposh	imposition
 preposh	preposition
 prposh	proposition
 sposh	supposition
-pos(df	positive
+postv	positive
 poss	possess
-!	dispossess
-posssh	possession
+dsposs	dispossess
+poss	possession
 possv	possessive
 possr	possessor
-!	possessorship
+possr^sh	possessorship
 pos	possible
 mpos	impossible
 pos^b	possibility
-!	possibly
-!	possum
-
-# Page 169 Column 3
-pos(t	post
+pose	possibly
+posm	possum
+	
+# Page 169 Column 3	
+post	post
 p^j	postage
 p^l	postal
-!	postcard
+p^ka~d	postcard
 p^dt	postdate
-p^ast	posthaste
-p^man^	postman
+p^'ast	posthaste
+p^man	postman
 p^mark	postmark
 p^mas	postmaster
-p^r	poster
-poster	posterior
+poste~	poster
+p^er	posterior
 pos^r	posterity
-posten	postern
-p^grad	postgraduate
-postmus	posthumous
-!	postilion
-!	postlude
+p^e~n	postern
+p^gradeut	postgraduate
+p^eumus	posthumous
+p^eln	postilion
+p^lud	postlude
 p^pon	postpone
-p^pomn	postponement
-p^s)	postscript
-pos^u	postulate
+p^ponm	postponement
+p^s(	postscript
+post^u	postulate
 postlant	postulant
-!	postulation
+post^ush	postulation
 postr	posture
 pot	pot
-
-# Page 170 Column 1
+	
+# Page 170 Column 1	
 pote~	potter
-!	pottery
-!	potable
-!	potation
+pote~e	pottery
+potb	potable
+potsh	potation
 potasm	potassium
 potash	potash
 potato	potato
-ptnt	potent
-mptnt	impotent
+potnt	potent
+mpotnt	impotent
 om-nep	omnipotent
 plenep	plenipotentiary
-ptnse	potency
-ptnta	potentate
-ptntsh	potential
-ptntsh^l	potentiality
-ptntshe	potentially
+potnse	potency
+potnta	potentate
+potnsh	potential
+potnsh^l	potentiality
+potnsha|	potentially
 posh	potion
 potj	pottage
 pauch	pouch
@@ -1155,101 +1155,101 @@ poltes	poultice
 poltre	poultry
 pns	pounce
 pn	pound
-!	poundage
-!	poundcake
-
-# Page 170 Column 2
+pnj	poundage
+pn-kak	poundcake
+	
+# Page 170 Column 2	
 paut	pout
 pov	poverty
 paude~	powder
-!	powdery
+paude~e	powdery
 pau	power
 mpau	empower
 pauf	powerful
 paul	powerless
-prk	practical
+prk^k	practical
 prkt^b	practicability
 prktb	practicable
 prk^l	practicality
-prke	practically
-!	practicalness
+prk^ke	practically
+prk^knes	practicalness
 prkt	practice
 prktshe~	practitioner
-pragmat	pragmatism
+pragmat-sm	pragmatism
 pragm^a	pragmatic
-!	pragmatist
+pragmates	pragmatist
 prare	prairie
 pras	praise
 prasd	praised
 pra	pray
 prar	prayer
 prarf	prayerful
-
-# Page 170 Column 3
+	
+# Page 170 Column 3	
 pra&'mb	preamble
 pra&'ra	prearrange
-!	prebendary
+prebendre	prebendary
 prekar	precarious
 prekosh	precaution
-!	precautionary
+prekoshre	precautionary
 prese	precede
 presdns	precedence
 presdn	precedent
-!	precedes
-npresdn	unprecedented
+preses	precedes
+npresdn^t	unprecedented
 presep	precept
-preseptr	preceptor
-preseptres	preceptress
+presep^r	preceptor
+presep^res	preceptress
 presenk	precinct
 preshus	precious
 presepta	precipitate
 prespes	precipice
 preseptnse	precipitancy
 preseptn	precipitant
-!	precipitately
-!	precipitateness
+preseptae	precipitately
+preseptanes	precipitateness
 preseptsh	precipitation
 preseptus	precipitous
 press	precise
-
-# Page 171 Column 1
+	
+# Page 171 Column 1	
 presesh	precision
-preklu	preclude
-!	preclusion
+preklud	preclude
+preklsh	preclusion
 prekosh	precocious
-!	precosity
+prek^s	precosity
 prekse	preconceive
-!	preconception
-prekrsr	precursor
-!	precursory
-!	predacious
+prek-sepsh	preconception
+prekrser	precursor
+prekrsre	precursory
+predash	predacious
 dpredsh	depredation
-!	predacity
+pred^s	predacity
 predtre	predatory
-!	predecease
+pred-ses	predecease
 predss	predecessor
-!	predestine
+predstn	predestine
 predestnsh	predestination
-!	predetermine
+pre^e~mn	predetermine
 predek	predicament
 predekat	predicate
 predek	predict
-prekb	predictable
-preksh	prediction
-!	unpredictable
-!	predigest
-
-# Page 171 Column 2
-!	predigestion
-predelsh	predilection
+predekb	predictable
+predeksh	prediction
+npredekb	unpredictable
+predjes	predigest
+	
+# Page 171 Column 2	
+predjesh	predigestion
+predleksh	predilection
 predspo	predispose
 predsposh	predisposition
 predomnat	predominate
 predomns	predominance
-predomn	predominant
-preemn	preeminent
+predomnant	predominant
+pre^emn	preeminent
 premt	preempt
-premtsh	preemption
+premsh	preemption
 prefas	preface
 prefatre	prefatory
 prefk	prefect
@@ -1258,179 +1258,180 @@ pref^b	preferability
 pref^b	preferable
 prefns	preference
 prefnsh	preferential
-!	preferentially
+prefnsha|	preferentially
 prefm	preferment
 prefes	prefix
-!	prehistoric
-!	prejudge
+pr'estrk	prehistoric
+prejj	prejudge
 prej	prejudice
-prejdsh	prejudicial
-
-# Page 171 Column 3
-prelat	prelate
+prej^l	prejudicial
+	
+# Page 171 Column 3	
+prela	prelate
 prelem	preliminary
-prelu	prelude
+prelud	prelude
 prematr	premature
-!	premeditate
-premedsh	premeditation
+premedtat	premeditate
+premedtsh	premeditation
 preme~	premier
 premes	premise
-premn	premium
+premm	premium
 premnsh	premonition
-!	premonitory
+premnetre	premonitory
 preokp	preoccupation
-!	preoccupied
+preokp^t	preoccupied
 prep	prepare
-prepd-ns	preparedness
-nprepd	unprepared
+prep^t-nes	preparedness
+nprep^t	unprepared
 prepa	prepay
-!	prepaid
+prepd	prepaid
 prepam	prepayment
 prepondra	preponderate
 prepond	preponderance
-!	preponderant
+prepond	preponderant
 preposh	preposition
-!	prepositional
+preposhl	prepositional
 preposs	prepossess
-
-# Page 172 Column 1
-!	prepossession
+	
+# Page 172 Column 1	
+preposs	prepossession
 prepos	preposterous
 prerkest	prerequisite
 prerog	prerogative
-!	presage
+presj	presage
 presb	presbyterian
-!	prescient
+presht	prescient
 nesht	nescient
 om-nesht	omniscient
 preshns	prescience
-pres(kr	prescribe
-pres(krsh	prescription
+preskr	prescribe
+preskrsh	prescription
 preskrv	prescriptive
 pr	present
 pr	presence
-!	presentability
+pr^b	presentability
 prb	presentable
 prsh	presentation
 pre	presently
-presnt-m	presentiment
-pres(ev	preserve
-ps(evsh	preservation
-pre-sevtv	preservative
-!	preserver
+pres)entem	presentiment
+pres)ev	preserve
+pres)evash	preservation
+pres)evtv	preservative
+pres)evr	preserver
 presi	preside
-
-# Page 172 Column 2
+	
+# Page 172 Column 2	
 presdnse	presidency
-pres(tn	president
+presdn	president
 presdnsh	presidential
 pres	press
-!	pressman
+presman	pressman
 preshu	pressure
-!	presswork
+presrk	presswork
 prestj	prestige
-prestdj	prestidigitator
-prs(m	presume
-!	presumable
+prestdjta^r	prestidigitator
+pr-sm	presume
+pr-smb	presumable
 pr-sm^te	presumedly
-!	presumer
+pr-sme~	presumer
 pr-smsh	presumption
 pr-sm-tv	presumptive
-!	presumptuous
+pr-sm-tuus	presumptuous
 pretn	pretend
-pretnd	pretended
-pretnr	pretender
+pretn^t	pretended
+pretn^r	pretender
 pretns	pretense
 pretnsh	pretension
 pretnshus	pretentious
-!	preterit
-pretnatl	preternatural
-s^natl	supernatural
-
-# Page 172 Column 3
-pretex	pretext
-pre	pretty
-!	prettily
-preten	prettiness
-!	pretzel
+pretret	preterit
+pretnatrl	preternatural
+s^natrl	supernatural
+	
+# Page 172 Column 3	
+pretx	pretext
+prete	pretty
+prete|	prettily
+pretenes	prettiness
+pretzel	pretzel
 preva	prevail
-!	prevalence
-preval	prevalent
+prevlens	prevalence
+prevlent	prevalent
 prevar	prevaricate
 prevarsh	prevarication
 prevar^r	prevaricator
 prevnt	prevent
 prevnt^b	preventability
 prevntb	preventable
-prvntsh	prevention
+prvnsh	prevention
 prevntv	preventive
 prevs	previous
 prevesh	prevision
 pris	price
-prisd	priced
+prist	priced
 prisl	priceless
-pris-s	prices
-!	prickle
-!	prickly
-pri	pride
-
-# Page 173 Column 1
+priss	prices
+prekl	prickle
+preke	prickly
+prid	pride
+	
+# Page 173 Column 1	
 prest	priest
-!	priestess
+prestes	priestess
 prest^d	priesthood
-!	priestly
+preste	priestly
 priml	primal
 primre	primary
 primre|	primarily
-!	primate
-!	primacy
+primat	primate
+primse	primacy
 primev	primeval
 premetv	primitive
-!	primogeniture
-!	primordial
+primjnetr	primogeniture
+primsodl	primordial
 prens	prince
-!	princeliness
+prense-nes	princeliness
 prense	princely
-prenss	princess
-!	principal, principle
-pr^l	principality
-pre	principally
-npr^t	unprincipled
+prenses	princess
+pren	principal
+pren	principle
+pren^l	principality
+prene	principally
+npren^t	unprincipled
 prent	print
-!	printable
+prentb	printable
 prentd	printed
 prentr	printer
-
-# Page 173 Column 2
-!	printery
-prir	prior
+	
+# Page 173 Column 2	
+prentre	printery
+pra&er	prior
 pri^r	priority
-!	prism
-!	prismatic
+presm	prism
+presm^a	prismatic
 presn	prison
-!	imprisoned
+mpresnd	imprisoned
 presne~	prisoner
 prestn	pristine
 pri	private
 privse	privacy
-!	privateer
-prie	privately
-!	privateness
+privte~	privateer
+pra&e	privately
+prines	privateness
 privash	privation
 dpri	deprive
-!	privet
+prevt	privet
 prev	privilege
-!	privy
-!	privily
-!	privity
+preve	privy
+preve|	privily
+prevte	privity
 prb	probable
 mprb	improbable
 pr^b	probability
 prbe	probably
-
-# Page 173 Column 3
+	
+# Page 173 Column 3	
 prbat	probate
-prbaz	probation
+prbash	probation
 prbte	probity
 prbl	problem
 prbl^a	problematic
@@ -1440,87 +1441,87 @@ prsesh	procession
 prseshl	processional
 prss	process
 prsss	processes
-prokla	proclaim
+proklam	proclaim
 proklamsh	proclamation
-prok^v	proclivity
+proklevte	proclivity
 prokras	procrastinate
 prokrassh	procrastination
 prokras^r	procrastinator
-!	proctor
+prokte~	proctor
 prokr	procure
-!	procurable
-!	procuration
-!	procurement
+prokrb	procurable
+prokrash	procuration
+prokrm	procurement
 prodeg	prodigal
 prodeg^l	prodigality
 prodje	prodigy
-
-# Page 174 Column 1
+	
+# Page 174 Column 1	
 prodjus	prodigious
 produs	produce
-!	by-product
-produs(t	produced
-prusr	producer
+bproduk	by-product
+produst	produced
+produsr	producer
 produss	produces
-prok	product
-proksh	production
-prokv	productive
-prokvte	productivity
+produk	product
+produksh	production
+produkv	productive
+produkvte	productivity
 prfan	profane
-!	profanation
-!	profanity
+prfansh	profanation
+prf^nt	profanity
 prfes	profess
-prfesd	professed
+prfest	professed
 prfesh	profession
 prfeshl	professional
-!	professionalism
-!	professionally
+prfeshl-sm	professionalism
+prfesha|	professionally
 prfesr	professor
-!	professorial
-!	professorship
+prfesrl	professorial
+prfesr^sh	professorship
 prfer	proffer
 prfesht	proficient
 prfeshse	proficiency
-
-# Page 174 Column 2
+	
+# Page 174 Column 2	
 prfil	profile
 prft	profit
 prftb	profitable
 prftl	profitless
 prfleg	profligate
-!	profligacy
-prfnt	profound
-!	profoundness
+prflegse	profligacy
+prfnd	profound
+prfnd-nes	profoundness
 prfndete	profundity
 prfeu	profuse
-!	profusely
-!	profuseness
+prfeue	profusely
+prfeunes	profuseness
 prfeush	profusion
 prjene	progeny
-prjenetr	progenitor
-!	prognosis
-prg^st	prognostic
-prg^stat	prognosticate
+prjenete~	progenitor
+prgnoss	prognosis
+prgn^st	prognostic
+prgn^sta	prognosticate
 pr^g	program
 prg	progress
 prgsh	progression
 prgv	progressive
 pr'ebt	prohibit
 pr'ebsh	prohibition
-pr'ebshst	prohibitionist
-
-# Page 174 Column 3
-!	prohibitive
+pr'ebshes	prohibitionist
+	
+# Page 174 Column 3	
+pr'ebtv	prohibitive
 pr'ebtre	prohibitory
 prjk	project
-prjkil	projectile
+prjktl	projectile
 prjksh	projection
 prjkr	projector
-prletar	proletarian
-prletara&'t	proletariat
-prlef	prolific
+prletra&'n	proletarian
+prletra&'t	proletariat
+prlefk	prolific
 prlex	prolix
-!	prolixity
+prlexte	prolixity
 prlog	prologue
 prlng	prolong
 prlngat	prolongate
@@ -1531,55 +1532,55 @@ promns	prominence
 prmesk	promiscuous
 prmeskeute	promiscuity
 prmeske	promiscuously
-!	promiscuousness
+prmesknes	promiscuousness
 prmes	promise
-prmes(t	promised
+prmest	promised
 prmesre	promissory
-
-# Page 175 Column 1
-prmn-tre	promontory
+	
+# Page 175 Column 1	
+prmntre	promontory
 prmot	promote
-prmot-d	promoted
+prmotd	promoted
 prmote~	promoter
 prmosh	promotion
 prmt	prompt
 prmpd	prompted
 prmtr	prompter
 prmtetu	promptitude
-prmpe	promptly
+prmte	promptly
 prmtnes	promptness
 prmul	promulgate
 prmulsh	promulgation
-prnn	pronoun
-prnns	pronounce
+prn-n	pronoun
+prn-ns	pronounce
 prn-nsb	pronounceable
-prnnsd	pronounced
-prnnsm	pronouncement
+prn-nst	pronounced
+prn-nsm	pronouncement
 prnunsa&'sh	pronunciation
 prf	proof
 prpg	propagate
-prpganta	propaganda
-!	propagandist
+prpganda	propaganda
+prpgandes	propagandist
 prpgsh	propagation
 prpl	propel
-
-# Page 175 Column 2
-!	propellant
+	
+# Page 175 Column 2	
+prplant	propellant
 prplr	propeller
 prplsh	propulsion
-prpns	propensity
+prpn^s	propensity
 prpr	proper
 prpt	property
 prfet	prophet
 prfse	prophecy
 prfsi	prophesy
-!	prophetic
-!	prophylactic
+prf^a	prophetic
+prflak	prophylactic
 prpenk	propinquity
 prpesha&'t	propitiate
-prpesh	propitiation
-!	propitiatory
-prpeshus	propitious
+prpesha&'sh	propitiation
+prpesha&'tre	propitiatory
+prpesh	propitious
 prprsh	proportion
 dspr	disproportionate
 prprshb	proportionable
@@ -1589,72 +1590,72 @@ prpo	propose
 prpol	proposal
 prposh	proposition
 prpn	propound
-
-# Page 175 Column 3
-!	proponent
+	
+# Page 175 Column 3	
+prpon	proponent
 prpri	proprietor
 prpri^re	proprietary
-prprite	propriety
-!	prorate
-prra	pro rata
-!	prorogue
-prsak	prosaic
-prsenem	proscenium
-prskr	proscribe
-prskrsh	proscription
-!	proscriptive
-prs(k	prosecute
-prsksh	prosecution
-prsk^r	prosecutor
-!	proselyte
-!	prosody
-prpk	prospect
+prpri	propriety
+prrat	prorate
+prrata	pro rata
+prrog	prorogue
+pr-sak	prosaic
+pr-senem	proscenium
+pr-skr	proscribe
+pr-skrsh	proscription
+pr-skrv	proscriptive
+pr-sk	prosecute
+pr-sksh	prosecution
+pr-sk^r	prosecutor
+prseli	proselyte
+prosde	prosody
+prsp	prospect
 prsp^v	prospective
-!	prospector
+prsp^r	prospector
 prspus	prospectus
 prspr	prosper
-!	prospered
-prp^r	prosperity
+prspr^t	prospered
+prsp^r	prosperity
 prsprus	prosperous
-
-# Page 176 Column 1
+	
+# Page 176 Column 1	
 prstra	prostrate
 prstrash	prostration
-!	protagonist
+protagnes	protagonist
 protek	protect
 proteksh	protection
-!	protectionist
+protekshes	protectionist
 protekv	protective
 protekr	protector
 protekra	protectorate
-nprotekd	unprotected
-!	protégé
-!	protein
+nprotekt	unprotected
+protsha	protege
+proten	protein
 protes	protest
 protes^nt	Protestant
 protes^ntsm	Protestantism
-protesash	protestation
-!	protocol
-!	protoplasm
-!	prototype
-!	protoxide
+protessh	protestation
+protokol	protocol
+protplasm	protoplasm
+prototip	prototype
+protosid	protoxide
 protrk	protract
 protrksh	protraction
-!	protractive
+protrkv	protractive
 protrk^r	protractor
 protrud	protrude
-
-# Page 176 Column 2
-!	protrusion
+	
+# Page 176 Column 2	
+protrsh	protrusion
 protrusv	protrusive
-protbns	protuberance
+protb	protuberance
 protb	protuberant
 prau	proud
-!	prouder
-!	proudest
+praur	prouder
+praust	proudest
 praue	proudly
 prv	prove
-!	provable
+prvb	provable
 prvd	proved
 prvn	proven
 prverb	proverb
@@ -1669,161 +1670,160 @@ prvesh	provision
 prveshl	provisional
 prvens	province
 prvensh	provincial
-!	provincialism
-
-# Page 176 Column 3
-!	provinciality
-!	provincially
+prvenshsm	provincialism
+	
+# Page 176 Column 3	
+prvensh^l	provinciality
+prvensha|	provincially
 prviso	proviso
-!	provisory
+prvisre	provisory
 prvk	provoke
 prvksh	provocation
-prvkdf	provocative
+prvktv	provocative
 prvos	provost
-!	proximate
+prx	proximate
 aprx	approximate
-prs^mt	proximity
+prx^mt	proximity
 prx	proximo
-prse	proxy
+prxe	proxy
 prudn	prudent
-!	imprudently
+mprudne	imprudently
 prudns	prudence
 prudnsh	prudential
-!	prurient
-!	Prussian
-s(am	psalm
+prrent	prurient
+prshn	Prussian
+sam	psalm
 sames	psalmist
 samode	psalmody
 sudnem	pseudonym
-!	psychic
-!	psychiatrist
-
-# Page 177 Column 1
-!	psychiatry
+sikek	psychic
+sikitres	psychiatrist
+	
+# Page 177 Column 1	
+sikitre	psychiatry
 sik^k	psychical
-!	psychoanalysis
-s(ik^o(	psychology
-!	psychopathic
+sikanalss	psychoanalysis
+sik^o(	psychology
+sikopthek	psychopathic
 tomn	ptomaine
 pb	public
 pbsh	publication
-!	publicist
-pb^s(	publicity
+pbss	publicist
+pb^s	publicity
 pbe	publicly
 pb	publish
 pb^r	publisher
 pukr	pucker
 pud'	pudding
 pudl	puddle
-!	pueblo
-!	pugilism
-peuj	pugilist
-!	pugilistic
-pgn^s)	pugnacity
+pe_blo	pueblo
+pujl-sm	pugilism
+pujles	pugilist
+pujl^st	pugilistic
+pgn^s	pugnacity
 pgnash	pugnacious
 peusnt	puissant
 peusns	puissance
-!	pullet
-
-# Page 177 Column 2
-plmre	pulmonary
-!	pulmotor
+pule	pullet
+	
+# Page 177 Column 2	
+plmnre	pulmonary
+plmote~	pulmotor
 plpt	pulpit
 pls	pulse
 plsa	pulsate
 plsash	pulsation
-!	pulsator
-!	pulsatory
+plsa^r	pulsator
+plsa^re	pulsatory
 plvriz	pulverize
-plvrezsh	pulverization
-!	pulverizer
+plvrezash	pulverization
+plvriser	pulverizer
 pmes	pumice
 pmp	pump
-!	pumpkin
+pmpken	pumpkin
 pnch	punch
-!	punctilio
+pnkteleo	punctilio
 pnktel	punctilious
 pnk	punctual
 pnk^l	punctuality
-!	punctually
-!	unpunctual
-pngeut	punctuate
-pngeush	punctuation
+pnke	punctually
+npnk	unpunctual
+pnkeut	punctuate
+pnkeush	punctuation
 pnktr	puncture
 pnjnt	pungent
-
-# Page 177 Column 3
-!	pungency
+	
+# Page 177 Column 3	
+pnjse	pungency
 pnsh	punish
 pnshb	punishable
-pnshd	punished
+pnsht	punished
 pnshm	punishment
-!	punitive
+peunetv	punitive
 peune	puny
 ppl	pupil
-!	purblind
+prblind	purblind
 prch	purchase
 prch^r	purchaser
 peu	pure
 mpeu	impure
 peue	purely
 peu^f	purification
-peuf^r	purifier
+peufr	purifier
 peuf	purify
-!	purism
-!	purist
+peusm	purism
+peust	purist
 peutn	Puritan
 p^r	purity
 prj	purge
 prgatre	purgatory
-!	purlieu
-prloe	purloin
-
-# Page 178 Column 1
-!	purloined
+prlu	purlieu
+prloen	purloin
+	
+# Page 178 Column 1	
+prloend	purloined
 prpl	purple
-!	purplish
-prpor	purport
-!	purported
+prplsh	purplish
+prpot	purport
+prpotd	purported
 prp	purpose
 prp^f	purposeful
-!	purposeless
+prp^l	purposeless
 prpe	purposely
 prs	purse
 prser	purser
-prsu	pursue
-prsuns	pursuance
-prsunt	pursuant
-
-# Page 178 Column 2
-prsud	pursued
-!	pursuit
-!	purulent
+pr-su	pursue
+pr-suns	pursuance
+pr-sunt	pursuant
+	
+# Page 178 Column 2	
+pr-sud	pursued
+pr-sut	pursuit
+peurlent	purulent
 prva	purvey
-!	purveyance
-!	purveyor
+prvans	purveyance
+prvar	purveyor
 prveu	purview
-!	pusillanimity
+peuslan^mt	pusillanimity
 peuslan	pusillanimous
-!	pustule
+pustl	pustule
 p	put
 peutatv	putative
-!	putrefy
-!	putrefaction
-
-# Page 178 Column 3
-!	putrefactive
-!	putrescence
-!	putrescent
-!	putrid
+peutrf	putrefy
+peutrfaksh	putrefaction
+	
+# Page 178 Column 3	
+peutrfakv	putrefactive
+peutresns	putrescence
+peutresnt	putrescent
+peutred	putrid
 pute	putty
-pus(l	puzzle
-!	pygmy
-!	pyorrhea
+puzl	puzzle
+pgme	pygmy
+pira&'	pyorrhea
 pe~med	pyramid
-!	pyramidal
-!	pyre
-pir^o-e	pyrography
-!	pyrometer
+pe~medl	pyramidal
+pir	pyre
+pir^oe	pyrography
+piromete~	pyrometer
 pirotek	pyrotechnics
-
