@@ -1,408 +1,408 @@
-# Page 181 Column 1
+# Page 181 Column 1	
 rabi	rabbi
 rabt	rabbit
 rab	rabble
 rabd	rabid
-!	rabies
-!	raccoon
+rabes	rabies
+rakun	raccoon
 ras	race
-!	raced
+rast	raced
 raser	racer
-!	racial
-!	racially
-!	racily
-!	raciness
-rakt	racket
-!	raconteur
+rashl	racial
+rasha|	racially
+rase|	racily
+rase-nes	raciness
+raket	racket
+rakte~	raconteur
 rada&'t	radiate
 radens	radiance
-!	radiancy
-rad-nt	radiant
-!	radiated
+radnse	radiancy
+radnt	radiant
+rada&'td	radiated
 rada&'sh	radiation
 rada&'te~	radiator
 rad^k	radical
 eradek	eradicate
-
-# Page 181 Column 2
+	
+# Page 181 Column 2	
 rad^ksm	radicalism
-!	radically
+rad^ke	radically
 radeo	radio
-!	radioactive
-!	radiogram
-!	radiophone
-!	radiotelegraphy
-!	radiotelephone
+radakv	radioactive
+radeo^g	radiogram
+radeofn	radiophone
+radoel^e|	radiotelegraphy
+radeolfn	radiotelephone
 radsh	radish
 radm	radium
 radus	radius
-!	radial
-!	radially
-!	radii
-!	radiuses
+radl	radial
+rada|	radially
+radi	radii
+raduss	radiuses
 rafl	raffle
 raft	raft
-!	ragamuffin
-!	raglan
-!	ragout
+ragmufn	ragamuffin
+raglan	raglan
+ragu	ragout
 rad	raid
 ral	rail
-!	railhead
+ral'ed	railhead
 ralre	raillery
 rr	railroad
-
-# Page 181 Column 3
+	
+# Page 181 Column 3	
 rl	railway
-ramn-t	raiment
+ramnt	raiment
 ran	rain
 ranbo	rainbow
-!	raindrop
-rant	rained
-!	rainfall
-!	rainier
-!	rainiest
+ran-drp	raindrop
+rand	rained
+ranfo	rainfall
+raner	rainier
+rane^st	rainiest
 rasn	raisin
 ramb	ramble
-!	rambler
+ramb^r	rambler
 ramf	ramify
 ram^f	ramification
-!	ramp
+ramp	ramp
 rampj	rampage
 rampnt	rampant
 rampt	rampart
 ranch	ranch
-!	rancher
-!	ranchero
-ranchmn	ranchman
-!	rancho
+ranche~	rancher
+ranchero	ranchero
+ranchman	ranchman
+rancho	rancho
 ransd	rancid
-!	rancidly
-
-# Page 182 Column 1
-rankr	rancor
-rankrus	rancorous
+ran-sede	rancidly
+	
+# Page 182 Column 1	
+ranke~	rancor
+rankerus	rancorous
 randm	random
 rank	rank
 rankl	rankle
 ran-sak	ransack
 ran-sm	ransom
-rap^s)	rapacity
+rap^s	rapacity
 rapash	rapacious
 rapd	rapid
 rapdte	rapidity
 rapde	rapidly
 raper	rapier
-!	rapport
+rapot	rapport
 raptr	rapture
 raptrus	rapturous
 rar	rare
-!	rarefaction
-raref	rarefy
+rarfaksh	rarefaction
+rarf	rarefy
 rare	rarely
-rarn	rareness
-!	rarer
-!	rarest
+rarnes	rareness
+rarr	rarer
+rares	rarest
 r^r	rarity
 raskl	rascal
-
-# Page 182 Column 2
+	
+# Page 182 Column 2	
 rask^l	rascality
-!	rascally
+raska|	rascally
 rash	rash
-!	rasher
-!	rashest
-!	rashly
-rashn	rashness
-!	raspberry
+rashe~	rasher
+rashes	rashest
+rashe	rashly
+rashnes	rashness
+rasbere	raspberry
 rat	rate
-rat-d	rated
+ratd	rated
 rath	rather
 radf	ratify
 rat^f	ratification
 rasho	ratio
-!	ratiocination
+rasho-sensh	ratiocination
 rash	ration
 rashl	rational
 erashl	irrational
 rashlsm	rationalism
-!	rationalist
-!	rationalistic
-!	rationalization
-rashlis	rationalize
-rashle	rationally
+rashles	rationalist
+rashl^st	rationalistic
+rashlezash	rationalization
+rashliz	rationalize
+rasha|	rationally
 ratn	rattan
-
-# Page 182 Column 3
+	
+# Page 182 Column 3	
 ratl	rattle
-!	rattler
-!	rattlesnake
-!	rattly
+ratlr	rattler
+ratl-snak	rattlesnake
+rate	rattly
 rokus	raucous
 ravj	ravage
 ravl	ravel
 ravn	raven
 ravnus	ravenous
 raven	ravine
-ravesh	ravish
+ravsh	ravish
 ro	raw
-!	rawboned
-!	rawhide
-!	rawness
+robond	rawboned
+roi'd	rawhide
+rones	rawness
 ra	ray
-!	rayless
+ral	rayless
 ra&'k	react
 ra&'ksh	reaction
 ra&'kshre	reactionary
 renak	reenact
 red	read
-rd^b	readability
-rdb	readable
-re~de~	reader
-
-# Page 183 Column 1
-!	readjust
-!	readjustment
-!	readmission
+red^b	readability
+redb	readable
+rede~	reader
+	
+# Page 183 Column 1	
+ra&'jus	readjust
+ra&'jusm	readjustment
+ra&'msh	readmission
 rede	ready
 reda|	readily
-reden	readiness
-!	reaffirm
-!	reagent
+redenes	readiness
+ra&'fem	reaffirm
+ra&'gnt	reagent
 re	real
 re^sm	realism
 re^st	realist
 re^st	realistic
 re^l	reality
-!	realizable
-relisash	realization
-relis	realize
-re|	really
+relizb	realizable
+relezash	realization
+reliz	realize
+ree	really
 relte	realty
-!	unreal
+nre	unreal
 ra&'nemat	reanimate
 ra&'pr	reappear
-!	reappearance
+ra&'prns	reappearance
 roe	reappoint
-!	reargue
+ra&'geu	reargue
 ra&'ra	rearrange
-
-# Page 183 Column 2
-rs(n	reason
-rs(nb	reasonable
-rs(n-d	reasoned
-nrs	unreasonable
-!	reassemble
-!	reassert
-!	reassume
+	
+# Page 183 Column 2	
+r-sn	reason
+r-snb	reasonable
+r-snd	reasoned
+nr-snb	unreasonable
+ra&'-sem	reassemble
+ra&'se~t	reassert
+ra&'-sm	reassume
 ra&'shu	reassure
 rbat	rebate
 rbel	rebel
 rbeln	rebellion
 rbelus	rebellious
-!	rebind
-rbe~th	rebirth
-!	reborn
+rbind	rebind
+rberth	rebirth
+rbon	reborn
 rbn	rebound
 rbuf	rebuff
 rbld	rebuild
 rbus	rebus
 rbt	rebut
 rbtl	rebuttal
-!	rebutter
-!	recalcitrant
+rbte~	rebutter
+rekal	recalcitrant
 reko	recall
-rekant	recant
-
-# Page 183 Column 3
-rekap^u	recapitulate
+rekt	recant
+	
+# Page 183 Column 3	
+rekapt^u	recapitulate
 rekaptr	recapture
-rekas	recast
+rekast	recast
 r-sed	recede
-rsesh	recession
+r-sesh	recession
 rese	receipt
-rs(ev	receive
+rse	receive
 rse^b	receivability
 rseb	receivable
 rser	receiver
 rsersh	receivership
-rs(es	receives
-rs	recent
+rses	receives
+rs)	recent
 rsepsh	reception
 rsep^k	receptacle
 rseptv	receptive
-rsep^v	receptivity
-rsp-nt	recipient
+rseptvte	receptivity
+rsepent	recipient
 rss	recess
-rsesh	recession
-rseshl	recessional
-!	recessive
+r-sesh	recession
+r-seshl	recessional
+rssv	recessive
 rchj	recharge
 rchjd	recharged
 resepe	recipe
-
-# Page 184 Column 1
+	
+# Page 184 Column 1	
 rsepr	reciprocate
-rsep^k	reciprocal
-!	reciprocation
-!	reciprocative
-!	reciprocator
-rsepr^s)	reciprocity
+rseprl	reciprocal
+rseprsh	reciprocation
+rseprv	reciprocative
+rseprr	reciprocator
+rsepr^s	reciprocity
 r-sit	recite
-rs(itl	recital
-restsh	recitation
-restatv	recitative
-!	recited
-!	reck
+r-sitl	recital
+r-setsh	recitation
+r-setatv	recitative
+r-sitd	recited
+rek	reck
 rekl	reckless
 rekn	reckon
-!	reckoned
-!	reckoner
+reknd	reckoned
+rekne~	reckoner
 re^m	reclaim
 ere^mb	irreclaimable
 re^mb	reclaimable
-re^m-d	reclaimed
+re^md	reclaimed
 re^msh	reclamation
 re^n	recline
 re^nsh	reclination
 re^nd	reclined
-re^s)	recluse
-
-# Page 184 Column 2
-rknis	recognize
+re^s	recluse
+	
+# Page 184 Column 2	
+rkniz	recognize
 rknsh	recognition
 rknizb	recognizable
-!	recognizance
-!	unrecognized
-rkoel	recoil
-rkoel-d	recoiled
+rknezns	recognizance
+nrknizd	unrecognized
+rekoel	recoil
+rekoeld	recoiled
 rekol	recollect
 rekolsh	recollection
-!	recommence
-rek	recommend
+rkmns	recommence
+rkmn	recommend
 rkmnsh	recommendation
-!	recommendatory
-reke	recommit
-reked	recommitted
+rkmn^re	recommendatory
+rkmet	recommit
+rkmetd	recommitted
 rksil	reconcile
 erksilb	irreconcilable
-!	reconcilability
+rksil^b	reconcilability
 rksilb	reconcilable
-!	reconcilement
+rksilm	reconcilement
 rksela&'sh	reconciliation
-!	reconciliatory
+rksela&'tre	reconciliatory
 rkdi	recondite
-!	reconnaissance
+rknasns	reconnaissance
 rknoe	reconnoiter
-
-# Page 184 Column 3
-!	reconquer
+	
+# Page 184 Column 3	
+rkkr	reconquer
 reks	reconsider
-reks(^k	reconstruct
-reks(^ksh	reconstruction
-reks(^kv	reconstructive
+rks(^k	reconstruct
+rks(^ksh	reconstruction
+rks(^kv	reconstructive
 rkd	record
-rktd	recorded
+rkdd	recorded
 rkde~	recorder
 reknt	recount
-!	recounted
+rekntd	recounted
 rekup	recoup
-!	recoupment
+rekupm	recoupment
 rekrs	recourse
 rekv	recover
-!	irrecoverable
-rekvb	recoverable
+erekv^b	irrecoverable
+rekv^b	recoverable
 rekve	recovery
 rekra&'nt	recreant
 rekra&'sh	recreation
-rekremn	recriminate
-!	recrimination
-!	recriminative
-!	recriminatory
-!	recrudescence
+rekremnat	recriminate
+rekremnsh	recrimination
+rekremnatv	recriminative
+rekremnatre	recriminatory
+rekrudesns	recrudescence
 rekrut	recruit
-
-# Page 185 Column 1
-!	recruited
-!	recrystallize
+	
+# Page 185 Column 1	
+rekrutd	recruited
+rekrestliz	recrystallize
 rektang	rectangle
-rektang	rectangular
+rektangu	rectangular
 rekdf	rectify
 rekt^f	rectification
-rekdf^r	rectifier
-rektelena&'~	rectilinear
+rekdfr	rectifier
+rektlena&'~	rectilinear
 rektet	rectitude
-rektr	rector
+rekte~	rector
 rektre	rectory
-rekmb	recumbent
-!	recumbency
+rekmbent	recumbent
+rekmbnse	recumbency
 rekeup	recuperate
 rekeupsh	recuperation
-!	recuperative
-!	recuperatory
+rekeup^v	recuperative
+rekeup^re	recuperatory
 rekr	recur
-!	recurrence
-rkrent	recurrent
-!	recusant
+rekrens	recurrence
+rekrent	recurrent
+rekeusnt	recusant
 red	red
 redn	redden
-!	reddened
-!	reddish
-
-# Page 185 Column 2
-red-n	redness
-rtm	redeem
-!	irredeemable
-rtmr	redeemer
-rtmsh	redemption
-!	redemptory
-!	unredeemed
+rednd	reddened
+redsh	reddish
+	
+# Page 185 Column 2	
+red-nes	redness
+redm	redeem
+eredmb	irredeemable
+redmr	redeemer
+redmsh	redemption
+redmtre	redemptory
+nredmd	unredeemed
 redrk	redirect
 reds^b	redistribute
-redolent	redolent
-!	redolence
+redol	redolent
+redol	redolence
 redub	redouble
 redau	redoubt
 redau	redoubtable
 red-nd	redound
 redus	reduce
-redusd	reduced
+redust	reduced
 redusr	reducer
-redus-s	reduces
+reduss	reduces
 redusb	reducible
 reduksh	reduction
-red-nd	redundant
-!	redundance
-red-ndse	redundancy
-!	reecho
-
-# Page 185 Column 3
+redndn	redundant
+redndns	redundance
+redndnse	redundancy
+re^eko	reecho
+	
+# Page 185 Column 3	
 relek	reelect
-relsh	reelection
-!	reembark
+releksh	reelection
+rmbark	reembark
 renak	reenact
-!	reenacted
-!	reenforce
-!	reenforcement
-!	reengage
-!	reengrave
-!	reenlist
-!	reenlistment
+renakt	reenacted
+rnfs	reenforce
+rnfsm	reenforcement
+rnga	reengage
+rngrav	reengrave
+rnls	reenlist
+rnlsm	reenlistment
 rn^	reenter
-!	reexamine
-!	reexamination
-!	reexport
+res)amn	reexamine
+res)amnsh	reexamination
+respot	reexport
 rf	refer
-rf^b	referable
+rfb	referable
 rfe	referee
 rf	reference
 rfndm	referendum
 rfin	refine
-rfin-d	refined
+rfind	refined
 rfinm	refinement
 rfine~	refiner
 rfine~e	refinery
-
-# Page 186 Column 1
+	
+# Page 186 Column 1	
 rfl	reflect
 rflsh	reflection
 rflv	reflective
@@ -411,115 +411,115 @@ rflex	reflex
 rflexv	reflexive
 rfm	reform
 rfmsh	reformation
-!	reformative
-rfm^re	reformatory
-!	reformed
+rfmatv	reformative
+rfmatre	reformatory
+rfm^t	reformed
 rfme~	reformer
 rfrak	refract
 rfraksh	refraction
-!	refractive
-!	refractivity
+rfakv	refractive
+rfrakvte	refractivity
 rfrakr	refractor
-!	refractory
+rfrakre	refractory
 rfran	refrain
-!	refrained
+rfrand	refrained
 rfresh	refresh
 rfreshm	refreshment
 rfrej	refrigerate
 rfrej	refrigeration
-!	refrigerative
-
-# Page 186 Column 2
+rfrej^v	refrigerative
+	
+# Page 186 Column 2	
 rfrej^r	refrigerator
 rfeuj	refuge
 rfeuje	refugee
-rfljnt	refulgent
-rfnt	refund
-!	refunded
-!	refurnish
+rfuljnt	refulgent
+rfnd	refund
+rfndd	refunded
+rfnsh	refurnish
 rfeu	refuse
 rfeul	refusal
-rfeud	refused
+rfeu^t	refused
 rfeus	refuses
 rfeut	refute
 rfeutsh	refutation
 regan	regain
-!	regained
+regand	regained
 regl	regal
-!	regally
+rega|	regally
 regal	regale
 regala&'	regalia
-rg	regard
+re	regard
 dsre	disregard
 re^f	regardful
 re^les	regardless
-rgs	regards
-!	unregarded
-
-# Page 186 Column 3
+re-s	regards
+nre^t	unregarded
+	
+# Page 186 Column 3	
 regata	regatta
-re~jenrat	regenerate
-!	regeneracy
-re~jenratsh	regeneration
-!	regenerative
-!	regenerator
-!	unregenerate
+rjenra	regenerate
+rjenrse	regeneracy
+rjenrash	regeneration
+rjenra^v	regenerative
+rjenra^r	regenerator
+nrjenra	unregenerate
 rjnt	regent
-!	regicide
+rejsi	regicide
 rejemn	regimen
 rejm	regiment
-!	regimental
-rjn	region
-rjnl	regional
-re~j	register
-re~jd	registered
+rej^m	regimental
+rejn	region
+rejnl	regional
+rejeste~	register
+rejeste~d	registered
 rejestrar	registrar
-re~jsh	registration
-re~jre	registry
-!	regnant
+rejestrash	registration
+rejstre	registry
+regnant	regnant
 reg	regret
 reg^f	regretful
-reg^b	regrettable
+regb	regrettable
 reg	regular
 ereg	irregular
-
-# Page 187 Column 1
-reg^u	regularity
+	
+# Page 187 Column 1	
+reg^r	regularity
 reg^u	regulate
-!	regulatory
-!	regurgitate
-!	regurgitation
-re'belta	rehabilitate
-re'beltsh	rehabilitation
-re'rs	rehearse
-re'rsl	rehearsal
+reg^ure	regulatory
+regrjta	regurgitate
+regrjtsh	regurgitation
+r'abeleta	rehabilitate
+r'abeletsh	rehabilitation
+r'ers	rehearse
+r'ersal	rehearsal
 rmbrs	reimburse
 rmbrsm	reimbursement
-!	reimport
-!	reimportation
+rmpot	reimport
+rmpotsh	reimportation
 rn-krnsh	reincarnation
-!	reindeer
+ran-de~	reindeer
 rnst	reinstate
-!	reinsure
-!	reinvigorate
-!	reissue
+rnsh	reinsure
+rnvegra	reinvigorate
+reshu	reissue
 retra	reiterate
 retrash	reiteration
 rjk	reject
-!	dejected
+djkt	dejected
 ejk	eject
 rjksh	rejection
-
-# Page 187 Column 2
+	
+# Page 187 Column 2	
 rjoes	rejoice
-rjoesd	rejoiced
-rjoes-s	rejoices
+rjoest	rejoiced
+rjoess	rejoices
 rjoen	rejoin
 rjoendr	rejoinder
-rjuv	rejuvenate
-!	rejuvenation
-!	rejuvenescence
-!	rekindle
+rjuvnat	rejuvenate
+rjuvnsh	rejuvenation
+rjuvnesns	rejuvenescence
+rekendl	rekindle
 relaps	relapse
 rela	relate
 rela^t	related
@@ -527,101 +527,101 @@ relash	relation
 relashl	relational
 relash^sh	relationship
 rel	relative
-rel^vte	relativity
-rlaks	relax
-relaxsh	relaxation
-rlaksd	relaxed
-rlaks-s	relaxes
+rela^vte	relativity
+relax	relax
+relaxash	relaxation
+relast	relaxed
+relaxs	relaxes
 reles	release
 releg	relegate
 relegsh	relegation
 relent	relent
-
-# Page 187 Column 3
+	
+# Page 187 Column 3	
 relentl	relentless
 relvnt	relevant
-erel	irrelevant
+erelvnt	irrelevant
 relvns	relevance
-!	relevancy
+relvnse	relevancy
 relib	reliable
 reli^b	reliability
 relins	reliance
-s^relint^	self-reliant
+s(^relint	self-reliant
 nrelib	unreliable
 relef	relief
 relevb	relievable
 relejn	religion
-!	irreligious
+erelejus	irreligious
 relejus	religious
-releng	relinquish
-!	relinquishment
-relesh	relish
+relenk	relinquish
+relenkm	relinquishment
+relsh	relish
 reluk	reluctant
 reluk	reluctance
 remn	remain
-re~mne~	remainder
-remnt	remained
+remne~	remainder
+remn^t	remained
 reman	remand
 rm	remark
-
-# Page 188 Column 1
+	
+# Page 188 Column 1	
 rmb	remarkable
-!	remarry
-remte	remedy
-eremtb	irremediable
-!	remediable
-remedl	remedial
+remare	remarry
+remde	remedy
+eremdb	irremediable
+remdb	remediable
+remdl	remedial
 remn	remember
-!	remembrancee
+remm-ns	remembrancee
 remin	remind
-reminr	reminder
+remin^r	reminder
 reminf	remindful
-remnes	reminiscent
-remnes	reminiscence
-!	remiss
-!	remission
+remnesnt	reminiscent
+remnesns	reminiscence
+remes	remiss
+remsh	remission
 rem	remit
-!	remittal
+rem^l	remittal
 rem	remittance
-!	remittent
-!	remitter
+rem^nt	remittent
+rem^r	remitter
 rem-n	remnant
-!	remonstrate
+remons	remonstrate
 remons	remonstrance
-!	remonstrant
-!	remonstrates
-
-# Page 188 Column 2
-!	remonstration
-!	remonstrative
+remons^nt	remonstrant
+remons-s	remonstrates
+	
+# Page 188 Column 2	
+remonssh	remonstration
+remons^v	remonstrative
 remos	remorse
-!	remorseful
+remosf	remorseful
 remosl	remorseless
 remot	remote
-!	remoteness
+remot-nes	remoteness
 remnt	remount
 remu	remove
-!	irremovable
-remub	removable
+eremu^b	irremovable
+remu^b	removable
 remul	removal
-remeun	remunerate
-remeunsh	remuneration
-remeun^v	remunerative
+remun	remunerate
+remunsh	remuneration
+remun^v	remunerative
 rensans	renaissance
-rent	render
+rend	render
 rendsh	rendition
 renegad	renegade
 renu	renew
 renu^b	renewable
 renul	renewal
-!	renominate
+renomnat	renominate
 renns	renounce
-renunsash	renunciation
-
-# Page 188 Column 3
-renuns^re	renunciatory
+renunsa&'sh	renunciation
+	
+# Page 188 Column 3	
+renunstre	renunciatory
 renovat	renovate
-!	renovated
+renovatd	renovated
 renovash	renovation
 ren-n	renown
 ren-nd	renowned
@@ -632,55 +632,55 @@ ropn	reopen
 rod	reorder
 rog	reorganize
 rpar	repair
-ereprb	irreparable
-rpard	repaired
+ereparb	irreparable
+rpa~d	repaired
 rparb	reparable
 rparash	reparation
-!	reparative
+rparatv	reparative
 rpa~te	repartee
 rpas	repast
-!	repatriate
+rptra&'t	repatriate
 rpa	repay
-!	repaid
+rpd	repaid
 rpam	repayment
 rpel	repeal
-
-# Page 189 Column 1
-!	repealed
+	
+# Page 189 Column 1	
+rpeld	repealed
 rpe	repeat
-rpede	repeatedly
-!	repeater
+rpe^te	repeatedly
+rpe^r	repeater
 rptsh	repetition
 rpl	repel
-!	repelled
-!	repellence
+rpld	repelled
+rplens	repellence
 rplent	repellent
 rpls	repulse
-rejnt	repent
-rejntns	repentance
-rpnt-nt	repentant
-rejntd	repented
-!	repercussion
-!	repercussive
+repnt	repent
+repntns	repentance
+rpntnt	repentant
+repntd	repented
+rprkush	repercussion
+rprkusv	repercussive
 rpe~ta~_	repertoire
-rpe~tre	repertory
+repe~tre	repertory
 rptsh	repetition
-!	repetitious
+rptesh	repetitious
 rpin	repine
-!	repined
+rpind	repined
 rplas	replace
-rplasd	replaced
+rplast	replaced
 rplasm	replacement
-
-# Page 189 Column 2
-!	replant
-!	replanted
+	
+# Page 189 Column 2	
+rplant	replant
+rplantd	replanted
 rplensh	replenish
-!	replenishment
-rple	replete
+rplenshm	replenishment
+rplet	replete
 rplesh	repletion
-rplev	replevin
-replka	replica
+rplevn	replevin
+repleka	replica
 rep	reply
 rpr	report
 rprr	reporter
@@ -688,58 +688,58 @@ rpo	repose
 rpof	reposeful
 rpos	reposes
 rpo^re	repository
-!	repossess
+rposs	repossess
 rprend	reprehend
-!	reprehensibility
-rprens	reprehensible
+rprens^b	reprehensibility
+rprensb	reprehensible
 rprensh	reprehension
 rprensv	reprehensive
 rp	represent
 msrp	misrepresent
 rpsh	representation
-rpdf	representative
-
-# Page 189 Column 3
-!	unrepresented
+rptv	representative
+	
+# Page 189 Column 3	
+nrp^t	unrepresented
 rpres	repress
-erpres	irrepressible
+erpresb	irrepressible
 rpresh	repression
-!	repressive
+rpresv	repressive
 rprev	reprieve
-rpremn	reprimand
+rpreman	reprimand
 rprent	reprint
 rprisal	reprisal
 rprch	reproach
 erprchb	irreproachable
 rprchf	reproachful
 rprbat	reprobate
-!	reprobation
+rprbash	reprobation
 rprodus	reproduce
-rprodusd	reproduced
-!	reproducer
+rprodust	reproduced
+rprodusr	reproducer
 rproduss	reproduces
 rproduksh	reproduction
 rprodukv	reproductive
 rprv	reprove
-!	reproof
+rprf	reproof
 reptl	reptile
-!	reptilian
-rp	republic
-
-# Page 190 Column 1
+reptla&'n	reptilian
+rpb	republic
+	
+# Page 190 Column 1	
 rpbn	republican
-!	republicanism
+rpbn-sm	republicanism
 rpb	republish
 rpeuda&'t	repudiate
-rpeuda&'t-d	repudiated
+rpeuda&'td	repudiated
 rpeuda&'sh	repudiation
-rpg	repugnant
+rpgn	repugnant
 rpgns	repugnance
 rpls	repulse
-!	repulsed
+rplst	repulsed
 rplsh	repulsion
 rplsv	repulsive
-!	repurchase
+rprch	repurchase
 rpu	repute
 dsrpu	disrepute
 rpub	reputable
@@ -751,494 +751,494 @@ rkim	requirement
 rkis	requires
 rkest	requisite
 rkessh	requisition
-rekit	requite
-
-# Page 190 Column 2
-rekitl	requital
-!	reredos
-!	resale
-!	resold
+reki_t	requite
+	
+# Page 190 Column 2	
+reki_tl	requital
+re~dos	reredos
+rsal	resale
+r-sold	resold
 r-send	rescind
-!	rescript
+r-skr	rescript
 reskeu	rescue
-!	rescued
+reskeud	rescued
 reskeur	rescuer
 rsech	research
-r-sem	resemble
-r-semblans	resemblance
+rsem	resemble
+r-sem-ns	resemblance
 r-sent	resent
-!	resented
+r-sentd	resented
 r-sentf	resentful
 r-sent-m	resentment
-rs(ev	reserve
-rs(evsh	reservation
-rs(evd	reserved
+r-sev	reserve
+r-sevash	reservation
+r-sevd	reserved
 r-sevo_r	reservoir
-!	reship
+re^sh	reship
 rsi	reside
-res(etns	residence
-!	residency
-rs(etn	resident
-
-# Page 190 Column 3
-resdnsh	residential
-resdu	residue
-!	residual
-!	residuary
+rs)edns	residence
+rs)ednse	residency
+rs)edn	resident
+	
+# Page 190 Column 3	
+res)dnsh	residential
+res)du	residue
+r-sedl	residual
+r-sedure	residuary
 r-sedum	residuum
-rs(in	resign
-rs(eg	resignation
-rs(in-d	resigned
-rs(in-de	resignedly
-rselent	resilient
-rselens	resilience
-rselense	resiliency
-!	resin
+r-sin	resign
+r-seg	resignation
+r-sind	resigned
+r-sinde	resignedly
+r-selent	resilient
+r-selens	resilience
+r-selense	resiliency
+resn	resin
 rss	resist
-erssb	irresistible
-rss(ns	resistance
-!	resistant
-!	resistibility
-!	resistible
-!	resistivity
+erss^b	irresistible
+rssns	resistance
+rss^nt	resistant
+rss^b	resistibility
+rss^b	resistible
+rssvte	resistivity
 rssl	resistless
 rsolv	resolve
-eresolut	irresolute
-!	resoluble
-rs(olut	resolute
-
-# Page 191 Column 1
-rs(olsh	resolution
-!	resolvable
-rs(olvd	resolved
-!	resolvent
-resnant	resonant
-resnans	resonance
-!	resonator
+ersolut	irresolute
+rsolb	resoluble
+rsolut	resolute
+	
+# Page 191 Column 1	
+rsolsh	resolution
+rsolvb	resolvable
+rsolvd	resolved
+rsolvnt	resolvent
+rs)nant	resonant
+rs)nans	resonance
+rs)nate~	resonator
 rsot	resort
-!	resorted
-rsnd	resound
-!	resounded
-rs(os(	resource
-rs(os(f	resourceful
+rsotd	resorted
+r-snd	resound
+r-sndd	resounded
+rsos	resource
+rsosf	resourceful
 res	respect
 dsres	disrespect
 eres^v	irrespective
 res^b	respectability
 resb	respectable
 res^r	respecter
-!	respectful-ly
+res	respectful
+res	respectfully
 res^v	respective
-!	respects
+res-s	respects
 rspi	respire
-!	respirable
+rsprb	respirable
 resprash	respiration
-
-# Page 191 Column 2
-!	respirator
-!	respiratory
+	
+# Page 191 Column 2	
+rsprate~	respirator
+rspratore	respiratory
 respt	respite
 rsplend	resplendent
-!	resplendence
-!	resplendency
-rsjnt	respond
-rsjnt^nt	respondent
+rsplend	resplendence
+rsplend	resplendency
+rspnd	respond
+rspndnt	respondent
 rsp	response
-erp^b	irresponsibility
+ersp^b	irresponsibility
 ersp	irresponsible
 rsp	responsible
 rsp^v	responsive
-!	rest
-!	rested
-resf	restful
+res	rest
+res^t	rested
+res^f	restful
 resl	restless
-!	rests
-!	restate
-res(trant	restaurant
+res(s	rests
+rst	restate
+restrant	restaurant
 restetsh	restitution
-rstor	restore
+r-stor	restore
 rstorash	restoration
-rstoradf	restorative
+rstoratv	restorative
 rs^n	restrain
-
-# Page 191 Column 3
-!	restrained
+	
+# Page 191 Column 3	
+rs^nd	restrained
 rs^nt	restraint
-!	unrestrained
-rs^k^	restrict
-rs^ksh^	restriction
-rs^kv^	restrictive
-!	unrestricted
-rs(u	result
-rs(unt	resultant
-rs(us(	results
-rs(m	resume
-rs(mb	resumable
-rs(msh	resumption
-!	résumé
-!	resurgent
-!	resurgence
-rsrk	resurrect
-rsrkd	resurrected
-rsrksh	resurrection
+nrs^nd	unrestrained
+rs^k	restrict
+rs^ksh	restriction
+rs^kv	restrictive
+nrs^kt	unrestricted
+rsu	result
+rsu^nt	resultant
+rsus	results
+r-sm	resume
+r-smb	resumable
+r-smsh	resumption
+r-sma	resume
+rsejnt	resurgent
+rsej	resurgence
+reserek	resurrect
+reserekt	resurrected
+resereksh	resurrection
 rssta	resuscitate
-!	resuscitation
+rsstsh	resuscitation
 retal	retail
-!	retailed
-!	retailer
+retald	retailed
+retalr	retailer
 retn	retain
-
-# Page 192 Column 1
+	
+# Page 192 Column 1	
 retnd	retained
 retnr	retainer
 rtnsh	retention
-retn-tv	retentive
-!	retentivity
+retntv	retentive
+retntvte	retentivity
 retal	retaliate
 retalsh	retaliation
-!	retaliative
-!	retaliatory
+retal^v	retaliative
+retal^re	retaliatory
 reta~d	retard
-!	retardation
-!	retell
-retes	reticent
-retes	reticence
-retekeu	reticule
+reta~dsh	retardation
+rete~	retell
+retesnt	reticent
+retesns	reticence
+retekl	reticule
 retna	retina
-!	retinal
-retneu	retinue
+retnl	retinal
+retnu	retinue
 reti~	retire
 reti~d	retired
 reti~m	retirement
-reti~s	retires
+reti~|	retires
 retot	retort
 retch	retouch
-!	retrace
-
-# Page 192 Column 2
-!	retraceable
+retras	retrace
+	
+# Page 192 Column 2	
+retrasb	retraceable
 r^k	retract
-!	retractile
+r^ktl	retractile
 r^ksh	retraction
-!	retractive
+r^kv	retractive
 r^kr	retractor
-r^t^	retreat
-r^t-d^	retreated
+r^t	retreat
+r^td	retreated
 r^nch	retrench
 r^nchm	retrenchment
-!	retrial
-bsh	retribution
-!	retributive
+retril	retrial
+r^bsh	retribution
+r^btv	retributive
 r^v	retrieve
 er^vb	irretrievable
-!	retrievable
+r^vb	retrievable
 r^vr	retriever
-!	retroactive
+r^akv	retroactive
 r^sesh	retrocession
 r^gra	retrograde
-r^gres	retrogression
-!	retrogressive
+r^gresh	retrogression
+r^gresv	retrogressive
 r^sp	retrospect
 r^spsh	retrospection
 r^sp^v	retrospective
-
-# Page 192 Column 3
+	
+# Page 192 Column 3	
 ret	return
 retb	returnable
 reun	reunion
-!	reunite
-!	revalue
+reuni	reunite
+rvl	revalue
 rvel	reveal
 rvelash	revelation
 revlre	revelry
 rvenj	revenge
-!	revenged
+rvenjd	revenged
 rvenjf	revengeful
 revnu	revenue
-rvrb	reverberate
-!	reverberant
-!	reverberation
-!	reverberative
-!	reverberator
-!	reverberatory
+rverbra	reverberate
+rverbrant	reverberant
+rverbrash	reverberation
+rverbra^v	reverberative
+rverbra^r	reverberator
+rverbra^re	reverberatory
 rver	revere
 erev	irreverent
-revns	reverence
+rev	reverence
 rev	reverend
-!	reverent
+rev	reverent
 revnsh	reverential
-!	reverently
-
-# Page 193 Column 1
-!	reverie
+reve	reverently
+	
+# Page 193 Column 1	
+revre	reverie
 rves	reverse
 rvesl	reversal
-rves-s	reverses
+rvess	reverses
 rvesb	reversible
-rve~sh	reversion
-!	reversionary
+rversh	reversion
+rvershre	reversionary
 rve~t	revert
 rve~tb	revertible
-!	revetment
-!	revictual
+rvet-m	revetment
+rvetl	revictual
 rveu	review
 rveud	reviewed
 rveur	reviewer
 rvil	revile
-!	reviled
-!	revilement
-rvis(	revise
-!	reviser
+rvild	reviled
+rvilm	revilement
+rvis	revise
+rvisr	reviser
 rvesh	revision
-rves(et	revisit
-!	revitalize
-vitlesh	vitalization
-!	revive
+rveset	revisit
+rvitliz	revitalize
+vitlezash	vitalization
+rvi	revive
 rvi^l	revival
-
-# Page 193 Column 2
-!	revivification
+	
+# Page 193 Column 2	
+rvev^f	revivification
 rvevf	revivify
-se~vi	survive
+sevi	survive
 rvk	revoke
 ervkb	irrevocable
 rvkb	revocable
-rvkz	revocation
+rvkash	revocation
 rvolt	revolt
 rvol	revolve
 rvolsh	revolution
 rvolshre	revolutionary
-!	revolutionist
-rvolshis	revolutionize
-rvolv	revolver
+rvolshes	revolutionist
+rvolshiz	revolutionize
+rvol^r	revolver
 rvlsh	revulsion
-!	revulsive
+rvlsv	revulsive
 re^d	reward
-re^d-d	rewarded
-rri	rewrite
-rapsde	rhapsody
-!	rhapsodic
-!	rhapsodist
+re^dd	rewarded
+reri	rewrite
+rapsode	rhapsody
+rapsodek	rhapsodic
+rapsodes	rhapsodist
 rapsdiz	rhapsodize
-!	rheostat
+reo-stat	rheostat
 retrk	rhetoric
-
-# Page 193 Column 3
-retor^k	rhetorical
+	
+# Page 193 Column 3	
+retr^k	rhetorical
 retresh	rhetorician
-rumats(m	rheumatism
+rumat-sm	rheumatism
 rum^a	rheumatic
-!	rheumatoid
+rumatoe	rheumatoid
 rinston	rhinestone
-!	rhinitis
+rini	rhinitis
 rinos	rhinoceros
-rbrb	rhubarb
+rbarb	rhubarb
 rethm	rhythm
-rethmk	rhythmic
+rethmek	rhythmic
 rethm^k	rhythmical
-!	ribald
-!	ribaldry
-!	ribband
+rebald	ribald
+rebaldre	ribaldry
+reband	ribband
 rebn	ribbon
 rech	rich
 nrech	enrich
-!	richer
+reche~	richer
 rechs	riches
-!	richest
-!	richly
-rechn	richness
+reches	richest
+reche	richly
+rechnes	richness
 rid	ride
-!	ridden
-
-# Page 194 Column 1
+redn	ridden
+	
+# Page 194 Column 1	
 ride~	rider
-!	riderless
+riderl	riderless
 redek	ridicule
 redek	ridiculous
-!	riffraff
+refraf	riffraff
 rifl	rifle
-!	rifled
-!	rifleman
+rifld	rifled
+riflman	rifleman
 ri	right
-!	right-angled
+ra&eng^t	right-angled
 richus	righteous
 richusnes	righteousness
 rif	rightful
-!	right-hand
+r'ind	right-hand
 ra&e	rightly
 rines	rightness
 rejd	rigid
 rejdte	rigidity
-!	rigidly
+rejde	rigidly
 regr	rigor
 regrus	rigorous
 reng	ring
-!	ringbolt
-!	ringbone
-!	ringed
-
-# Page 194 Column 2
-!	ringer
-!	ringleader
-renglet	ringlet
-!	ringmaster
+rengbolt	ringbolt
+rengbon	ringbone
+rengd	ringed
+	
+# Page 194 Column 2	
+renge~	ringer
+renglede~	ringleader
+rengle	ringlet
+rengmas	ringmaster
 ra&et	riot
-!	rioted
+ra&etd	rioted
 ra&etus	riotous
-reparn	riparian
+ripara&'n	riparian
 rip	ripe
 ripn	ripen
 ripnd	ripened
 ripnes	ripeness
-!	riper
-!	ripest
+ripr	riper
+ripes	ripest
 repl	ripple
-!	ripsaw
+repso	ripsaw
 ris	rise
-!	arises
+ariss	arises
 resn	risen
 resb	risible
 res^b	risibility
 res(k	risk
-!	rite
+ri	rite
 retl	ritual
-!	ritualistic
-
-# Page 194 Column 3
-!	ritually
+retl^st	ritualistic
+	
+# Page 194 Column 3	
+retle	ritually
 riv	rival
 rivre	rivalry
 rev	river
-!	riverside
-revet	rivet
-!	road
-!	roadbed
-!	roadstead
+revsi	riverside
+revt	rivet
+rod	road
+rodbd	roadbed
+rodstd	roadstead
 rodste~	roadster
 roda_	roadway
 rom	roam
-!	roamed
-!	roamer
+romd	roamed
+rome~	roamer
 rost	roast
-!	roaster
+roste~	roaster
 robn	robin
 robus	robust
-rodn-t	rodent
-!	rodman
+rodn	rodent
+rod-man	rodman
 rog	rogue
 rogre	roguery
-rogesh	roguish
-!	roguishly
-!	Roman
-
-# Page 195 Column 1
+rogsh	roguish
+rogshe	roguishly
+romn	Roman
+	
+# Page 195 Column 1	
 romns	romance
 romnt	romantic
-romntsm	romanticism
-!	rondeau
+romntss	romanticism
+rondo	rondeau
 rukre	rookery
 rm	room
-!	roomer
-!	roomful
-!	roommate
+rme~	roomer
+rmf	roomful
+rmat	roommate
 rme	roomy
 rosare	rosary
 rot	rot
 rotn	rotten
-!	rottenness
+rotn-nes	rottenness
 rota	rotate
 rotre	rotary
-rotash	rotation
-!	rotative
-!	rotator
-!	rotatory
-!	rotor
-!	rotund
+rotsh	rotation
+rota^v	rotative
+rota^r	rotator
+rota^re	rotatory
+rote~	rotor
+rot-nd	rotund
 rot-nda	rotunda
-!	rotundity
-rush,	rouge
-
-# Page 195 Column 2
+rot-ndete	rotundity
+rush	rouge
+	
+# Page 195 Column 2	
 ruf	rough
-!	roughcast
-!	roughdry
+rufkast	roughcast
+rufdri	roughdry
 rufn	roughen
-!	rougher
-!	roughest
-!	roughhew
-!	roughly
+rufr	rougher
+rufes	roughest
+ruf'eu	roughhew
+rufe	roughly
 rufnes	roughness
 rulet	roulette
-rnt	round
-!	roundhouse
+rnd	round
+rnd'us	roundhouse
 rnde	roundly
-rnd-n	roundness
-!	roundsman
-raot	rout
+rnd-nes	roundness
+rndsman	roundsman
+raut	rout
 rut	route
 rutd	routed
 ruten	routine
 roel	royal
-!	royalism
-!	royally
+roel-sm	royalism
+roele	royally
 roe^l	royalty
 rub	rub
 rubr	rubber
-
-# Page 195 Column 3
-!	rubberize
-!	rubbery
-rubesh	rubbish
+	
+# Page 195 Column 3	
+rubriz	rubberize
+rubre	rubbery
+rubsh	rubbish
 rbknd	rubicund
-!	ruble
-!	ruddy
-!	ruddily
-!	ruddiness
-!	rude
-!	rudely
-!	rudeness
-!	ruder
+rbl	ruble
+rude	ruddy
+rude|	ruddily
+rudenes	ruddiness
+rud	rude
+rude	rudely
+rud-nes	rudeness
+rude~	ruder
 rudem	rudiment
-!	rudimental
+rud^m	rudimental
 rudemre	rudimentary
 ruf	rueful
 rufa&'n	ruffian
 rufl	ruffle
-!	ruffled
+rufld	ruffled
 run	ruin
-!	ruination
-runt	ruined
+runsh	ruination
+rund	ruined
 runus	ruinous
 rl	rule
-rl-d	ruled
-
-# Page 196 Column 1
+rld	ruled
+	
+# Page 196 Column 1	
 rlr	ruler
 rmb	rumble
 rumnat	ruminate
-!	ruminant
+rumnant	ruminant
 rumnsh	rumination
-!	ruminative
+rumnatv	ruminative
 rmj	rummage
-rumr	rumor
-
-# Page 196 Column 2
-rmp	rumple
-!	rumpus
-rnr	runner
-!	rupture
+rume~	rumor
+	
+# Page 196 Column 2	
+rmpl	rumple
+rmpus	rumpus
+rne~	runner
+rptr	rupture
 rrl	rural
-!	ruralize
-!	rurally
+rrliz	ruralize
+rra|	rurally
 rsh	rush
-
-# Page 196 Column 3
-!	rushed
+	
+# Page 196 Column 3	
+rsht	rushed
 ruset	russet
-!	rust
+rust	rust
 r^st	rustic
-!	rusticate
-rust^s)	rusticity
-!	ruthenium
-ru'l	ruthless
-
+r^sta	rusticate
+rus^s	rusticity
+ruthenem	ruthenium
+ruth(l	ruthless
