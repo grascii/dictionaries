@@ -1,206 +1,206 @@
-# Page 226 Column 1
-!	tabard
-!	tabasco
-tabe~n	tabernacle
+# Page 226 Column 1	
+taba~d	tabard
+tabasko	tabasco
+tabe~n^k	tabernacle
 tab	table
 tablo	tableau
-!	tablecloth
-!	tablespoon
-tablet	tablet
-!	tableware
-!	tabloid
+tabkloth	tablecloth
+tabspun	tablespoon
+table	tablet
+taba_r	tableware
+tabloe	tabloid
 tabu	taboo
 tabret	taboret
 tab^u	tabulate
 tablr	tabular
-tablris	tabularize
-!	tachometer
+tablriz	tabularize
+takmete~	tachometer
 tast	tacit
-tasten	taciturn
-taste~^nt	taciturnity
+tastn	taciturn
+tastnte	taciturnity
 takl	tackle
 takt	tact
-!	tactful
+taktf	tactful
 taktl	tactile
 takt^l	tactility
-
-# Page 226 Column 2
+	
+# Page 226 Column 2	
 taktl	tactless
-takks	tactics
-takkl	tactical
-!	tactician
+takteks	tactics
+takt^k	tactical
+taktsh	tactician
 tafta	taffeta
 talr	tailor
 tant	taint
 tantd	tainted
-ta	take
-o^t	overtake
-!	takedown
+tak	take
+o^tak	overtake
+takd-n	takedown
 takn	taken
-!	take-off
+takof	take-off
 tuk	took
 u^tak	undertake
 talent	talent
-!	talented
-talesmn	talisman
+talentd	talented
+talesman	talisman
 tok	talk
 toktv	talkative
 tokr	talker
 tol	tall
-!	taller
-!	tallest
-!	tallness
-
-# Page 226 Column 3
-!	tamarack
-!	tamarind
+tolr	taller
+toles	tallest
+tolnes	tallness
+	
+# Page 226 Column 3	
+tmrak	tamarack
+tmrend	tamarind
 tmbren	tambourine
 tam	tame
-!	tamely
+tame	tamely
 tame~	tamer
-!	tamest
-!	untamed
+tames	tamest
+n-tamd	untamed
 tmpr	tamper
 tnje~	tanager
-tntm	tandem
+tndm	tandem
 tang	tang
 tnjnt	tangent
-!	tangential
+tnjnsh	tangential
 tnjeren	tangerine
 tnjb	tangible
 ntnjb	intangible
-!	tangibility
+ntj	tangibility
 tangl	tangle
-dsntang	disentangle
-ntang	entangle
+dsntangl	disentangle
+ntangl	entangle
 tank	tank
-!	tankage
-!	tankard
-!	tanker
-
-# Page 227 Column 1
+tankj	tankage
+tanka~d	tankard
+tanke~	tanker
+	
+# Page 227 Column 1	
 tane~	tanner
-!	tannery
+tane~e	tannery
 tanek	tannic
-tn-tliz	tantalize
-tn-tlezsh	tantalization
+tntliz	tantalize
+tntlezash	tantalization
 tntlm	tantalum
-tntmnt	tantamount
+tntamnt	tantamount
 tapr	taper
 tapes	tapestry
 tapka	tapioca
-!	tapir
-!	tappet
-!	tarantula
-!	tarantella
-!	tardy
-!	tardier
-!	tardiest
+tapr	tapir
+tapt	tappet
+tarntla	tarantula
+tarntela	tarantella
+ta~de	tardy
+ta~der	tardier
+ta~de^st	tardiest
 ta~de|	tardily
 target	target
 tarf	tariff
-!	tarlatan
+tarlatn	tarlatan
 tansh	tarnish
-!	untarnished
+n-tansht	untarnished
 tarpolen	tarpaulin
-!	tarpon
-
-# Page 227 Column 2
+tarpn	tarpon
+	
+# Page 227 Column 2	
 ta~t	tart
-!	tartan
+tatn	tartan
 ta~ta~	tartar
-!	tartaric
+ta~tark	tartaric
 tas(k	task
-tasel	tassel
-!	tasseled
-tas(t	taste
-!	tasted
-!	tasteful
+tasl	tassel
+tasld	tasseled
+tast	taste
+tastd	tasted
+tastf	tasteful
 tastl	tasteless
-!	taster
-!	tastily
-!	tastiness
+taste~	taster
+taste|	tastily
+tastenes	tastiness
 taste	tasty
-!	tatter
-!	tattered
-!	tatters
-!	tattle
+tate~	tatter
+tate~d	tattered
+tate~|	tatters
+tatl	tattle
 tatu	tattoo
-!	tattooed
+tatud	tattooed
 tont	taunt
-!	taunted
+tontd	taunted
 tot	taut
-!	tautness
-
-# Page 227 Column 3
-tot^o	tautology
+tot-nes	tautness
+	
+# Page 227 Column 3	
+tot^o(	tautology
 tave~n	tavern
 todre	tawdry
 tone	tawny
 tax	tax
 taxb	taxable
-taxsh	taxation
-!	taxed
+taxash	taxation
+taxt	taxed
 taxs	taxes
-!	taxi
+taxe	taxi
 taxkab	taxicab
-!	taximeter
+taxmete~	taximeter
 taxdeme	taxidermy
 taxdemes	taxidermist
 tech	teach
 tot	taught
-!	teachability
-tchb	teachable
-te~che~	teacher
+tech^b	teachability
+techb	teachable
+teche~	teacher
 tem	team
 temste~	teamster
 temrk	teamwork
 te~	tear
 terf	tearful
 terl	tearless
-
-# Page 228 Column 1
+	
+# Page 228 Column 1	
 te~|	tears
-te~	tear
+ta~	tear
 tor	tore
 torn	torn
 tes	tease
-!	teased
-tespn	teaspoon
-tespnf	teaspoonful
-!	technic
-tekn-k	technical
+tesd	teased
+tespun	teaspoon
+tespunf	teaspoonful
+teknek	technic
+tekn^k	technical
 tekn^l	technicality
 teknsh	technician
 teknek	technique
-tekn^o	technology
+tekn^o(	technology
 tedm	tedium
 tedus	tedious
-!	telautograph
+telot^o	telautograph
 tel^e	telegraph
 tel^g	telegram
 tel^er	telegrapher
 tel^ek	telegraphic
-!	telegraphical
+tel^ekl	telegraphical
 tel^e|	telegraphy
 telpthe	telepathy
-!	telepathic
-
-# Page 228 Column 2
-telf	telephone
-!	telephonic
-!	telephonically
-!	telephony
-telskp	telescope
-telskpk	telescopic
-!	telescopical
-te	tell
-!	telltale
-!	told
-!	tellurium
+telpthek	telepathic
+	
+# Page 228 Column 2	
+telfn	telephone
+telfnek	telephonic
+telfn^ke	telephonically
+telfne	telephony
+tel-skp	telescope
+tel-skpk	telescopic
+tel-skp^k	telescopical
+te~	tell
+te~tal	telltale
+to	told
+telrm	tellurium
 tmblr	temblor
 tm^r	temerity
-!	temerarious
+tmrar	temerarious
 tmpr	temper
 tmpram	temperament
 tmpr^m	temperamental
@@ -208,152 +208,152 @@ tmpr^me	temperamentally
 tmp	temperance
 ntmp	intemperance
 tmpra	temperate
-!	temperately
-!	temperateness
+tmprae	temperately
+tmpranes	temperateness
 tmpratr	temperature
 tmpes	tempest
-
-# Page 228 Column 3
-tmpestus	tempestuous
+	
+# Page 228 Column 3	
+tmpesuus	tempestuous
 tmpla	template
 tmpl	temple
-!	templed
-!	tempo
+tmpld	templed
+tmpo	tempo
 tmprl	temporal
 tmpr^l	temporality
 tmprre	temporary
 tmprre|	temporarily
-tmprisash	temporization
-tmpris	temporize
-tmpriser	temporizer
+tmprezash	temporization
+tmpriz	temporize
+tmprizer	temporizer
 tmt	tempt
 tmtsh	temptation
 tmtd	tempted
 tmte~	tempter
-!	temptress
+tmtres	temptress
 tnb	tenable
 ntnb	untenable
-tn^s)	tenacity
+tn^s	tenacity
 pe~tnash	pertinacious
-pe~tn^s)	pertinacity
+pe~tn^s	pertinacity
 tnash	tenacious
 tnnt	tenant
 tnanse	tenancy
-
-# Page 229 Column 1
-!	tenantable
-!	tenanted
+	
+# Page 229 Column 1	
+tnntb	tenantable
+tnntd	tenanted
 tnntl	tenantless
-!	tenantry
-!	untenanted
+tnntre	tenantry
+ntnntd	untenanted
 tnd	tend
-!	tended
+tndd	tended
 tntnse	tendency
 tnde~	tender
-!	tendered
-!	tenderer
-!	tenderest
-!	tenderfoot
-!	tenderloin
-tn-de~e	tenderly
-tn-de~^n	tenderness
-tntn	tendon
-!	tendril
+tnde~d	tendered
+tnde~^r	tenderer
+tnde~^st	tenderest
+tnderfut	tenderfoot
+tndeloen	tenderloin
+tnde~e	tenderly
+tndenes	tenderness
+tndn	tendon
+tndrel	tendril
 tnbrus	tenebrous
 tnem	tenement
 tnet	tenet
 tnes	tennis
-!	tenon
+tnon	tenon
 tnor	tenor
 tns	tense
-
-# Page 229 Column 2
-!	tenser
-!	tensest
+	
+# Page 229 Column 2	
+tnser	tenser
+tnses	tensest
 tnsel	tensile
 tnsh	tension
-!	tensional
+tnshl	tensional
 tn^s	tensity
-tn-t	tent
-tn-t^k	tentacle
-tntadf	tentative
+tnt	tent
+tnt^k	tentacle
+tntatv	tentative
 tneute	tenuity
-!	attenuated
+atneutd	attenuated
 tnuus	tenuous
-!	tepee
+tepe	tepee
 tepd	tepid
-!	tercentenary
+ter-sentnre	tercentenary
 tem	term
-!	termed
-!	terminable
+tem^t	termed
+temnb	terminable
 tmnl	terminal
-tmnle	terminally
+tmna|	terminally
 tmnat	terminate
-temnash	termination
-!	terminology
+temnsh	termination
+temn^o(	terminology
 temnus	terminus
 teras	terrace
-
-# Page 229 Column 3
-!	terra cotta
-!	terrain
-!	terrapin
+	
+# Page 229 Column 3	
+terakota	terra cotta
+teran	terrain
+terpn	terrapin
 terestrl	terrestrial
 terf	terrify
 terb	terrible
 terefk	terrific
-!	terrifically
-tet	territory
-tetl	territorial
-tet^l	territoriality
-!	territorialize
-tetle	territorially
+teref^ke	terrifically
+te~t	territory
+te~tl	territorial
+te~t^l	territoriality
+te~tliz	territorialize
+te~tle	territorially
 terr	terror
-!	terrorism
+terr-sm	terrorism
 terres	terrorist
-!	terroristic
-!	terrorization
+terr^st	terroristic
+terrezash	terrorization
 terriz	terrorize
-!	terrorizer
+terrizer	terrorizer
 ters	terse
-!	terseness
-!	terser
-!	tersest
+tersnes	terseness
+terser	terser
+terses	tersest
 tershre	tertiary
-
-# Page 230 Column 1
-!	tessellate
-!	tessellation
-test	test
-tesd	tested
-tesr	tester
+	
+# Page 230 Column 1	
+tesela	tessellate
+teselash	tessellation
+tes	test
+tes^t	tested
+tes^r	tester
 tes-s	tests
-!	untested
+n-tes^t	untested
 testam	testament
 testamre	testamentary
-!	testate
-testatr	testator
+testa	testate
+testa^r	testator
 tesdf	testify
-tes(tm	testimonial
-tes(tme	testimony
+testm	testimonial
+testme	testimony
 tetnus	tetanus
 teth	tether
-!	tetragon
-!	tetragonal
-!	tetralogy
+tetragn	tetragon
+tetrag	tetragonal
+tetr^o(	tetralogy
 tutnek	Teutonic
 tx	text
 txbk	textbook
-txl	textual
-txle	textually
+txtl	textual
+txtle	textually
 textl	textile
-
-# Page 230 Column 2
+	
+# Page 230 Column 2	
 textr	texture
-!	than
-!	thane
+thn	than
+than	thane
 th'	thank
-!	thanked
+th^t	thanked
 th^f	thankful
 th^l	thankless
 th^s(	thanks
@@ -362,169 +362,169 @@ tha	that
 thach	thatch
 tho	thaw
 thete~	theater
-!	theatric
+thetrk	theatric
 thetr^k	theatrical
-!	theatricals
-!	thee
-!	theirs
-!	theism
-athes(m	atheism
+thetr^ks	theatricals
+the	thee
+th)s	theirs
+thesm	theism
+athesm	atheism
 panthesm	pantheism
 thm	them
 thmss	themselves
 thn	then
 thens	thence
-
-# Page 230 Column 3
+	
+# Page 230 Column 3	
 thensfth	thenceforth
 thensfd	thenceforward
-thekrse	theocracy
-!	theodolite
-'e^o	theology
-'e^on	theologian
+thekse	theocracy
+thedli	theodolite
+the^o(	theology
+the^on	theologian
 there	theory
 therem	theorem
 ther^a	theoretic
 theres	theorist
 theriz	theorize
-!	theorizer
-thosfe	theosophy
-!	theosophic
-!	theosophical
-thosfes	theosophist
+therizer	theorizer
+tho-sfe	theosophy
+tho-sfk	theosophic
+tho-sf^k	theosophical
+tho-sfes	theosophist
 therpe	therapy
 therp^a	therapeutic
-!	therapeutical
+therp^a|	therapeutical
 th)	there
-!	thereabout
+th)ab	thereabout
 th)af	thereafter
 th)t	thereat
 th)b	thereby
 th)f	therefore
-
-# Page 231 Column 1
-!	therefrom
+	
+# Page 231 Column 1	
+th)fm	therefrom
 th)n	therein
-!	thereinto
-th)o	thereof
-th)on	thereon
+th)ntu	thereinto
+tho	thereof
+thon	thereon
 th)tu	thereto
-!	theretofore
-th)pn	thereupon
+th)tf	theretofore
+th)pon	thereupon
 th)eth	therewith
-!	therm
+th)em	therm
 th)eml	thermal
-!	thermion
-!	thermite
-th)e~mnete~	thermometer
-!	thermometric
-!	thermometrical
+th)emin	thermion
+th)emit	thermite
+th)emmete~	thermometer
+th)emmetrk	thermometric
+th)emmetr^k	thermometrical
 th)emostat	thermostat
-'esrus	thesaurus
+thesrus	thesaurus
 thes	these
-'ess	thesis
-'eses	theses
-!	thew
+thess	thesis
+theses	theses
+theu	thew
 the	they
 thek	thick
 thekn	thicken
-
-# Page 231 Column 2
-!	thickener
-!	thicker
+	
+# Page 231 Column 2	
+thekne~	thickener
+thekr	thicker
 theket	thicket
-!	thickly
+theke	thickly
 theknes	thickness
 thef	thief
 theft	theft
 thevre	thievery
-thevesh	thievish
+thevsh	thievish
 thi	thigh
 themb	thimble
 then	thin
-!	thinner
-thenn	thinness
-!	thinnest
+thene~	thinner
+then-nes	thinness
+thenes	thinnest
 th'	thing
 ne'	anything
 ev'	everything
 n'	nothing
-!	plaything
-s(m'	something
+plath'	plaything
+sm'	something
 th^s(	things
 th'	think
 th^b	thinkable
 th'r	thinker
-
-# Page 231 Column 3
-th^s	thinks
+	
+# Page 231 Column 3	
+th^s(	thinks
 nth^b	unthinkable
-thers	thirst
+therst	thirst
 therste|	thirstily
-!	thirstiness
-!	thirsty
+therstenes	thirstiness
+therste	thirsty
 ths	this
 thesl	thistle
 theth	thither
-!	thole
+thol	thole
 thong	thong
-!	thoracic
-!	thorium
+thorask	thoracic
+thorm	thorium
 thon	thorn
-'e	thorough
-th)e^b	thoroughbred
-th)e^f	thoroughfare
+th)e	thorough
+th)e^bred	thoroughbred
+th)e^far	thoroughfare
 th)e	thoroughly
-th)en	thoroughness
+th)enes	thoroughness
 ths(	those
 thau	thou
 tho	though
 thot	thought
 thotf	thoughtful
 thotl	thoughtless
-
-# Page 232 Column 1
+	
+# Page 232 Column 1	
 thau	thousand
-!	thousandfold
+thaufold	thousandfold
 thaus	thousands
-thau^th	thousandth
+thauth	thousandth
 throl	thrall
 thrash	thrash
 thred	thread
-!	threadbare
-!	threadworm
+thredbar	threadbare
+threduum	threadworm
 thret	threat
 thretn	threaten
-!	threatened
+thretnd	threatened
 th)e	three
-!	threnody
+threnode	threnody
 thrshold	threshold
-!	threw
+thru	threw
 thris	thrice
 threft	thrift
-spndthref	spendthrift
-!	thriftily
-threften	thriftiness
-!	thriftless
-!	thrifty
+spndthreft	spendthrift
+threfte|	thriftily
+threftenes	thriftiness
+threftl	thriftless
+threfte	thrifty
 threl	thrill
-thri	thrive
-
-# Page 232 Column 2
-thrid	thrived
-!	throve
+thriv	thrive
+	
+# Page 232 Column 2	
+thrivd	thrived
+throv	throve
 throt	throat
-!	throatiness
+throtenes	throatiness
 throb	throb
 thron	throne
 dthron	dethrone
-!	enthroned
+nth(rond	enthroned
 throng	throng
 throtl	throttle
 thru	through
-thraut	throughout
+thrut	throughout
 thro	throw
-!	threw
+thru	threw
 thron	thrown
 thrsh	thrush
 thrust	thrust
@@ -534,40 +534,40 @@ th)m	thumb
 th)mp	thump
 th)ndr	thunder
 th)ndrbolt	thunderbolt
-!	thunderous
-!	thundershower
-
-# Page 232 Column 3
+thndrus	thunderous
+thndrshaur	thundershower
+	
+# Page 232 Column 3	
 thus	thus
 tho_t	thwart
-!	thy
+thi	thy
 thin	thine
 this	thyself
 tim	thyme
 thiroe	thyroid
 ta&era	tiara
-!	Tibetan
+tebtn	Tibetan
 tid	tide
 tido_te~	tidewater
 tide	tidy
-!	tidier
-!	tidiest
-!	tidiness
-!	untidy
+tider	tidier
+tide^st	tidiest
+tidenes	tidiness
+n-tide	untidy
 tigr	tiger
 tit	tight
 a~tit	air-tight
 titn	tighten
-!	tightened
-!	tighter
-!	tightest
-!	tiled
-te	till
-
-# Page 233 Column 1
+titnd	tightened
+tite~	tighter
+tites	tightest
+tild	tiled
+te~	till
+	
+# Page 233 Column 1	
 nte	until
-!	tilt
-!	tilted
+telt	tilt
+teltd	tilted
 tmbr	timber
 tm	time
 tmone~^t	time-honored
@@ -576,63 +576,63 @@ tml	timeless
 tme	timely
 tmpes	timepiece
 tmr	timer
-tm-tb	time-table
+tmtab	time-table
 tmed	timid
-ntmetd	intimidate
-tmetde	timidity
-!	timidly
+ntmedt	intimidate
+tmedte	timidity
+tmede	timidly
 tmrus	timorous
 ten	tin
-!	tinware
+tena~_	tinware
 tenktr	tincture
-tndr	tinder
+tnde~	tinder
 tnj	tinge
 tengl	tingle
 tenke~	tinker
 tenkl	tinkle
-
-# Page 233 Column 2
+	
+# Page 233 Column 2	
 tnsel	tinsel
-tn-t	tint
-!	tinted
+tent	tint
+tentd	tinted
 tine	tiny
-!	tinier
-!	tiniest
+tiner	tinier
+tine^st	tiniest
 tira	tirade
 ti~	tire
 ti~d	tired
-!	tireless
+tirl	tireless
 tirsm	tiresome
 teshu	tissue
-!	titanium
+titnem	titanium
 tith	tithe
-!	titillate
-!	titivate
+tetla	titillate
+tetvat	titivate
 tit	title
-!	title-page
+tetpaj	title-page
 tetlr	titular
 tet-maus	titmouse
-!	titrate
-!	titration
+titra	titrate
+titrash	titration
 tod	toad
-!	toadstool
-!	toast
-
-# Page 233 Column 3
-!	toasted
-tosmas	toastmaster
-tbak	tobacco
-tobgn	toboggan
-!	toccata
+todstul	toadstool
+tost	toast
+	
+# Page 233 Column 3	
+tostd	toasted
+tost-mas	toastmaster
+tbako	tobacco
+tbgan	toboggan
+tokata	toccata
 toksen	tocsin
 tda	today
 toga	toga
 tug	together
 toel	toil
-!	toilful
-!	toilsome
+toelf	toilful
+toel-sm	toilsome
 tokn	token
-!	told
+to	told
 n-to	untold
 tolra	tolerate
 tolrb	tolerable
@@ -641,21 +641,21 @@ tolrant	tolerant
 tolrash	toleration
 tom'ok	tomahawk
 tmato	tomato
-!	tomb
+tum	tomb
 tumston	tombstone
 tmo	tomorrow
-
-# Page 234 Column 1
+	
+# Page 234 Column 1	
 t-n	ton
 t-nj	tonnage
 ton	tone
 mnoton	monotone
-!	tonal
-!	tonality
+tonl	tonal
+ton^l	tonality
 tng	tongue
 tni	tonight
 tnsel	tonsil
-tnsel^ts	tonsillitis
+tnseli	tonsillitis
 tnshu	tonsure
 tns(orl	tonsorial
 tontn	tontine
@@ -663,210 +663,210 @@ tul	tool
 tuth	tooth
 teth	teeth
 tuthak	toothache
-!	toothed
-!	toothless
+tutht	toothed
+tuth(l	toothless
 tuthpek	toothpick
-tuth)-sm	toothsome
+tuthsm	toothsome
 top	top
 topaz	topaz
 tpk	topic
 tp^k	topical
-
-# Page 234 Column 2
-top^oe	topography
+	
+# Page 234 Column 2	
+tp^oe	topography
 torch	torch
 tomnt	torment
-tomnt-d	tormented
-tomn-tr	tormentor
+tomntd	tormented
+tomnte~	tormentor
 tonado	tornado
 topdo	torpedo
-torpr	torpor
+topr	torpor
 topd	torpid
-!	torque
+tork	torque
 torent	torrent
-trensh	torrential
-!	torrentially
+torensh	torrential
+torensha|	torrentially
 tored	torrid
-!	torridity
-!	torsion
-torso	torso
+toredte	torridity
+tosh	torsion
+toso	torso
 tot	tort
 totus	tortoise
 totuus	tortuous
-!	tortuosity
+totu^s	tortuosity
 totr	torture
 tot	total
 tot^l	totality
-totezsh	totalization
-
-# Page 234 Column 3
-!	totalizer
+totlezash	totalization
+	
+# Page 234 Column 3	
+totlizer	totalizer
 tota|	totally
 totm	totem
 tote~	totter
 tch	touch
 tchb	touchable
-!	touchdown
-!	touchily
-!	touchiness
-!	touchstone
-n-tchd	untouched
+tchd-n	touchdown
+tche|	touchily
+tchenes	touchiness
+tchston	touchstone
+n-tcht	untouched
 tuf	tough
 tufn	toughen
-!	toughened
-!	tougher
+tufnd	toughened
+tufr	tougher
 tur	tour
 tures	tourist
-!	tourmaline
+turmalen	tourmaline
 tunam	tournament
-teneket	tourniquet
-!	tousle
+tuneket	tourniquet
+tausl	tousle
 tod	toward
 taul	towel
 taur	tower
 t-n	town
-
-# Page 235 Column 1
+	
+# Page 235 Column 1	
 t-n^sh	township
 toxk	toxic
-!	toxicity
-!	toxicology
+tox^s	toxicity
+toxk^o(	toxicology
 tras	trace
-!	retrace
+retras	retrace
 trasb	traceable
-trasd	traced
+trast	traced
 traser	tracer
-!	tracery
+trasere	tracery
 traka&'	trachea
-trakoma	trachoma
+trakma	trachoma
 trak	track
-!	trackage
-!	trackless
-!	trackman
-trakt	tract
-trktb	tractable
+trakj	trackage
+trakl	trackless
+trakman	trackman
+trak	tract
+trakb	tractable
 traksh	traction
-!	tractive
+trakv	tractive
 trakr	tractor
 tra	trade
-trad	traded
-!	trade-mark
-!	trader
-
-# Page 235 Column 2
-tradsmn	tradesman
+tra^t	traded
+tramark	trade-mark
+tra^r	trader
+	
+# Page 235 Column 2	
+trasman	tradesman
 tradsh	tradition
 tradshl	traditional
-tradshle	traditionally
+tradsha|	traditionally
 tradus	traduce
-traf	traffic
+trafk	traffic
 trajde	tragedy
-trajdn	tragedian
+trajda&'n	tragedian
 trajk	tragic
-!	tragical
+traj^k	tragical
 tran	train
-trant	trained
+trand	trained
 trane~	trainer
-!	trainman
-tratr	traitor
-tratrus	traitorous
-!	traitress
+tran-man	trainman
+trate~	traitor
+traterus	traitorous
+tratres	traitress
 trajktre	trajectory
 traml	trammel
-!	trammeled
+tramld	trammeled
 tramp	tramp
 trampl	trample
 trama_	tramway
 trans	trance
 trank	tranquil
-
-# Page 235 Column 3
-trankezsh	tranquilization
-!	tranquilize
-!	tranquillity
-!	tranquilly
+	
+# Page 235 Column 3	
+trankezash	tranquilization
+trankiz	tranquilize
+trank^l	tranquillity
+tranke	tranquilly
 t^ak	transact
 t^aksh	transaction
-t^atl	transatlantic
-t^nt	transcend
-t^ntns	transcendence
-t^ntnt	transcendent
-t^ntntl	transcendental
-t^s(kr^	transcribe
-t^s(kr^	transcript
+t^atlant	transatlantic
+t^nd	transcend
+t^nd-ns	transcendence
+t^nd-nt	transcendent
+t^nd-ntl	transcendental
+t^kr	transcribe
+t^kr	transcript
 t^krsh	transcription
-t^ep	transept
+t^p	transept
 t^fer	transfer
 t^ferb	transferable
-!	transference
+t^ferens	transference
 nt^ferb	untransferable
-t^fgr	transfigure
-!	transfiguration
+t^fegr	transfigure
+t^fegrash	transfiguration
 t^fex	transfix
-t^fm^	transform
-t^fmsh^	transformation
-t^fmr^	transformer
-
-# Page 236 Column 1
+t^fm	transform
+t^fmsh	transformation
+t^fme~	transformer
+	
+# Page 236 Column 1	
 t^feu	transfuse
 t^feush	transfusion
-tgres	transgress
+t^gres	transgress
 t^gresh	transgression
-t^gresr	transgressor
-t^st	transient
-!	transience
+t^greser	transgressor
+t^sht	transient
+t^shns	transience
 t^t	transit
 t^sh	transition
 t^shl	transitional
-t^she	transitionally
-t^df	transitive
+t^sha|	transitionally
+t^tv	transitive
 t^tre	transitory
 t^la	translate
-!	translatable
+t^la^b	translatable
 t^lash	translation
-t^lar	translator
-nt^lat	untranslatable
+t^la^r	translator
+nt^la^b	untranslatable
 t^let	transliterate
 oblet	obliterate
-!	translucence
+t^lusns	translucence
 t^lusnt	translucent
-t^met^	transmit
+t^met	transmit
 t^mes^b	transmissibility
 t^mesb	transmissible
-
-# Page 236 Column 2
-t^mesh^	transmission
-!	transmittal
-!	transmitter
-!	transmogrify
+	
+# Page 236 Column 2	
+t^msh	transmission
+t^metl	transmittal
+t^mete~	transmitter
+t^mog	transmogrify
 t^mut	transmute
-!	transmutability
-!	transmutable
+t^mut^b	transmutability
+t^mutb	transmutable
 t^mutsh	transmutation
 t^m	transom
 t^parense	transparency
-t^parntse	transparent
+t^parent	transparent
 t^pi	transpire
-!	transpiration
+t^prash	transpiration
 t^plant	transplant
-!	transplantation
-!	transplanted
+t^plantsh	transplantation
+t^plantd	transplanted
 t^pot	transport
-!	transportable
+t^potb	transportable
 t^potsh	transportation
-t^pot-d	transported
+t^potd	transported
 t^po	transpose
-!	transposes
+t^pos	transposes
 t^posh	transposition
-!	transship
-t^s-stn	transubstantiate
-
-# Page 236 Column 3
-t^s-stnsh	transubstantiation
+t^sh	transship
+t^s-stnsha&'t	transubstantiate
+	
+# Page 236 Column 3	
+t^s-stnsha&'sh	transubstantiation
 t^ves	transverse
 t^vesl	transversal
 trapez	trapeze
-trom	trauma
+troma	trauma
 trom^a	traumatic
 traval	travail
 trav	travel
@@ -874,107 +874,107 @@ trav^r	traveler
 traves	traverse
 traveste	travesty
 trechre	treachery
-trechus	treacherous
-tr^k	treacle
-!	tread
-!	trod
-!	trodden
+trechrus	treacherous
+trekl	treacle
+tred	tread
+trod	trod
+trodn	trodden
 tredl	treadle
 tresn	treason
 tresnb	treasonable
 treshu	treasure
-treshud	treasured
+treshu^t	treasured
 treshu^r	treasurer
 treshus	treasures
-tresh	treasury
-
-# Page 237 Column 1
+treshu	treasury
+	
+# Page 237 Column 1	
 tret	treat
 tretes	treatise
-trem	treatment
-tre	treaty
+tret-m	treatment
+trete	treaty
 treb	treble
 tremb	tremble
-tremns	tremendous
-!	tremolo
+tremnus	tremendous
+tremlo	tremolo
 tremr	tremor
 tremlus	tremulous
-!	trench
-!	trenchancy
+trench	trench
+trenchse	trenchancy
 trenchant	trenchant
-!	trencher
-!	trepan
+trenche~	trencher
+trepn	trepan
 trefin	trephine
 trepdsh	trepidation
 n^pd	intrepid
 trespas	trespass
-!	trespasser
+trespaser	trespasser
 tresl	trestle
 tra&ed	triad
 tril	trial
 tra&eng	triangle
 tra&engu	triangular
-
-# Page 237 Column 2
-!	triangulate
+	
+# Page 237 Column 2	
+tra&eng^u	triangulate
 trib	tribe
 tribl	tribal
-!	tribesman
+tribsman	tribesman
 treb^ush	tribulation
-!	tribune
+tribn	tribune
 tribnl	tribunal
 trebt	tribute
-treb^re	tributary
+trebtre	tributary
 trek	trick
 trekre	trickery
-!	trickily
-treken	trickiness
-!	trickster
+treke|	trickily
+trekenes	trickiness
+trekste~	trickster
 trekl	trickle
-!	trickled
+trekld	trickled
 tris^k	tricycle
-tridn-t	trident
+tridn	trident
 tra&enl	triennial
 trif	trifle
-triflr	trifler
+trif^r	trifler
 tregr	trigger
-tregnom	trigonometry
-tregnomet	trigonometric
+treg	trigonometry
+tregk	trigonometric
 treln	trillion
-
-# Page 237 Column 3
-trelem	trillium
+	
+# Page 237 Column 3	
+trelm	trillium
 trelje	trilogy
 trem	trim
-!	trimly
-tremt	trimmed
+treme	trimly
+tremd	trimmed
 treme~	trimmer
-trem-n	trimness
+trem-nes	trimness
 tr^nt	trinity
 trenket	trinket
 treo	trio
-!	triphthong
+trefthong	triphthong
 trepl	triple
-treplet	triplet
-!	triplex
+treple	triplet
+triplex	triplex
 treplek	triplicate
 trepleksh	triplication
-!	triply
-!	triptych
+trepe	triply
+treptek	triptych
 trisek	trisect
 trit	trite
-!	triturate
-!	trituration
+tretra	triturate
+tretrash	trituration
 trimf	triumph
 trimfl	triumphal
 trimfnt	triumphant
-
-# Page 238 Column 1
-!	triumvirate
-!	triune
-trev	trivial
+	
+# Page 238 Column 1	
+trimvra	triumvirate
+tra&en	triune
+treva&'l	trivial
 trev^l	triviality
-!	trivially
+treva|	trivially
 troke	troche
 trole	trolley
 trombon	trombone
@@ -994,26 +994,26 @@ traul	trowel
 trunt	truant
 trunse	truancy
 truk	truck
-!	truckage
-
-# Page 238 Column 2
-!	truckman
-!	truckle
-!	truculent
-trukeu	truculence
+trukj	truckage
+	
+# Page 238 Column 2	
+trukman	truckman
+trukl	truckle
+truklent	truculent
+truklens	truculence
 trj	trudge
 tru	true
-trun	trueness
+trunes	trueness
 trur	truer
-!	truest
-!	truism
+trust	truest
+trusm	truism
 true	truly
 tr	truth
 n-tru	untrue
 trmpt	trumpet
 trmpte~	trumpeter
-trngat	truncate
-trnch	truncheon
+trnkat	truncate
+trnchn	truncheon
 trndl	trundle
 trnk	trunk
 trs	trust
@@ -1022,73 +1022,73 @@ ntrs	entrust
 ms(trs	mistrust
 trse	trustee
 trse^sh	trusteeship
-
-# Page 238 Column 3
+	
+# Page 238 Column 3	
 trsf	trustful
 n-trsthe	untrustworthy
 tr	truth
 trf	truthful
-!	untruthful
+n-trf	untruthful
 tri	try
 tril	trial
 n-trid	untried
 trest	tryst
-!	tsar
+sar	tsar
 tub	tub
-!	tuba
+teuba	tuba
 teub	tube
-!	tubular
-!	tuber
-!	tubercle
-tbrkeu	tubercular
-tbrkeulen	tuberculin
-tubrkss	tuberculosis
-!	tuberculous
-!	tuberose
+teublr	tubular
+teubr	tuber
+tbr^k	tubercle
+tberklr	tubercular
+tberklen	tuberculin
+tberkloss	tuberculosis
+tberklus	tuberculous
+teubros	tuberose
 teush	tuition
 nteush	intuition
 t-mb	tumble
-tumr	tumor
-
-# Page 239 Column 1
+tume~	tumor
+	
+# Page 239 Column 1	
 tmul	tumult
-tumulus	tumultuous
+tmuluus	tumultuous
 tun	tune
-!	tuned
+tund	tuned
 tunf	tuneful
 tunl	tuneless
-!	tuner
-t-ngs(tn	tungsten
+tune~	tuner
+t-ngstn	tungsten
 tunek	tunic
 t-nl	tunnel
 trbn	turban
 trbd	turbid
-!	turbidity
-!	turbidly
-trblent	turbulent
-trblens	turbulence
+terbdte	turbidity
+terbde	turbidly
+terblent	turbulent
+terblens	turbulence
 turen	tureen
-!	turgid
-!	turgidity
+terjd	turgid
+terjdte	turgidity
 terke	turkey
-!	turmeric
+temrk	turmeric
 temoe	turmoil
 ten	turn
-!	turnbuckle
-
-# Page 239 Column 2
+tenbukl	turnbuckle
+	
+# Page 239 Column 2	
 ten-kot	turncoat
 ten^t	turned
 tenau	turnout
 tenpik	turnpike
 tenep	turnip
-trpntin	turpentine
-!	turpitude
-trkoe	turquoise
+terpntin	turpentine
+terptu	turpitude
+trkoes	turquoise
 teret	turret
 te~tl	turtle
 tutlj	tutelage
-tutr	tutor
+tute~	tutor
 to_dl	twaddle
 te_zers	tweezers
 ti_li	twilight
@@ -1098,33 +1098,32 @@ te_nkl	twinkle
 te_rl	twirl
 te_st	twist
 tu	two
-!	two-faced
+tufast	two-faced
 tufold	twofold
-!	two-handed
-
-# Page 239 Column 3
-!	two-ply
-!	twosome
-!	two-step
+tu'ndd	two-handed
+	
+# Page 239 Column 3	
+tu^pli	two-ply
+tusm	twosome
+tustep	two-step
 tip	type
 tipsete~	typesetter
 tpri	typewriter
 tpretn	typewritten
 tipes	typist
-!	typographer
+tip^or	typographer
 tip^oe	typography
-!	typothetae
+tipthete	typothetae
 tifus	typhus
 tifoe	typhoid
-tapf	typify
+tepf	typify
 tep^k	typical
-!	typification
+tep^f	typification
 tirant	tyrant
 tiran^k	tyrannical
 tiransi	tyrannicide
 teraniz	tyrannize
-!	tyrannous
+teranus	tyrannous
 terane	tyranny
 tiro	tyro
-!	tzar
-
+sar	tzar
