@@ -1,581 +1,580 @@
-# Page 240 Column 1
+# Page 240 Column 1	
 eubke_te	ubiquity
-eubktus	ubiquitous
+eubke_tus	ubiquitous
 uge	ugly
-ugen	ugliness
-!	ukase
-!	ukulele
+ugenes	ugliness
+eukas	ukase
+euklala	ukulele
 user	ulcer
 usera	ulcerate
 userash	ulceration
-!	ulcerative
+usera^v	ulcerative
 userus	ulcerous
 una	ulna
-!	ulnar
+una~	ulnar
 uste~	ulster
 uter	ulterior
 utmat	ultimate
 utmatm	ultimatum
 ut	ultimo
-u)^maren	ultramarine
-!	ultra-violet
-mbrj	umbrage
-mbrela	umbrella
+ut-maren	ultramarine
+utvile	ultra-violet
+umbrj	umbrage
+umbrela	umbrella
 umlaut	umlaut
-mpi	umpire
-
-# Page 240 Column 2
+umpi	umpire
+	
+# Page 240 Column 2	
 nb	unable
 en^b	inability
 unabrejd	unabridged
-!	unaccented
-naks(b	unacceptable
-!	unaccompanied
+unaksentd	unaccented
+unaks(b	unacceptable
+nakpe^t	unaccompanied
 naktb	unaccountable
-nakus^t	unaccustomed
-!	unadjusted
-unadon^t	unadorned
-!	unadulterated
+unakus^t	unaccustomed
+unajus^t	unadjusted
+unadond	unadorned
+unadulra^t	unadulterated
 unafkt	unaffected
 unadd	unaided
 unaloed	unalloyed
 noterb	unalterable
-unam	un-American
-!	unamiable
+unam-n	un-American
+unamb	unamiable
 eunan^mt	unanimity
 eunan	unanimous
 nansb	unanswerable
-!	unappeasable
+unapesb	unappeasable
 unaprchb	unapproachable
-!	unappropriated
+unaprpra&'td	unappropriated
 una~m^t	unarmed
-ns(kt	unasked
-
-# Page 240 Column 3
+n-skt	unasked
+	
+# Page 240 Column 3	
 unasalb	unassailable
-nss(td	unassisted
-unas(m'	unassuming
-unatchd	unattached
-natnb	unattainable
-!	unattained
-unatm^t	unattempted
-unatnd-d	unattended
-nothentd	unauthenticated
-nothrisd	unauthorized
+nsstd	unassisted
+unas)m'	unassuming
+unatcht	unattached
+unatnb	unattainable
+unatnd	unattained
+unatmtd	unattempted
+unatndd	unattended
+unothent^t	unauthenticated
+unothrizd	unauthorized
 unavalb	unavailable
 nvoe	unavoidable
-una_r	unaware
+nar	unaware
 nbal^t	unbalanced
-!	unbecoming
+nbk'	unbecoming
 nbe	unbelief
 nbeb	unbelievable
 nbend	unbend
-!	unbidden
-!	unblemished
-!	unblushing
+nbdn	unbidden
+nblemsht	unblemished
+nblsh'	unblushing
 ubn	unbound
-!	cunbreakable
+nbrakb	unbreakable
 nbsla	unbusinesslike
 n-kane	uncanny
-
-# Page 241 Column 1
-ns(emnus	unceremonious
-ns(etn	uncertain
-ns(etnte	uncertainty
-nchalnjd	unchallenged
-!	unchangeable
+	
+# Page 241 Column 1	
+nse~mnus	unceremonious
+n-setn	uncertain
+n-setnte	uncertainty
+nchalenjd	unchallenged
+nchb	unchangeable
 ncha~tb	uncharitable
-!	uncial
-ns(vis(d	uncivilized
-!	unclaimed
-!	unclassified
+nshl	uncial
+n-svizd	uncivilized
+n-klamd	unclaimed
+n-klaf^t	unclassified
 unkl	uncle
 n-klen	unclean
-!	uncleaned
+n-klend	uncleaned
 n-kolb	uncollectible
 n-kftb	uncomfortable
 n-kmn	uncommon
 n-kmu^v	uncommunicative
 n-kplemre	uncomplimentary
 n-kprmis'	uncompromising
-n-ks(en^t	unconcerned
+n-ks(e~n^t	unconcerned
 n-kdshl	unconditional
-n-kkr	unconquerable
-n-kshb	unconscionable
+n-kkrb	unconquerable
+n-kshnb	unconscionable
 n-kshus	unconscious
-!	unconsidered
-
-# Page 241 Column 2
-!	unconstitutional
-n-k^d	uncontradicted
-n-k^l	uncontrollable
-n-k^l-d^	uncontrolled
-!	unconventional
+n-ks^t	unconsidered
+	
+# Page 241 Column 2	
+n-kstshl	unconstitutional
+n-k^dekt	uncontradicted
+n-k^lb	uncontrollable
+n-k^ld	uncontrolled
+n-kvnshl	unconventional
 n-kuth	uncouth
 n-kv	uncover
-unksh	unction
+unk	unction
 unktuus	unctuous
-n-klva^t	uncultivated
-ntmjd	undamaged
-n-dont^t	undaunted
+n-klvatd	uncultivated
+n-dmjd	undamaged
+n-dontd	undaunted
 n-dse	undeceive
 n-dsi^t	undecided
-uds(ifb	undecipherable
-!	undefended
-!	undefiled
-!	undeliverable
-!	undemocratic
-!	undemonstrative
-n-dni	undeniable
+n-d-sif^b	undecipherable
+n-dfndd	undefended
+n-dfild	undefiled
+n-dlb	undeliverable
+n-dmk	undemocratic
+n-dmons^v	undemonstrative
+n-dnib	undeniable
 u^	under
 u^bd	underbid
 u^brsh	underbrush
 u^chj	undercharge
-
-# Page 241 Column 3
+	
+# Page 241 Column 3	
 ukrent	undercurrent
-u^estm	underestimate
-!	underexpose
-!	undergarment
+u^estmat	underestimate
+u^espo	underexpose
+u^garm	undergarment
 u^g	undergo
 u^gradeut	undergraduate
-u^gr	underground
+u^grnd	underground
 u^groth	undergrowth
-u^'nd^t	underhanded
+u^'ndd	underhanded
 u^lan	underline
-u^mn	undermine
-!	undermined
-u^ne'	underneath
-!	underproduction
-u^ra	underrate
+u^min	undermine
+u^mind	undermined
+u^neth	underneath
+u^produksh	underproduction
+u^rat	underrate
 u^skor	underscore
 u^sel	undersell
 u^sizd	undersized
-!	underslung
-u^s(tn	understand
-ms^s(tn	misunderstand
-ms^s(tu	misunderstood
+u^slng	underslung
+u^stn	understand
+ms^stn	misunderstand
+ms^stu	misunderstood
 u^stde	understudy
 u^tak	undertake
-u^t^r	undertaker
-
-# Page 242 Column 1
+u^takr	undertaker
+	
+# Page 242 Column 1	
 u^tuk	undertook
 u^vl	undervalue
 u^ri	underwrite
 u^rir	underwriter
-n-dsevd	undeserved
-!	undesigned
+n-d-sevd	undeserved
+n-d-sind	undesigned
 ne~mn^t	undetermined
 n-dvl^t	undeveloped
-!	undigested
-!	undignified
-!	undimmed
-n-dsplen-d	undisciplined
-!	undisclosed
-n-dsgiz	undisguised
+n-djes^t	undigested
+n-degnf^t	undignified
+n-demd	undimmed
+n-dseplend	undisciplined
+n-dsklosd	undisclosed
+n-dsgizd	undisguised
 n-dsmad	undismayed
-!	undisposed
+n-dspo^t	undisposed
 n-dspu	undisputed
-!	undistinguishable
+n-dstb	undistinguishable
 n-dstbd	undisturbed
-n-dvi^t	undivided
-!	undo
+n-dvidd	undivided
+n-du	undo
 n-d-n	undone
 n-dau^t	undoubted
-!	undress
-n-d^u	undulate
-
-# Page 242 Column 2
-!	undulant
-!	unduly
-!	undutiful
-!	undying
+n-dres	undress
+nd^u	undulate
+	
+# Page 242 Column 2	
+ndlant	undulant
+n-due	unduly
+n-dte-f	undutiful
+n-di'	undying
 une~n^t	unearned
-!	unearth
+unerth	unearth
 unerthe	unearthly
 unese	uneasy
-!	uneasily
-!	uneasiness
-!	uneatable
-!	uneaten
+unese|	uneasily
+unese-nes	uneasiness
+unetb	uneatable
+unetn	uneaten
 nedu^t	uneducated
-!	unembarrassed
-!	unemployment
-nn-kmbrd	unencumbered
-!	unending
-!	unendorsed
-!	unendurable
-!	unenforceable
+n-mbarast	unembarrassed
+n-mplm	unemployment
+n-n-kmbr^t	unencumbered
+n-nd'	unending
+n-ndos(t	unendorsed
+n-ndrb	unendurable
+n-nfsb	unenforceable
 n-n^pris'	unenterprising
-!	unenvied
-nekl-d	unequaled
-!	unequivocal
+n-nved	unenvied
+unekld	unequaled
+uneke_v^k	unequivocal
 uner'	unerring
-
-# Page 242 Column 3
-!	unethical
+	
+# Page 242 Column 3	
+uneth^k	unethical
 unevn	uneven
 unevntf	uneventful
-!	unexaggerated
-nesamp^t	unexampled
-!	unexcelled
-nsepsh	unexceptionable
+nes)aj^t	unexaggerated
+nes)amp^t	unexampled
+nes)ld	unexcelled
+nsepshb	unexceptionable
 nesp^t	unexpected
-!	unexpired
-!	unexplored
+nespi^t	unexpired
+nesplr^t	unexplored
 nespr^t	unexpressed
-!	unextinguished
+nes)teng^t	unextinguished
 nfath)f	unfaithful
 nfamel	unfamiliar
 nfashb	unfashionable
-!	unfasten
+nfasn	unfasten
 nfab	unfavorable
 nfand	unfeigned
 nfensht	unfinished
 nfold	unfold
-!	unforgettable
-nfgeb	unforgivable
-!	unfortified
+nfgetb	unforgettable
+nfge^b	unforgivable
+nfdf^t	unfortified
 nftnat	unfortunate
-!	unfrequented
-
-# Page 243 Column 1
-!	unfriendly
+nfrek^t	unfrequented
+	
+# Page 243 Column 1	
+nfr	unfriendly
 nfrutf	unfruitful
-nfufd	unfulfilled
-nfnesht	unfurnished
+nfuf^t	unfulfilled
+nfnsht	unfurnished
 n-gane	ungainly
-!	ungodly
-n-gv	ungovernable
+n-gde	ungodly
+n-gv^b	ungovernable
 n-grashus	ungracious
 n-gratf	ungrateful
 unge_nt	unguent
-!	unhampered
-!	unhandy
+un'ampr^t	unhampered
+n'nde	unhandy
 un'ape	unhappy
-!	unhardened
-!	unharness
+un'a~dnd	unhardened
+un'a~nes	unharness
 un'elthe	unhealthy
 un'e~d	unheard
-!	unhesitating
-!	unhinge
-!	unholy
-unonr^t	unhonored
-!	unhook
-!	unhoped
-eunekrn	unicorn
-!	unidentified
-
-# Page 243 Column 2
-!	unidiomatic
+un'es)ta'	unhesitating
+un'enj	unhinge
+un'ole	unholy
+unone~^t	unhonored
+un'uk	unhook
+un'opt	unhoped
+eunekon	unicorn
+unadndf^t	unidentified
+	
+# Page 243 Column 2	
+unedm^a	unidiomatic
 eunfm	uniform
 eunf^mt	uniformity
-eunef	unify
+eunf	unify
 eun^f	unification
-unemajb	unimaginable
-unemajdf	unimaginative
-!	unimpaired
-n-mpech	unimpeachable
+unemaj^b	unimaginable
+unemajtv	unimaginative
+n-mpa~d	unimpaired
+n-mpechb	unimpeachable
 n-mp	unimportant
-!	unimpressionable
-!	unindorsed
-!	uninfluenced
-nnfm-d	uninformed
-!	uninhabitable
-!	uninhabited
-!	uninitiated
-nnju^t	uninjured
-!	uninstructed
-!	unintelligent
-!	unintelligible
-nn-tnsh	unintentional
-!	unintentionally
-!	uninterested
-!	uninterrupted
-
-# Page 243 Column 3
-!	uninvited
+n-mpreshb	unimpressionable
+n-ndost	unindorsed
+n-nf^t	uninfluenced
+n-nfm^t	uninformed
+unen'abtb	uninhabitable
+unen'abtd	uninhabited
+unenesha&'td	uninitiated
+n-nju^t	uninjured
+n-ns^kt	uninstructed
+n-n^jnt	unintelligent
+n-n^jb	unintelligible
+n-n-tnshl	unintentional
+n-n-tnsha|	unintentionally
+n-n^s^t	uninterested
+n-n^up^t	uninterrupted
+	
+# Page 243 Column 3	
+n-nvi^t	uninvited
 eun	union
-eunsm	unionism
-eunes	unionist
-!	unionize
+eun-sm	unionism
+eun^st	unionist
+euniz	unionize
 eunek	unique
-eunesn	unison
-!	unissued
+eun-sn	unison
+uneshud	unissued
 eunet	unit
-eunetarn	Unitarian
-!	unitary
+eunetra&'n	Unitarian
+eunetre	unitary
 euni	unite
 euni^t	united
 eu^nt	unity
 eunv	universe
 eunv^l	universality
 eunvle	universally
-eunves(te	university
-!	injustifiable
+eunveste	university
+njusfb	injustifiable
 n-ki	unkind
-!	unkindliness
+n-ka&enes	unkindliness
 una&e	unknightly
-!	unknit
+unet	unknit
 unon	unknown
 unob	unknowable
-
-# Page 244 Column 1
-!	unknowing
-!	unladylike
-!	unlaundered
+	
+# Page 244 Column 1	
+uno'	unknowing
+nladela	unladylike
+nlondr^t	unlaundered
 nlof	unlawful
-!	unlearn
-!	unleavened
+nlen	unlearn
+nlevnd	unleavened
 nl	unless
-!	unlettered
-!	unlicensed
+nle^t	unlettered
+nli-snst	unlicensed
 nla	unlike
 nlae	unlikely
-!	unlisted
-!	unlovable
+nls^t	unlisted
+nlvb	unlovable
 nluke	unlucky
-!	unmailable
+n-ma~^b	unmailable
 n-mak	unmake
-!	unman
-nmnjb	unmanageable
-!	unmannerly
-!	unmarried
-!	unmask
-!	unmerited
+n-man	unman
+n-mnjb	unmanageable
+n-mne~e	unmannerly
+n-mared	unmarried
+n-mask	unmask
+n-me~td	unmerited
 n-minf	unmindful
 n-mstb	unmistakable
-!	unmistaken
-
-# Page 244 Column 2
-!	unmitigated
-!	unmolested
-!	unmounted
+n-mst	unmistaken
+	
+# Page 244 Column 2	
+n-meteg^t	unmitigated
+n-moles^t	unmolested
+n-mntd	unmounted
 una^t	unnamed
-unatl	unnatural
+unatrl	unnatural
 uness	unnecessary
 unev	unnerve
-!	unnumbered
-!	unobjectionable
-!	unobservant
-!	unobtainable
-!	unoccupied
-!	unopened
-!	unorganized
-!	unorthodox
-!	unostentatious
+unum^t	unnumbered
+nobshb	unobjectionable
+unobse^nt	unobservant
+unobtnb	unobtainable
+unokp^t	unoccupied
+unopnd	unopened
+oog^t	unorganized
+unothodox	unorthodox
+unosstntash	unostentatious
 npd	unpaid
-!	unpalatable
-np^l	unparalleled
-!	unpardonable
-!	unparliamentary
-!	unpartisan
-npes	unpleasant
-!	unpolished
+npalatb	unpalatable
+np^l^t	unparalleled
+npa~dnb	unpardonable
+nprl^re	unparliamentary
+nptesn	unpartisan
+nples	unpleasant
+npolsht	unpolished
 npop	unpopular
-
-# Page 244 Column 3
-npresdn	unprecedented
-nprej	unprejudiced
-!	unpremeditated
-npr^t	unprincipled
-nprfesh	unprofessional
-!	unprofitable
-!	unprogressive
-!	unpromising
-!	unpublished
-!	unpunctual
-n-kof	unqualified
-n-knb	unquestionable
-n-kn-d	unquestioned
-!	unquiet
-nrs	unreasonable
-!	unrecognized
-!	unredeemed
-!	unrelated
-!	unrepentant
-!	unreproved
-!	unrequired
-!	unresisting
-!	unrestrained
-!	unrestricted
+	
+# Page 244 Column 3	
+npresdn^t	unprecedented
+nprej^t	unprejudiced
+npremedat^t	unpremeditated
+npren^t	unprincipled
+nprfeshl	unprofessional
+nprftb	unprofitable
+nprgv	unprogressive
+nprmes'	unpromising
+npb^t	unpublished
+npnk	unpunctual
+n-kof^t	unqualified
+n-kshb	unquestionable
+n-kshd	unquestioned
+n-kit	unquiet
+nr-snb	unreasonable
+nrknizd	unrecognized
+nredmd	unredeemed
+nrela^t	unrelated
+nrpntnt	unrepentant
+nrprvd	unreproved
+nrki^t	unrequired
+nrss'	unresisting
+nrs^nd	unrestrained
+nrs^kt	unrestricted
 nriv^t	unrivaled
-
-# Page 245 Column 1
-!	unruled
+	
+# Page 245 Column 1	
+nrld	unruled
 nrle	unruly
-!	unsafe
-!	unsaid
-!	unsalable
-!	unsanctified
-ns(at	unsatisfactory
-!	unschooled
-n-skrp	unscrupulous
-nssnb	unseasonable
-ns(eme	unseemly
-!	unseen
-!	unselfish
-!	unserviceable
-ns(etl-d	unsettled
-!	unship
+n-saf	unsafe
+n-sed	unsaid
+nsalb	unsalable
+n-sanktf^t	unsanctified
+n-sat	unsatisfactory
+n-skld	unschooled
+n-skrpus	unscrupulous
+n-sesnb	unseasonable
+n-seme	unseemly
+n-sen	unseen
+ns^sh	unselfish
+n-seveb	unserviceable
+n-setld	unsettled
+unsh	unship
 n-site	unsightly
-!	unsigned
-nskl-d	unskilled
-!	unskillful
-nsoshb	unsociable
-!	unsoiled
-!	unsoldierly
-!	unsolicited
-nsof^t	unsophisticated
-
-# Page 245 Column 2
-!	unsought
-ns(nt	unsound
-nsp	unspeakable
-!	unspecified
-!	unspoiled
+n-sind	unsigned
+n-skld	unskilled
+n-sklf	unskillful
+n-soshb	unsociable
+n-soeld	unsoiled
+n-solje~e	unsoldierly
+n-solestd	unsolicited
+n-sof^sta^t	unsophisticated
+	
+# Page 245 Column 2	
+n-sot	unsought
+n-snt	unsound
+nspb	unspeakable
+nspes^t	unspecified
+nspoeld	unspoiled
 nspkn	unspoken
-!	unstained
-!	unstamped
-!	unsteadily
-!	unstinted
-!	unstrung
-!	unstudied
-!	unsubstantial
-ns(ukf	unsuccessful
-ns(utb	unsuitable
-nsng	unsung
+n-stand	unstained
+n-stampt	unstamped
+n-stde|	unsteadily
+n-stentd	unstinted
+n-strng	unstrung
+n-stded	unstudied
+n-s-stnsh	unsubstantial
+n-sukf	unsuccessful
+n-sutb	unsuitable
+n-sng	unsung
 nss^kt	unsuspected
-!	unswerving
-!	unsymmetrical
+n-suev'	unswerving
+n-semetr^k	unsymmetrical
 nss^a	unsystematic
 n-tantd	untainted
-!	untamed
-n-tang	untangle
-!	untarnished
+n-tmd	untamed
+n-tangl	untangle
+n-tansht	untarnished
 nth^b	unthinkable
-
-# Page 245 Column 3
-!	untidy
-!	untidily
+	
+# Page 245 Column 3	
+n-tide	untidy
+n-tide|	untidily
 nte	until
 n-tu	unto
 n-to	untold
-n-tchd	untouched
-!	untoward
-!	untracked
+n-tcht	untouched
+n-tod	untoward
+n-trakt	untracked
 n-trb^t	untroubled
 n-tru	untrue
-!	untruthful
-neub	unusable
+n-trf	untruthful
+neu^b	unusable
 neu^t	unused
 nush	unusual
 unuterb	unutterable
-!	unvarnished
-!	unversed
+nva~nsht	unvarnished
+nvest	unversed
 nuontb	unwarrantable
-!	unwarranted
+nuontd	unwarranted
 nuare	unwary
-!	unwashed
-!	unwavering
-!	unwelcome
-!	unwell
+nuosht	unwashed
+nuavr'	unwavering
+nlkm	unwelcome
+nl	unwell
 un'ol-sm	unwholesome
-
-# Page 246 Column 1
+	
+# Page 246 Column 1	
 nuelde	unwieldy
 nl'	unwilling
-!	unwind
-!	unwound
+nuind	unwind
+nuaund	unwound
 nuis	unwise
 nuet'	unwitting
-unont^t	unwonted
-!	unworldly
+nontd	unwonted
+nuue	unworldly
 nuuthe	unworthy
-!	unwrap
-!	unwreathe
+nrap	unwrap
+nreth	unwreathe
 nretn	unwritten
 uneld'	unyielding
-!	up
-upbra	upbraid
-!	upheaval
-!	upheld
-!	uphill
+up	up
+upbrad	upbraid
+up'evl	upheaval
+up'eld	upheld
+up'el	uphill
 up'old	uphold
 upkp	upkeep
-!	upland
+upland	upland
 upleft	uplift
-!	upmost
-pn	upon
+upmo	upmost
+pon	upon
 upr	upper
-
-# Page 246 Column 2
+	
+# Page 246 Column 2	
 uprmo	uppermost
 upri	upright
 upror	uproar
-ups(et	upset
-ups(ta|	upstairs
-ps(ta~t	upstart
-!	up-to-date
-!	uptown
+up-set	upset
+up-sta~|	upstairs
+up-sta~t	upstart
+uptd	up-to-date
+upt-n	uptown
 upd	upward
-up'olste~	upholster
-!	upholsterer
-!	upholstery
-!	uranium
+up'ol-ste~	upholster
+up'ol-ste~^r	upholsterer
+up'ol-ste~e	upholstery
+euranem	uranium
 erbn	urban
-n^rbn	interurban
+n^erbn	interurban
 s)rbn	suburban
 erban	urbane
-urb^nt	urbanity
+erb^nt	urbanity
 e~j	urge
-!	urged
-!	urgency
+e~jd	urged
+e~jse	urgency
 ejnt	urgent
 e~n	urn
 eu	use
 abeu	abuse
-
-# Page 246 Column 3
+	
+# Page 246 Column 3	
 ds(eu	disuse
 ms(eu	misuse
 neu^t	unused
-eub	usable
+eu^b	usable
 eu^j	usage
 euf	useful
-!	usefulness
+eufnes	usefulness
 eul	useless
 ushe~	usher
-eush	usual
+ush	usual
 nush	unusual
 ushe	usually
 eushre	usury
 eusfruk	usufruct
 eushrr	usurer
-eus-rus	usurious
-eus-rp	usurp
-!	usurpation
-!	usurper
+eushrus	usurious
+eu-srp	usurp
+eu-srpash	usurpation
+eu-srp	usurper
 eutnsel	utensil
-eutlis	utilize
-uneutliz	unutilized
+eutliz	utilize
+uneutlizd	unutilized
 eutlet	utilitarian
 eutlet^sm	utilitarianism
 eut^l	utility
-
-# Page 247 Column 1
-eutlisb	utilizable
+	
+# Page 247 Column 1	
+eutlizb	utilizable
 ut-mo	utmost
 ute~	utter
-
-# Page 247 Column 2
+	
+# Page 247 Column 2	
 unuterb	unutterable
 utens	utterance
-!	uttered
-
-# Page 247 Column 3
-ute~e~	utterly
+ute~d	uttered
+	
+# Page 247 Column 3	
+ute~e	utterly
 utemo	uttermost
-!	utters
-
+ute~|	utters
