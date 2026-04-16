@@ -161,7 +161,7 @@ kapl^r capillarity
 kaplre capillary
 kpt capital
 kptes capitalist
-kptez-sh capitalization
+kptezsh capitalization
 kptiz capitalize
 kpta| capitally
 kpt capitol
@@ -1261,9 +1261,9 @@ kdnsb condensable
 kdnsash condensation
 kdns condense
 kdnser condenser
-kdsen condescend
-kdsen^e condescendingly
-kdsensh condescension
+kd-sen condescend
+kd-sen^e condescendingly
+kd-sensh condescension
 kdin condign
 kdem condiment
 kdsh condition
