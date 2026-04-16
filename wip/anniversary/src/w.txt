@@ -1,4 +1,4 @@
-# Page 254 Column 1
+# Page 254 Column 1	
 uob	wabble
 uodl	waddle
 uafr	wafer
@@ -6,25 +6,25 @@ uofl	waffle
 uaft	waft
 uaj	wage
 uaje~	wager
-vagnere&'n	Wagnerian
+vagnera&'n	Wagnerian
 uagn	wagon
 uast	waist
 uakf	wakeful
 uok	walk
 uokr	walker
-ueokau	walkout
+uokau	walkout
 uolnut	walnut
 uolrus	walrus
 uolts	waltz
 uompm	wampum
 uondr	wander
 ont	want
-nontt	unwanted
+nontd	unwanted
 uo	war
 uofar	warfare
 uola	warlike
-
-# Page 254 Column 2
+	
+# Page 254 Column 2	
 uopath	warpath
 uo^r	warrior
 uo^sh	warship
@@ -50,8 +50,8 @@ os	was
 uosh	wash
 nuosht	unwashed
 uoshb	washable
-
-# Page 254 Column 3
+	
+# Page 254 Column 3	
 uoshe~	washer
 uoshau	washout
 uoshstn	washstand
@@ -72,13 +72,13 @@ uochtaur	watch tower
 uochud	watchword
 uote~	water
 uote~^krs	watercourse
-uotefo	waterfall
+uoterfo	waterfall
 uoterfaul	waterfowl
 uotelogd	water-logged
 uotemark	watermark
 uotemeln	watermelon
-
-# Page 255 Column 1
+	
+# Page 255 Column 1	
 uotershed	watershed
 uote~tit	water-tight
 uotera_	waterway
@@ -104,8 +104,8 @@ eknd	weakened
 ekl'	weakling
 eke	weakly
 eknes	weakness
-
-# Page 255 Column 2
+	
+# Page 255 Column 2	
 lth	wealth
 lthe|	wealthily
 uepn	weapon
@@ -131,8 +131,8 @@ l	well
 nl	unwell
 lfar	welfare
 lbon	well-born
-
-# Page 255 Column 3
+	
+# Page 255 Column 3	
 lfa^t	well-favored
 uelte~	welter
 er	were
@@ -158,8 +158,8 @@ ot-n	whatnot
 otsov	whatsoever
 'uet	wheat
 'uetn	wheaten
-
-# Page 256 Column 1
+	
+# Page 256 Column 1	
 'uetuum	wheatworm
 'uel	wheel
 en	when
@@ -185,8 +185,8 @@ ueth	whether
 ch	which
 chev	whichever
 chsov	whichsoever
-
-# Page 256 Column 2
+	
+# Page 256 Column 2	
 il	while
 ilm	whilom
 ils	whilst
@@ -210,10 +210,10 @@ ils	whilst
 'uitkap	whitecap
 'uitfesh	whitefish
 'uitn	whiten
-'uit-n	whiteness
+'uit-nes	whiteness
 'uituud	whitewood
-
-# Page 256 Column 3
+	
+# Page 256 Column 3	
 'ueth	whither
 'uetl	whittle
 'u	who
@@ -239,8 +239,8 @@ uidspred	widespread
 uedth	width
 uedo	widow
 uedod	widowed
-
-# Page 257 Column 1
+	
+# Page 257 Column 1	
 uedor	widower
 uedo^d	widowhood
 ueld	wield
@@ -266,8 +266,8 @@ uendfo	windfall
 uende|	windily
 uend-mel	windmill
 uendo	window
-
-# Page 257 Column 2
+	
+# Page 257 Column 2	
 uin	wine
 uin-glas	wineglass
 ueng	wing
@@ -282,7 +282,7 @@ irl	wireless
 irpul'	wirepulling
 uis	wise
 nuis	unwise
-ues(dm	wisdom
+uesdm	wisdom
 uise	wisely
 uisr	wiser
 uises	wisest
@@ -293,8 +293,8 @@ ushf	wishful
 uestara&'	wistaria
 uet	wit
 nuet'	unwitting
-
-# Page 257 Column 3
+	
+# Page 257 Column 3	
 uetss	witticism
 uete|	wittily
 uetenes	wittiness
@@ -308,7 +308,7 @@ ethdro	withdraw
 ethdrol	withdrawal
 ethdron	withdrawn
 ethdru	withdrew
-eth'old	withhold
+eth('old	withhold
 eth('eld	withheld
 ethstn	withstand
 ethstu	withstood
@@ -320,15 +320,15 @@ uobgn	woebegone
 uof	woeful
 uulf	wolf
 uulfaund	wolfhound
-
-# Page 258 Column 1
+	
+# Page 258 Column 1	
 uulfsh	wolfish
 uulveren	wolverine
 uulvs	wolves
 umn	woman
 numne	unwomanly
 umn^d	womanhood
-umn-ki	womankind
+umnki	womankind
 umnla	womanlike
 umnenes	womanliness
 umne	womanly
@@ -337,7 +337,7 @@ un	won
 uun	wonder
 uunf	wonderful
 uunland	wonderland
-uunm	wonderment
+uun-m	wonderment
 uun-strkn	wonderstricken
 uunrk	wonderwork
 uunus	wondrous
@@ -347,15 +347,15 @@ nontd	unwonted
 uu	woo
 uud	wooed
 uur	wooer
-
-# Page 258 Column 2
+	
+# Page 258 Column 2	
 uud	wood
 uudkraft	woodcraft
 uudkut	woodcut
 uudd	wooded
 uudn	wooden
 uudland	woodland
-uud-mn	woodman
+uud-man	woodman
 uudpekr	woodpecker
 uudsman	woodsman
 uudrk	woodwork
@@ -374,8 +374,8 @@ nrkb	unworkable
 rkb	workable
 rkda	workaday
 rkt	worked
-
-# Page 258 Column 3
+	
+# Page 258 Column 3	
 rk^r	worker
 rk'us	workhouse
 rkman	workman
@@ -401,8 +401,8 @@ uu^sh	worship
 uu^sh^r	worshiper
 uu^shf	worshipful
 uu^sh^t	worshipped
-
-# Page 259 Column 1
+	
+# Page 259 Column 1	
 uustd	worsted
 uuth	worth
 nuuthe	unworthy
@@ -419,8 +419,8 @@ rath	wraith
 rangl	wrangle
 rath	wrath
 rathf	wrathful
-
-# Page 259 Column 2
+	
+# Page 259 Column 2	
 reth	wreath
 rek	wreck
 sh^rek	shipwreck
@@ -437,8 +437,8 @@ ri	wright
 melri	millwright
 plari	playwright
 sh^ri	shipwright
-
-# Page 259 Column 3
+	
+# Page 259 Column 3	
 reng	wring
 renge~	wringer
 renkl	wrinkle
@@ -455,4 +455,3 @@ rong'ed	wrong-headed
 ronge	wrongly
 rongnes	wrongness
 roth	wroth
-

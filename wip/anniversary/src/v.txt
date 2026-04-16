@@ -1,11 +1,11 @@
-# Page 248 Column 1
+# Page 248 Column 1	
 vakat	vacate
 vaknse	vacancy
 vaknt	vacant
 vakash	vacation
 vakashes	vacationist
 vaksenat	vaccinate
-vaksenash	vaccination
+vaksensh	vaccination
 vasla	vacillate
 vaslash	vacillation
 vakeum	vacuum
@@ -22,9 +22,9 @@ van-nes	vainness
 v^nt	vanity
 valans	valance
 valedekre	valedictory
-valedekra&'	valedictorian
-
-# Page 248 Column 2
+valedekra&'n	valedictorian
+	
+# Page 248 Column 2	
 valens	valence
 valentn	valentine
 valera&'n	valerian
@@ -50,8 +50,8 @@ vll	valueless
 valv	valve
 valvlr	valvular
 vampi	vampire
-
-# Page 248 Column 3
+	
+# Page 248 Column 3	
 vanadm	vanadium
 van-ga~d	vanguard
 vanela	vanilla
@@ -63,7 +63,7 @@ vapd	vapid
 vapr	vapor
 evap	evaporate
 vaprezash	vaporization
-vapris	vaporize
+vapriz	vaporize
 vaprus	vaporous
 va~nsh	varnish
 vare	vary
@@ -77,8 +77,8 @@ vareg	variegate
 vri	variety
 vars	various
 vasl	vassal
-
-# Page 249 Column 1
+	
+# Page 249 Column 1	
 vaslj	vassalage
 vast	vast
 vod-v	vaudeville
@@ -98,21 +98,21 @@ v'emns	vehemence
 ve^k	vehicle
 veklr	vehicular
 velospd	velocipede
-vel^s)	velocity
+vel^s	velocity
 velvt	velvet
 venl	venal
 ven^l	venality
-vend	vend
+vnd	vend
 vndr	vender
-
-# Page 249 Column 2
+	
+# Page 249 Column 2	
 vndb	vendible
 vene~	veneer
 venra	venerate
 venrb	venerable
 venrash	veneration
 vnjns	vengeance
-vnjf	vengeful
+venjf	vengeful
 vena&'l	venial
 ven-sn	venison
 venom	venom
@@ -120,30 +120,30 @@ venomus	venomous
 vntla	ventilate
 nvntla^t	unventilated
 vntlash	ventilation
-vntlat^r	ventilator
+vntla^r	ventilator
 vntr^k	ventricle
 vntrel	ventriloquism
 vntr	venture
 vntr-sm	venturesome
 vntrus	venturous
 venu	venue
-ver^s)	veracity
+ver^s	veracity
 verash	veracious
 veranda	veranda
 verb	verb
-
-# Page 249 Column 3
+	
+# Page 249 Column 3	
 verbl	verbal
 verbla|	verbally
 verbtm	verbatim
 verbj	verbiage
 verbos	verbose
-verb^s)	verbosity
+verb^s	verbosity
 verbna	verbena
 ve~d	verdict
 ve~degres	verdigris
-ve~dur	verdure
-ve~dnt	verdant
+ve~dr	verdure
+ve~d-nt	verdant
 verj	verge
 verf	verify
 ver^f	verification
@@ -158,8 +158,8 @@ ve~msi	vermicide
 ve~mfm	vermiform
 ve~mfeuj	vermiftuge
 ve~mnus	verminous
-
-# Page 250 Column 1
+	
+# Page 250 Column 1	
 ve~muth	vermuth
 ve~nak	vernacular
 ve~nl	vernal
@@ -185,8 +185,8 @@ ves(pr	vesper
 vesl	vessel
 vest	vest
 vestbl	vestibule
-
-# Page 250 Column 2
+	
+# Page 250 Column 2	
 vestj	vestige
 vestjl	vestigial
 vest-m	vestment
@@ -212,14 +212,14 @@ vekr	vicar
 vekrj	vicarage
 vikar	vicarious
 visroe	viceroy
-
-# Page 250 Column 3
+	
+# Page 250 Column 3	
 visreg	viceregal
 ves^nt	vicinity
 veshus	vicious
 vesstus	vicissitudes
 vektm	victim
-vektmis	victimize
+vektmiz	victimize
 vekte~	victor
 vektrus	victorious
 vektre	victory
@@ -239,8 +239,8 @@ velf	vilify
 velj	village
 velje~	villager
 velen	villain
-
-# Page 251 Column 1
+	
+# Page 251 Column 1	
 velenus	villainous
 velene	villainy
 vndek	vindicate
@@ -266,8 +266,8 @@ vilen	violin
 vilenes	violinist
 velonchelo	violoncello
 vipr	viper
-
-# Page 251 Column 2
+	
+# Page 251 Column 2	
 verago	virago
 vejn	virgin
 vejnl	virginal
@@ -278,8 +278,8 @@ ve~tu	virtue
 ve~tl	virtual
 ve~tle	virtually
 ve~tuus	virtuous
-? ve~toso	virtuoso
-ve~tu^s)	virtuosity
+ve~toso	virtuoso
+ve~tu^s	virtuosity
 virus	virus
 verlens	virulence
 verlent	virulent
@@ -288,19 +288,19 @@ vesj	visage
 vesra	viscera
 vesed	viscid
 vesedte	viscidity
-vesk^s)	viscosity
+vesk^s	viscosity
 veskus	viscous
 viknt	viscount
 vis	vise
 vesh	vision
-
-# Page 251 Column 3
+	
+# Page 251 Column 3	
 nvesb	invisible
 ves^b	visibility
 vesb	visible
 veshre	visionary
 veshul	visual
-veshulezsh	visualization
+veshulezash	visualization
 veshuliz	visualize
 veshule	visually
 veset	visit
@@ -320,16 +320,16 @@ vesha&'t	vitiate
 vesha&'td	vitiated
 vesha&'sh	vitiation
 vetrf	vitrify
-
-# Page 252 Column 1
+	
+# Page 252 Column 1	
 vetrus	vitreous
 vetr^f	vitrification
 vetrl	vitriol
-vetrlek	vitriolic
+vetrlk	vitriolic
 vitup	vituperate
 vitupsh	vituperation
 vitup^v	vituperative
-viv^s)	vivacity
+viv^s	vivacity
 vivash	vivacious
 vevd	vivid
 vevf	vivify
@@ -338,7 +338,7 @@ vev^f	vivification
 vevsek	vivisect
 vevseksh	vivisection
 vevsekshes	vivisectionist
-vevsektr	vivisector
+vevsekr	vivisector
 vexn	vixen
 vezer	vizier
 vkab	vocabulary
@@ -347,13 +347,13 @@ vkl-sm	vocalism
 vkles	vocalist
 vklezash	vocalization
 vkliz	vocalize
-
-# Page 252 Column 2
+	
+# Page 252 Column 2	
 vka|	vocally
 vkash	vocation
 nonvkashl	non-vocational
 vkashl	vocational
-vkashle|	vocationally
+vkasha|	vocationally
 vo-sef	vociferous
 voes	voice
 voest	voiced
@@ -374,8 +374,8 @@ volt	volt
 voltj	voltage
 voltak	voltaic
 voltamete~	voltammeter
-
-# Page 252 Column 3
+	
+# Page 252 Column 3	
 volt-mete~	voltmeter
 vol^b	volubility
 volb	voluble
@@ -390,7 +390,7 @@ volptre	voluptuary
 volptuus	voluptuous
 volut	volute
 vomet	vomit
-vor^s)	voracity
+vor^s	voracity
 vorash	voracious
 votex	vortex
 vt	vote
@@ -401,25 +401,24 @@ vauch	vouch
 vaucht	vouched
 vauche~	voucher
 vauchsaf	vouchsafe
-
-# Page 253 Column 1
+	
+# Page 253 Column 1	
 vaul	vowel
 voej	voyage
 vulkniz	vulcanize
 vulknezash	vulcanization
 vul	vulgar
-
-# Page 253 Column 2
+	
+# Page 253 Column 2	
 vul^a&'n	vulgarian
 vul-sm	vulgarism
 vulezash	vulgarization
-vulis	vulgarize
+vuliz	vulgarize
 vule	vulgarly
-
-# Page 253 Column 3
+	
+# Page 253 Column 3	
 vulg	Vulgate
 vulnerb	vulnerable
 nvulnerb	invulnerable
 vulner^b	vulnerability
 vultr	vulture
-

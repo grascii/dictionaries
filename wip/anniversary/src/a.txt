@@ -973,7 +973,7 @@ argnot	Argonaut
 ageu	argue
 agm	argument
 agmsh	argumentation
-?agmatf	argumentative
+agmatv	argumentative
 ared	arid
 aredte	aridity
 arestok	aristocrat
@@ -1109,7 +1109,7 @@ asemj	assemblage
 asem	assembly
 ase~t	assert
 ase~sh	assertion
-ase~tf	assertive
+ase~tv	assertive
 ass	assess
 ass^b	assessable
 asst	assessed
@@ -1175,7 +1175,7 @@ astron^r	astronomer
 astromk	astronomic
 astut	astute
 asilm	asylum
-atfsm	atavism
+atvsm	atavism
 athesm	atheism
 athest	atheist
 athlet	athlete
@@ -1214,7 +1214,7 @@ atndns	attendance
 atndn	attendant
 atndd	attended
 tnsh	attention
-atntf	attentive
+atntv	attentive
 enatnsh	inattention
 enatntv	inattentive
 unatndd	unattended
@@ -1270,7 +1270,7 @@ othent	authenticate
 othent^s	authenticity
 unothent^t	unauthenticated
 othr	author
-othrtf	authoritative
+othrtv	authoritative
 oth)^r	authority
 othrizsh	authorization
 othriz	authorize
