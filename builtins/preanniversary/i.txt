@@ -386,7 +386,7 @@ n-dfn indefinite
 n-dfnn indefiniteness
 ndelb indelible
 ndelek indelicate
-n-dmef indemnify
+n-dm-nef indemnify
 n-dm^nt indemnity
 n-dn-t indent
 n-dn-tsh indentation

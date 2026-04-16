@@ -252,7 +252,7 @@ n'n nothingness
 notes notice
 notesb noticeable
 not^f notification
-notf notify
+nodf notify
 nosh notion
 notri notoriety
 notrus notorious

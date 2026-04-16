@@ -309,7 +309,7 @@ selek select
 selsh selection
 s(^ self
 s(^sn^d self-centered
-s(kse self-conceit
+s(^kse self-conceit
 s(^kf self-confidence
 s(^kshus self-conscious
 s(k^l self-control
@@ -1443,8 +1443,8 @@ s-si subside
 s-sedre subsidiary
 s-sediz subsidize
 s-sede subsidy
-s-ss subsist
-s-sstns subsistence
+s)ss subsist
+s)sstns subsistence
 s-soel subsoil
 s-stns substance
 s-stnsh substantial
@@ -1462,8 +1462,8 @@ st^l subtility
 sutl subtle
 strk subtract
 strksh subtraction
-s)rb suburb
-s)rbn suburban
+s-rb suburb
+s-rbn suburban
 sve~t subvert
 s(ua subway
 suk success

@@ -376,7 +376,7 @@ n^tn-m entertainment
 nth(rol enthrall
 
 # Page 65 Column 2
-nthron enthrone
+nth(ron enthrone
 nthus enthusiasm
 nthus-st enthusiast
 nthus^st enthusiastic
@@ -657,8 +657,8 @@ esotsh exhortation
 es'eum exhume
 esejnt exigent
 esil exile
-ess exist
-ess existence
+ess( exist
+ess( existence
 eset exit
 esdus exodus
 esosheo ex officio

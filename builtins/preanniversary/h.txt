@@ -198,7 +198,7 @@ erb herb
 'er here
 'eraf hereafter
 'erb hereby
-'e~dre hereditary
+'e~dtre hereditary
 
 # Page 87 Column 2
 'e~dte heredity

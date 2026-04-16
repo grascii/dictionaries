@@ -374,8 +374,8 @@ onerl ownerless
 one~^sh ownership
 ox ox
 oxalek oxalic
-oxediz oxidize
-oxedizer oxidizer
-oxej oxygen
+ox)ediz oxidize
+ox)edizer oxidizer
+ox)ej oxygen
 oeste~ oyster
 ozon ozone

@@ -218,7 +218,7 @@ bnfaksh benefaction
 bnfaktr benefactor
 bnfaktres benefactress
 bnefesns beneficence
-bnefeshnt beneficent
+bnefesnt beneficent
 bnfesh beneficial
 bnfeshre beneficiary
 bnf benefit
