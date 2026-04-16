@@ -1,4 +1,4 @@
-# Page 260 Column 3
+# Page 260 Column 3	
 zel	zeal
 zelot	zealot
 zelotre	zealotry
@@ -11,7 +11,7 @@ zeplen	Zeppelin
 zero	zero
 zest	zest
 zegzag	zigzag
-z(enk	zinc
+zenk	zinc
 za&en	Zion
 zerkn	zircon
 zerknem	zirconium
@@ -20,4 +20,3 @@ zoda&'k	zodiac
 zon	zone
 zo^o(	zoology
 ze_bak	zwieback
-

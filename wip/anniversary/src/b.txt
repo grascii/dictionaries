@@ -129,7 +129,7 @@ banet	bayonet
 biu	bayou
 bekn	beacon
 begl	beagle
-ba&'tf	beatify
+ba&'df	beatify
 ba&'t^f	beatification
 	
 # Page 19 Column 3	
