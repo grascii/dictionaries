@@ -10,7 +10,7 @@ kadns	cadence
 kadnza	cadenza
 kadt	cadet
 kaduss	caduceus
-kaftera&’	cafeteria
+kaftera&'	cafeteria
 kasn	caisson
 kajol	cajole
 kal^mt	calamity
@@ -250,7 +250,7 @@ sesl	ceaseless
 sess	ceases
 ssash	cessation
 nssnt	incessant
-ns)es’	unceasing
+ns)es'	unceasing
 sede~	cedar
 sed	cede
 aksed	accede
@@ -550,7 +550,7 @@ re^m	reclaim
 nklamd	unclaimed
 klarvoens	clairvoyance
 klame~	clamor
-clamerus	clamorous
+klamerus	clamorous
 klandestn	clandestine
 klangr	clangor
 klarf	clarify
@@ -566,7 +566,7 @@ nklaf^t	unclassified
 klav^k	clavicle
 	
 # Page 33 Column 1	
-claver	clavier
+klaver	clavier
 klen	clean
 klend	cleaned
 klene~	cleaner
@@ -596,8 +596,8 @@ klejman	clergyman
 klr	clerk
 klr^k	clerical
 klev	clever
-clev^r	cleverer
-clev^st	cleverest
+klev^r	cleverer
+klev^st	cleverest
 klint	client
 klint^j	clientage
 klintel	clientele
@@ -697,12 +697,12 @@ knomn	cognomen
 ko'er	cohere
 ko'erens	coherence
 ko'erent	coherent
-ko’err	coherer
+ko'err	coherer
 ko'esh	cohesion
 	
 # Page 34 Column 3	
 ko'esv	cohesive
-n-ko’erent	incoherent
+n-ko'erent	incoherent
 ko'ot	cohort
 ka_fur	coiffure
 koenj	coinage
@@ -1578,7 +1578,7 @@ dskrsv	discursive
 rekrs	recourse
 kot	court
 kotd	courted
-kot’us	courthouse
+kot'us	courthouse
 kotenes	courtliness
 kot-marsh	court-martial
 kota~d	courtyard
@@ -1650,7 +1650,7 @@ krepl	cripple
 kriss	crisis
 krises	crises
 kritern	criterion
-kritra&’	criteria
+kritra&'	criteria
 kr^a	critic
 kretss	criticism
 kretss	criticize
@@ -1803,9 +1803,9 @@ kutlre	cutlery
 kutle	cutlet
 sikl	cycle
 siklon	cyclone
-siklopda&’	cyclopedia
+siklopda&'	cyclopedia
 siklopdek	cyclopedic
-nsiklopda&’	encyclopedia
+nsiklopda&'	encyclopedia
 selend	cylinder
 	
 # Page 48 Column 3	

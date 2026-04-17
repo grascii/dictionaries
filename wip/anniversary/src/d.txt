@@ -1,12 +1,12 @@
 # Page 49 Column 1	
-daksu’nd	dachshund
+daksu'nd	dachshund
 dafdel	daffodil
 dage~tip	daguerreotype
 dante	dainty
 danter	daintier
 dante^st	daintiest
 dante|	daintily
-dala&’ns	dalliance
+dala&'ns	dalliance
 tmj	damage
 tmjd	damaged
 n-dmnf	indemnify
@@ -292,11 +292,11 @@ dlesh	delicious
 dli	delight
 dli^t	delighted
 dlif	delightful
-dlena&’t	delineate
+dlena&'t	delineate
 	
 # Page 52 Column 3	
-dlena&’sh	delineation
-dlena&’te~	delineator
+dlena&'sh	delineation
+dlena&'te~	delineator
 dlenk	delinquent
 dlenkse	delinquency
 dlerm	delirium
@@ -358,8 +358,8 @@ dnot	denote
 dn-ns	denounce
 dn-nsm	denouncement
 dn-nser	denouncer
-dnunsa&’sh	denunciation
-dnunsa&’tre	denunciatory
+dnunsa&'sh	denunciation
+dnunsa&'tre	denunciatory
 dns	dense
 dn^s	density
 dntl	dental
@@ -714,7 +714,7 @@ dplomse	diplomacy
 dplom^a	diplomatic
 dplomates	diplomatist
 depsomna&'	dipsomania
-depsolmna&’k	dipsomaniac
+depsolmna&'k	dipsomaniac
 di~	dire
 dirf	direful
 da&e~	direly
@@ -1206,5 +1206,5 @@ dinamek	dynamic
 dinami	dynamite
 dinamo	dynamo
 dinaste	dynasty
-dspepsa&’	dyspepsia
+dspepsa&'	dyspepsia
 dspep	dyspeptic

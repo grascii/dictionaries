@@ -334,12 +334,12 @@ n-krjs	encourages
 n-krochm	encroachment
 n-kmbrans	encumbrance
 n-sikl^k	encyclical
-n-siklopda&’	encyclopedia
+n-siklopda&'	encyclopedia
 n-siklopdek	encyclopedic
 nd	end
 ndd	ended
 ndl	endless
-n-nd’	unending
+n-nd'	unending
 ndnje~	endanger
 ndnje~d	endangered
 n-dem	endearment
@@ -388,7 +388,7 @@ n-gravr	engraver
 n-gros	engross
 en'ans	enhance
 en'ansm	enhancement
-unen’anst	unenhanced
+unen'anst	unenhanced
 enegma	enigma
 enegm^a	enigmatic
 njoen	enjoin
@@ -491,7 +491,7 @@ eneumsh	enumeration
 eneum^r	enumerator
 enunsa&'	enunciate
 enunsa&'sh	enunciation
-enunsa&’^r	enunciator
+enunsa&'^r	enunciator
 nvl	envelope
 nvlm	envelopment
 nvirns	environs
@@ -788,7 +788,7 @@ es^sv	exclusive
 e^d	include
 e^dd	included
 eskmu	excommunicate
-eskora^’t	excoriate
+eskora^'t	excoriate
 eskresns	excrescence
 eskrsha&'t	excruciate
 esklpat	exculpate
@@ -824,7 +824,7 @@ es(e~t	exert
 es(e~td	exerted
 es(esh	exertion
 es'al	exhale
-es’alash	exhalation
+es'alash	exhalation
 esos	exhaust
 esosb	exhaustible
 esossh	exhaustion
@@ -843,8 +843,8 @@ esot	exhort
 esotsh	exhortation
 esotd	exhorted
 es'eum	exhume
-es’eumsh	exhumation
-es’eumd	exhumed
+es'eumsh	exhumation
+es'eumd	exhumed
 en'eum	inhume
 esejnt	exigent
 esejse	exigency
@@ -873,8 +873,8 @@ espansb	expansible
 espansh	expansion
 espansv	expansive
 espasha&'t	expatiate
-espasha^’td	expatiated
-espasha^’sh	expatiation
+espasha^'td	expatiated
+espasha^'sh	expatiation
 esptra&'t	expatriate
 esp	expect
 espnse	expectancy
@@ -905,7 +905,7 @@ espremr	experimenter
 espe~t	expert
 espa&'t	expiate
 espa&'sh	expiation
-espa&’tre	expiatory
+espa&'tre	expiatory
 espi	expire
 esprash	expiration
 espl	explain
@@ -949,7 +949,7 @@ esprv	expressive
 esprman	expressman
 nespr^t	unexpressed
 esprpra&'t	expropriate
-esprpra&’sh	expropriation
+esprpra&'sh	expropriation
 esplsh	expulsion
 esplsv	expulsive
 espnj	expunge

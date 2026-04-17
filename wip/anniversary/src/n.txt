@@ -170,7 +170,7 @@ nesl	nestle
 neth	nether
 netrk	network
 nurl	neural
-nurlja&’	neuralgia
+nurlja&'	neuralgia
 nuras(thena&'	neurasthenia
 nurss	neurosis
 nur^a	neurotic
@@ -281,7 +281,7 @@ nunsch	nonesuch
 non-ess(	non-existence
 non-metkl	non-metallic
 nonprel	nonpareil
-nonptesp’	non-participating
+nonptesp'	non-participating
 nonpam	non-payment
 nonplus	nonplus
 nonrs-edn	non-resident
@@ -362,7 +362,7 @@ nov^st	novelist
 noviz	novelize
 novte	novelty
 noves	novice
-novesha&’t	novitiate
+novesha&'t	novitiate
 nau	now
 naudas	nowadays
 noar	nowhere
@@ -370,9 +370,9 @@ nokshus	noxious
 enokshus	innoxious
 obnokshus	obnoxious
 nozl	nozzle
-nukla&’t	nucleate
+nukla&'t	nucleate
 nukla&'r	nuclear
-nukla&’sh	nucleation
+nukla&'sh	nucleation
 nuklus	nucleus
 	
 # Page 147 Column 3	

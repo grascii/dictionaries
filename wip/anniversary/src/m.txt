@@ -1,7 +1,7 @@
 # Page 130 Column 1	
 makbr	macabre
 m^adm	macadam
-? admiz	macadamize
+? m^admiz	macadamize
 makrone	macaroni
 makrun	macaroon
 masera	macerate

@@ -538,7 +538,7 @@ seba&'n	Serbian
 s(e~nad	serenade
 	
 # Page 203 Column 3	
-s(~enata	serenata
+s(e~nata	serenata
 seren	serene
 serene	serenely
 seren-nes	sereneness
