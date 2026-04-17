@@ -1607,7 +1607,7 @@ stpt	stopped
 stpr	stopper
 stor	store
 storj	storage
-stor-'us	storehouse
+stor'us	storehouse
 storrm	storeroom
 stork	stork
 stom	storm
@@ -2007,7 +2007,7 @@ smrenes	summariness
 smrezash	summarization
 smriz	summarize
 sme~	summer
-smer-'us	summerhouse
+smer'us	summerhouse
 sme~e	summery
 smet	summit
 smn	summon

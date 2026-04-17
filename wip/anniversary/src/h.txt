@@ -543,7 +543,7 @@ usmad	housemaid
 'usif	housewife
 'usrk	housework
 is'us	ice house
-stor-'us	storehouse
+stor'us	storehouse
 uar-s	warehouse
 'ovl	hovel
 'uvr	hover
