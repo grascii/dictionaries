@@ -41,7 +41,7 @@ kam	calm
 kamd	calmed
 kame	calmly
 kam-nes	calmness
-kalre	caforie
+kalre	calorie
 kalm-ne	calumny
 kalm-na&'t	calumniate
 kalm-nus	calumnious
@@ -1053,7 +1053,7 @@ kdukvte	conductivity
 	
 # Page 39 Column 1	
 kdukr	conductor
-mskduk	misconduet
+mskduk	misconduct
 kdet	conduit
 kon	cone
 knek	conic

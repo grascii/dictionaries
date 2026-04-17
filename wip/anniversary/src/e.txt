@@ -47,7 +47,7 @@ ebulesh	ebullition
 esn^k	eccentric
 esn^s	eccentricity
 ekles^st	ecclesiastic
-ekla	éclat
+ekla	eclat
 eklektek	eclectic
 ekleps	eclipse
 	
@@ -735,7 +735,7 @@ esolt	exalt
 esoltsh	exaltation
 esoltd	exalted
 esamn	examine
-esamnsh	examnation
+esamnsh	examination
 esamp	example
 esemp^re	exemplary
 esemp^f	exemplification

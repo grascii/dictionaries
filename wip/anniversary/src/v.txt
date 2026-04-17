@@ -67,7 +67,7 @@ vapriz	vaporize
 vaprus	vaporous
 va~nsh	varnish
 vare	vary
-nvarb	inyariable
+nvarb	invariable
 var^b	variability
 varb	variable
 vara&'ns	variance
@@ -156,7 +156,7 @@ ve~meln	vermilion
 ve~mn	vermin
 ve~msi	vermicide
 ve~mfm	vermiform
-ve~mfeuj	vermiftuge
+ve~mfeuj	vermifuge
 ve~mnus	verminous
 	
 # Page 250 Column 1	

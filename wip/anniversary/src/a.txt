@@ -1030,7 +1030,7 @@ a~tl	artless
 a~tlnes	artlessness
 a~tre	artery
 a~terl	arterial
-a~tersklerss	arteriosclerosise
+a~tersklerss	arteriosclerosis
 arthri	arthritis
 a~tchk	artichoke
 a~t^k	article
@@ -1042,7 +1042,7 @@ ena~tek^u	inarticulate
 a~tfes	artifice
 a~tfesr	artificer
 a~tfesh	artificial
-a~tfesh^l	artficiality
+a~tfesh^l	artificiality
 a~tel	artillery
 a~tesn	artisan
 a~tes	artist

@@ -572,7 +572,7 @@ eremdb	irremediable
 remdb	remediable
 remdl	remedial
 remn	remember
-remm-ns	remembrancee
+remm-ns	remembrance
 remin	remind
 remin^r	reminder
 reminf	remindful
