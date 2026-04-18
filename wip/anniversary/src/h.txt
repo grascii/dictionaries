@@ -640,7 +640,7 @@ idrant	hydrant
 'idrofoba&'	hydrophobia
 'idroplan	hydroplane
 'idro-st^as	hydrostatics
-'idros)id	hydroxide
+'idrox)id	hydroxide
 'ijen	hygiene
 'ijenek	hygienic
 'ijen^ke	hygienically

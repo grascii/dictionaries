@@ -313,7 +313,7 @@ eunv	universe
 eunv^l	universality
 eunvle	universally
 eunveste	university
-njusfb	injustifiable
+njusfb	unjustifiable
 n-ki	unkind
 n-ka&enes	unkindliness
 una&e	unknightly

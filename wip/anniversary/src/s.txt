@@ -1434,7 +1434,8 @@ st-m	statement
 strm	stateroom
 stsman	statesman
 st^a	static
-idro-st^as	hydrostatics
+# hydrostatics is not shown with an aspirate here but has one on page 99
+'idro-st^as	hydrostatics
 stsh	station
 stshe~e	stationary
 stshe~	stationer

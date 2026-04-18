@@ -516,7 +516,8 @@ one~^sh	ownership
 oxalk	oxalic
 ox)ej	oxygen
 dox)id	dioxide
-idrox)id	hydroxide
+# hydroxide is not shown with an aspirate here but has one on page 99
+'idrox)id	hydroxide
 mnox)id	monoxide
 ox)id	oxide
 ox)ediz	oxidize
