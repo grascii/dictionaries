@@ -279,7 +279,7 @@ gv	government
 gv^m	governmental
 gv^r	governor
 msgv	misgovern
-n-gv	ungovernable
+n-gv^b	ungovernable
 gras	grace
 grasf	graceful
 grasl	graceless
@@ -387,7 +387,7 @@ grum	groom
 grumd	groomed
 grotesk	grotesque
 grnd	ground
-bakgrd	background
+bakgrnd	background
 fgrnd	foreground
 grndl	groundless
 grndrk	groundwork

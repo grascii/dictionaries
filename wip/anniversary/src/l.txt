@@ -162,7 +162,7 @@ laxtv	laxative
 # Page 123 Column 1	
 laxte	laxity
 laxnes	laxness
-rlax	relax
+relax	relax
 lar	layer
 laze	lazy
 laze|	lazily

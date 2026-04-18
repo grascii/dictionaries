@@ -167,7 +167,7 @@ rede	ready
 reda|	readily
 redenes	readiness
 ra&'fem	reaffirm
-ra&'gnt	reagent
+ra&'jnt	reagent
 re	real
 re^sm	realism
 re^st	realist
@@ -383,8 +383,8 @@ renak	reenact
 renakt	reenacted
 rnfs	reenforce
 rnfsm	reenforcement
-rnga	reengage
-rngrav	reengrave
+rn-ga	reengage
+rn-grav	reengrave
 rnls	reenlist
 rnlsm	reenlistment
 rn^	reenter
@@ -632,7 +632,7 @@ ropn	reopen
 rod	reorder
 rog	reorganize
 rpar	repair
-ereparb	irreparable
+erparb	irreparable
 rpa~d	repaired
 rparb	reparable
 rparash	reparation

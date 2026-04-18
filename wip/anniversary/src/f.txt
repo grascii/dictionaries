@@ -641,7 +641,7 @@ fnsh	furnish
 fneshe~	furnisher
 fnsh^s(	furnishings
 fnetr	furniture
-nfnesht	unfurnished
+nfnsht	unfurnished
 feurr	furor
 fth)	further
 	

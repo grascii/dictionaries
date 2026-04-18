@@ -902,7 +902,7 @@ mntnus	mountainous
 mntd	mounted
 remnt	remount
 se~mnt	surmount
-n-m-td	unmounted
+n-mntd	unmounted
 mntbank	mountebank
 mon	mourn
 mone~	mourner
@@ -917,7 +917,7 @@ mauthpes	mouthpiece
 	
 # Page 141 Column 2	
 mu	move
-emub	immovable
+emu^b	immovable
 mu^b	movability
 mu^b	movable
 mum	movement

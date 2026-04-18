@@ -46,7 +46,7 @@ rsal	resale
 sal^b	salability
 salb	salable
 sasman	salesman
-olsa	wholesale
+'olsa	wholesale
 salent	salient
 salens	salience
 salin	saline
@@ -1232,7 +1232,7 @@ mspl	misspell
 splr	speller
 spnd	spend
 mspnt	misspent
-spndthref	spendthrift
+spndthreft	spendthrift
 spe~m-sete	spermaceti
 sfer	sphere
 'emesfer	hemisphere
@@ -1434,7 +1434,7 @@ st-m	statement
 strm	stateroom
 stsman	statesman
 st^a	static
-idrost^as	hydrostatics
+idro-st^as	hydrostatics
 stsh	station
 stshe~e	stationary
 stshe~	stationer

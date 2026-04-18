@@ -140,7 +140,7 @@ d-seml	decimal
 d-semat	decimate
 d-sif	decipher
 d-sif^b	decipherable
-nd-sif^b	undecipherable
+n-d-sif^b	undecipherable
 de^m	declaim
 de^msh	declamation
 de^matre	declamatory
@@ -193,7 +193,7 @@ msded	misdeed
 dep	deep
 depn	deepen
 depnes	deepness
-dpth	depth
+depth	depth
 de~	deer
 dfas	deface
 efas	efface
@@ -1037,7 +1037,7 @@ dvide~	divider
 dvesb	divisible
 dvesh	division
 dvisr	divisor
-ndvesb	indivisible
+n-dvesb	indivisible
 n-dvidd	undivided
 dvin	divine
 dvensh	divination

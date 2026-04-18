@@ -199,7 +199,7 @@ eleptek	elliptic
 elept^k	elliptical
 eloksh	elocution
 elokshes	elocutionist
-elongat	elongate
+elngat	elongate
 elngsh	elongation
 elok	eloquent
 elok	eloquence

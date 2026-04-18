@@ -22,7 +22,7 @@ kal	calculate
 kalb	calculable
 kalsh	calculation
 kal^r	calculator
-nkalb	incalculable
+n-kalb	incalculable
 	
 # Page 26 Column 2	
 mskal	miscalculate
@@ -92,9 +92,9 @@ kap^b	capability
 kapash	capacious
 kapasta	capacitate
 kap^s	capacity
-nkap	incapable
-nkapasta	incapacitate
-nkap^s	incapacity
+n-kap	incapable
+n-kapasta	incapacitate
+n-kap^s	incapacity
 kaplre	capillary
 kapl^r	capillarity
 kpt	capital
@@ -106,7 +106,7 @@ kpta|	capitally
 kapt^u	capitulate
 	
 # Page 27 Column 2	
-rekap^u	recapitulate
+rekapt^u	recapitulate
 kapres	caprice
 kapresh	capricious
 kapsiz	capsize
@@ -154,8 +154,8 @@ krnl	carnal
 krnj	carnage
 krnev	carnival
 krnev	carnivorous
-nkrnat	incarnate
-nkrnsh	incarnation
+n-krnat	incarnate
+n-krnsh	incarnation
 karl	carol
 karm	carom
 	
@@ -547,7 +547,7 @@ klamd	claimed
 k^klam	counterclaim
 dsklam	disclaim
 re^m	reclaim
-nklamd	unclaimed
+n-klamd	unclaimed
 klarvoens	clairvoyance
 klame~	clamor
 klamerus	clamorous
@@ -562,7 +562,7 @@ klas^k	classical
 klasess	classicist
 klasf	classify
 klas^f	classification
-nklaf^t	unclassified
+n-klaf^t	unclassified
 klav^k	clavicle
 	
 # Page 33 Column 1	
@@ -918,7 +918,7 @@ kplek^t	complicated
 	
 # Page 37 Column 2	
 kpleksh	complication
-kple^s	complicity
+kpl^s	complicity
 akples	accomplice
 kplem	compliment
 kplemre	complimentary

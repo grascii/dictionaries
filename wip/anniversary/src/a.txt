@@ -145,15 +145,15 @@ aks(	acceptance
 aks(sh	acceptation
 	
 # Page 3 Column 1	
-aks(-s	accepts
+aks(s	accepts
 nonaks(	non-acceptance
 naks(b	unacceptable
-aks(s	access
-aks(s^b	accessibility
-aks(s	accessible
+ak-ss	access
+ak-ss^b	accessibility
+ak-ss	accessible
 aksesh	accession
-aks(sre	accessory
-enaks(s	inaccessible
+ak-ssre	accessory
+enak-ss	inaccessible
 aksedns	accidence
 aks	accident
 aksl	accidental
@@ -259,7 +259,7 @@ akr	actor
 akres	actress
 aks	acts
 enak	enact
-nakv	inactive
+enakv	inactive
 enakvte	inactivity
 ra&'k	react
 ra&'kshre	reactionary
@@ -1059,7 +1059,7 @@ asent	ascent
 dsen	descend
 asetn	ascertain
 asetnb	ascertainable
-astnd	ascertained
+asetnd	ascertained
 astnm	ascertainment
 	
 # Page 14 Column 2	
@@ -1261,7 +1261,7 @@ orora	aurora
 os)kultsh	auscultation
 ospess	auspices
 ospesh	auspicious
-inuspesh	inauspicious
+enospesh	inauspicious
 os)te~	austere
 os)t^r	austerity
 othent	authentic

@@ -263,7 +263,7 @@ mpos^b	impossibility
 mpost	impost
 mposte~	impostor
 mpostr	imposture
-mptnt	impotent
+mpotnt	impotent
 mpov	impoverish
 mpovm	impoverishment
 	
@@ -327,13 +327,13 @@ mpush	imputation
 mputv	imputative
 en^b	inability
 nb	unable
-enakss	inaccessible
-enakss^b	inaccessibility
+enak-ss	inaccessible
+enak-ss^b	inaccessibility
 enakra	inaccurate
 enakrse	inaccuracy
 enaksh	inaction
-nakv	inactive
-nakvte	inactivity
+enakv	inactive
+enakvte	inactivity
 enadek	inadequate
 enadekse	inadequacy
 enamesb	inadmissible
@@ -433,7 +433,7 @@ n-kptb	incompatible
 n-kpat^b	incompatibility
 n-kptn	incompetent
 n-kptns	incompetence
-nkp	incomplete
+n-kp	incomplete
 n-kprensb	incomprehensible
 n-kprens^b	incomprehensibility
 n-kkv	inconclusive
@@ -487,7 +487,7 @@ n-kmbent	incumbent
 n-keunab	incunabula
 n-kr	incur
 n-keub	incurable
-ndt^t-nes	indebtedness
+n-dt^t-nes	indebtedness
 ndsent	indecent
 ndsense	indecency
 ndsesh	indecision
@@ -560,7 +560,7 @@ ndspo	indispose
 ndsposh	indisposition
 ndspub	indisputable
 ndsolb	indissoluble
-nds	indistinct
+ndst	indistinct
 ndste	indistinctly
 ndst-nes	indistinctness
 	
@@ -1025,7 +1025,7 @@ ntnshl	intentional
 	
 # Page 113 Column 3	
 ntnt-nes	intentness
-n-ntnsh	unintentional
+n-ntnshl	unintentional
 n^bro	interborough
 n^sed	intercede
 n^sedd	interceded

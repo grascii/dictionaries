@@ -29,7 +29,7 @@ nb	unable
 en^b	inability
 unabrejd	unabridged
 unaksentd	unaccented
-unaks(b	unacceptable
+naks(b	unacceptable
 nakpe^t	unaccompanied
 naktb	unaccountable
 unakus^t	unaccustomed
@@ -176,7 +176,7 @@ n-dsklosd	undisclosed
 n-dsgizd	undisguised
 n-dsmad	undismayed
 n-dspo^t	undisposed
-n-dspu	undisputed
+n-dspu^t	undisputed
 n-dstb	undistinguishable
 n-dstbd	undisturbed
 n-dvidd	undivided
@@ -289,8 +289,8 @@ n-nju^t	uninjured
 n-ns^kt	uninstructed
 n-n^jnt	unintelligent
 n-n^jb	unintelligible
-n-n-tnshl	unintentional
-n-n-tnsha|	unintentionally
+n-ntnshl	unintentional
+n-ntnsha|	unintentionally
 n-n^s^t	uninterested
 n-n^up^t	uninterrupted
 	
@@ -362,7 +362,7 @@ unobse^nt	unobservant
 unobtnb	unobtainable
 unokp^t	unoccupied
 unopnd	unopened
-oog^t	unorganized
+nog^t	unorganized
 unothodox	unorthodox
 unosstntash	unostentatious
 npd	unpaid
@@ -411,7 +411,7 @@ nsalb	unsalable
 n-sanktf^t	unsanctified
 n-sat	unsatisfactory
 n-skld	unschooled
-n-skrpus	unscrupulous
+n-skrupus	unscrupulous
 n-sesnb	unseasonable
 n-seme	unseemly
 n-sen	unseen
@@ -451,7 +451,7 @@ n-suev'	unswerving
 n-semetr^k	unsymmetrical
 nss^a	unsystematic
 n-tantd	untainted
-n-tmd	untamed
+n-tamd	untamed
 n-tangl	untangle
 n-tansht	untarnished
 nth^b	unthinkable
