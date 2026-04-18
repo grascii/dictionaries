@@ -46,7 +46,7 @@ rsal	resale
 sal^b	salability
 salb	salable
 sasman	salesman
-olsa	wholesale
+'olsa	wholesale
 salent	salient
 salens	salience
 salin	saline
@@ -538,7 +538,7 @@ seba&'n	Serbian
 s(e~nad	serenade
 	
 # Page 203 Column 3	
-s(~enata	serenata
+s(e~nata	serenata
 seren	serene
 serene	serenely
 seren-nes	sereneness
@@ -1232,7 +1232,7 @@ mspl	misspell
 splr	speller
 spnd	spend
 mspnt	misspent
-spndthref	spendthrift
+spndthreft	spendthrift
 spe~m-sete	spermaceti
 sfer	sphere
 'emesfer	hemisphere
@@ -1434,7 +1434,7 @@ st-m	statement
 strm	stateroom
 stsman	statesman
 st^a	static
-idrost^as	hydrostatics
+idro-st^as	hydrostatics
 stsh	station
 stshe~e	stationary
 stshe~	stationer
@@ -1607,7 +1607,7 @@ stpt	stopped
 stpr	stopper
 stor	store
 storj	storage
-stor-'us	storehouse
+stor'us	storehouse
 storrm	storeroom
 stork	stork
 stom	storm
@@ -2007,7 +2007,7 @@ smrenes	summariness
 smrezash	summarization
 smriz	summarize
 sme~	summer
-smer-'us	summerhouse
+smer'us	summerhouse
 sme~e	summery
 smet	summit
 smn	summon

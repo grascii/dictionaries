@@ -490,7 +490,7 @@ prefre	periphery
 prefr^st	periphrastic
 preskp	periscope
 persh	perish
-mpereshb	imperishable
+mpershb	imperishable
 pershb	perishable
 perstil	peristyle
 pe~tnom	peritoneum
@@ -1260,7 +1260,7 @@ prefns	preference
 prefnsh	preferential
 prefnsha|	preferentially
 prefm	preferment
-prefes	prefix
+prefex	prefix
 pr'estrk	prehistoric
 prejj	prejudge
 prej	prejudice
@@ -1638,7 +1638,7 @@ protessh	protestation
 protokol	protocol
 protplasm	protoplasm
 prototip	prototype
-protosid	protoxide
+protox)id	protoxide
 protrk	protract
 protrksh	protraction
 protrkv	protractive

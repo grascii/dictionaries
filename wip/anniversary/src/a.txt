@@ -145,15 +145,15 @@ aks(	acceptance
 aks(sh	acceptation
 	
 # Page 3 Column 1	
-aks(-s	accepts
+aks(s	accepts
 nonaks(	non-acceptance
 naks(b	unacceptable
-aks(s	access
-aks(s^b	accessibility
-aks(s	accessible
+ak-ss	access
+ak-ss^b	accessibility
+ak-ss	accessible
 aksesh	accession
-aks(sre	accessory
-enaks(s	inaccessible
+ak-ssre	accessory
+enak-ss	inaccessible
 aksedns	accidence
 aks	accident
 aksl	accidental
@@ -168,7 +168,7 @@ akdt	accommodate
 akdsh	accommodation
 nakdt'	unaccommodating
 akpe	accompany
-?akpem	accompaniment
+akpe-m	accompaniment
 akpe^st	accompanist
 	
 # Page 3 Column 2	
@@ -226,7 +226,7 @@ aka	acquaint
 aka	acquaintance
 	
 # Page 4 Column 1	
-?akas	acquaintances
+aka-s	acquaintances
 naka^t	unacquainted
 ake_s	acquiesce
 ake_sns	acquiescence
@@ -259,7 +259,7 @@ akr	actor
 akres	actress
 aks	acts
 enak	enact
-nakv	inactive
+enakv	inactive
 enakvte	inactivity
 ra&'k	react
 ra&'kshre	reactionary
@@ -315,7 +315,7 @@ ad'e~	adhere
 ad'e~d	adhered
 ad'ens	adherence
 ad'ent	adherent
-ad'e|~	adheres
+ad'e~|	adheres
 ad'esh	adhesion
 ad'esv	adhesive
 adeu	adieu
@@ -351,7 +351,7 @@ amer^l	admiralty
 amerash	admiration
 mi~	admire
 mi~^r	admirer
-mi|~	admires
+mi~|	admires
 amesb	admissible
 ames^b	admissibility
 amsh	admission
@@ -478,7 +478,7 @@ agns	against
 ajl	ageless
 aj	agent
 ajse	agency
-?ra&'jnt	reagent
+ra&'jnt	reagent
 aglomsh	agglomeration
 aglutnsh	agglutination
 a|^ndiz	aggrandize
@@ -594,7 +594,7 @@ ote~	altar
 ote~	alter
 oterb	alterable
 oterash	alteration
-? noterb	unalterable
+noterb	unalterable
 oteksh	altercation
 otenat	alternate
 otensh	alternation
@@ -1030,7 +1030,7 @@ a~tl	artless
 a~tlnes	artlessness
 a~tre	artery
 a~terl	arterial
-a~tersklerss	arteriosclerosise
+a~tersklerss	arteriosclerosis
 arthri	arthritis
 a~tchk	artichoke
 a~t^k	article
@@ -1042,7 +1042,7 @@ ena~tek^u	inarticulate
 a~tfes	artifice
 a~tfesr	artificer
 a~tfesh	artificial
-a~tfesh^l	artficiality
+a~tfesh^l	artificiality
 a~tel	artillery
 a~tesn	artisan
 a~tes	artist
@@ -1059,7 +1059,7 @@ asent	ascent
 dsen	descend
 asetn	ascertain
 asetnb	ascertainable
-astnd	ascertained
+asetnd	ascertained
 astnm	ascertainment
 	
 # Page 14 Column 2	
@@ -1261,7 +1261,7 @@ orora	aurora
 os)kultsh	auscultation
 ospess	auspices
 ospesh	auspicious
-inuspesh	inauspicious
+enospesh	inauspicious
 os)te~	austere
 os)t^r	austerity
 othent	authentic

@@ -1,12 +1,12 @@
 # Page 49 Column 1	
-daksu’nd	dachshund
+daksu'nd	dachshund
 dafdel	daffodil
 dage~tip	daguerreotype
 dante	dainty
 danter	daintier
 dante^st	daintiest
 dante|	daintily
-dala&’ns	dalliance
+dala&'ns	dalliance
 tmj	damage
 tmjd	damaged
 n-dmnf	indemnify
@@ -140,7 +140,7 @@ d-seml	decimal
 d-semat	decimate
 d-sif	decipher
 d-sif^b	decipherable
-nd-sif^b	undecipherable
+n-d-sif^b	undecipherable
 de^m	declaim
 de^msh	declamation
 de^matre	declamatory
@@ -193,7 +193,7 @@ msded	misdeed
 dep	deep
 depn	deepen
 depnes	deepness
-dpth	depth
+depth	depth
 de~	deer
 dfas	deface
 efas	efface
@@ -292,11 +292,11 @@ dlesh	delicious
 dli	delight
 dli^t	delighted
 dlif	delightful
-dlena&’t	delineate
+dlena&'t	delineate
 	
 # Page 52 Column 3	
-dlena&’sh	delineation
-dlena&’te~	delineator
+dlena&'sh	delineation
+dlena&'te~	delineator
 dlenk	delinquent
 dlenkse	delinquency
 dlerm	delirium
@@ -358,8 +358,8 @@ dnot	denote
 dn-ns	denounce
 dn-nsm	denouncement
 dn-nser	denouncer
-dnunsa&’sh	denunciation
-dnunsa&’tre	denunciatory
+dnunsa&'sh	denunciation
+dnunsa&'tre	denunciatory
 dns	dense
 dn^s	density
 dntl	dental
@@ -714,7 +714,7 @@ dplomse	diplomacy
 dplom^a	diplomatic
 dplomates	diplomatist
 depsomna&'	dipsomania
-depsolmna&’k	dipsomaniac
+depsolmna&'k	dipsomaniac
 di~	dire
 dirf	direful
 da&e~	direly
@@ -1037,7 +1037,7 @@ dvide~	divider
 dvesb	divisible
 dvesh	division
 dvisr	divisor
-ndvesb	indivisible
+n-dvesb	indivisible
 n-dvidd	undivided
 dvin	divine
 dvensh	divination
@@ -1206,5 +1206,5 @@ dinamek	dynamic
 dinami	dynamite
 dinamo	dynamo
 dinaste	dynasty
-dspepsa&’	dyspepsia
+dspepsa&'	dyspepsia
 dspep	dyspeptic

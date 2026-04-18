@@ -162,7 +162,7 @@ laxtv	laxative
 # Page 123 Column 1	
 laxte	laxity
 laxnes	laxness
-rlax	relax
+relax	relax
 lar	layer
 laze	lazy
 laze|	lazily
@@ -540,7 +540,7 @@ lofte|	loftily
 # Page 127 Column 3	
 loftenes	loftiness
 logrethm	logarithm
-loja^'	loggia
+loja&'	loggia
 lojk	logic
 eloj^k	illogical
 loj^k	logical

@@ -10,7 +10,7 @@ kadns	cadence
 kadnza	cadenza
 kadt	cadet
 kaduss	caduceus
-kaftera&’	cafeteria
+kaftera&'	cafeteria
 kasn	caisson
 kajol	cajole
 kal^mt	calamity
@@ -22,7 +22,7 @@ kal	calculate
 kalb	calculable
 kalsh	calculation
 kal^r	calculator
-nkalb	incalculable
+n-kalb	incalculable
 	
 # Page 26 Column 2	
 mskal	miscalculate
@@ -41,7 +41,7 @@ kam	calm
 kamd	calmed
 kame	calmly
 kam-nes	calmness
-kalre	caforie
+kalre	calorie
 kalm-ne	calumny
 kalm-na&'t	calumniate
 kalm-nus	calumnious
@@ -92,9 +92,9 @@ kap^b	capability
 kapash	capacious
 kapasta	capacitate
 kap^s	capacity
-nkap	incapable
-nkapasta	incapacitate
-nkap^s	incapacity
+n-kap	incapable
+n-kapasta	incapacitate
+n-kap^s	incapacity
 kaplre	capillary
 kapl^r	capillarity
 kpt	capital
@@ -106,7 +106,7 @@ kpta|	capitally
 kapt^u	capitulate
 	
 # Page 27 Column 2	
-rekap^u	recapitulate
+rekapt^u	recapitulate
 kapres	caprice
 kapresh	capricious
 kapsiz	capsize
@@ -154,8 +154,8 @@ krnl	carnal
 krnj	carnage
 krnev	carnival
 krnev	carnivorous
-nkrnat	incarnate
-nkrnsh	incarnation
+n-krnat	incarnate
+n-krnsh	incarnation
 karl	carol
 karm	carom
 	
@@ -250,7 +250,7 @@ sesl	ceaseless
 sess	ceases
 ssash	cessation
 nssnt	incessant
-ns)es’	unceasing
+ns)es'	unceasing
 sede~	cedar
 sed	cede
 aksed	accede
@@ -547,10 +547,10 @@ klamd	claimed
 k^klam	counterclaim
 dsklam	disclaim
 re^m	reclaim
-nklamd	unclaimed
+n-klamd	unclaimed
 klarvoens	clairvoyance
 klame~	clamor
-clamerus	clamorous
+klamerus	clamorous
 klandestn	clandestine
 klangr	clangor
 klarf	clarify
@@ -562,11 +562,11 @@ klas^k	classical
 klasess	classicist
 klasf	classify
 klas^f	classification
-nklaf^t	unclassified
+n-klaf^t	unclassified
 klav^k	clavicle
 	
 # Page 33 Column 1	
-claver	clavier
+klaver	clavier
 klen	clean
 klend	cleaned
 klene~	cleaner
@@ -596,8 +596,8 @@ klejman	clergyman
 klr	clerk
 klr^k	clerical
 klev	clever
-clev^r	cleverer
-clev^st	cleverest
+klev^r	cleverer
+klev^st	cleverest
 klint	client
 klint^j	clientage
 klintel	clientele
@@ -697,12 +697,12 @@ knomn	cognomen
 ko'er	cohere
 ko'erens	coherence
 ko'erent	coherent
-ko’err	coherer
+ko'err	coherer
 ko'esh	cohesion
 	
 # Page 34 Column 3	
 ko'esv	cohesive
-n-ko’erent	incoherent
+n-ko'erent	incoherent
 ko'ot	cohort
 ka_fur	coiffure
 koenj	coinage
@@ -918,7 +918,7 @@ kplek^t	complicated
 	
 # Page 37 Column 2	
 kpleksh	complication
-kple^s	complicity
+kpl^s	complicity
 akples	accomplice
 kplem	compliment
 kplemre	complimentary
@@ -1053,7 +1053,7 @@ kdukvte	conductivity
 	
 # Page 39 Column 1	
 kdukr	conductor
-mskduk	misconduet
+mskduk	misconduct
 kdet	conduit
 kon	cone
 knek	conic
@@ -1578,7 +1578,7 @@ dskrsv	discursive
 rekrs	recourse
 kot	court
 kotd	courted
-kot’us	courthouse
+kot'us	courthouse
 kotenes	courtliness
 kot-marsh	court-martial
 kota~d	courtyard
@@ -1650,7 +1650,7 @@ krepl	cripple
 kriss	crisis
 krises	crises
 kritern	criterion
-kritra&’	criteria
+kritra&'	criteria
 kr^a	critic
 kretss	criticism
 kretss	criticize
@@ -1803,9 +1803,9 @@ kutlre	cutlery
 kutle	cutlet
 sikl	cycle
 siklon	cyclone
-siklopda&’	cyclopedia
+siklopda&'	cyclopedia
 siklopdek	cyclopedic
-nsiklopda&’	encyclopedia
+nsiklopda&'	encyclopedia
 selend	cylinder
 	
 # Page 48 Column 3	

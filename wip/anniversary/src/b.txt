@@ -140,7 +140,8 @@ btes	beauties
 bte-f	beautiful
 bte-f	beautify
 bevr	beaver
-ks(	because, cause
+ks(	because
+ks(	cause
 bd	bed
 bdchambr	bedchamber
 bdredn	bedridden
@@ -260,7 +261,8 @@ bgtre	bigotry
 beshu	bijou
 blengl	bilingual
 belus	bilious
-bl	bill, built
+bl	bill
+bl	built
 blbod	billboard
 bl'ed	billhead
 bela~ds	billiards
