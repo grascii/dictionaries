@@ -507,7 +507,7 @@ s(^la^re	circulatory
 s(^f	circumference
 s(^flex	circumflex
 s(^loksh	circumlocution
-s^navg	circumnavigate
+s(^navg	circumnavigate
 s(^skr	circumscribe
 s(^sp	circumspect
 	

@@ -135,7 +135,7 @@ satres	satirist
 # Page 198 Column 3	
 satriz	satirize
 sat	satisfy
-dsat	dissatisfy
+ds)at	dissatisfy
 satsh	satisfaction
 sat	satisfactory
 n-sat	unsatisfactory
@@ -1543,7 +1543,7 @@ stegmatiz	stigmatize
 stil	stile
 steleto	stiletto
 ste~	still
-d-stel	distill
+ds)tel	distill
 stenes	stillness
 stee	stilly
 stelt	stilt
@@ -2164,7 +2164,7 @@ sernd^s(	surroundings
 seva	survey
 sevalns	surveillance
 sevar	surveyor
-se~vi	survive
+sevi	survive
 rvi	revive
 sevi^l	survival
 sevi^r^sh	survivorship

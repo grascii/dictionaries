@@ -281,7 +281,7 @@ arlum	heirloom
 'elpmat	helpmate
 'emati	hematite
 'emes)ikl	hemicycle
-'emes)fer	hemisphere
+'emesfer	hemisphere
 'emlok	hemlock
 'emorj	hemorrhage
 'em-stech	hemstitch
@@ -534,7 +534,7 @@ re	hourly
 'us	house
 'us^old	household
 'us^oldr	householder
-'us(kp^r	housekeeper
+'uskp^r	housekeeper
 usmad	housemaid
 	
 # Page 98 Column 3	
@@ -544,7 +544,7 @@ usmad	housemaid
 'usrk	housework
 is'us	ice house
 stor'us	storehouse
-uar-s	warehouse
+uars)	warehouse
 'ovl	hovel
 'uvr	hover
 au	how

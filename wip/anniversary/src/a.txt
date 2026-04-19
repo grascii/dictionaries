@@ -395,7 +395,7 @@ vanss	advances
 av	advantage
 avus	advantageous
 avs	advantages
-dsav	disadvantage
+ds)av	disadvantage
 avnt	advent
 avntesh	adventitious
 avntr	adventure
@@ -436,7 +436,7 @@ af^b	affability
 afk	affect
 afktsh	affectation
 afkshat	affectionate
-dsafkt	disaffected
+ds)afkt	disaffected
 unafkte	unaffectedly
 afins	affiance
 afdv	affidavit
@@ -1144,7 +1144,7 @@ asosh	association
 asoshtv	associative
 	
 # Page 15 Column 2	
-dsosht	dissociate
+ds)osht	dissociate
 asnans	assonance
 asot	assort
 asotd	assorted
@@ -1323,7 +1323,7 @@ voes	avoids
 nvoe	unavoidable
 avdpoe	avoirdupois
 avaul	avowal
-dsavaul	disavowal
+ds)avaul	disavowal
 ar	aware
 nar	unaware
 of	awful

@@ -173,7 +173,7 @@ n-degnf^t	undignified
 n-demd	undimmed
 n-dseplend	undisciplined
 n-dsklosd	undisclosed
-n-dsgizd	undisguised
+n-dsgisd	undisguised
 n-dsmad	undismayed
 n-dspo^t	undisposed
 n-dspu^t	undisputed
@@ -204,7 +204,7 @@ n-mbarast	unembarrassed
 n-mplm	unemployment
 n-n-kmbr^t	unencumbered
 n-nd'	unending
-n-ndos(t	unendorsed
+n-ndost	unendorsed
 n-ndrb	unendurable
 n-nfsb	unenforceable
 n-n^pris'	unenterprising
@@ -431,7 +431,7 @@ n-sof^sta^t	unsophisticated
 	
 # Page 245 Column 2	
 n-sot	unsought
-n-snt	unsound
+n-snd	unsound
 nspb	unspeakable
 nspes^t	unspecified
 nspoeld	unspoiled
@@ -526,7 +526,7 @@ up'ol-ste~e	upholstery
 euranem	uranium
 erbn	urban
 n^erbn	interurban
-s)rbn	suburban
+s-rbn	suburban
 erban	urbane
 erb^nt	urbanity
 e~j	urge
@@ -538,8 +538,8 @@ eu	use
 abeu	abuse
 	
 # Page 246 Column 3	
-ds(eu	disuse
-ms(eu	misuse
+dseu	disuse
+mseu	misuse
 neu^t	unused
 eu^b	usable
 eu^j	usage

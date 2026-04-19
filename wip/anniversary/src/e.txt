@@ -457,7 +457,7 @@ nthrold	enthralled
 nthron	enthrone
 	
 # Page 69 Column 3	
-nthrond	enthroned
+nth(rond	enthroned
 nthus	enthusiasm
 nthus-st	enthusiast
 nthus^st	enthusiastic
