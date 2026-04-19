@@ -72,7 +72,7 @@ ma~	mail
 ma~^b	mailable
 ma~^t	mailed
 ma~^r	mailer
-n-ma^b	unmailable
+n-ma~^b	unmailable
 mam	maim
 mamd	maimed
 man	main
@@ -901,7 +901,7 @@ mntnr	mountaineer
 mntnus	mountainous
 mntd	mounted
 remnt	remount
-se~mnt	surmount
+s(e~mnt	surmount
 n-mntd	unmounted
 mntbank	mountebank
 mon	mourn

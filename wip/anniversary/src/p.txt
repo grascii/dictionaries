@@ -593,7 +593,7 @@ pe~tnnt	pertinent
 	
 # Page 163 Column 2	
 pe~tb	perturb
-ds(tb	disturb
+dstb	disturb
 pe~tbash	perturbation
 pe~tbd	perturbed
 perus	peruse

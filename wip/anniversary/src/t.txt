@@ -1017,9 +1017,9 @@ trnchn	truncheon
 trndl	trundle
 trnk	trunk
 trs	trust
-ds(trs	distrust
+dstrs	distrust
 ntrs	entrust
-ms(trs	mistrust
+mstrs	mistrust
 trse	trustee
 trse^sh	trusteeship
 	

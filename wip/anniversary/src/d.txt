@@ -660,7 +660,7 @@ dejtles	digitalis
 degnf	dignify
 degnetre	dignitary
 deg^nt	dignity
-nteg^nt	indignity
+ndeg^nt	indignity
 n-degnf^t	undignified
 degres	digress
 degresh	digression
@@ -724,7 +724,7 @@ drknes	directness
 drk^r	director
 drk^ra	directorate
 drk^re	directory
-ntrk	indirect
+ndrk	indirect
 	
 # Page 58 Column 1	
 n-drkt	undirected

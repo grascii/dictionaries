@@ -29,7 +29,7 @@ nobshb	unobjectionable
 objug	objurgate
 oblash	oblation
 obl	oblige
-ds(obl	disoblige
+dsobl	disoblige
 obleg	obligate
 oblsh	obligation
 obleg^re	obligatory
@@ -143,7 +143,7 @@ odm	odium
 odus	odious
 odomete~	odometer
 ode~	odor
-doderis	deodorize
+doderiz	deodorize
 maloderus	malodorous
 oderef	odoriferous
 oderl	odorless
@@ -215,7 +215,7 @@ on-tu	onto
 	
 # Page 151 Column 3	
 on^d	onward
-th)on	thereon
+thon	thereon
 un	one
 non	no one
 onnes	oneness
