@@ -1,1 +1,1 @@
-grascii @ git+https://github.com/grascii/grascii.git@01d3c6b287d1bd4d5711928901355d3cc9b58ad3
+grascii==0.9.0
