@@ -254,7 +254,6 @@ Admitted,a-m-e-td,Ametd,,qademt,5
 Admixture,a-m-e-x-t-r,Amextr,,qaemrtx,0
 Amphibian,a-m-f-e-b-n,Amfebn,,qabefmn,0
 Amethyst,a-m-th-e-s,Amhes,,qaehms,0
-Aim,a-m,Ami,i,qaim,32
 Amount of money,a-mn-e,Amme,,qaem,0
 Amenable,a-mn-b,Amnb,,qabmn,52
 Antimony,a-/-mn-e,Amne,,qaemn,0
@@ -828,7 +827,6 @@ Brevet,br-e-v-t,Brevt,,qbertv,0
 Brevity,br-e-v-t-e,Brevte,,qbertv,0
 Brightly,br-ia,Bria,,qabir,1
 Brighten,br-i-n,Brin,,qbinr,1
-Bright,br-i,Briqk,,qbir,3
 Brighter,br-i-r,Brir,,qbir,1
 Barrel,br-l,Brl,,qblr,0
 Berlin,br-l-e-n,Brlen,,qbelnr,0
@@ -2235,7 +2233,6 @@ Futurist,f-t-/-s2-t,Ftst,,qfst,0
 Ft. worth,f-t-u-th,Ftuh,,qfhtu,0
 Furtive,f-df,Ftv,,qftv,0
 Fusibility,f-e-u-\-b,Fubo,,qbfou,0
-Food,f-u-d,Fud,,qdfu,3
 Fulfill,f-u-f,Fuf,,qfu,10
 Fugacious,f-e-u-g-a-sh,Fugaz,,qafguz,0
 Fulcrum,f-u-k-r-m,Fukrm,,qfkmru,0
@@ -3310,7 +3307,6 @@ Cogitate,k-o-j-t-a,Kojta,,qajkot,0
 Cordially,k-o-j-ye,Kojy,,qjkoy,0
 Cola,k-o-l-a,Kola,,qaklo,0
 Collaborate,k-o-l-a-br-a,Kolabra,,qabklor,0
-Collate,k-o-l-a,Kolao,o,qaklo,0
 Collateral,k-o-l-a-t,Kolat,,qaklot,0
 College,k-o-l-e-j,Kolej,,qejklo,0
 Collegiate,k-o-l-e-j-ea-t,Kolejet,,qejklot,0
@@ -5609,7 +5605,6 @@ Opposes,o-p-o-s,Oposo,o,qops,12
 Opposition,o-p-o-sh,Opoz,,qopz,12
 Opportunity,o-pr,Opr,,qopr,81
 Opera,o-pr-a,Opra,,qaopr,10
-Operate,o-pr-a,Oprao,o,qaopr,10
 Opprobrium,o-pr-br-m,Oprbrm,,qbmopr,0
 Operetta,o-pr-e-t-a,Opreta,,qaeoprt,0
 Hope to receive,o-pr-s-e,Oprse,,qeoprs,0
@@ -5799,7 +5794,6 @@ Plainly,pl-a-n-e,Planeo,o,qaelnop,0
 Plan,pl-a-n,Plani,i,qailnp,0
 Plane,pl-a-n,Plano,o,qalnop,0
 Plans,pl-a-n-s,Planso,o,qalnops,0
-Plant,pl-a-nt,Planto,o,qalnopt,58
 Plain,pl-a-n,Planu,u,qalnpu,0
 Players,pl-a-r-s,Plars,,qalprs,16
 Place,pl-a-s,Plas,,qalps,639
@@ -6523,7 +6517,7 @@ Significant,s2-g,Sg,,qgs,76
 Signal,s2-g-n,Sgn,,qgns,1
 As great as,s2-g-r-s,Sgrs,,qgrs,0
 As good as,s2-g-s,Sgs,,qgs,76
-Is the,s2-th,Sh,,qhs,2
+Is the,s2-th,Shq,q,qhs,2
 Scientific,s2-ia-n-df,Siantf,,qafinst,0
 Sides,s2-i-d-s,Sids,,qdis,11
 Cyclone,s2-i-k-l-o-n,Siklon,,qiklnos,0
