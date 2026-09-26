@@ -177,7 +177,7 @@ elvatd	elevated
 elvash	elevation
 elvate~	elevator
 elest	elicit
-elessh	elicitation
+elestsh	elicitation
 elestd	elicited
 elid	elide
 elesh	elision
@@ -452,9 +452,9 @@ n^tn	entertain
 n^tnd	entertained
 n^tnr	entertainer
 n^tnm	entertainment
-nthrol	enthrall
-nthrold	enthralled
-nthron	enthrone
+nth(rol	enthrall
+nth(rold	enthralled
+nth(ron	enthrone
 	
 # Page 69 Column 3	
 nth(rond	enthroned

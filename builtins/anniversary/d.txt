@@ -702,7 +702,7 @@ dnr	dinner
 # Page 57 Column 3	
 dnje	dingy
 dinsor	dinosaur
-dnt	dint
+dent	dint
 dises	diocese
 dfthera&'	diphtheria
 dfther^a	diphtheritic
