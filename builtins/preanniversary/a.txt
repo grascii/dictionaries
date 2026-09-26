@@ -668,7 +668,7 @@ anle annually
 anute annuity
 anul annul
 anulm annulment
-annsash annunciation
+anunsash annunciation
 anunsa^r annunciator
 
 # Page 8 Column 3
@@ -1240,7 +1240,7 @@ aksem axiom
 
 # Page 15 Column 3
 aksem^a axiomatic
-akss axis
+akss( axis
 aksl axle
 ash,u azure
 

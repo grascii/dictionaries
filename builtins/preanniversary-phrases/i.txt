@@ -614,7 +614,7 @@ ashdbglno I should be glad to know
 ashdglse I should be glad to see
 
 # Page 42 Column 1
-ashkbso I should be sorry
+ashdbso I should be sorry
 ashdv I should have
 ashdvb I should have been
 ashkla I should like

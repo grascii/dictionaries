@@ -53,7 +53,7 @@ un'ampr^t	unhampered
 	
 # Page 92 Column 3	
 'ndspreng	handspring
-'ndri'	handwriting
+'ndrat'	handwriting
 lng'nd	longhand
 sh^nd	shorthand
 'ndl	handle
@@ -140,7 +140,7 @@ un'a~m^t	unharmed
 'atf	hateful
 'atfe	hatefully
 'atfnes	hatefulness
-'atrd	hatred
+'atred	hatred
 'ote	haughty
 'ol	haul
 'olj	haulage

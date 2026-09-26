@@ -2053,7 +2053,7 @@ s^fesh^l	superficiality
 # Page 222 Column 2	
 s^fesha|	superficially
 s^f	superfluous
-s)^fte	superfluity
+s^fte	superfluity
 s^'eumn	superhuman
 s^mpo	superimpose
 s^ndus	superinduce

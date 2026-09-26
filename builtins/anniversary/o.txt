@@ -161,10 +161,10 @@ ofensv	offensive
 	
 # Page 151 Column 1	
 of	offer
-os	office
-os^oldr	officeholder
-osr	officer
-oss	offices
+os)	office
+os)^oldr	officeholder
+os)r	officer
+oss(	offices
 oshl	official
 osha|	officially
 osha&'t	officiate

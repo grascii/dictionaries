@@ -1331,6 +1331,6 @@ okd	awkward
 on'	awning
 aksem	axiom
 aksem^a	axiomatic
-akss	axis
+akss(	axis
 aksl	axle
 ashu	azure
