@@ -24,7 +24,7 @@ abchur about which you are
 abchuk about which you can
 abda above day
 abdt above date
-abmnsh above mentioned
+abmnshd above mentioned
 abna above named
 abnap above named place
 abness absolutely necessary
@@ -32,7 +32,7 @@ ab\t abstract of title
 aks(th^s( accept thanks
 aks(tha accept that
 akrma according to my
-akr^th according to the
+akrr according to our
 aktbk account book
 akrle acknowledge receipt of your letter
 akrsth across the
@@ -44,17 +44,17 @@ ajusmat adjust the matter
 # Page 2 Column 1
 afdnsp after dinner speech
 afduks after due consideration
-afmnedas after many days
-aftha after that
-afthadt after that date
-afthatm after that time
-afth after the
-afthm after them
-afths after this
-afthdt after this date
-afths-s after this is
-afthstm after this time
-afu'db after you had been
+aftch after which
+afttha after that
+aftthadt after that date
+aftthatm after that time
+aftth after the
+aftthm after them
+aftths after this
+aftthdt after this date
+aftths-s after this is
+aftthstm after this time
+aftu'db after you had been
 agag again and again
 agtha against that
 agth against the
@@ -73,11 +73,11 @@ onf all information
 omats all matters
 omab all may be
 omens all means
-omen all men
+omn all men
 oma all my
 omatnsh all my attention
 omatm all my time
-onessthsh all necessary attention
+onesstnsh all necessary attention
 onessnf all necessary information
 ooch all of which
 oods all orders
@@ -97,7 +97,7 @@ amrespk American Railway Express Company
 'm a million
 'm-d a million dollars
 m-ngth among the
-m-ngus among us
+m-ng-us among us
 amkmsh amount of commission
 amprem amount of premium
 amptm ample time
@@ -138,10 +138,10 @@ nd-nrep and in reply
 nds and is
 ndts and it is
 ndlu^t and looked
-ndmak and make
+nd-mak and make
 ndr and our
 ndse and see
-ndsns and sons
+nd-sns and sons
 ndtha and that
 ndthath and that the
 ndthaths and that this
@@ -165,7 +165,7 @@ ndlb and will be
 nuthth' another thing
 nuthtm another time
 nebols anybody else
-ne~lng any longer
+ne-lng any longer
 nem any more
 nemthn any more than
 neun any one
@@ -181,8 +181,8 @@ ru are you
 asmatok as a matter of course
 asmatf as a matter of fact
 asmatlo as a matter of law
-asrsu as a result
-asrl as a rule
+as)rsu as a result
+as)rl as a rule
 asfo as follows
 asge as given
 sgs as good as
@@ -209,7 +209,7 @@ sneskb as near as can be
 sneskbdn as near as can be done
 snesk as near as I can
 sneskjj as near as I can judge
-sneskremnm as near as I can remember
+sneskremm as near as I can remember
 sneskdjj as near as I could judge
 snesp as near as possible
 snesthek as near as they can
@@ -228,8 +228,8 @@ srapdesp as rapidly as possible
 ajfa Assistant General Freight Agent
 aj\m Assistant General Manager
 ajpa Assistant General Passenger Agent
-ajs^n-tn Assistant General Superintendent
-as^n-tn Assistant Superintendent
+ajs^ntn Assistant General Superintendent
+as^ntn Assistant Superintendent
 a\p Associated Press
 sns as soon as
 snsp as soon as possible
@@ -242,9 +242,9 @@ astha as that
 # Page 6 Column 2
 asth as the
 askasmab as the case may be
-asthrsu as the result
-astasb as there has been
-asther as there were
+asth(rsu as the result
+asth)asb as there has been
+asth)er as there were
 asthe as they
 asths as this
 asths-s as this is
@@ -300,9 +300,9 @@ tlest at least
 tleng at length
 tns at once
 tr at our
-tresprs at our expense
+trespns at our expense
 toneresk at owner's risk
-tpres at present
+? tp at present
 ts)tm at some time
 
 # Page 8 Column 1
@@ -320,16 +320,16 @@ tpsesh at the present session
 tptm at the present time
 trat at the rate of
 trkes at the request of
-tsatm at the same time
+t-satm at the same time
 
 # Page 8 Column 2
 tthes at these
 tthtm at the time
 tthtmp at the time and place
 tths at this
-tthtnd at this end
+tthsnd at this end
 tthsndlan at this end of the line
-tthstajkas at this stage of the case
+tthsstajkas at this stage of the case
 tthstm at this time
 atne-lo attorney at law
 atnj Attorney General

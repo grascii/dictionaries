@@ -1,6 +1,6 @@
 # Page 9 Column 1
 bakfth back and forth
-b\m baggage master
+bgmas baggage master
 balak balance of account
 balshet balance sheet
 balotbox ballot box
@@ -11,7 +11,7 @@ ba be able
 ba~min bear in mind
 bkaf be careful
 ks(tha because that
-bfaf before and after
+bfaft before and after
 bfnuth before another
 bfneuth before any other
 bftos before it was
@@ -21,7 +21,7 @@ bfmneks before many weeks
 
 # Page 9 Column 2
 bfme before me
-bfraf before or after
+bfraft before or after
 bfsens before or since
 bftha before that
 bfthatm before that time
@@ -67,15 +67,15 @@ b\elth board of health
 b\mnjm board of management
 b\mnje~| board of managers
 b\t board of trade
-b\f bona fide
-b\ndm bond and mortgage
+b^f bona fide
+b\mor bond and mortgage
 brfth bring forth
 brfd bring forward
 brutnsh bring to your attention
-brutlo brother-in-law
+bruth(lo brother-in-law
 brotfd brought forward
-bs(kres business correspondence
-bs(men business men
+bskres business correspondence
+bsmn business men
 bths-skas but this is a case
 bths-sksh but this is a question
 bths-snso but this is not so
@@ -83,19 +83,19 @@ bo(mns by all means
 bbtn by and between
 bb by and by
 bnemns by any means
-be~m by early mail
+be~ma~ by early mail
 
 # Page 11 Column 1
 bespr by express
-bm by mail
+bma~ by mail
 bme by me
 bmns by means of
 bmnsch by means of which
-bnexm by next mail
+bnexma~ by next mail
 bnomns by no means
-brsn by reason
-bret-m by return mail
-bsam by same mail
+br-sn by reason
+bret-ma~ by return mail
+b-sama~ by same mail
 btelfn by telephone
 btha by that
 bthadt by that date
@@ -109,18 +109,18 @@ bua by the way
 
 # Page 11 Column 2
 bths by this
-bthsdam by this day's mail
-bthsm by this mail
+bthsdama~ by this day's mail
+bthsma~ by this mail
 bthsmns by this means
 bthstm by this time
-btdam by today's mail
+btdama~ by today's mail
 bus by us
 bch by which
 bchts by which it is
 bchtmab by which it may be
 bchmns by which means
-bchthr by which they are
-bchthl by which they will
+bchth(r by which they are
+bchth(l by which they will
 bchulse by which you will see
 bir by wire
 bu by your
