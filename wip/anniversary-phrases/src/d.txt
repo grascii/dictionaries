@@ -1,7 +1,7 @@
 # Page 15 Columm 1
-da^da day after day
+da-ni day and night
 dabfest day before yesterday
-da^da day by day
+da-le day letter
 das) day or so
 datu day or two
 datug day or two ago
@@ -21,7 +21,7 @@ dm\p Democratic party
 
 # Page 15 Column 2
 dskat descriptive catalog
-dd-n did not
+dden did not
 ddu did you
 ddues did you examine
 dduv did you have
@@ -36,9 +36,9 @@ dfkre^rs different creditors
 dftms different times
 drktax direct tax
 deskash discount for cash
-dstn^stn' distinct understanding
-dstnremm distinctly remember
-dstne^stu distinctly understood
+dst^stn' distinct understanding
+dstremm distinctly remember
+dste^stu distinctly understood
 ds^atne District Attorney
 
 # Page 16 Column 1
@@ -46,15 +46,15 @@ dusn does not
 dusnal does not allow
 dusnont does not want
 dustha does that
-du^s doing his
-du^tha doing that
-du^th doing the
+dusth does the
+dutha do that
+duth do the
 donuno don't you know
 donuremm don't you remember
 donuth' don't you think
 dun do not
 duso do so
-duth do this
+duths do this
 duu do you
 
 # Page 16 Column 2
@@ -65,8 +65,8 @@ dnoe do you know whether
 dnoen do you know whether or not
 duumnsa do you mean to say
 duuremm do you remember
-duund do you want
-dronus draw on us
+duunt do you want
+dron-us draw on us
 dronu draw on you
 d\g dry goods
 d\gd dry goods department
