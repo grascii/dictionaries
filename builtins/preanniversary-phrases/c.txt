@@ -1,12 +1,12 @@
 # Page 12 Column 1
-kostnsh call his attention
+kos)tnsh call his attention
 kopn call upon
 kopnem call upon him
 kopme call upon me
 kopmi call upon my
 kopnr call upon our
 kopnthm call upon them
-kopnus call upon us
+kopn-us call upon us
 kopnu call upon you
 kutnsh call your attention
 kutnshf call your attention to the fact
@@ -43,7 +43,7 @@ kuremmth can you remember the
 
 # Page 13 Column 1
 kuth' can you think
-kuthone' can you think of anything
+kuth(one' can you think of anything
 kaftnsh careful attention
 kafks careful consideration
 krlod car load
@@ -51,7 +51,7 @@ krll car load lot
 krlsh car load shipment
 kasthski case of this kind
 sn^ral center rail
-setfdpos certificate of deposit
+sedfdpos certificate of deposit
 chmnkete Chairman of the Committee
 ch\k Chamber of Commerce
 chanses Chancellor of the Exchequer

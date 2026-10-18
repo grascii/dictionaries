@@ -67,15 +67,15 @@ b\elth board of health
 b\mnjm board of management
 b\mnje~| board of managers
 b\t board of trade
-b\f bona fide
+b^f bona fide
 b\ndm bond and mortgage
 brfth bring forth
 brfd bring forward
 brutnsh bring to your attention
-brutlo brother-in-law
+bruth(lo brother-in-law
 brotfd brought forward
-bs(kres business correspondence
-bs(men business men
+bskres business correspondence
+bsmen business men
 bths-skas but this is a case
 bths-sksh but this is a question
 bths-snso but this is not so
@@ -93,9 +93,9 @@ bmns by means of
 bmnsch by means of which
 bnexm by next mail
 bnomns by no means
-brsn by reason
+br-sn by reason
 bret-m by return mail
-bsam by same mail
+b-sam by same mail
 btelfn by telephone
 btha by that
 bthadt by that date
@@ -119,8 +119,8 @@ bch by which
 bchts by which it is
 bchtmab by which it may be
 bchmns by which means
-bchthr by which they are
-bchthl by which they will
+bchth(r by which they are
+bchth(l by which they will
 bchulse by which you will see
 bir by wire
 bu by your
