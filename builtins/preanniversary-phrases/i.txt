@@ -5,7 +5,7 @@ amvis I am advised
 amfra I am afraid
 am-tlos I am at a loss
 am-tlosno I am at a loss to know
-am-tlos-se I am at a loss to say
+am-tlos-sa I am at a loss to say
 am-tlos-se I am at a loss to see
 amar I am aware
 amarf I am aware of the fact
@@ -28,10 +28,10 @@ amveso I am very sorry
 amvtu I am, Very truly yours
 aml' I am willing
 amrong I am wrong
-amul I am, Yours respectfully
+amur I am, Yours respectfully
 amusen I am, Yours sincerely
 amut I am, Yours truly
-amuvt I am, Yours very truly
+am-uvt I am, Yours very truly
 ask I ask
 asktha I ask that
 abka I became
@@ -73,17 +73,17 @@ akdb I could be
 akd-n I could not
 akd-nb I could not be
 adasa I dare say
-ade~nsa I decline to say
+ade-nsa I decline to say
 adman I demand
 adni I deny
 adskutnshf I desire to call your attention to the fact
 adsthu I desire to thank you
 adu I do
 adn I do not
-adnb I do not believe
+adnbe I do not believe
 adnka I do not care
 adnks I do not consider
-adn-dni I do not deny
+adndni I do not deny
 
 # Page 30 Column 1
 adnjj I do not judge
@@ -98,13 +98,13 @@ adnsa I do not say
 adnse I do not see
 adnth' I do not think
 adn^stn I do not understand
-adnond I do not want
-adnondsa I do not want to say
+adnont I do not want
+adnontsa I do not want to say
 adnush I do not wish
 adnushv I do not wish to have
 adnri I do not write
 adonbe I don't believe
-ank I enclose
+an-k I enclose
 isp I expect
 
 # Page 30 Column 2
@@ -138,7 +138,7 @@ efso if so
 eftha if that
 efthas if that is
 efthasn if that is not
-eftha~l if that will
+eftha-l if that will
 efth if the
 efth) if their
 efth)r if there are
@@ -148,7 +148,7 @@ efth(r if they are
 efth(rn if they are not
 efthevb if they have been
 efths if this
-? efths-sat if this is satisfactory
+efths-sat if this is satisfactory
 efths-sth if this is the
 
 # Page 31 Column 2
@@ -157,7 +157,7 @@ efuer if we are
 efuedu if we do
 efuedner if we do not hear
 efuednerfmu if we do not hear from you
-? efuid if we had
+? efued if we had
 efuev if we have
 efueth' if we think
 efu if you
@@ -193,10 +193,10 @@ efumsb if you must be
 efuremm if you remember
 efutak if you take
 efuth' if you think
-efund if you want
+efunt if you want
 
 # Page 32 Column 2
-efund-ne if you want any
+efunt-ne if you want any
 eful if you will
 efulb if you will be
 efulfa if you will favor
@@ -209,7 +209,7 @@ efud if you would
 efudone if you would only
 age I give
 id I had
-idv I had been
+idb I had been
 av I have
 avnuth I have another
 avskt I have asked
@@ -246,10 +246,10 @@ avnet I have not yet
 avrse I have received
 avsed I have said
 avtakn I have taken
-avthonr I have the honor
-avthonrtb I have the honor to be
+avth(onr I have the honor
+avth(onrb I have the honor to be
 avtda I have today
-? avth-u I have to thank you
+avth-u I have to thank you
 avufa I have your favor
 avule I have your letter
 avud I have your order
@@ -269,14 +269,14 @@ amaba I may be able
 amabto I may be told
 amag I may go
 amav I may have
-ama~rfmu I may hear from you
+ama-rfmu I may hear from you
 amamsh I may mention
 amanba I may not be able
 amanvb I may not have been
 amasa I may say
-amn-t I meant
-amatv I might have
-amatvb I might have been
+amnt I meant
+amat-v I might have
+amat-vb I might have been
 emaks( immediate acceptance
 emetnsh immediate attention
 emeks immediate consideration
@@ -286,11 +286,11 @@ amutha I move that
 # Page 34 Column 2
 amssk I must ask
 amssku I must ask you
-amkb I must be
+amsb I must be
 amskfes I must confess
 amsge I must give
-ams-sa I must say
-nakrms in accordance with
+ams(sa I must say
+nakrns in accordance with
 nakrnsma in accordance with my
 nakrnsr in accordance with our
 ndatu in a day or two
@@ -298,43 +298,43 @@ nadsh in addition
 nadshtha in addition to that
 nadshth in addition to the
 nadshths in addition to this
-nvas in advance
+nvans in advance
 nfdas in a few days
-nfns-s in a few instances
+nfns(s in a few instances
 nfmnets in a few minutes
 nfmms in a few moments
-nfmnths in a few months
+nfmnths( in a few months
 
 # Page 35 Column 1
 nfks in a few weeks
 nansth in answer to the
 nansksh in answer to the question
 nansus in answer to yours
-nanshufa in answer to your favor
+nansufa in answer to your favor
 nansule in answer to your letter
-nne in any
-nnekas in any case
-nnevnt in any event
-nneua in any way
+n-ne in any
+n-nekas in any case
+n-nevnt in any event
+n-neua in any way
 nposh in a position
 nssmne~ in a systematic manner
 nektu in a week or two
 nbf in behalf
 nbs in business
-nkasuth' in case you think
-nktax income tax
-nkprsn in comparison
-nkksh in conclusion
-nkeksh in connection with
+n-kasuth' in case you think
+n-ktax income tax
+n-kpr-sn in comparison
+n-kksh in conclusion
+n-keksh in connection with
 
 # Page 35 Column 2
-nkekshma in connection with my
-nkekshtha in connection with that
-nkekshth in connection with the
-nkekshths in connection with this
-nksek in consequence
-nks in consideration
-nktes^p incontestable policy
+n-kekshma in connection with my
+n-kekshtha in connection with that
+n-kekshth in connection with the
+n-kekshths in connection with this
+n-ksek in consequence
+n-ks in consideration
+n-ktes^p incontestable policy
 ndm\p indemnity policy
 ndukrs in due course
 ndutm in due time
@@ -345,14 +345,14 @@ nfak in fact
 nfa in favor
 nfeskkdsh in first-class condition
 nfm-me inform me
-nfmus inform us
+nfm-us inform us
 nfmu inform you
 nfuset in full settlement
 
 # Page 36 Column 1
 njen in general
-ngkdsh in good condition
-ngod in good order
+n-gkdsh in good condition
+n-god in good order
 ns in his
 n-t in it
 n-mnekass in many cases
@@ -368,7 +368,7 @@ nodans in order to answer
 nodtb in order to be
 nodtba in order to be able
 nodtbk in order to become
-nodtemn in order to determine
+nodemn in order to determine
 nodduso in order to do so
 
 # Page 36 Column 2
@@ -377,7 +377,7 @@ nodt-nsh in order to insure
 nodtjj in order to judge
 nodobse in order to observe
 nodtpa in order to pay
-nodtprop in order to prepare
+nodtprep in order to prepare
 nodtprch in order to purchase
 nodtrse in order to receive
 nodtsa in order to say
@@ -398,7 +398,7 @@ nrjjm in our judgment
 nrlanbs in our line of business
 nropn in our opinion
 nron in our own
-inrposh in our position
+nrposh in our position
 nrposs in our possession
 nrpau in our power
 npt in part
@@ -413,7 +413,7 @@ nprg in progress
 nprprsh in proportion
 nprs)u in pursuance
 nprs)ud in pursuance of an order
-nksh in question
+n-ksh in question
 
 # Page 37 Column 2
 nki^d inquiry department
@@ -426,16 +426,16 @@ nrfu in reference to your
 nre in regard
 nreschmats in regard to such matters
 nremat in regard to the matter
-nrerash in relation
+nrelash in relation
 nrelashmat in relation to the matter
 nrep in reply
 nrepu in reply to your
 nrepukmu in reply to your communication
 nrepufa in reply to your favor
-nrepunki in reply to your inquiry
-mrepule in reply to your letter
+nrepun-ki in reply to your inquiry
+nrepule in reply to your letter
 nreplsa in reply will say
-nreplst in reply will state
+nrepl-st in reply will state
 
 # Page 38 Column 1
 nrepdsa in reply would say
@@ -464,28 +464,28 @@ nsh^a insurance agent
 nsh^k insurance company
 ntha in that
 nthatdrksh in that direction
-ntha~lan in that line
+ntha-lan in that line
 nthamne~ in that manner
 nthatmat in that matter
-ntha~re in that regard
-ntha~res in that respect
+ntha-re in that regard
+ntha-res in that respect
 nthatm in that time
-ntha~rk in that work
-nkt in the country
-nkte in the county
-nkrsfdas in the course of a few days
-nkrstm in the course of time
+ntha-rk in that work
+n-kt in the country
+n-kte in the county
+n-krsfdas in the course of a few days
+n-krstm in the course of time
 nthev in the event
 nfesns in the first instance
 nfes^p in the first place
-nthoptha in the hope that
+nth(optha in the hope that
 nmr in the market
 
 # Page 39 Column 1
 nmat in the matter
-nm-tm in the meantime
+nmtm in the meantime
 mni~ in the meanwhile
-nnex^p in the next place
+n-nex^p in the next place
 nthpas in the past
 nrpr in the report
 nsalo in the sale of
@@ -493,10 +493,10 @@ nsamne~ in the same manner
 nthes in these
 nthsedas in these days
 nthestms in these times
-nushmne~ in the usual manner
-nushua in the usual way
+n-ushmne~ in the usual manner
+n-ushua in the usual way
 nua in the way
-nthrk in the work
+nth(rk in the work
 nuu in the world
 nerlod in the year of our Lord
 nths in this
@@ -510,7 +510,7 @@ nthskeksh in this connection
 nthskt in this country
 nthskte in this county
 nthskot in this court
-nthsdsesh in this decision
+nthsds(esh in this decision
 nthsdrksh in this direction
 nthsns in this instance
 nthsmne~ in this manner
@@ -522,7 +522,7 @@ nths-st in this state
 nthsua in this way
 nths( in those
 nths(tms in those times
-n-tm in time
+ntm in time
 ntuks into consideration
 
 # Page 40 Column 1
@@ -535,7 +535,7 @@ ntuu into your
 nvan in vain
 nveuf in view of the fact
 nch in which
-nchks in which case
+nchkas in which case
 nchts in which it is
 nchtos in which it was
 nchth in which the 
@@ -545,7 +545,7 @@ nchur in which you are
 nchuv in which you have
 nchul in which you will
 nchue in which we
-nu in your
+n-u in your
 
 # Page 40 Column 2
 nusete in your city
@@ -553,7 +553,7 @@ nule in your letter
 nulan in your line
 nulanbs in your line of business
 nuseksh in your section
-aprsm I presume
+apr-sm I presume
 akatbe I quite believe
 aregsa I regret to say
 a~mnsenu I remain, Sincerely yours
@@ -562,12 +562,12 @@ a~mnur I remain, Yours respectfully
 a~mnut I remain, Yours truly
 a~mnvr I remain, Very respectfully
 a~mnvt I remain, Very truly
-a~mnvtr I remain, Very truly yours
+a~mnvtu I remain, Very truly yours
 aremm I remember
 aremmthatm I remember that time
 aremmthtm I remember the time
 aret I return
-stnd is at hand
+st'nd is at hand
 
 # Page 41 Column 1
 asa I say
@@ -577,7 +577,7 @@ asene~th I send herewith
 asenle I send letter
 asenrese I send receipt
 asenu I send you
-asenunk I send you enclosed
+asenun-k I send you enclosed
 asenust-m I send you statement
 asenutda I send you today
 asent I sent
@@ -611,13 +611,13 @@ ashdbglfd I should be glad to forward
 ashdbglv I should be glad to have
 ashdbgler I should be glad to hear
 ashdbglno I should be glad to know
-ashdglse I should be glad to see
+ashdbglse I should be glad to see
 
 # Page 42 Column 1
 ashdbso I should be sorry
-ashdv I should have
-ashdvb I should have been
-ashkla I should like
+ashd-v I should have
+ashd-vb I should have been
+ashdla I should like
 ashdlab I should like to be
 ashdlav I should like to have
 ashd-n I should not
@@ -663,7 +663,7 @@ tsprb it is probable
 tskat-ness it is quite necessary
 ts(ed it is said
 tsstmg it is some time ago
-tsth it is the 
+tsth it is the
 tsudte it is your duty
 tmab it may be
 tmabmad it may be made
@@ -671,7 +671,7 @@ tmabtha it may be that
 tmsb it must be
 tmsbdn it must be done
 tmsv it must have
-tmonb it must not be
+tmsnb it must not be
 ato I told
 atom I told him
 atothm I told them
@@ -682,9 +682,9 @@ totv it ought to have
 # Page 43 Column 2
 tsemsb it seems to be
 tsemsv it seems to have
-tesmsme it seems to me
+tsemsme it seems to me
 tsemsthm it seems to them
-tesms(us it seems to us
+tsemsus it seems to us
 tshb it shall be
 tshbdn it shall be done
 tos it was
@@ -694,15 +694,15 @@ sos(ed it was said
 tosth it was the
 tos^stu it was understood
 tl it will
-tlv it will be
+tlb it will be
 tlbgrp it will be a great pleasure
-tlvks it will be considered
+tlbks it will be considered
 tlfal it will fail
 tlv it will have
 tlnb it will not be
 
 # Page 44 Column 1
-tlreshu it will reach you
+tlrechu it will reach you
 tlrse it will receive
 tlrki it will require
 t-d it would
@@ -717,15 +717,15 @@ aosntar I was not aware
 aosntsh I was not sure
 int I went
 al I will
-alsk I will ask
-alsku I will ask you
+al-sk I will ask
+al-sku I will ask you
 alb I will be
 alba I will be able
 alv I will have
 
 # Page 44 Column 2
-aknfmem I will inform him
-alnmfthm I will inform them
+alnfmem I will inform him
+alnfmthm I will inform them
 alnfmu I will inform you
 alleno I will let you know
 alnba I will not be able

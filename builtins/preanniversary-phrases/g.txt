@@ -2,13 +2,13 @@
 j^a General Agent
 jfa General Freight Agent
 j\m General Manager
-js^n-tn General Superintendent
+js^ntn General Superintendent
 geme give me
 gesme gives me
 gethm give them
 ges give us
 geu give you
-glerjmu glad to hear from you
+glerfmu glad to hear from you
 glse glad to see
 gde~ good deal
 gnuf good enough
@@ -22,7 +22,7 @@ g\j Grand Jury
 g\t Grand Trunk
 g\b Great Britain
 g\bi Great Britain and Ireland
-grsete great city
+gr-sete great city
 grl great deal
 grfa great favor
 grmp great importance
