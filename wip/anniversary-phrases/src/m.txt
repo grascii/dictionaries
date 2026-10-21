@@ -1,5 +1,5 @@
 # Page 49 Column 1
-ma~^u mailing you
+mag^d magazine department
 maod mail order
 maod^d mail order department
 maktha make that
@@ -8,14 +8,14 @@ makthm make them
 makths make this
 makus make us
 makua make way
-mnbs man of business
+manbs man of business
 mnethm many of them
 mnethes many of these
-mneths many of those
+mneths( many of those
 mnetms many times
 mnersg many years ago
 mr\p market price
-mrvl market value
+mr\v market value
 masch Master in Chancery
 mab may be
 
@@ -27,37 +27,37 @@ mabsh may be sure
 mav may have
 mavks( may have cause
 man may not
-manv may not be
+manb may not be
 manbkr may not be correct
 manv may not have
 mm\p member of Parliament
 mmbar member of the bar
-mmbor member of the board
+mmbod member of the board
 mmkab member of the cabinet
 mmkete member of the committee
-mmusk member of the House of Commons
-mmusl member of the House of Lords
+mm-usk member of the House of Commons
+mm-usl member of the House of Lords
 mmljt member of the legislature
 mmopsh member of the opposition
 mmsbar members of the bar
 
 # Page 50 Column 1
-mmsbor members of the board
+mmsbod members of the board
 mnuemn men and women
 mnuemnch men, women and children
-m\sh Michigan Central
+m\s Michigan Central
 matb might be
 matba might be able
-matv might have
-matvb might have been
-matvdn might have done
+mat-v might have
+mat-vb might have been
+mat-vdn might have done
 mat-nb might not be
 mat-nv might not have
 mnemr money market
-mnth^mnth month after month
-mnthsg months ago
+mnthtu month or two
+mnths(g months ago
 m-m more and more
-? mlae more likely
+mlae more likely
 mles more or less
 mthn more than
 mthntha more than that
@@ -78,9 +78,9 @@ mad-frs my dear friends
 mad-m My dear Madam
 madmes My dear Miss
 madmr My dear Mr.
-madnrs My dear Mrs.
+madmrs My dear Mrs.
 mads My dear Sir
 mapn my opinion
-mankas my own case
+man-kas my own case
 manopn my own opinion
 matm my time
