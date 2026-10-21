@@ -1,45 +1,45 @@
 # Page 53 Column 1
 oo of all
-oomen of all men
-one of any
-oneki of any kind
+oomn of all men
+o-ne of any
+o-neki of any kind
 ok of course
 okts of course it is
-oktont of course it is not
-oloths of course there is
+oktsnt of course it is not
+okth)s of course there is
 okthev of course they have
 okthevdn of course they have done
 okth(l of course they will
 okuk of course you can
 okuv of course you have
 okuvn of course you have not
-os of his
-oskdsh of his condition
-oskt of his country
-osn of his own
+os) of his
+os)kdsh of his condition
+os)kt of his country
+os)n of his own
 ostm of his time
 
 # Page 53 Column 2
-omp of importance
+o-mp of importance
 ok O. K.
-omnethm of many of them
-oma of my
+o-mnethm of many of them
+o-ma of my
 oun of one
-or of our
-oron of our own
-oronpris of our own price
+o-r of our
+o-ron of our own
+o-ronpris of our own price
 osch of such
-otha of that
+oth(a of that
 oth of their
-othm of them
-othes of these
-oths of this
-othskas of this case
-oths-sete of this city
-othski of this kind
-othsksh of this question
-othsr of this year
-oths( of those
+oth(m of them
+oth(es of these
+oth(s of this
+oth(skas of this case
+oth(s-sete of this city
+oth(ski of this kind
+oth(sksh of this question
+oth(sr of this year
+oth(s( of those
 
 # Page 54 Column 1
 otda of today
@@ -59,7 +59,7 @@ onak on account of
 onakma on account of my
 onaktha on account of that
 onakf on account of the fact
-onakth on account of their
+onakth) on account of their
 onakmne~ on account of the manner
 onakthes on account of these
 
@@ -96,7 +96,7 @@ onmapt on my part
 onab on or about
 onaf on or after
 onr on our
-onrbf on our behalf
+onrbaf on our behalf
 onrbks on our books
 onrlan on our line
 onrpt on our part
@@ -104,13 +104,13 @@ onrese on receipt
 onresech on receipt of which
 onsa on sale
 ontha on that
-onthatda on that day
+onthada on that day
 onthakash on that occasion
 
 # Page 55 Column 2
 onthaksh on that question
 onthasi on that side
-onk^re on the contrary
+on-k^re on the contrary
 onth^d on the dollar
 onfeskash on the first occasion
 onlaskash on the last occasion
@@ -121,17 +121,17 @@ on-neskash on the next occasion
 onund on the one hand
 onunsi on the one side
 onuthnd on the other hand
-onuthsi on the other side
+onuths(i on the other side
 onpkash on the present occasion
-onpr on the principle
-onksh on the question
+onpren on the principle
+on-ksh on the question
 onthes on these
 ontheskdshs on these conditions
 onthesemats on these matters
 
 # Page 56 Column 1
 ontheskashs on these occasions
-ontheseth^s( on these things
+onthesth^s( on these things
 onsj on the subject
 on'ol on the whole
 onths on this
@@ -153,20 +153,20 @@ onulan on your line
 
 # Page 56 Column 2
 onumr on your market
-unafnuth one after another
+onule on your letter
 unaf one-half
 unma one of my
 unmo one of the most
-unthse one of these
+unthes one of these
 unthesdas one of these days
 unths( one of those
 un-tu one or two
 un-tukshs one or two questions
 onchth on which the
-onchuar on which we are
+onchuer on which we are
 onchuv on which you have
-unchul on which you will
-ud\b order blank
+onchul on which you will
+od\b order blank
 odlrse order will receive
 orrath or rather
 uththn other than
@@ -178,18 +178,18 @@ otb ought to be
 otba ought to be able
 otbdn ought to be done
 otd ought to do
-otdsmbs ought to do some business
+otdusmbs ought to do some business
 otdusm' ought to do something
-otv ought to have
-otvb ought to have been
-otvdn ought to have done
+ot-v ought to have
+ot-vb ought to have been
+ot-vdn ought to have done
 otno ought to know
 otmak ought to make
 otrse ought to receive
 obestnsh our best attention
 
 # Page 57 Column 2
-rprstnsh our personal attention
+rprs)tnsh our personal attention
 rpkaftnsh our prompt and careful attention
 rptnsh our prompt attention
 autha out of that

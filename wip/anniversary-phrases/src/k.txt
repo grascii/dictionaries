@@ -1,16 +1,16 @@
 # Page 46 Column 1
 kifa kind favor
-kile kind letter
+ki-le kind letter
 kivis kindly advise
 kiks kindly consider
 kiges kindly give us
 kileno kindly let us know
 
 # Page 46 Column 2
-kilerfmu kindly let us hear from you
+ki-lerfmu kindly let us hear from you
 kinot kindly note
-kirem kindly remit
-kiret kindly return
-koomen know all men
-koomnbthesp know all men by these presents
-no^th knowing the
+ki-rem kindly remit
+ki-ret kindly return
+noomn know all men
+noomnbthesp know all men by these presents
+nonf known fact
