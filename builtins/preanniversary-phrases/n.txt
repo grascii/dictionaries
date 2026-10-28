@@ -1,29 +1,29 @@
 # Page 51 Column 1
 nashespr^k National Express Company
 nashgv National Government
-nat^th( nature of things
+nat^s( nature of things
 nave^d navy department
 ne~n nearer than
 nesstnsh necessary attention
 nessnf necessary information
 neththm neither of them
-? netprem net premium
+netprem net premium
 netprses net proceeds
 nung New England
 nok New York
 nok\s New York Central
 nok\d New York draft
-nexbes next best
-nexbesth' next best thing
-nexda next day
-nexdas) next day or so
-nexdatu next day or two
+nesbes next best
+nesbesth' next best thing
+nesda next day
+nesdas) next day or so
+nesdatu next day or two
 
 # Page 51 Column 2
 neselsh next election
 nesmnth next month
 nes^p next place
-nes-sesh next session
+nes(sesh next session
 nesth' next thing
 nestm next time
 nesk next week
@@ -37,14 +37,14 @@ nolngthn no longer than
 nom no more
 nomthn no more than
 nomthntha no more than that
-? non no one
-? nonls no one else
+no-n no one
+no-nls no one else
 nam North America
 
 # Page 52 Column 1
-ndvesh northern division
+n-dvesh northern division
 n\p Northern Pacific
-n'ls nothing else
+n'-ls nothing else
 noarls nowhere else
 nos no, sir
 notpb Notary Public

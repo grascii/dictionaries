@@ -1,13 +1,13 @@
 # Page 47 Column 1
-lagnt ladies and gentlemen
+lajnt ladies and gentlemen
 lajnum large number
 laje~n larger than
 laje~ntha larger than that
 lasmet' last meeting
 lasmnth last month
 lasni last night
-lasthk last of this week
-las-sesh last session
+lasthsk last of this week
+las(sesh last session
 lastm last time
 lask last week
 laser last year
@@ -37,7 +37,7 @@ les)g let us go
 les)v let us have
 lerfmu let us hear from you
 leno let us know
-les)-sa let us say
+les)sa let us say
 l\p Liberal party
 lafdeth life and death
 
@@ -45,12 +45,12 @@ lafdeth life and death
 lansh life insurance
 lanshk life insurance company
 lan^lan line by line
-lankre line of credit
+lan-kre line of credit
 lanrk line of work
 ls\p list price
 ls\ps list prices
 let^let little by little
-letmfu little more fully
+let-mfu little more fully
 let-no little or no
 let-n' little or nothing
 
@@ -65,4 +65,4 @@ lchans Lord Chancellor
 l\d loss and damage
 lopris low price
 lorpris lower price
-lostpris lowest price
+lo-stpris lowest price
