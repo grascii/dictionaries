@@ -1,11 +1,11 @@
 # Page 63 Column 1
-safdt^k Safe Deposit & Trust Company
+safdpos Safe Deposit
 samsi same side
 sampkpe sample copy
 sat-mne~ satisfactory manner
 skl\b school board
 skl\bkete school board committee
-ssner season of the year
+sesner season of the year
 seknb Second National Bank
 sek^p second place
 sektresh^r Secretary and Treasurer
@@ -14,24 +14,24 @@ sekst Secretary of State
 sekn^or Secretary of the Interior
 sektresh Secretary of the Treasury
 sekuo Secretary of War
-se^ths seeing this
+seknave Secretary of the Navy
 semsb seems to be
-sems(mak seems to make
-sems(me seems to me
+semsmak seems to make
+semsme seems to me
 
 # Page 63 Column 2
-sems-sa seems to say
+sems(sa seems to say
 semsus seems to us
 sel\p selling price
 semandv semi-annual dividend
 senthsrem send this remittance
-senus send us
+sen-us send us
 senu send you
 setfth set forth
 sevdasg several days ago
 sev^n several hundred
 sev^nd several hundred dollars
-sevmnthsg several months ago
+sevmnths(g several months ago
 sevkashs several occasions
 sevtms several times
 shb shall be
@@ -46,7 +46,7 @@ shbglrse shall be glad to receive
 shbglse shall be glad to see
 shv shall have
 shnpas shall not pass
-shid she had
+? shed she had
 shes she is
 sh^d shipping department
 shu^d shoe department
@@ -72,17 +72,17 @@ si^si side by side
 senu Sincerely yours
 sensthadt since that date
 sensthada since that day
-densthatm since that time
+sensthatm since that time
 sensthskas since this case
 sensths-s since this is
 sensthn since then
-sexmnths six months
-soso so and so
-sos so as to
-sosget so as to get
-sosge so as to give
-sosmak so as to make
-sosrse so as to receive
+sexmnths( six months
+sos)o so and so
+sos) so as to
+sos)get so as to get
+sos)ge so as to give
+sos)mak so as to make
+sos)rse so as to receive
 sofas so far as
 
 # Page 65 Column 1
@@ -109,9 +109,9 @@ smuthprs) some other person
 
 # Page 65 Column 2
 smprs) some person
-smrsn some reason
-sm\ls something else
-sm'la something like
+smr-sn some reason
+sm'-ls something else
+sm'-la something like
 smth^s( some things
 stm some time
 stmg some time ago
@@ -125,7 +125,7 @@ snlo son-in-law
 snlat sooner or later
 sne~n sooner than
 sotha so that
-sotha~l so that will
+sotha-l so that will
 soths so there is
 sothsnt so there is not
 
@@ -141,7 +141,7 @@ suesdvesh southwest division
 suesndvesh southwestern division
 sp^a special agent
 sptnsh special attention
-stnoe^k Standard Oil Co.
+stnoe^kp Standard Oil Co.
 st^d state department
 st-nok State of New York
 st^s( state of things
@@ -153,7 +153,7 @@ s(jmat subject matter
 s(jmad subject to my order
 s(jukmsh subject to your commission
 s(jud subject to your order
-s-skrstu subscribed and sworn to
+s-skr-stu subscribed and sworn to
 s(chs such as
 s(chsts such as it is
 s(chsmab such as may be
