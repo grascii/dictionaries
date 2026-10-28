@@ -3,7 +3,7 @@ pdpp paid up policy
 pattnsh particular attention
 ptutra part of your trade
 pask past week
-psktu past week or two
+pasktu past week or two
 pepgd people of God
 pepthskt people of this country
 p\p people's party
@@ -11,29 +11,29 @@ pr\b per barrel
 pr\bsh per bushel
 pr^nu per cwt.
 pr\d per dozen
-pr\g per gallon
-pr\n per hundred
+pr^g per gallon
+pr^n per hundred
 prmnet per minute
 prmnth per month
-prsha per share
-prstmsh per steamship
+prsha~ per share
+pr-stemsh per steamship
 pr^th per thousand
 
 # Page 58 Column 2
 prek per week
 prer per year
-prstnsh personal attention
+pr-stnsh personal attention
 plvis please advise
 plvisme please advise me
 plvisus please advise us
-plsk please ask
+pl-sk please ask
 pfi please find
-pfink^t please find enclosed
+pfin-k^t please find enclosed
 plfd please forward
 plge please give
 plgeme please give me
 plges please give us
-plgethmat please give this matter
+plgethsmat please give this matter
 plle please let
 plerfmu please let us hear from you
 pleno please let us know
@@ -43,7 +43,7 @@ plremm please remember
 
 # Page 59 Column 1
 plremmtha please remember that
-plremus please remit us
+plrem-us please remit us
 plret please return
 plsa please say
 plse please see
@@ -55,10 +55,10 @@ plshme please ship me
 plshmetns please ship me at once
 plshus please ship us
 plshustns please ship us at once
-plst please state
+pl-st please state
 plir please wire
-plirprntl please wire promptly
-plirs please wire us
+plirprmte please wire promptly
+plirs) please wire us
 plri please write
 plrim please write him
 plrime please write me
@@ -78,7 +78,7 @@ p^pd post paid
 pautne power of attorney
 premrat premium rate
 ptm present time
-prestneus President of the United States
+presdneus President of the United States
 pretel pretty well
 p\l price list
 p^f prima facie
@@ -87,7 +87,7 @@ presbar prisoner at the bar
 
 # Page 60 Column 1
 ptnsh prompt attention
-prfkla proof of claim
+prfklam proof of claim
 prrata pro rata
 
 # Page 60 Column 2
