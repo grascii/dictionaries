@@ -12,17 +12,17 @@ uesgv United States Government
 eusa United States of America
 eusm United States Mail
 upd-n up and down
-pns upon his
-pnr upon our
+pons upon his
+ponr upon our
 
 # Page 77 Column 2
-pnth upon the
-pnthm upon them
-pnrese upon receipt
-pnthakash upon that occasion
-pnsj upon the subject
-pnol upon the whole
-pnch upon which
+ponth upon the
+ponthm upon them
+ponrese upon receipt
+ponthakash upon that occasion
+ponsj upon the subject
+pon'ol upon the whole
+ponch upon which
 updt up to date
 uptha up to that
 upthatm up to that time
