@@ -9,15 +9,15 @@ tes) tell us
 tndas ten days
 tndasg ten days ago
 th-u thank you
-th'uf thanking you for
-th'ufthod thanking you for the order
-th'ufutnsh thanking you for your attention
-th'ufukaftnsh thanking you for your careful attention
-th'ufukitnsh thanking you for your kind attention
-th'ufud thanking you for your order
+th'-uf thanking you for
+th'-ufth(od thanking you for the order
+th'-ufutnsh thanking you for your attention
+th'-ufukaftnsh thanking you for your careful attention
+th'-ufukitnsh thanking you for your kind attention
+th'-ufud thanking you for your order
 thnth than the
-tha~r that are
-tha~rn that are not
+tha-r that are
+tha-rn that are not
 
 # Page 67 Column 2
 thakb that can be
@@ -31,9 +31,9 @@ thasn that is not
 thasn' that is nothing
 thasnpos that is not possible
 thasnth that is not the
-thasnthoe that is not the point
+thasnth(oe that is not the point
 thasnthksh that is not the question
-thasded that is said
+thas-sed that is said
 thastb that is to be
 thas-sa that is to say
 thats that it is
@@ -45,19 +45,19 @@ thatosnt that it was not
 thamabdn that may be done
 thatha that that
 thath that the
-tha~th that there
-tha~ths that there is
-tha~thsnt that there is not
-tha~thos that there was
+tha-th) that there
+tha-th)s that there is
+tha-th)snt that there is not
+tha-thos that there was
 thathes that these
 thathe that they
 thath(r that they are
 ? thathed that they had
 thathev that they have
 thathevb that they have been
-thathl that they will
-thathlb that they will be
-thathlrse that they will receive
+thath(l that they will
+thath(lb that they will be
+thath(lrse that they will receive
 thaths that this
 thaths-s that this is
 thaths-sn that this is not
@@ -65,50 +65,50 @@ thaths-sth that this is the
 
 # Page 68 Column 2
 thatm that time
-th(asos that was
+th(aos that was
 th(aosth that was the
-tha~l that will
-tha~lb that will be
-tha~lbdn that will be done
-tha~lv that will have
+tha-l that will
+tha-lb that will be
+tha-lbdn that will be done
+tha-lv that will have
 thad that would
 thadb that would be
 thdander the day and year
 th(latpt the latter part
 th(lostm the loss of time
-thonedf the only difference
-thonetm the only time
-thoneua the only way
-thod the order
+th(onedf the only difference
+th(onetm the only time
+th(oneua the only way
+th(od the order
 thon their own
 thr there are
 thrmne there are many
 thrmneth^s( there are many things
 
 # Page 69 Column 1
-thrsmth^s( there are some things
-thasb there has been
-thvb there have been
-thsone there is only
-thman there may not
-thmatvb there might have been
-thmat-nb there might not be
-thmsb there must be
-thmsv there must have
-thshb there shall be
-thshdb there should be
+thr-smth^s( there are some things
+th)asb there has been
+th)vb there have been
+th)sone there is only
+th)man there may not
+th)mat-vb there might have been
+th)mat-nb there might not be
+th)msb there must be
+th)msv there must have
+th)shb there shall be
+th)shdb there should be
 thos there was
 thosnt there was not
 ther there were
 thermne there were many
 thermneth^s( there were many things
-thersmth^s( there were some things
+ther-smth^s( there were some things
 thl there will
 thlb there will be
-thdb there would be
+th)db there would be
 
 # Page 69 Column 2
-th(rongnt the right honorable gentleman
+th(ronjnt the right honorable gentleman
 thesth^s( these things
 thesl these will
 theslb these will be
@@ -120,12 +120,12 @@ th(r they are
 th(rn they are not
 th(ropn they are of the opinion
 th(rl' they are willing
-thrl'v they are willing to have
+thrl'-v they are willing to have
 thek they can
 thedn they do not
 thedon they don't
-thid they had
-thid-n they had not
+? thed they had
+? thed-n they had not
 thevb they have been
 thevdn they have done
 
@@ -146,9 +146,9 @@ themsv they must have
 th(otb they ought to be
 th(otba they ought to be able
 th(otbgl they ought to be glad
-th(otv they ought to have
+th(ot-v they ought to have
 theteme they tell me
-theth they think
+theth' they think
 the~r they were
 
 # Page 70 Column 2
@@ -159,18 +159,18 @@ th(lba they will be able
 th(lfd they will forward
 th(lv they will have
 th(lnb they will not be
-th(lreshu they will reach you
+th(lrechu they will reach you
 thed they would
 thedba they would be able
 thedbgl they would be glad
 thed-v they would have
-? thdvb they would have been
+thedvb they would have been
 thedlav they would like to have
 thedlano they would like to know
 thedlase they would like to see
 thedrse they would receive
 thedrki they would require
-theb Third National Bank
+th)enb Third National Bank
 th)ed^p third place
 
 # Page 71 Column 1
@@ -179,7 +179,7 @@ thsk this can
 thskb this can be
 thsknb this can not be
 thskas this case
-thksks( this cause
+thsks( this cause
 ths-sete this city
 thskla this claim
 thsklas this class
@@ -193,14 +193,14 @@ thsda this day
 thsd this defendant
 thsn-dn-tr this indenture
 ths-s this is
-ths-skas this is an occasion
+ths-skash this is an occasion
 
 # Page 71 Column 2
 ths-sdn this is done
-ths-sess this is necessary
+ths-ness this is necessary
 ths-sn this is not
 ths-sth this is the
-ths-sth this is their
+ths-sth) this is their
 ths-s)lnon this is well known
 thski this kind
 thsmat this matter
@@ -211,7 +211,7 @@ thsmn' this morning
 thsnot this note
 thsd this order
 thsksh this question
-thsrsn this reason
+thsr-sn this reason
 ths-sems this seems
 ths-sesh this session
 ths-st this state
@@ -229,14 +229,14 @@ th)e^stu thoroughly understood
 th)edasi three days' sight
 th)ef three or four
 th)efdas three or four days
-thefmnths three or four months
+thefmnths( three or four months
 thefks three or four weeks
 thruth through the
 tm^tm time after time
 tmpa time to pay
 tusetnes to a certain extent
-tokses to a considerable extent
-togres to a great extent
+tukses to a considerable extent
+tugres to a great extent
 tlajes to a large extent
 
 # Page 72 Column 2
@@ -277,7 +277,7 @@ tdu to do
 tdudo to do so
 tdusm' to do something
 tduthbes to do the best
-tduth to do this
+tduths to do this
 tdro to draw
 tenb to enable
 tunfs to enforce
@@ -294,15 +294,15 @@ tugeme to give me
 tuges to give us
 tugeu to give you
 tug to go
-tv to have
-tvtol to have and to hold
-tvb to have been
-tvdn to have done
-tvad to have had
+t-v to have
+t-vtol to have and to hold
+t-vb to have been
+t-vdn to have done
+t-vad to have had
 terfmu to hear from you
 tum to him
 tus to his
-tustmsh to his attention
+tustnsh to his attention
 tonr to honor
 
 # Page 74 Column 1
@@ -321,7 +321,7 @@ tmak to make
 tmakmosh to make a motion
 tmaknon to make known
 tumnethm to many of them
-tumneths to many of those
+tumneths( to many of those
 tme to me
 tmen to mean
 tmet to meet
@@ -346,7 +346,7 @@ tremn to remain
 trep to reply
 trp to represent
 tsa to say
-tuskr to secure
+tusekr to secure
 tse to see
 
 # Page 75 Column 1
@@ -354,8 +354,8 @@ tsel to sell
 tusen to send
 tusenrptv to send a representative
 tusenem to send him
-tosenthm to send them
-tusenus to send us
+tusenthm to send them
+tusen-us to send us
 tusenu to send you
 tsh to ship
 tshus to ship us
@@ -363,7 +363,7 @@ tsho to show
 tusmes to some extent
 tsp to speak
 tsch to such
-tshes to such an extent
+tsches to such an extent
 tutak to take
 tutok to talk
 tute~ to tell
@@ -390,7 +390,7 @@ tchule to which your letter
 tchulerfs to which your letter refers
 tchuksh to which your question
 tuum to whom
-tuumkse~n to whom it may concern
+tuumks(e~n to whom it may concern
 tuumthesp to whom these presents
 
 # Page 76 Column 1
@@ -413,4 +413,4 @@ trserfmusn trusting to hear from you soon
 trsul trusting you will
 tuth)e two or three
 tuth)edas two or three days
-tuth)emnths two or three months
+tuth)emnths( two or three months

@@ -1,11 +1,11 @@
 # Page 79 Column 1
 uo^d war department
 osks was considered
-usdn was done
-ustri was it right
-usnt was not
-ustha was that
-usth was the
+osdn was done
+ostri was it right
+osnt was not
+ostha was that
+osth was the
 uasmns ways and means
 uasmnskete Ways and Means Committee
 uels we always
@@ -14,7 +14,7 @@ uervis we are advised
 uerfra we are afraid
 uerar we are aware
 uerarf we are aware of the fact
-uernk' we are enclosing
+uern-k' we are enclosing
 uerfa we are favored
 uernposh we are in a position
 uernfm we are informed
@@ -33,9 +33,9 @@ uerpler we are pleased to hear
 uerplno we are pleased to know
 uerplsa we are pleased to say
 uerplse we are pleased to see
-uerplst we are pleased to state
+uerpl-st we are pleased to state
 uerprep we are prepared
-uersenu we are sending you
+uer-senu we are sending you
 uerso we are sorry
 uersor we are sorry to hear
 uersolen we are sorry to learn
@@ -50,14 +50,14 @@ uerveso we are very sorry
 uervesor we are very sorry to hear
 uervtr we are, Very truly yours
 uerl' we are willing
-ueri' we are writing
+uerri' we are writing
 uerur we are, Yours respectfully
 uerut we are, Yours truly
 uesktha we ask that
 ueskutnsh we ask your attention
 ueshuu we assure you
 uebe we believe
-uekupn we call upon
+uekopn we call upon
 uek we can
 uekb we can be
 uekget we can get
@@ -75,14 +75,14 @@ ueks we consider
 uekstha we consider that
 uekd we could
 uekdb we could be
-uekdv we could have
-uekdvbv we could have been
+uekd-v we could have
+uekd-vb we could have been
 uekd-nv we could not have
 uedsi^t we decide
-uede~r we declare
+uede-r we declare
 uedni we deny
 ueds we desire
-ueds-sa we desire to say
+ueds(sa we desire to say
 uedsth we desire to thank
 
 # Page 81 Column 1
@@ -95,13 +95,13 @@ uedautha we doubt that
 uedurse we duly received
 ek^ek week after week
 ek^ek week by week
-kesu week or so
+ekso week or so
 ektu week or two
 ektug week or two ago
 eksg weeks ago
-uenk we enclose
-uenkkpe we enclose copy
-uenkst-m we enclose statement
+uen-k we enclose
+uen-kkpe we enclose copy
+uen-kst-m we enclose statement
 uesp we expect
 uefel we feel
 uefelsh we feel sure
@@ -127,7 +127,7 @@ uevnba we have not been able
 uevnau we have now
 uevrse we have received
 uevth we have the
-uevthonr we have the honor
+uevth(onr we have the honor
 
 # Page 82 Column 1
 uevtda we have today
@@ -135,14 +135,14 @@ uevule we have your letter
 uevud we have your order
 uep we hope
 uepulb we hope you will be
-uen-tn we intend
+uentn we intend
 uenu we knew
 ueno we know
 uela we like
 lnonf well-known fact
-ueko we look
+uelu we look
 uemad we made
-kemak we make
+uemak we make
 uemakth we make the
 uema we may
 uemab we may be
@@ -153,15 +153,15 @@ uemanba we may not be able
 
 # Page 82 Column 2
 uemasa we may say
-uematvb we might have been
+uemat-vb we might have been
 uems we must
 uemssk we must ask
 uemssku we must ask you
 uemsskutnsh we must ask your attention
 uemsb we must be
-uems(kfes we must confess
-uems(ge we must give
-uems(v we must have
+uemskfes we must confess
+uemsge we must give
+uemsv we must have
 uened we need
 uenot we note
 uenotsa we note what you say
@@ -176,7 +176,7 @@ uemnvtu we remain, Very truly yours
 # Page 83 Column 1
 uemnur we remain, Yours respectfully
 uemnut we remain, Yours truly
-uemnuvt we remain, Yours very truly
+uemn-uvt we remain, Yours very truly
 ueremm we remember
 uerep^t we replied
 uerp we represent
@@ -210,10 +210,10 @@ ueshdba we should be able
 ueshdbgl we should be glad
 ueshdbp we should be pleased
 ueshdla we should like
-ueshdnba we should not be able
+ueshd-nba we should not be able
 uetak we take
-? ueth'u we thank you
-? ueth'ufu we thank you for your
+ueth'-u we thank you
+ueth'-ufu we thank you for your
 ueth' we think
 ueththslb we think this will be
 
@@ -242,11 +242,11 @@ uelbsh we will be sure
 # Page 84 Column 2
 uelfd we will forward
 uelv we will have
-uellemo we will let you know
-uelmaks( we will not accept
+uelleno we will let you know
+uelnaks( we will not accept
 uelnba we will not be able
 uelpa we will pay
-uelpmbe we will probably
+uelprbe we will probably
 uelsa we will say
 uelse we will see
 uelsh we will ship
@@ -262,13 +262,13 @@ ueushsa we wish to say
 ued we would
 
 # Page 85 Column 1
-uedvis we would advise
+ued-vis we would advise
 uedb we would be
 uedba we would be able
 uedvb we would have been
 uedvba we would have been able
-uedvad we would have had
-uedpab we would like to be
+ued-vad we would have had
+uedlab we would like to be
 uedlav we would like to have
 uedlano we would like to know
 uedlase we would like to see
@@ -330,16 +330,16 @@ enuks when you consider
 # Page 86 Column 2
 enufes when you first
 enug when you go
-enuv when you have
-enuvdn when you have done
-enuvdnso when you have done so
-enuvge when you have given
-enuvsen when you have seen
+en-uv when you have
+en-uvdn when you have done
+en-uvdnso when you have done so
+en-uvge when you have given
+en-uvsen when you have seen
 enunes when you next
 enuto when you told
 enutom when you told him
 enutome when you told me
-enutos when you told us
+enutos) when you told us
 enud when you would
 arr where are
 a~dd where did
@@ -374,17 +374,17 @@ chvth which have the
 # Page 87 Column 2
 chs which is
 chsnau which is now
-chsthoneua which is the only way
+chsth(oneua which is the only way
 chts which it is
 chtsbe which it is believed
 chtsnt which it is not
 chmad which made
 chmaks which makes
 chmab which may be
-chmatvb which might have been
+chmat-vb which might have been
 chmat-nb which might not be
 chmsb which must be
-chmusvdn which must be done
+chmsbdn which must be done
 chtha which that
 chth which the
 chthe which they
@@ -398,13 +398,13 @@ chue which we
 chueks which we consider
 chuekstb which we consider to be
 chl which will
-chlemb which will enable
+chlenb which will enable
 chd which would
 chdb which would be
 chdbdn which would be done
 chdvb which would have been
 chd-n which would not
-chk-nb which would not be
+chd-nb which would not be
 chu which you
 chuk which you can
 chukn which you can not
@@ -434,8 +434,8 @@ chud which you would
 'uv who have
 'uvdn who have done
 'uvtrid who have tried
-'us who is
-'usn who is not
+'u-s who is
+'u-sn who is not
 
 # Page 89 Column 1
 'usnau who is now
@@ -446,7 +446,7 @@ chud which you would
 'umsb who must be
 'usa who say
 'ushd who should
-'ushdv who should have
+'ushd-v who should have
 'utom who told him
 'utou who told you
 'uos who was
@@ -454,7 +454,7 @@ chud which you would
 'ulb who will be
 'ud who would
 'udb who would be
-'udv who would have
+'ud-v who would have
 'ud-n who would not
 'ulot whole lot
 ir why are
@@ -494,8 +494,8 @@ lpl will you please
 lplsa will you please say
 lusen will you send
 luri will you write
-ormetns wire me at once
-orrep wire reply
+irmetns wire me at once
+irrep wire reply
 ush^tha wishing that
 ushg wish to go
 ushv wish to have
@@ -507,22 +507,22 @@ ethem with him
 ethenth within the
 etht with it
 ethts with its
-ethkines with kind regards
-ethone with only
+ethki-res with kind regards
+eth(one with only
 ethetht with or without
-ethr with our
-ethrf with reference
-ethrftha with reference to that
-ethrfth with reference to the
-ethrfmat with reference to the matter
+eth(r with our
+eth(rf with reference
+eth(rftha with reference to that
+eth(rfth with reference to the
+eth(rfmat with reference to the matter
 eth(re with regard
-eth(reme with regard to my
+eth(rema with regard to my
 eth(remat with regard to the matter
 eth(relash with relation
 eth(res with respect
 eth(resmat with respect to the matter
 eththa with that
-eththa~ndveu with that end in view
+eththa-ndveu with that end in view
 ethth with the
 
 # Page 91 Column 1
@@ -537,8 +537,8 @@ eththskp with this company
 eththsfem with this firm
 eththsmat with this matter
 ethths( with those
-ethus with us
-ethot with what
+eth-us with us
+eth(ot with what
 ethch with which
 ethchts with which it is
 ethchtsnt with which it is not
@@ -553,10 +553,10 @@ dbgler would be glad to hear
 dbglrse would be glad to receive
 dbglse would be glad to see
 dbsh would be sure
-dv would have
+d-v would have
 dvb would have been
 dvba would have been able
-dvdn would have done
+d-vdn would have done
 dla would like
 d-n would not
 d-nb would not be
