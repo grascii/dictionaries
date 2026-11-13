@@ -1,8 +1,8 @@
 
-all: anniversary-core-qwertigraphy.zip anniversary-supplement-qwertigraphy.zip preanniversary.zip preanniversary-phrases.zip anniversary.zip
+all: anniversary-core-qwertigraphy.zip anniversary-supplement-qwertigraphy.zip preanniversary.zip preanniversary-phrases.zip anniversary.zip anniversary-phrases.zip
 
 clean:
-	rm -f anniversary-core-qwertigraphy.zip anniversary-supplement-qwertigraphy.zip preanniversary.zip preanniversary-phrases.zip anniversary.zip
+	rm -f anniversary-core-qwertigraphy.zip anniversary-supplement-qwertigraphy.zip preanniversary.zip preanniversary-phrases.zip anniversary.zip anniversary-phrases.zip
 
 .PHONY: all clean
 
@@ -27,3 +27,7 @@ preanniversary-phrases.zip: builtins/preanniversary-phrases/*.txt
 anniversary.zip: builtins/anniversary/*.txt
 	grascii dictionary build builtins/anniversary/*.txt --output anniversary
 	zip -rmT anniversary.zip anniversary
+
+anniversary-phrases.zip: builtins/anniversary-phrases/*.txt
+	grascii dictionary build builtins/anniversary-phrases/*.txt --output anniversary-phrases
+	zip -rmT anniversary-phrases.zip anniversary-phrases
