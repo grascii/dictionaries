@@ -78,7 +78,7 @@ uekdb we could be
 uekd-v we could have
 uekd-vb we could have been
 uekd-nv we could not have
-uedsi^t we decide
+uedsi^t we decided
 uede-r we declare
 uedni we deny
 ueds we desire
