@@ -788,7 +788,7 @@ es^sv	exclusive
 e^d	include
 e^dd	included
 eskmu	excommunicate
-eskora^'t	excoriate
+eskora&'t	excoriate
 eskresns	excrescence
 eskrsha&'t	excruciate
 esklpat	exculpate
@@ -873,8 +873,8 @@ espansb	expansible
 espansh	expansion
 espansv	expansive
 espasha&'t	expatiate
-espasha^'td	expatiated
-espasha^'sh	expatiation
+espasha&'td	expatiated
+espasha&'sh	expatiation
 esptra&'t	expatriate
 esp	expect
 espnse	expectancy

@@ -273,10 +273,10 @@ leprus	leprous
 lesh	lesion
 les	less
 les(t	least
-les(n	lessen
+lesn	lessen
 lesnd	lessened
 leser	lesser
-les(n	lesson
+lesn	lesson
 le	let
 lethl	lethal
 lethje	lethargy
@@ -412,7 +412,7 @@ alan	align
 lenj	lineage
 lenl	lineal
 lenam	lineament
-lena&e~	linear
+lena&'~	linear
 land	lined
 lan-man	lineman
 lane~	liner
