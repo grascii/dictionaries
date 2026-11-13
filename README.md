@@ -81,6 +81,14 @@ nearly 18000 unique entries.
 
 Included with `grascii` 0.9.0+
 
+#### `anniversary-phrases`
+
+This dictionary is based on the 1930 *Gregg Shorthand Phrase Book* and contains
+over 3000 phrases according to the anniversary version of the Gregg Shorthand
+system.
+
+Included with `grascii` 0.11.0+
+
 ### Additional Dictionaries
 
 These dictionaries are not shipped with `grascii` and are available as optional
